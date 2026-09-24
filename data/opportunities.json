@@ -1,0 +1,47 @@
+[
+  {
+    "type": "job",
+    "title": "Marketing / Content opportunities",
+    "company": "Search current openings",
+    "location": "India",
+    "mode": "Various",
+    "url": "https://www.linkedin.com/jobs/search/?keywords=marketing%20content&location=India",
+    "date": "Starter feed"
+  },
+  {
+    "type": "job",
+    "title": "Creative & advertising opportunities",
+    "company": "Search current openings",
+    "location": "Kolkata",
+    "mode": "Various",
+    "url": "https://www.linkedin.com/jobs/search/?keywords=creative%20advertising&location=Kolkata",
+    "date": "Starter feed"
+  },
+  {
+    "type": "internship",
+    "title": "Marketing internships",
+    "company": "Search current openings",
+    "location": "India",
+    "mode": "Various",
+    "url": "https://www.linkedin.com/jobs/search/?keywords=marketing%20internship&location=India",
+    "date": "Starter feed"
+  },
+  {
+    "type": "freelance",
+    "title": "Freelance marketing projects",
+    "company": "Search current projects",
+    "location": "India",
+    "mode": "Remote",
+    "url": "https://www.upwork.com/freelance-jobs/marketing/",
+    "date": "Starter feed"
+  },
+  {
+    "type": "creator",
+    "title": "Creator & influencer opportunities",
+    "company": "Search current opportunities",
+    "location": "India",
+    "mode": "Various",
+    "url": "https://www.linkedin.com/jobs/search/?keywords=creator%20influencer&location=India",
+    "date": "Starter feed"
+  }
+]
