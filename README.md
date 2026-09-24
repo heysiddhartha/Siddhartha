@@ -26,3 +26,7 @@ Enable GitHub Pages using GitHub Actions in repository settings. The included wo
 4. Add qualified lead/referral partnerships where permitted.
 5. Keep the core feed free.
 
+
+
+## Automated feed
+The refresh workflow runs every 6 hours and pulls a public Remote OK JSON feed, filters it for marketing/content/social/creator/media/sales/operations/design roles, normalises the records, removes duplicate URLs and commits the refreshed JSON. Remote OK documents its public JSON/RSS feeds as free and asks aggregators to credit and link to the original listing.
