@@ -1,0 +1,51 @@
+name: Refresh Radar Feed
+on:
+  schedule:
+    - cron: "17 */6 * * *"
+  workflow_dispatch:
+permissions:
+  contents: write
+jobs:
+  refresh:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+      - name: Fetch public feeds
+        shell: python
+        run: |
+          import json, urllib.request, datetime, re
+          urls=[
+            "https://remoteok.com/api",
+          ]
+          out=[]
+          for u in urls:
+            req=urllib.request.Request(u,headers={"User-Agent":"Radar/1.0"})
+            with urllib.request.urlopen(req,timeout=30) as r:
+              data=json.load(r)
+            for x in data:
+              if not isinstance(x,dict) or not x.get("position") or not x.get("url"): continue
+              tags=" ".join(x.get("tags") or [])
+              text=(x.get("position","")+" "+tags+" "+x.get("description","")).lower()
+              if not any(k in text for k in ["marketing","content","social","creator","media","sales","business development","operations","design","copy","brand"]): continue
+              out.append({
+                "type":"job",
+                "title":re.sub(r"\s+"," ",x["position"]).strip(),
+                "company":x.get("company") or "Unknown company",
+                "location":x.get("location") or "Remote",
+                "mode":"Remote",
+                "url":x["url"],
+                "date":datetime.datetime.fromtimestamp((x.get("epoch") or 0),datetime.timezone.utc).strftime("%Y-%m-%d") if x.get("epoch") else ""
+              })
+          seen=set(); clean=[]
+          for x in out:
+            if x["url"] in seen: continue
+            seen.add(x["url"]); clean.append(x)
+          clean=clean[:100]
+          with open("data/opportunities.json","w",encoding="utf-8") as f: json.dump(clean,f,ensure_ascii=False,indent=2)
+      - name: Commit refreshed feed
+        run: |
+          git config user.name "Radar Bot"
+          git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
+          git add data/opportunities.json
+          git diff --cached --quiet || git commit -m "Refresh opportunity feed"
+          git push
