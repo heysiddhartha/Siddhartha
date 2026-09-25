@@ -1566,6 +1566,31 @@
   },
   {
     "type": "job",
+    "title": "Manager, Implementation",
+    "company": "Dutchie",
+    "location": "USA",
+    "location_key": "remote",
+    "mode": "Remote",
+    "url": "https://jobicy.com/jobs/153940-manager-implementation",
+    "source": "Jobicy",
+    "categories": [
+      "marketing",
+      "social",
+      "sales",
+      "operations"
+    ],
+    "posted_at": "2026-09-23T12:33:11+00:00",
+    "salary": "98000–115000 USD / yearly",
+    "stipend": "",
+    "experience": "fresher",
+    "score": 53,
+    "reasons": [
+      "Marketing match",
+      "Fresher-friendly signal"
+    ]
+  },
+  {
+    "type": "job",
     "title": "Senior Shopify Developer",
     "company": "Sanctuary Computer",
     "location": "Remote",
@@ -2153,30 +2178,6 @@
     "reasons": [
       "Marketing match",
       "Remote"
-    ]
-  },
-  {
-    "type": "job",
-    "title": "Lead Creative Producer",
-    "company": "Ruby Labs",
-    "location": "Europe,  Türkiye",
-    "location_key": "remote",
-    "mode": "Remote",
-    "url": "https://jobicy.com/jobs/151441-lead-creative-producer",
-    "source": "Jobicy",
-    "categories": [
-      "marketing",
-      "content",
-      "design"
-    ],
-    "posted_at": "2026-09-25T04:15:12+00:00",
-    "salary": "",
-    "stipend": "",
-    "experience": "fresher",
-    "score": 43,
-    "reasons": [
-      "Marketing match",
-      "Fresher-friendly signal"
     ]
   },
   {
@@ -3526,29 +3527,6 @@
     "reasons": [
       "Content match",
       "Remote"
-    ]
-  },
-  {
-    "type": "job",
-    "title": "Senior Software Engineer - Next-Gen",
-    "company": "NetDocuments",
-    "location": "USA",
-    "location_key": "remote",
-    "mode": "Remote",
-    "url": "https://jobicy.com/jobs/151575-senior-software-engineer-next-gen",
-    "source": "Jobicy",
-    "categories": [
-      "social",
-      "design"
-    ],
-    "posted_at": "2026-09-25T04:20:21+00:00",
-    "salary": "140000–155000 USD / yearly",
-    "stipend": "",
-    "experience": "fresher",
-    "score": 33,
-    "reasons": [
-      "Social match",
-      "Fresher-friendly signal"
     ]
   },
   {
@@ -5289,6 +5267,28 @@
     "reasons": [
       "Marketing match",
       "Remote"
+    ]
+  },
+  {
+    "type": "job",
+    "title": "Senior Machine Learning Engineer, Ads - Quora",
+    "company": "Quora",
+    "location": "Canada,  Ireland,  USA",
+    "location_key": "remote",
+    "mode": "Remote",
+    "url": "https://jobicy.com/jobs/153939-senior-machine-learning-engineer-ads-quora",
+    "source": "Jobicy",
+    "categories": [
+      "design"
+    ],
+    "posted_at": "2026-09-23T12:33:11+00:00",
+    "salary": "189507–274604 USD / yearly",
+    "stipend": "",
+    "experience": "fresher",
+    "score": 23,
+    "reasons": [
+      "Design match",
+      "Fresher-friendly signal"
     ]
   },
   {
