@@ -10,104 +10,12 @@ jobs:
     runs-on: ubuntu-latest
     steps:
       - uses: actions/checkout@v4
-      - name: Fetch and rank public opportunity feeds
-        shell: python
-        run: |
-          import json, urllib.request, datetime, re
-          from xml.etree import ElementTree as ET
-
-          KEYWORDS = {
-            "marketing": ["marketing","growth","brand","digital marketing","performance marketing"],
-            "content": ["content","editorial","content strategist","content marketing"],
-            "social": ["social media","community","instagram","tiktok","linkedin"],
-            "creator": ["creator","influencer","influencer marketing","creator partnerships"],
-            "sales": ["sales","business development","account executive","partnerships"],
-            "operations": ["operations","project manager","program manager"],
-            "design": ["designer","design","creative","art director","video editor","motion"],
-          }
-
-          def fetch_json(url):
-            req=urllib.request.Request(url,headers={"User-Agent":"Radar/1.0"})
-            with urllib.request.urlopen(req,timeout=30) as r: return json.load(r)
-
-          def classify(text):
-            t=text.lower()
-            hits=[k for k,words in KEYWORDS.items() if any(w in t for w in words)]
-            return hits
-
-          jobs=[]
-          # Remote OK public JSON feed; aggregator attribution is retained via source.
-          try:
-            data=fetch_json("https://remoteok.com/api")
-            for x in data:
-              if not isinstance(x,dict) or not x.get("position") or not x.get("url"): continue
-              text=" ".join([x.get("position",""),x.get("description","")," ".join(x.get("tags") or [])])
-              cats=classify(text)
-              if not cats: continue
-              jobs.append({
-                "type":"job","title":re.sub(r"\\s+"," ",x["position"]).strip(),
-                "company":x.get("company") or "Unknown company",
-                "location":x.get("location") or "Remote","mode":"Remote",
-                "url":x["url"],"source":"Remote OK","categories":cats,
-                "date":datetime.datetime.fromtimestamp((x.get("epoch") or 0),datetime.timezone.utc).strftime("%Y-%m-%d") if x.get("epoch") else ""
-              })
-          except Exception as e: print("Remote OK:",e)
-
-          # Jobicy public API; no authentication required.
-          try:
-            data=fetch_json("https://jobicy.com/api/v2/remote-jobs?count=200")
-            for x in data.get("jobs",[]):
-              text=" ".join([x.get("jobTitle","")," ".join(x.get("jobIndustry") or []),x.get("jobDescription","")])
-              cats=classify(text)
-              if not cats: continue
-              jobs.append({
-                "type":"job","title":x.get("jobTitle","").strip(),
-                "company":x.get("companyName") or "Unknown company",
-                "location":x.get("jobGeo") or "Remote","location_key":("remote" if "remote" in (x.get("jobGeo") or "").lower() else "india" if "india" in (x.get("jobGeo") or "").lower() else "other"),"mode":"Remote",
-                "url":x.get("url"),"source":"Jobicy","categories":cats,
-                "date":(x.get("pubDate") or "")[:10],"posted_at":x.get("pubDate") or "","salary":((str(x.get("salaryMin") or "")+"–"+str(x.get("salaryMax") or "")+" "+str(x.get("salaryCurrency") or "")+" / "+str(x.get("salaryPeriod") or "")).strip(" –/") if x.get("salaryMin") or x.get("salaryMax") else ""),"experience":("fresher" if str(x.get("jobLevel","")).lower() in ["entry","junior","intern"] else "junior" if "junior" in str(x.get("jobLevel","")).lower() else "mid" if any(k in str(x.get("jobLevel","")).lower() for k in ["senior","lead","manager"]) else "unknown")
-              })
-          except Exception as e: print("Jobicy:",e)
-
-          # Himalayas public JSON API. One request per refresh; filter locally.
-          try:
-            data=fetch_json("https://himalayas.app/jobs/api?limit=20")
-            for x in data.get("jobs",[]):
-              text=" ".join([x.get("title",""),x.get("description","")," ".join(x.get("categories") or [])])
-              cats=classify(text)
-              if not cats: continue
-              jobs.append({
-                "type":"job","title":x.get("title","").strip(),
-                "company":x.get("companyName") or "Unknown company",
-                "location":x.get("location") or "Remote","mode":"Remote",
-                "url":x.get("url") or x.get("applicationUrl"),"source":"Himalayas","categories":cats,
-                "date":(x.get("pubDate") or x.get("publishedAt") or "")[:10]
-              })
-          except Exception as e: print("Himalayas:",e)
-
-          # Score relevance for the target audience.
-          def score(x):
-            s=len(x.get("categories",[]))*10
-            title=x["title"].lower()
-            if any(k in title for k in ["manager","strategist","specialist","coordinator","associate"]): s+=8
-            if any(k in title for k in ["intern","junior","entry","assistant"]): s+=6
-            if "india" in (x.get("location") or "").lower(): s+=5
-            if "remote" in (x.get("mode") or "").lower(): s+=2
-            return s
-          jobs.sort(key=score,reverse=True)
-
-          seen=set(); clean=[]
-          for x in jobs:
-            key=(x.get("url") or "").strip()
-            if not key or key in seen: continue
-            seen.add(key); clean.append(x)
-          # Drop stale remote listings when the source provides a publication date.\n          now=datetime.datetime.now(datetime.timezone.utc)\n          fresh=[]\n          for x in clean:\n            raw=x.get("posted_at") or x.get("date") or ""\n            try:\n              dt=datetime.datetime.fromisoformat(raw.replace("Z","+00:00"))\n              if (now-dt).days <= 45: fresh.append(x)\n            except Exception:\n              fresh.append(x)\n          clean=fresh[:250]
-          with open("data/opportunities.json","w",encoding="utf-8") as f:
-            json.dump(clean,f,ensure_ascii=False,indent=2)
-      - name: Build RSS feed\n        shell: python\n        run: |\n          import json, html\n          data=json.load(open("data/opportunities.json",encoding="utf-8"))[:50]\n          out=['<?xml version="1.0" encoding="UTF-8"?>','<rss version="2.0"><channel><title>RADAR — India Opportunities</title><link>https://heysiddhartha.github.io/Siddhartha/</link><description>Fresh jobs, internships, freelance and creator opportunities.</description>']\n          for x in data:\n            title=html.escape(x.get("title",""))\n            link=html.escape(x.get("url",""))\n            desc=html.escape((x.get("company","")+" · "+x.get("location","")).strip())\n            out.append(f'<item><title>{title}</title><link>{link}</link><guid>{link}</guid><description>{desc}</description></item>')\n          out.append('</channel></rss>')\n          open("feed.xml","w",encoding="utf-8").write("\\n".join(out))\n      - name: Commit refreshed feed
+      - name: Refresh opportunity database
+        run: python scripts/refresh.py
+      - name: Commit refreshed database
         run: |
           git config user.name "Radar Bot"
           git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
-          git add data/opportunities.json
-          git diff --cached --quiet || git commit -m "Refresh and rank opportunity feed"
+          git add data/opportunities.json feed.xml
+          git diff --cached --quiet || git commit -m "Refresh RADAR opportunity database"
           git push
