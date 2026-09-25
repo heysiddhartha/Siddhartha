@@ -65,7 +65,7 @@ jobs:
                 "company":x.get("companyName") or "Unknown company",
                 "location":x.get("jobGeo") or "Remote","location_key":("remote" if "remote" in (x.get("jobGeo") or "").lower() else "india" if "india" in (x.get("jobGeo") or "").lower() else "other"),"mode":"Remote",
                 "url":x.get("url"),"source":"Jobicy","categories":cats,
-                "date":(x.get("pubDate") or "")[:10],"posted_at":x.get("pubDate") or "","salary":(str(x.get("salaryMin"))+"–"+str(x.get("salaryMax"))+" "+str(x.get("salaryCurrency")) if x.get("salaryMin") or x.get("salaryMax") else ""),"experience":("fresher" if str(x.get("jobLevel","")).lower() in ["entry","junior","intern"] else "junior" if "junior" in str(x.get("jobLevel","")).lower() else "mid" if any(k in str(x.get("jobLevel","")).lower() for k in ["senior","lead","manager"]) else "unknown")
+                "date":(x.get("pubDate") or "")[:10],"posted_at":x.get("pubDate") or "","salary":((str(x.get("salaryMin") or "")+"–"+str(x.get("salaryMax") or "")+" "+str(x.get("salaryCurrency") or "")+" / "+str(x.get("salaryPeriod") or "")).strip(" –/") if x.get("salaryMin") or x.get("salaryMax") else ""),"experience":("fresher" if str(x.get("jobLevel","")).lower() in ["entry","junior","intern"] else "junior" if "junior" in str(x.get("jobLevel","")).lower() else "mid" if any(k in str(x.get("jobLevel","")).lower() for k in ["senior","lead","manager"]) else "unknown")
               })
           except Exception as e: print("Jobicy:",e)
 
