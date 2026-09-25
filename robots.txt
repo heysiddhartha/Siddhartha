@@ -1,0 +1,3 @@
+User-agent: *
+Allow: /
+Sitemap: https://heysiddhartha.github.io/Siddhartha/sitemap.xml
