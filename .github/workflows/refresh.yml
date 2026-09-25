@@ -101,7 +101,7 @@ jobs:
             key=(x.get("url") or "").strip()
             if not key or key in seen: continue
             seen.add(key); clean.append(x)
-          clean=clean[:150]
+          # Drop stale remote listings when the source provides a publication date.\n          now=datetime.datetime.now(datetime.timezone.utc)\n          fresh=[]\n          for x in clean:\n            raw=x.get("posted_at") or x.get("date") or ""\n            try:\n              dt=datetime.datetime.fromisoformat(raw.replace("Z","+00:00"))\n              if (now-dt).days <= 45: fresh.append(x)\n            except Exception:\n              fresh.append(x)\n          clean=fresh[:250]
           with open("data/opportunities.json","w",encoding="utf-8") as f:
             json.dump(clean,f,ensure_ascii=False,indent=2)
       - name: Build RSS feed\n        shell: python\n        run: |\n          import json, html\n          data=json.load(open("data/opportunities.json",encoding="utf-8"))[:50]\n          out=['<?xml version="1.0" encoding="UTF-8"?>','<rss version="2.0"><channel><title>RADAR — India Opportunities</title><link>https://heysiddhartha.github.io/Siddhartha/</link><description>Fresh jobs, internships, freelance and creator opportunities.</description>']\n          for x in data:\n            title=html.escape(x.get("title",""))\n            link=html.escape(x.get("url",""))\n            desc=html.escape((x.get("company","")+" · "+x.get("location","")).strip())\n            out.append(f'<item><title>{title}</title><link>{link}</link><guid>{link}</guid><description>{desc}</description></item>')\n          out.append('</channel></rss>')\n          open("feed.xml","w",encoding="utf-8").write("\\n".join(out))\n      - name: Commit refreshed feed
