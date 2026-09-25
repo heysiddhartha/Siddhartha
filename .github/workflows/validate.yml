@@ -1,0 +1,17 @@
+name: Validate RADAR
+on:
+  push:
+    branches: [main]
+  pull_request:
+    branches: [main]
+jobs:
+  validate:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+      - name: Validate JavaScript
+        run: node --check app.js
+      - name: Validate refresh engine
+        run: python -m py_compile scripts/refresh.py
+      - name: Validate JSON
+        run: python -m json.tool data/opportunities.json >/dev/null
