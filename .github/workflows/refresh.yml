@@ -104,7 +104,7 @@ jobs:
           clean=clean[:150]
           with open("data/opportunities.json","w",encoding="utf-8") as f:
             json.dump(clean,f,ensure_ascii=False,indent=2)
-      - name: Commit refreshed feed
+      - name: Build RSS feed\n        shell: python\n        run: |\n          import json, html\n          data=json.load(open("data/opportunities.json",encoding="utf-8"))[:50]\n          out=['<?xml version="1.0" encoding="UTF-8"?>','<rss version="2.0"><channel><title>RADAR — India Opportunities</title><link>https://heysiddhartha.github.io/Siddhartha/</link><description>Fresh jobs, internships, freelance and creator opportunities.</description>']\n          for x in data:\n            title=html.escape(x.get("title",""))\n            link=html.escape(x.get("url",""))\n            desc=html.escape((x.get("company","")+" · "+x.get("location","")).strip())\n            out.append(f'<item><title>{title}</title><link>{link}</link><guid>{link}</guid><description>{desc}</description></item>')\n          out.append('</channel></rss>')\n          open("feed.xml","w",encoding="utf-8").write("\\n".join(out))\n      - name: Commit refreshed feed
         run: |
           git config user.name "Radar Bot"
           git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
