@@ -31,6 +31,7 @@ jobs:
         run: |
           mkdir -p dist/sales-dashboard
           cp sales-dashboard/index.html dist/sales-dashboard/index.html
+          cp sales-dashboard/mail-status.json dist/sales-dashboard/mail-status.json
       - name: Setup Pages
         uses: actions/configure-pages@v5
       - name: Upload artifact
