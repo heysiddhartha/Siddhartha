@@ -143,7 +143,7 @@ def jobvetta():
 
 def yubhub():
     # Public YubHub search endpoint; no key required for the read-only data API.
-    queries=["marketing","content","social media","sales","business development","operations","design","communications","creator"]
+    queries=["India","Kolkata","Mumbai","Bengaluru","Bangalore","Delhi","Hyderabad","Chennai","Pune","marketing","content","social media","sales","business development","operations","design","communications","creator"]
     seen=set()
     for q in queries:
         url="https://api.yubhub.co/search?"+urllib.parse.urlencode({"q":q,"page":1,"perPage":100})
