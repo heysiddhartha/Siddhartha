@@ -28,3 +28,4 @@ jobs:
       - name: Deploy
         id: deployment
         uses: actions/deploy-pages@v4
+      # RADAR: Pages source enabled; trigger deployment after enabling Pages.
