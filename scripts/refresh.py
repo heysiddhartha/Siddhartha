@@ -90,7 +90,7 @@ def himalayas():
     queries=["marketing","content","social media","sales","operations","design","business development","creator"]
     seen=set()
     for q in queries:
-        url="https://himalayas.app/jobs/api/search?"+urllib.parse.urlencode({"q":q,"country":"India","sort":"recent","page":1})
+        url="https://himalayas.app/jobs/api/search?"+urllib.parse.urlencode({"q":q,"country":"IN","exclude_worldwide":"true","sort":"recent","page":1})
         for x in fetch(url).get("jobs",[]):
             key=x.get("guid") or x.get("applicationLink")
             if key in seen: continue
@@ -103,7 +103,7 @@ def himalayas():
                     if code=="IN": names.append("India")
                     elif v.get("name"): names.append(str(v.get("name")))
                 elif v: names.append(str(v))
-            location=", ".join(names) or "India / Remote"
+            location="India"
             category_data=" ".join(map(str,x.get("category") or []))
             parent_data=" ".join(map(str,x.get("parentCategories") or []))
             text=" ".join([x.get("title",""),x.get("excerpt",""),x.get("description",""),category_data,parent_data])
