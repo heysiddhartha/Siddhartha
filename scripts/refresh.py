@@ -34,13 +34,13 @@ def experience(title,text=""):
     if any(w in t for w in ["senior","lead","manager","3+ year","3-5 year","5+ year"]): return "mid"
     return "unknown"
 
-def add(rows,typ,title,company,location,mode,url,source,posted="",salary="",stipend="",text=""):
+def add(rows,typ,title,company,location,mode,url,source,posted="",salary="",stipend="",text="",employment_type="",applicants=None,industry="",function=""):
     if not title or not url: return
     categories=cats(title)
     if not categories:
         categories=cats(" ".join(re.findall(r"\b(?:growth|brand|digital|performance|community|partnerships)\b", text.lower())))
     if not categories: return
-    x={"type":typ,"title":re.sub(r"\s+"," ",title).strip(),"company":company or "Unknown company","location":location or "India","location_key":location_key(location or "India",mode),"mode":mode or "See listing","url":url,"source":source,"categories":categories,"posted_at":posted or "","salary":salary or "","stipend":stipend or ""}
+    x={"type":typ,"title":re.sub(r"\s+"," ",title).strip(),"company":company or "Unknown company","location":location or "India","location_key":location_key(location or "India",mode),"mode":mode or "See listing","url":url,"source":source,"categories":categories,"posted_at":posted or "","salary":salary or "","stipend":stipend or "","employment_type":employment_type or "","applicants":applicants,"industry":industry or "","function":function or ""}
     x["experience"]=experience(title,text)
     s=len(categories)*10
     if x["experience"]=="fresher": s+=10
@@ -71,7 +71,7 @@ def remoteok():
             text=" ".join([x.get("position",""),x.get("description","")," ".join(x.get("tags") or [])])
             epoch=x.get("epoch")
             posted=datetime.datetime.fromtimestamp(epoch,datetime.timezone.utc).isoformat() if epoch else ""
-            add(rows,"job",x["position"],x.get("company"),x.get("location") or "Remote","Remote",x["url"],"Remote OK",posted,text=text)
+            add(rows,"job",x["position"],x.get("company"),x.get("location") or "Remote","Remote",x["url"],"Remote OK",posted,text=text,employment_type=x.get("type") or "")
 
 def jobicy():
     for x in fetch("https://jobicy.com/api/v2/remote-jobs?count=200").get("jobs",[]):
@@ -81,7 +81,7 @@ def jobicy():
             salary=f'{x.get("salaryMin") or ""}–{x.get("salaryMax") or ""} {x.get("salaryCurrency") or ""} / {x.get("salaryPeriod") or ""}'.strip(" –/")
         geo=x.get("jobGeo") or "Remote"
         mode="Remote" if "remote" in str(geo).lower() else "See listing"
-        add(rows,"job",x.get("jobTitle",""),x.get("companyName"),geo,mode,x.get("url"),"Jobicy",x.get("pubDate",""),salary,text=text)
+        add(rows,"job",x.get("jobTitle",""),x.get("companyName"),geo,mode,x.get("url"),"Jobicy",x.get("pubDate",""),salary,text=text,employment_type=x.get("jobType") or x.get("jobTypeText") or "")
 
 def himalayas():
     queries=["marketing","content","social media","sales","operations","design"]
@@ -101,7 +101,7 @@ def himalayas():
             pub=x.get("pubDate")
             if isinstance(pub,(int,float)):
                 pub=datetime.datetime.fromtimestamp(pub/1000,datetime.timezone.utc).isoformat()
-            add(rows,"job",x.get("title",""),x.get("companyName"),location,"Remote",x.get("applicationLink") or x.get("guid"),"Himalayas",str(pub or ""),salary,text=text)
+            add(rows,"job",x.get("title",""),x.get("companyName"),location,"Remote",x.get("applicationLink") or x.get("guid"),"Himalayas",str(pub or ""),salary,text=text,employment_type=x.get("employmentType") or x.get("jobType") or "")
 
 def hopin():
     for endpoint,typ in [("https://api.hopinjobs.com/api/jobs","job"),("https://api.hopinjobs.com/api/internships","internship")]:
@@ -112,7 +112,7 @@ def hopin():
             text=" ".join(str(x.get(k,"")) for k in ["title","description","industry","role_type","job_type"])
             url=x.get("url") or x.get("application_url") or x.get("apply_url")
             mode="Remote" if x.get("remote") else x.get("job_type") or ""
-            add(rows,typ,title,x.get("company_name") or x.get("company"),x.get("location") or x.get("city") or "India",mode,url,"Hopin",x.get("posted_at") or "",str(x.get("ctc_amount") or ""),str(x.get("stipend") or ""),text)
+            add(rows,typ,title,x.get("company_name") or x.get("company"),x.get("location") or x.get("city") or "India",mode,url,"Hopin",x.get("posted_at") or "",str(x.get("ctc_amount") or ""),str(x.get("stipend") or ""),text,employment_type=x.get("employment_type") or x.get("job_type") or "")
 
 def jobvetta():
     import os
@@ -138,7 +138,46 @@ def jobvetta():
             if x.get("salary_min") or x.get("salary_max"):
                 salary=f'{x.get("salary_min") or ""}–{x.get("salary_max") or ""} {x.get("salary_currency") or ""}'.strip(" –")
             text=" ".join([x.get("title",""),x.get("description","")," ".join(x.get("skills_required") or [])])
-            add(rows,"job",x.get("title",""),x.get("company"),loc,x.get("work_model") or "",x.get("url"),"Jobvetta",posted,salary,text=text)
+            add(rows,"job",x.get("title",""),x.get("company"),loc,x.get("work_model") or "",x.get("url"),"Jobvetta",posted,salary,text=text,employment_type=x.get("employment_type") or "",industry=x.get("industry") or "")
+
+
+def yubhub():
+    # Public facet feeds; no key required. Keep YubHub attribution in source metadata.
+    facets=["marketing","sales","operations","design","business-development","communications","media"]
+    seen=set()
+    for facet in facets:
+        url="https://feeds.yubhub.co/facet/category/"+facet+".json"
+        data=fetch(url)
+        records=data.get("jobs",data if isinstance(data,list) else [])
+        for x in records:
+            title=x.get("title") or x.get("name") or ""
+            org=x.get("hiringOrganization") or x.get("hiring_organization") or x.get("company") or {}
+            company=org.get("name","") if isinstance(org,dict) else str(org)
+            loc=x.get("jobLocation") or x.get("job_location") or x.get("location") or ""
+            if isinstance(loc,list):
+                vals=[]
+                for v in loc:
+                    if isinstance(v,dict):
+                        a=v.get("address") or {}
+                        vals.append(a.get("addressLocality") or a.get("addressRegion") or a.get("addressCountry") or "")
+                    else: vals.append(str(v))
+                loc=", ".join([v for v in vals if v])
+            elif isinstance(loc,dict):
+                a=loc.get("address") or {}
+                loc=", ".join([str(a.get(k)) for k in ["addressLocality","addressRegion","addressCountry"] if a.get(k)])
+            urlx=x.get("url") or x.get("directApplyUrl") or x.get("application_url") or ""
+            if not title or not urlx or urlx in seen: continue
+            seen.add(urlx)
+            posted=x.get("datePosted") or x.get("date_posted") or ""
+            salary=""
+            bs=x.get("baseSalary") or x.get("base_salary") or {}
+            if isinstance(bs,dict):
+                val=bs.get("value") or {}
+                if isinstance(val,dict) and (val.get("minValue") or val.get("maxValue")):
+                    salary=f'{val.get("minValue") or ""}–{val.get("maxValue") or ""} {bs.get("currency") or ""}'.strip(" –")
+            mode=x.get("jobLocationType") or x.get("workArrangement") or x.get("work_arrangement") or ""
+            textblob=" ".join([title,str(x.get("description") or ""),facet,str(x.get("skills") or "")])
+            add(rows,"job",title,company,loc or "India",mode,urlx,"YubHub",posted,salary,text=textblob,employment_type=x.get("employmentType") or x.get("employment_type") or "",industry=x.get("industry") or "",function=facet)
 
 def jobisite_india():
     raw=urllib.request.urlopen(urllib.request.Request("https://ws.jobisite.com/cntryrss.jsp?country=India",headers={"User-Agent":"RADAR/1.1"}),timeout=25).read()
