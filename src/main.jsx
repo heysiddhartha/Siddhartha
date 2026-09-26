@@ -37,7 +37,7 @@ function App(){
    if(role!=="all"&&!cats.includes(role))return false;
    const ls=((x.location_key||"")+" "+(x.location||"")).toLowerCase();
    if(loc==="india"&&!/india|kolkata|bengaluru|bangalore|mumbai|delhi|gurgaon|gurugram|noida|hyderabad|chennai|pune|kerala/.test(ls))return false;
-   if(loc!=="all"&&loc!=="india"&&!ls.includes(loc==="delhi"?"delhi":loc))return false;\n   if(state!=="all"&&String(x.state_key||"").toLowerCase()!==state)return false;
+   if(loc!=="all"&&loc!=="india"&&!ls.includes(loc==="delhi"?"delhi":loc))return false;\n   if(state!=="all"&&getState(x)!==state)return false;
    if(posted!=="all"&&age(x)>Number(posted))return false;
    if(company&&!String(x.company||"").toLowerCase().includes(company.toLowerCase()))return false;
    if(!expMatch(x,exp))return false;
