@@ -94,7 +94,7 @@ function App(){
         <Filter title="Salary minimum"><input className="field" type="number" min="0" value={salary} onChange={e=>setSalary(e.target.value)} placeholder="e.g. 30000"/></Filter>
         <div className="toggles"><Toggle label="Easy Apply" value={easy} set={setEasy}/><Toggle label="LinkedIn Apply" value={linkedin} set={setLinkedin}/><Toggle label="In my network" value={network} set={setNetwork}/><Toggle label="Under 10 applicants" value={under10} set={setUnder10}/></div>
         <p className="coverage-note">These LinkedIn-style filters are wired to source metadata when that metadata exists. RADAR never invents applicant counts, network status, or LinkedIn application status.</p>
-      </motion.div></AnimatePresence>}
+      </motion.div>}</AnimatePresence>
       <div className="filter-foot"><b>{indiaCount}</b><span>India signals currently indexed</span></div>
     </aside>
 
