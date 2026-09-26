@@ -36,7 +36,9 @@ def experience(title,text=""):
 
 def add(rows,typ,title,company,location,mode,url,source,posted="",salary="",stipend="",text=""):
     if not title or not url: return
-    categories=cats(f"{title} {text}")
+    categories=cats(title)
+    if not categories:
+        categories=cats(" ".join(re.findall(r"\\b(?:growth|brand|digital|performance|community|partnerships)\\b", text.lower())))
     if not categories: return
     x={"type":typ,"title":re.sub(r"\s+"," ",title).strip(),"company":company or "Unknown company","location":location or "India","location_key":location_key(location or "India",mode),"mode":mode or "See listing","url":url,"source":source,"categories":categories,"posted_at":posted or "","salary":salary or "","stipend":stipend or ""}
     x["experience"]=experience(title,text)
