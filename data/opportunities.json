@@ -1,23 +1,23 @@
 [
   {
     "type": "job",
-    "title": "Meta Creative Strategist — Performance Creative",
-    "company": "Oowlish Technology",
-    "location": "Brazil",
+    "title": "Associate Director, Paid Social",
+    "company": "Wpromote",
+    "location": "USA",
     "location_key": "remote",
     "mode": "Remote",
-    "url": "https://jobicy.com/jobs/151500-meta-creative-strategist-performance-creative",
+    "url": "https://jobicy.com/jobs/151672-associate-director-paid-social",
     "source": "Jobicy",
     "categories": [
       "marketing",
-      "content",
       "social",
       "creator",
       "sales",
+      "operations",
       "design"
     ],
-    "posted_at": "2026-09-24T04:40:21+00:00",
-    "salary": "",
+    "posted_at": "2026-09-26T10:52:35+00:00",
+    "salary": "100000–115000 USD / yearly",
     "stipend": "",
     "experience": "fresher",
     "score": 77,
@@ -82,26 +82,157 @@
   },
   {
     "type": "job",
-    "title": "AI GTM Program Manager",
-    "company": "Bloomreach",
-    "location": "Slovakia",
+    "title": "Director, Performance Creative Strategy",
+    "company": "Wpromote",
+    "location": "USA",
     "location_key": "remote",
     "mode": "Remote",
-    "url": "https://jobicy.com/jobs/151457-ai-gtm-program-manager",
+    "url": "https://jobicy.com/jobs/151688-director-performance-creative-strategy",
+    "source": "Jobicy",
+    "categories": [
+      "marketing",
+      "social",
+      "creator",
+      "sales",
+      "operations",
+      "design"
+    ],
+    "posted_at": "2026-09-26T11:05:24+00:00",
+    "salary": "120000–130000 USD / yearly",
+    "stipend": "",
+    "experience": "junior",
+    "score": 69,
+    "reasons": [
+      "Marketing match",
+      "Early-career signal"
+    ]
+  },
+  {
+    "type": "job",
+    "title": "Director, Paid Social",
+    "company": "Wpromote",
+    "location": "USA",
+    "location_key": "remote",
+    "mode": "Remote",
+    "url": "https://jobicy.com/jobs/151686-director-paid-social",
+    "source": "Jobicy",
+    "categories": [
+      "marketing",
+      "social",
+      "creator",
+      "sales",
+      "operations",
+      "design"
+    ],
+    "posted_at": "2026-09-26T11:05:23+00:00",
+    "salary": "120000–135000 USD / yearly",
+    "stipend": "",
+    "experience": "junior",
+    "score": 69,
+    "reasons": [
+      "Marketing match",
+      "Early-career signal"
+    ]
+  },
+  {
+    "type": "job",
+    "title": "Technical Sales Specialist - AEC (ANZ)",
+    "company": "Autodesk",
+    "location": "Australia,  New Zealand",
+    "location_key": "remote",
+    "mode": "Remote",
+    "url": "https://jobicy.com/jobs/147117-technical-sales-specialist-aec-anz",
     "source": "Jobicy",
     "categories": [
       "marketing",
       "content",
+      "sales",
+      "operations",
+      "design"
+    ],
+    "posted_at": "2026-09-26T11:15:10+00:00",
+    "salary": "",
+    "stipend": "",
+    "experience": "fresher",
+    "score": 67,
+    "reasons": [
+      "Marketing match",
+      "Fresher-friendly signal"
+    ]
+  },
+  {
+    "type": "job",
+    "title": "Director, AI Enablement & Security",
+    "company": "Bloomreach",
+    "location": "USA",
+    "location_key": "remote",
+    "mode": "Remote",
+    "url": "https://jobicy.com/jobs/151780-director-ai-enablement-security",
+    "source": "Jobicy",
+    "categories": [
+      "marketing",
+      "content",
+      "social",
+      "sales",
+      "design"
+    ],
+    "posted_at": "2026-09-26T11:10:11+00:00",
+    "salary": "200000–250000 USD / yearly",
+    "stipend": "",
+    "experience": "fresher",
+    "score": 63,
+    "reasons": [
+      "Marketing match",
+      "Fresher-friendly signal"
+    ]
+  },
+  {
+    "type": "job",
+    "title": "Demo Engineer",
+    "company": "Bloomreach",
+    "location": "Slovakia",
+    "location_key": "remote",
+    "mode": "Remote",
+    "url": "https://jobicy.com/jobs/151773-demo-engineer-2",
+    "source": "Jobicy",
+    "categories": [
+      "marketing",
+      "content",
+      "social",
+      "sales",
+      "design"
+    ],
+    "posted_at": "2026-09-26T11:05:20+00:00",
+    "salary": "42000–52000 EUR / yearly",
+    "stipend": "",
+    "experience": "fresher",
+    "score": 63,
+    "reasons": [
+      "Marketing match",
+      "Fresher-friendly signal"
+    ]
+  },
+  {
+    "type": "job",
+    "title": "Enterprise Account Executive",
+    "company": "Medely",
+    "location": "USA",
+    "location_key": "remote",
+    "mode": "Remote",
+    "url": "https://jobicy.com/jobs/151767-enterprise-account-executive-15",
+    "source": "Jobicy",
+    "categories": [
+      "marketing",
       "social",
       "sales",
       "operations",
       "design"
     ],
-    "posted_at": "2026-09-24T04:35:15+00:00",
-    "salary": "",
+    "posted_at": "2026-09-26T11:05:10+00:00",
+    "salary": "113000–125000 USD / yearly",
     "stipend": "",
     "experience": "fresher",
-    "score": 73,
+    "score": 63,
     "reasons": [
       "Marketing match",
       "Fresher-friendly signal"
@@ -109,25 +240,25 @@
   },
   {
     "type": "job",
-    "title": "Associate Director / Director, Data Strategy & Measurement",
-    "company": "Acceleration Partners",
-    "location": "UK",
+    "title": "Developer Advocate - Service Management",
+    "company": "Datadog",
+    "location": "USA",
     "location_key": "remote",
     "mode": "Remote",
-    "url": "https://jobicy.com/jobs/154007-associate-director-director-data-strategy-measurement",
+    "url": "https://jobicy.com/jobs/151723-developer-advocate-service-management",
     "source": "Jobicy",
     "categories": [
       "marketing",
       "content",
-      "creator",
-      "sales",
+      "social",
+      "operations",
       "design"
     ],
-    "posted_at": "2026-09-24T12:25:15+00:00",
-    "salary": "65000–85000 GBP / yearly",
+    "posted_at": "2026-09-26T11:00:37+00:00",
+    "salary": "160000–200000 USD / yearly",
     "stipend": "",
     "experience": "fresher",
-    "score": 67,
+    "score": 63,
     "reasons": [
       "Marketing match",
       "Fresher-friendly signal"
@@ -135,12 +266,12 @@
   },
   {
     "type": "job",
-    "title": "Associate Services Architect",
-    "company": "Tenable",
+    "title": "Instructor, AI/Machine Learning, Simplilearn (Part time)",
+    "company": "Fullstack Academy",
     "location": "USA",
     "location_key": "remote",
     "mode": "Remote",
-    "url": "https://jobicy.com/jobs/153962-associate-services-architect",
+    "url": "https://jobicy.com/jobs/151581-instructor-ai-machine-learning-simplilearn-part-time",
     "source": "Jobicy",
     "categories": [
       "marketing",
@@ -149,11 +280,118 @@
       "sales",
       "design"
     ],
-    "posted_at": "2026-09-23T15:18:08+00:00",
-    "salary": "65000–87000 USD / yearly",
+    "posted_at": "2026-09-26T11:00:09+00:00",
+    "salary": "100000–110000 USD / yearly",
     "stipend": "",
     "experience": "fresher",
-    "score": 67,
+    "score": 63,
+    "reasons": [
+      "Marketing match",
+      "Fresher-friendly signal"
+    ]
+  },
+  {
+    "type": "job",
+    "title": "Sales Director, DACH",
+    "company": "Sierra",
+    "location": "Germany",
+    "location_key": "remote",
+    "mode": "Remote",
+    "url": "https://jobicy.com/jobs/151676-sales-director-dach",
+    "source": "Jobicy",
+    "categories": [
+      "marketing",
+      "social",
+      "creator",
+      "sales",
+      "operations",
+      "design"
+    ],
+    "posted_at": "2026-09-26T10:52:29+00:00",
+    "salary": "210000–285000 EUR / yearly",
+    "stipend": "",
+    "experience": "mid",
+    "score": 63,
+    "reasons": [
+      "Marketing match",
+      "Remote"
+    ]
+  },
+  {
+    "type": "job",
+    "title": "Enterprise Sales Director",
+    "company": "Sierra",
+    "location": "USA",
+    "location_key": "remote",
+    "mode": "Remote",
+    "url": "https://jobicy.com/jobs/151682-enterprise-sales-director-4",
+    "source": "Jobicy",
+    "categories": [
+      "marketing",
+      "social",
+      "creator",
+      "sales",
+      "operations",
+      "design"
+    ],
+    "posted_at": "2026-09-26T10:52:28+00:00",
+    "salary": "240000–305000 USD / yearly",
+    "stipend": "",
+    "experience": "mid",
+    "score": 63,
+    "reasons": [
+      "Marketing match",
+      "Remote"
+    ]
+  },
+  {
+    "type": "job",
+    "title": "Enterprise Sales Director, Financial Services",
+    "company": "Sierra",
+    "location": "USA",
+    "location_key": "remote",
+    "mode": "Remote",
+    "url": "https://jobicy.com/jobs/151685-enterprise-sales-director-financial-services",
+    "source": "Jobicy",
+    "categories": [
+      "marketing",
+      "social",
+      "creator",
+      "sales",
+      "operations",
+      "design"
+    ],
+    "posted_at": "2026-09-26T10:52:12+00:00",
+    "salary": "260000–280000 USD / yearly",
+    "stipend": "",
+    "experience": "mid",
+    "score": 63,
+    "reasons": [
+      "Marketing match",
+      "Remote"
+    ]
+  },
+  {
+    "type": "job",
+    "title": "Senior Manager, Paid Social B2B",
+    "company": "Wpromote",
+    "location": "USA",
+    "location_key": "remote",
+    "mode": "Remote",
+    "url": "https://jobicy.com/jobs/149689-senior-manager-paid-social-b2b",
+    "source": "Jobicy",
+    "categories": [
+      "marketing",
+      "content",
+      "social",
+      "sales",
+      "design"
+    ],
+    "posted_at": "2026-09-26T09:58:37+00:00",
+    "salary": "84000–100000 USD / yearly",
+    "stipend": "",
+    "experience": "fresher",
+    "score": 63,
     "reasons": [
       "Marketing match",
       "Fresher-friendly signal"
@@ -473,188 +711,6 @@
   },
   {
     "type": "job",
-    "title": "Full-Stack Engineer",
-    "company": "Elevenlabs",
-    "location": "Bulgaria,  Germany,  Ireland,  Netherlands,  Poland,  Spain,  UK,  USA",
-    "location_key": "remote",
-    "mode": "Remote",
-    "url": "https://jobicy.com/jobs/154022-full-stack-engineer-2",
-    "source": "Jobicy",
-    "categories": [
-      "marketing",
-      "creator",
-      "sales",
-      "operations",
-      "design"
-    ],
-    "posted_at": "2026-09-24T12:27:01+00:00",
-    "salary": "",
-    "stipend": "",
-    "experience": "fresher",
-    "score": 63,
-    "reasons": [
-      "Marketing match",
-      "Fresher-friendly signal"
-    ]
-  },
-  {
-    "type": "job",
-    "title": "Enterprise Account Executive, New Business Development",
-    "company": "Acceleration Partners",
-    "location": "Germany,  UK,  USA",
-    "location_key": "remote",
-    "mode": "Remote",
-    "url": "https://jobicy.com/jobs/154013-enterprise-account-executive-new-business-development",
-    "source": "Jobicy",
-    "categories": [
-      "marketing",
-      "content",
-      "social",
-      "creator",
-      "sales"
-    ],
-    "posted_at": "2026-09-24T12:25:14+00:00",
-    "salary": "55000–60000 GBP / yearly",
-    "stipend": "",
-    "experience": "fresher",
-    "score": 63,
-    "reasons": [
-      "Marketing match",
-      "Fresher-friendly signal"
-    ]
-  },
-  {
-    "type": "job",
-    "title": "Sr. Member Engagement Manager, Lifecycle",
-    "company": "Carrot",
-    "location": "USA",
-    "location_key": "remote",
-    "mode": "Remote",
-    "url": "https://jobicy.com/jobs/154004-sr-member-engagement-manager-lifecycle",
-    "source": "Jobicy",
-    "categories": [
-      "marketing",
-      "content",
-      "sales",
-      "operations",
-      "design"
-    ],
-    "posted_at": "2026-09-24T11:38:28+00:00",
-    "salary": "125000–140000 USD / yearly",
-    "stipend": "",
-    "experience": "fresher",
-    "score": 63,
-    "reasons": [
-      "Marketing match",
-      "Fresher-friendly signal"
-    ]
-  },
-  {
-    "type": "job",
-    "title": "Sales Manager – Aviation, Middle East & Asia-Pacific",
-    "company": "Spire",
-    "location": "UK",
-    "location_key": "remote",
-    "mode": "Remote",
-    "url": "https://jobicy.com/jobs/153988-sales-manager-aviation-middle-east-asia-pacific",
-    "source": "Jobicy",
-    "categories": [
-      "marketing",
-      "social",
-      "sales",
-      "operations",
-      "design"
-    ],
-    "posted_at": "2026-09-24T11:35:33+00:00",
-    "salary": "",
-    "stipend": "",
-    "experience": "fresher",
-    "score": 63,
-    "reasons": [
-      "Marketing match",
-      "Fresher-friendly signal"
-    ]
-  },
-  {
-    "type": "job",
-    "title": "Manager of IT Security",
-    "company": "Lakeshore Learning Materials, LLC",
-    "location": "USA",
-    "location_key": "remote",
-    "mode": "Remote",
-    "url": "https://jobicy.com/jobs/149591-manager-of-it-security",
-    "source": "Jobicy",
-    "categories": [
-      "marketing",
-      "social",
-      "sales",
-      "operations",
-      "design"
-    ],
-    "posted_at": "2026-09-24T04:40:16+00:00",
-    "salary": "123000–185000 USD / yearly",
-    "stipend": "",
-    "experience": "fresher",
-    "score": 63,
-    "reasons": [
-      "Marketing match",
-      "Fresher-friendly signal"
-    ]
-  },
-  {
-    "type": "job",
-    "title": "Senior Performance Marketer (Full Remote - Worldwide)",
-    "company": "EverAI",
-    "location": "Anywhere",
-    "location_key": "remote",
-    "mode": "Remote",
-    "url": "https://jobicy.com/jobs/151456-senior-performance-marketer-full-remote-worldwide",
-    "source": "Jobicy",
-    "categories": [
-      "marketing",
-      "content",
-      "social",
-      "sales",
-      "design"
-    ],
-    "posted_at": "2026-09-24T04:35:07+00:00",
-    "salary": "65000–105000 EUR / yearly",
-    "stipend": "",
-    "experience": "fresher",
-    "score": 63,
-    "reasons": [
-      "Marketing match",
-      "Fresher-friendly signal"
-    ]
-  },
-  {
-    "type": "job",
-    "title": "Data Analyst - SQL / Databricks",
-    "company": "Tenable",
-    "location": "USA",
-    "location_key": "remote",
-    "mode": "Remote",
-    "url": "https://jobicy.com/jobs/153978-data-analyst-sql-databricks",
-    "source": "Jobicy",
-    "categories": [
-      "marketing",
-      "social",
-      "sales",
-      "operations",
-      "design"
-    ],
-    "posted_at": "2026-09-23T15:19:29+00:00",
-    "salary": "72500–96500 USD / yearly",
-    "stipend": "",
-    "experience": "fresher",
-    "score": 63,
-    "reasons": [
-      "Marketing match",
-      "Fresher-friendly signal"
-    ]
-  },
-  {
-    "type": "job",
     "title": "Marketing Student Assistant",
     "company": "Copenhagen Optimization",
     "location": "Remote",
@@ -681,28 +737,179 @@
   },
   {
     "type": "job",
-    "title": "Platform Product Engineer",
-    "company": "Zone &#038; Co",
-    "location": "Czechia",
+    "title": "Account Executive - EMEA Specialist",
+    "company": "Samsara",
+    "location": "UK",
     "location_key": "remote",
     "mode": "Remote",
-    "url": "https://jobicy.com/jobs/154014-platform-product-engineer",
+    "url": "https://jobicy.com/jobs/152475-account-executive-emea-specialist",
+    "source": "Jobicy",
+    "categories": [
+      "marketing",
+      "sales",
+      "operations",
+      "design"
+    ],
+    "posted_at": "2026-09-26T11:20:06+00:00",
+    "salary": "",
+    "stipend": "",
+    "experience": "fresher",
+    "score": 57,
+    "reasons": [
+      "Marketing match",
+      "Fresher-friendly signal"
+    ]
+  },
+  {
+    "type": "job",
+    "title": "Technical Success Manager - Autodesk Forma (Construction Specialist)",
+    "company": "Autodesk",
+    "location": "EMEA,  Germany",
+    "location_key": "remote",
+    "mode": "Remote",
+    "url": "https://jobicy.com/jobs/146036-technical-success-manager-autodesk-forma-construction-specialist",
+    "source": "Jobicy",
+    "categories": [
+      "marketing",
+      "social",
+      "sales",
+      "design"
+    ],
+    "posted_at": "2026-09-26T11:15:12+00:00",
+    "salary": "",
+    "stipend": "",
+    "experience": "fresher",
+    "score": 57,
+    "reasons": [
+      "Marketing match",
+      "Fresher-friendly signal"
+    ]
+  },
+  {
+    "type": "job",
+    "title": "Implementation Specialist - Karbon Expert (Contract)",
+    "company": "Karbon",
+    "location": "Australia",
+    "location_key": "remote",
+    "mode": "Remote",
+    "url": "https://jobicy.com/jobs/151582-implementation-specialist-karbon-expert-contract",
+    "source": "Jobicy",
+    "categories": [
+      "marketing",
+      "sales",
+      "operations",
+      "design"
+    ],
+    "posted_at": "2026-09-26T11:00:23+00:00",
+    "salary": "",
+    "stipend": "",
+    "experience": "fresher",
+    "score": 57,
+    "reasons": [
+      "Marketing match",
+      "Fresher-friendly signal"
+    ]
+  },
+  {
+    "type": "job",
+    "title": "Strategist, Agent Development (French speaking)",
+    "company": "Sierra",
+    "location": "France",
+    "location_key": "remote",
+    "mode": "Remote",
+    "url": "https://jobicy.com/jobs/151668-strategist-agent-development-french-speaking",
+    "source": "Jobicy",
+    "categories": [
+      "social",
+      "creator",
+      "sales",
+      "operations",
+      "design"
+    ],
+    "posted_at": "2026-09-26T10:52:22+00:00",
+    "salary": "125000–180000 EUR / yearly",
+    "stipend": "",
+    "experience": "mid",
+    "score": 57,
+    "reasons": [
+      "Social match",
+      "Remote"
+    ]
+  },
+  {
+    "type": "job",
+    "title": "Strategist, Agent Development",
+    "company": "Sierra",
+    "location": "Germany",
+    "location_key": "remote",
+    "mode": "Remote",
+    "url": "https://jobicy.com/jobs/151673-strategist-agent-development",
+    "source": "Jobicy",
+    "categories": [
+      "social",
+      "creator",
+      "sales",
+      "operations",
+      "design"
+    ],
+    "posted_at": "2026-09-26T10:52:21+00:00",
+    "salary": "",
+    "stipend": "",
+    "experience": "mid",
+    "score": 57,
+    "reasons": [
+      "Social match",
+      "Remote"
+    ]
+  },
+  {
+    "type": "job",
+    "title": "Associate Manager, Paid Social",
+    "company": "Wpromote",
+    "location": "USA",
+    "location_key": "remote",
+    "mode": "Remote",
+    "url": "https://jobicy.com/jobs/151674-associate-manager-paid-social",
+    "source": "Jobicy",
+    "categories": [
+      "marketing",
+      "social",
+      "sales",
+      "design"
+    ],
+    "posted_at": "2026-09-26T10:52:14+00:00",
+    "salary": "66000–77000 USD / yearly",
+    "stipend": "",
+    "experience": "fresher",
+    "score": 57,
+    "reasons": [
+      "Marketing match",
+      "Fresher-friendly signal"
+    ]
+  },
+  {
+    "type": "job",
+    "title": "Associate Director, Direct I/O",
+    "company": "Wpromote",
+    "location": "USA",
+    "location_key": "remote",
+    "mode": "Remote",
+    "url": "https://jobicy.com/jobs/151669-associate-director-direct-i-o",
     "source": "Jobicy",
     "categories": [
       "marketing",
       "content",
-      "social",
-      "operations",
+      "sales",
       "design"
     ],
-    "posted_at": "2026-09-24T12:25:13+00:00",
-    "salary": "",
+    "posted_at": "2026-09-26T10:52:13+00:00",
+    "salary": "90000–115000 USD / yearly",
     "stipend": "",
-    "experience": "junior",
-    "score": 59,
+    "experience": "fresher",
+    "score": 57,
     "reasons": [
       "Marketing match",
-      "Early-career signal"
+      "Fresher-friendly signal"
     ]
   },
   {
@@ -800,6 +1007,233 @@
     "stipend": "",
     "experience": "fresher",
     "score": 57,
+    "reasons": [
+      "Marketing match",
+      "Fresher-friendly signal"
+    ]
+  },
+  {
+    "type": "job",
+    "title": "Software Architect",
+    "company": "Autodesk",
+    "location": "EMEA,  UK",
+    "location_key": "remote",
+    "mode": "Remote",
+    "url": "https://jobicy.com/jobs/150381-software-architect",
+    "source": "Jobicy",
+    "categories": [
+      "content",
+      "sales",
+      "operations",
+      "design"
+    ],
+    "posted_at": "2026-09-26T11:15:22+00:00",
+    "salary": "",
+    "stipend": "",
+    "experience": "fresher",
+    "score": 53,
+    "reasons": [
+      "Content match",
+      "Fresher-friendly signal"
+    ]
+  },
+  {
+    "type": "job",
+    "title": "Fusion Sales Account Executive - Named Accounts",
+    "company": "Autodesk",
+    "location": "EMEA,  Germany",
+    "location_key": "remote",
+    "mode": "Remote",
+    "url": "https://jobicy.com/jobs/146020-fusion-sales-account-executive-named-accounts",
+    "source": "Jobicy",
+    "categories": [
+      "marketing",
+      "sales",
+      "operations",
+      "design"
+    ],
+    "posted_at": "2026-09-26T11:15:08+00:00",
+    "salary": "",
+    "stipend": "",
+    "experience": "fresher",
+    "score": 53,
+    "reasons": [
+      "Marketing match",
+      "Fresher-friendly signal"
+    ]
+  },
+  {
+    "type": "job",
+    "title": "Sr Technical Marketing Manager - Alliances & Competitive Strategy",
+    "company": "Obsidian Security",
+    "location": "USA",
+    "location_key": "remote",
+    "mode": "Remote",
+    "url": "https://jobicy.com/jobs/151687-sr-technical-marketing-manager-alliances-competitive-strategy",
+    "source": "Jobicy",
+    "categories": [
+      "marketing",
+      "content",
+      "sales",
+      "design"
+    ],
+    "posted_at": "2026-09-26T11:05:13+00:00",
+    "salary": "195000–212000 USD / yearly",
+    "stipend": "",
+    "experience": "fresher",
+    "score": 53,
+    "reasons": [
+      "Marketing match",
+      "Fresher-friendly signal"
+    ]
+  },
+  {
+    "type": "job",
+    "title": "Senior Data Product Manager",
+    "company": "FastSpring",
+    "location": "USA",
+    "location_key": "remote",
+    "mode": "Remote",
+    "url": "https://jobicy.com/jobs/151696-senior-data-product-manager",
+    "source": "Jobicy",
+    "categories": [
+      "marketing",
+      "sales",
+      "operations",
+      "design"
+    ],
+    "posted_at": "2026-09-26T11:00:43+00:00",
+    "salary": "150000–188000 USD / yearly",
+    "stipend": "",
+    "experience": "fresher",
+    "score": 53,
+    "reasons": [
+      "Marketing match",
+      "Fresher-friendly signal"
+    ]
+  },
+  {
+    "type": "job",
+    "title": "Staff Product Manager",
+    "company": "Future PLC",
+    "location": "USA",
+    "location_key": "remote",
+    "mode": "Remote",
+    "url": "https://jobicy.com/jobs/151710-staff-product-manager",
+    "source": "Jobicy",
+    "categories": [
+      "marketing",
+      "social",
+      "operations",
+      "design"
+    ],
+    "posted_at": "2026-09-26T11:00:35+00:00",
+    "salary": "185000–220000 USD / yearly",
+    "stipend": "",
+    "experience": "fresher",
+    "score": 53,
+    "reasons": [
+      "Marketing match",
+      "Fresher-friendly signal"
+    ]
+  },
+  {
+    "type": "job",
+    "title": "Customer Success Manager II",
+    "company": "Planet Labs Inc.",
+    "location": "Brazil",
+    "location_key": "remote",
+    "mode": "Remote",
+    "url": "https://jobicy.com/jobs/151580-customer-success-manager-ii-2",
+    "source": "Jobicy",
+    "categories": [
+      "marketing",
+      "social",
+      "sales",
+      "design"
+    ],
+    "posted_at": "2026-09-26T11:00:21+00:00",
+    "salary": "",
+    "stipend": "",
+    "experience": "fresher",
+    "score": 53,
+    "reasons": [
+      "Marketing match",
+      "Fresher-friendly signal"
+    ]
+  },
+  {
+    "type": "job",
+    "title": "Enterprise Sales Leader",
+    "company": "Sierra",
+    "location": "USA",
+    "location_key": "remote",
+    "mode": "Remote",
+    "url": "https://jobicy.com/jobs/151679-enterprise-sales-leader",
+    "source": "Jobicy",
+    "categories": [
+      "marketing",
+      "social",
+      "creator",
+      "sales",
+      "design"
+    ],
+    "posted_at": "2026-09-26T10:52:26+00:00",
+    "salary": "450000–470000 USD / yearly",
+    "stipend": "",
+    "experience": "mid",
+    "score": 53,
+    "reasons": [
+      "Marketing match",
+      "Remote"
+    ]
+  },
+  {
+    "type": "job",
+    "title": "Software Engineer, Agent",
+    "company": "Sierra",
+    "location": "Germany",
+    "location_key": "remote",
+    "mode": "Remote",
+    "url": "https://jobicy.com/jobs/151671-software-engineer-agent",
+    "source": "Jobicy",
+    "categories": [
+      "marketing",
+      "social",
+      "creator",
+      "sales",
+      "design"
+    ],
+    "posted_at": "2026-09-26T10:52:16+00:00",
+    "salary": "",
+    "stipend": "",
+    "experience": "mid",
+    "score": 53,
+    "reasons": [
+      "Marketing match",
+      "Remote"
+    ]
+  },
+  {
+    "type": "job",
+    "title": "Senior Business Engineer",
+    "company": "Reddit",
+    "location": "Canada",
+    "location_key": "remote",
+    "mode": "Remote",
+    "url": "https://jobicy.com/jobs/147488-senior-business-engineer",
+    "source": "Jobicy",
+    "categories": [
+      "marketing",
+      "social",
+      "sales",
+      "design"
+    ],
+    "posted_at": "2026-09-26T10:50:08+00:00",
+    "salary": "",
+    "stipend": "",
+    "experience": "fresher",
+    "score": 53,
     "reasons": [
       "Marketing match",
       "Fresher-friendly signal"
@@ -1161,307 +1595,6 @@
   },
   {
     "type": "job",
-    "title": "International Data Acquisition Manager",
-    "company": "Socure",
-    "location": "UK",
-    "location_key": "remote",
-    "mode": "Remote",
-    "url": "https://jobicy.com/jobs/154016-international-data-acquisition-manager",
-    "source": "Jobicy",
-    "categories": [
-      "marketing",
-      "social",
-      "sales",
-      "operations"
-    ],
-    "posted_at": "2026-09-24T12:27:00+00:00",
-    "salary": "",
-    "stipend": "",
-    "experience": "fresher",
-    "score": 53,
-    "reasons": [
-      "Marketing match",
-      "Fresher-friendly signal"
-    ]
-  },
-  {
-    "type": "job",
-    "title": "Enterprise Implementation Consultant - German Fluency",
-    "company": "Samsara",
-    "location": "Germany",
-    "location_key": "remote",
-    "mode": "Remote",
-    "url": "https://jobicy.com/jobs/154009-enterprise-implementation-consultant-german-fluency",
-    "source": "Jobicy",
-    "categories": [
-      "marketing",
-      "sales",
-      "operations",
-      "design"
-    ],
-    "posted_at": "2026-09-24T12:25:12+00:00",
-    "salary": "",
-    "stipend": "",
-    "experience": "fresher",
-    "score": 53,
-    "reasons": [
-      "Marketing match",
-      "Fresher-friendly signal"
-    ]
-  },
-  {
-    "type": "job",
-    "title": "Enterprise Customer Success Manager",
-    "company": "Samsara",
-    "location": "Germany",
-    "location_key": "remote",
-    "mode": "Remote",
-    "url": "https://jobicy.com/jobs/154005-enterprise-customer-success-manager-8",
-    "source": "Jobicy",
-    "categories": [
-      "marketing",
-      "sales",
-      "operations",
-      "design"
-    ],
-    "posted_at": "2026-09-24T12:25:11+00:00",
-    "salary": "",
-    "stipend": "",
-    "experience": "fresher",
-    "score": 53,
-    "reasons": [
-      "Marketing match",
-      "Fresher-friendly signal"
-    ]
-  },
-  {
-    "type": "job",
-    "title": "Account Executive, Commercial - Named (East)",
-    "company": "Smartsheet",
-    "location": "USA",
-    "location_key": "remote",
-    "mode": "Remote",
-    "url": "https://jobicy.com/jobs/153990-account-executive-commercial-named-east",
-    "source": "Jobicy",
-    "categories": [
-      "marketing",
-      "social",
-      "sales",
-      "design"
-    ],
-    "posted_at": "2026-09-24T11:35:31+00:00",
-    "salary": "85000–115000 USD / yearly",
-    "stipend": "",
-    "experience": "fresher",
-    "score": 53,
-    "reasons": [
-      "Marketing match",
-      "Fresher-friendly signal"
-    ]
-  },
-  {
-    "type": "job",
-    "title": "Product Marketing Manager",
-    "company": "Dataiku",
-    "location": "USA",
-    "location_key": "remote",
-    "mode": "Remote",
-    "url": "https://jobicy.com/jobs/151480-product-marketing-manager-2",
-    "source": "Jobicy",
-    "categories": [
-      "marketing",
-      "social",
-      "sales",
-      "design"
-    ],
-    "posted_at": "2026-09-24T04:45:20+00:00",
-    "salary": "100000–150000 USD / yearly",
-    "stipend": "",
-    "experience": "fresher",
-    "score": 53,
-    "reasons": [
-      "Marketing match",
-      "Fresher-friendly signal"
-    ]
-  },
-  {
-    "type": "job",
-    "title": "Senior AI Solutions Engineer (Python & AWS Bedrock)",
-    "company": "Oowlish Technology",
-    "location": "LATAM,  Argentina,  Brazil,  Mexico",
-    "location_key": "remote",
-    "mode": "Remote",
-    "url": "https://jobicy.com/jobs/151507-senior-ai-solutions-engineer-python-aws-bedrock",
-    "source": "Jobicy",
-    "categories": [
-      "marketing",
-      "social",
-      "operations",
-      "design"
-    ],
-    "posted_at": "2026-09-24T04:40:24+00:00",
-    "salary": "",
-    "stipend": "",
-    "experience": "fresher",
-    "score": 53,
-    "reasons": [
-      "Marketing match",
-      "Fresher-friendly signal"
-    ]
-  },
-  {
-    "type": "job",
-    "title": "Senior Product Manager, Intelligence",
-    "company": "DataGrail",
-    "location": "USA",
-    "location_key": "remote",
-    "mode": "Remote",
-    "url": "https://jobicy.com/jobs/151527-senior-product-manager-intelligence",
-    "source": "Jobicy",
-    "categories": [
-      "marketing",
-      "sales",
-      "operations",
-      "design"
-    ],
-    "posted_at": "2026-09-24T04:40:17+00:00",
-    "salary": "180000–215000 USD / yearly",
-    "stipend": "",
-    "experience": "fresher",
-    "score": 53,
-    "reasons": [
-      "Marketing match",
-      "Fresher-friendly signal"
-    ]
-  },
-  {
-    "type": "job",
-    "title": "Senior Product Marketing Manager",
-    "company": "DataGrail",
-    "location": "USA",
-    "location_key": "remote",
-    "mode": "Remote",
-    "url": "https://jobicy.com/jobs/151531-senior-product-marketing-manager-3",
-    "source": "Jobicy",
-    "categories": [
-      "marketing",
-      "content",
-      "sales",
-      "operations",
-      "design"
-    ],
-    "posted_at": "2026-09-24T04:40:14+00:00",
-    "salary": "150000–170000 USD / yearly",
-    "stipend": "",
-    "experience": "mid",
-    "score": 53,
-    "reasons": [
-      "Marketing match",
-      "Remote"
-    ]
-  },
-  {
-    "type": "job",
-    "title": "Front End Engineering Manager, Firefox Desktop",
-    "company": "Mozilla",
-    "location": "Canada",
-    "location_key": "remote",
-    "mode": "Remote",
-    "url": "https://jobicy.com/jobs/151502-front-end-engineering-manager-firefox-desktop",
-    "source": "Jobicy",
-    "categories": [
-      "marketing",
-      "social",
-      "operations",
-      "design"
-    ],
-    "posted_at": "2026-09-24T04:40:12+00:00",
-    "salary": "149000–220000 CAD / yearly",
-    "stipend": "",
-    "experience": "fresher",
-    "score": 53,
-    "reasons": [
-      "Marketing match",
-      "Fresher-friendly signal"
-    ]
-  },
-  {
-    "type": "job",
-    "title": "Anaplan Systems Architect",
-    "company": "Dataiku",
-    "location": "USA",
-    "location_key": "remote",
-    "mode": "Remote",
-    "url": "https://jobicy.com/jobs/151473-anaplan-systems-architect",
-    "source": "Jobicy",
-    "categories": [
-      "marketing",
-      "social",
-      "sales",
-      "design"
-    ],
-    "posted_at": "2026-09-24T04:35:18+00:00",
-    "salary": "152000–190000 USD / yearly",
-    "stipend": "",
-    "experience": "fresher",
-    "score": 53,
-    "reasons": [
-      "Marketing match",
-      "Fresher-friendly signal"
-    ]
-  },
-  {
-    "type": "job",
-    "title": "Account Director, Defence and Intel (Canada)",
-    "company": "TRM Labs",
-    "location": "Canada",
-    "location_key": "remote",
-    "mode": "Remote",
-    "url": "https://jobicy.com/jobs/151467-account-director-defence-and-intel-canada",
-    "source": "Jobicy",
-    "categories": [
-      "marketing",
-      "creator",
-      "sales",
-      "design"
-    ],
-    "posted_at": "2026-09-24T04:35:08+00:00",
-    "salary": "",
-    "stipend": "",
-    "experience": "fresher",
-    "score": 53,
-    "reasons": [
-      "Marketing match",
-      "Fresher-friendly signal"
-    ]
-  },
-  {
-    "type": "job",
-    "title": "Account Executive, New Business - Financial Services",
-    "company": "AlphaSense",
-    "location": "USA",
-    "location_key": "remote",
-    "mode": "Remote",
-    "url": "https://jobicy.com/jobs/153966-account-executive-new-business-financial-services",
-    "source": "Jobicy",
-    "categories": [
-      "marketing",
-      "content",
-      "sales",
-      "design"
-    ],
-    "posted_at": "2026-09-23T15:18:09+00:00",
-    "salary": "99000–197000 USD / yearly",
-    "stipend": "",
-    "experience": "fresher",
-    "score": 53,
-    "reasons": [
-      "Marketing match",
-      "Fresher-friendly signal"
-    ]
-  },
-  {
-    "type": "job",
     "title": "Senior Shopify Developer",
     "company": "Sanctuary Computer",
     "location": "Remote",
@@ -1501,81 +1634,6 @@
       "design"
     ],
     "posted_at": "2026-09-14T00:00:12+00:00",
-    "salary": "",
-    "stipend": "",
-    "experience": "fresher",
-    "score": 53,
-    "reasons": [
-      "Marketing match",
-      "Fresher-friendly signal"
-    ]
-  },
-  {
-    "type": "job",
-    "title": "Course Director UX UI and AI",
-    "company": "Interaction Design Foundation",
-    "location": "Remote",
-    "location_key": "remote",
-    "mode": "Remote",
-    "url": "https://remoteOK.com/remote-jobs/remote-course-director-ux-ui-and-ai-interaction-design-foundation-1137139",
-    "source": "Remote OK",
-    "categories": [
-      "marketing",
-      "content",
-      "social",
-      "design"
-    ],
-    "posted_at": "2026-08-26T12:44:41+00:00",
-    "salary": "",
-    "stipend": "",
-    "experience": "fresher",
-    "score": 53,
-    "reasons": [
-      "Marketing match",
-      "Fresher-friendly signal"
-    ]
-  },
-  {
-    "type": "job",
-    "title": "Education Designer UX UI and AI",
-    "company": "Interaction Design Foundation",
-    "location": "Remote",
-    "location_key": "remote",
-    "mode": "Remote",
-    "url": "https://remoteOK.com/remote-jobs/remote-education-designer-ux-ui-and-ai-interaction-design-foundation-1137138",
-    "source": "Remote OK",
-    "categories": [
-      "marketing",
-      "content",
-      "social",
-      "design"
-    ],
-    "posted_at": "2026-08-26T12:41:23+00:00",
-    "salary": "",
-    "stipend": "",
-    "experience": "fresher",
-    "score": 53,
-    "reasons": [
-      "Marketing match",
-      "Fresher-friendly signal"
-    ]
-  },
-  {
-    "type": "job",
-    "title": "Course Writer and Editor UX UI and AI",
-    "company": "Interaction Design Foundation",
-    "location": "Remote",
-    "location_key": "remote",
-    "mode": "Remote",
-    "url": "https://remoteOK.com/remote-jobs/remote-course-writer-and-editor-ux-ui-and-ai-interaction-design-foundation-1137136",
-    "source": "Remote OK",
-    "categories": [
-      "marketing",
-      "content",
-      "social",
-      "design"
-    ],
-    "posted_at": "2026-08-26T12:33:33+00:00",
     "salary": "",
     "stipend": "",
     "experience": "fresher",
@@ -1663,27 +1721,75 @@
   },
   {
     "type": "job",
-    "title": "SEI Instructor Lead",
-    "company": "Remote",
-    "location": "Australia,  Canada,  Singapore,  UK,  USA",
+    "title": "Technical Account Specialist - Storm, Sewer, Flood",
+    "company": "Autodesk",
+    "location": "UK",
     "location_key": "remote",
     "mode": "Remote",
-    "url": "https://jobicy.com/jobs/151482-sei-instructor-lead",
+    "url": "https://jobicy.com/jobs/150370-technical-account-specialist-storm-sewer-flood",
+    "source": "Jobicy",
+    "categories": [
+      "social",
+      "sales",
+      "design"
+    ],
+    "posted_at": "2026-09-26T11:15:20+00:00",
+    "salary": "",
+    "stipend": "",
+    "experience": "fresher",
+    "score": 47,
+    "reasons": [
+      "Social match",
+      "Fresher-friendly signal"
+    ]
+  },
+  {
+    "type": "job",
+    "title": "Technical Adoption Specialist, Civil 3D, French speaking",
+    "company": "Autodesk",
+    "location": "Poland,  Spain",
+    "location_key": "remote",
+    "mode": "Remote",
+    "url": "https://jobicy.com/jobs/149313-technical-adoption-specialist-civil-3d-french-speaking",
+    "source": "Jobicy",
+    "categories": [
+      "content",
+      "sales",
+      "design"
+    ],
+    "posted_at": "2026-09-26T11:15:17+00:00",
+    "salary": "",
+    "stipend": "",
+    "experience": "fresher",
+    "score": 47,
+    "reasons": [
+      "Content match",
+      "Fresher-friendly signal"
+    ]
+  },
+  {
+    "type": "job",
+    "title": "Paid Social Specialist (Contract Basis)",
+    "company": "Webflow",
+    "location": "USA",
+    "location_key": "remote",
+    "mode": "Remote",
+    "url": "https://jobicy.com/jobs/151583-paid-social-specialist-contract-basis",
     "source": "Jobicy",
     "categories": [
       "marketing",
-      "content",
       "social",
+      "sales",
       "design"
     ],
-    "posted_at": "2026-09-24T04:45:21+00:00",
-    "salary": "23000–27000 USD",
+    "posted_at": "2026-09-26T10:52:17+00:00",
+    "salary": "",
     "stipend": "",
-    "experience": "junior",
-    "score": 49,
+    "experience": "mid",
+    "score": 47,
     "reasons": [
       "Marketing match",
-      "Early-career signal"
+      "Remote"
     ]
   },
   {
@@ -1754,6 +1860,374 @@
     "stipend": "",
     "experience": "mid",
     "score": 47,
+    "reasons": [
+      "Marketing match",
+      "Remote"
+    ]
+  },
+  {
+    "type": "job",
+    "title": "Account Executive Mid-Market - Italy",
+    "company": "Alma",
+    "location": "Italy",
+    "location_key": "remote",
+    "mode": "Remote",
+    "url": "https://jobicy.com/jobs/151870-account-executive-mid-market-italy",
+    "source": "Jobicy",
+    "categories": [
+      "marketing",
+      "social",
+      "sales"
+    ],
+    "posted_at": "2026-09-26T11:30:15+00:00",
+    "salary": "68000–86000 EUR / yearly",
+    "stipend": "",
+    "experience": "fresher",
+    "score": 43,
+    "reasons": [
+      "Marketing match",
+      "Fresher-friendly signal"
+    ]
+  },
+  {
+    "type": "job",
+    "title": "RAGBRAI Ride Operations",
+    "company": "Gannett",
+    "location": "USA",
+    "location_key": "remote",
+    "mode": "Remote",
+    "url": "https://jobicy.com/jobs/144385-ragbrai-ride-operations",
+    "source": "Jobicy",
+    "categories": [
+      "marketing",
+      "content",
+      "operations",
+      "design"
+    ],
+    "posted_at": "2026-09-26T11:25:07+00:00",
+    "salary": "45000–50000 USD / yearly",
+    "stipend": "",
+    "experience": "mid",
+    "score": 43,
+    "reasons": [
+      "Marketing match",
+      "Remote"
+    ]
+  },
+  {
+    "type": "job",
+    "title": "Account Technical Lead (ATL), Enterprise Accounts",
+    "company": "Autodesk",
+    "location": "Australia",
+    "location_key": "remote",
+    "mode": "Remote",
+    "url": "https://jobicy.com/jobs/147706-account-technical-lead-atl-enterprise-accounts",
+    "source": "Jobicy",
+    "categories": [
+      "marketing",
+      "sales",
+      "design"
+    ],
+    "posted_at": "2026-09-26T11:15:14+00:00",
+    "salary": "",
+    "stipend": "",
+    "experience": "fresher",
+    "score": 43,
+    "reasons": [
+      "Marketing match",
+      "Fresher-friendly signal"
+    ]
+  },
+  {
+    "type": "job",
+    "title": "Senior Reviewer - Code & Web Templates",
+    "company": "Envato",
+    "location": "Mexico",
+    "location_key": "remote",
+    "mode": "Remote",
+    "url": "https://jobicy.com/jobs/151753-senior-reviewer-code-web-templates",
+    "source": "Jobicy",
+    "categories": [
+      "content",
+      "social",
+      "operations",
+      "design"
+    ],
+    "posted_at": "2026-09-26T11:05:36+00:00",
+    "salary": "",
+    "stipend": "",
+    "experience": "mid",
+    "score": 43,
+    "reasons": [
+      "Content match",
+      "Remote"
+    ]
+  },
+  {
+    "type": "job",
+    "title": "Senior Product Manager",
+    "company": "Medely",
+    "location": "USA",
+    "location_key": "remote",
+    "mode": "Remote",
+    "url": "https://jobicy.com/jobs/151761-senior-product-manager-3",
+    "source": "Jobicy",
+    "categories": [
+      "marketing",
+      "sales",
+      "operations",
+      "design"
+    ],
+    "posted_at": "2026-09-26T11:05:07+00:00",
+    "salary": "150000–165000 USD / yearly",
+    "stipend": "",
+    "experience": "mid",
+    "score": 43,
+    "reasons": [
+      "Marketing match",
+      "Remote"
+    ]
+  },
+  {
+    "type": "job",
+    "title": "Corporate Marketing Manager",
+    "company": "Mural",
+    "location": "USA",
+    "location_key": "remote",
+    "mode": "Remote",
+    "url": "https://jobicy.com/jobs/151719-corporate-marketing-manager",
+    "source": "Jobicy",
+    "categories": [
+      "marketing",
+      "content",
+      "sales",
+      "design"
+    ],
+    "posted_at": "2026-09-26T11:00:18+00:00",
+    "salary": "107978–134973 USD / yearly",
+    "stipend": "",
+    "experience": "mid",
+    "score": 43,
+    "reasons": [
+      "Marketing match",
+      "Remote"
+    ]
+  },
+  {
+    "type": "job",
+    "title": "Content Marketing Manager",
+    "company": "Wpromote",
+    "location": "USA",
+    "location_key": "remote",
+    "mode": "Remote",
+    "url": "https://jobicy.com/jobs/151677-content-marketing-manager-4",
+    "source": "Jobicy",
+    "categories": [
+      "marketing",
+      "content",
+      "social",
+      "design"
+    ],
+    "posted_at": "2026-09-26T10:52:37+00:00",
+    "salary": "70000–80000 USD / yearly",
+    "stipend": "",
+    "experience": "mid",
+    "score": 43,
+    "reasons": [
+      "Marketing match",
+      "Remote"
+    ]
+  },
+  {
+    "type": "job",
+    "title": "Machine Learning Engineer",
+    "company": "ManTech",
+    "location": "USA",
+    "location_key": "remote",
+    "mode": "Remote",
+    "url": "https://jobicy.com/jobs/144376-machine-learning-engineer-3",
+    "source": "Jobicy",
+    "categories": [
+      "marketing",
+      "operations",
+      "design"
+    ],
+    "posted_at": "2026-09-26T10:52:33+00:00",
+    "salary": "128800–214500 USD / yearly",
+    "stipend": "",
+    "experience": "fresher",
+    "score": 43,
+    "reasons": [
+      "Marketing match",
+      "Fresher-friendly signal"
+    ]
+  },
+  {
+    "type": "job",
+    "title": "Director, Client Strategy (Media Director)",
+    "company": "Wpromote",
+    "location": "USA",
+    "location_key": "remote",
+    "mode": "Remote",
+    "url": "https://jobicy.com/jobs/151683-director-client-strategy-media-director",
+    "source": "Jobicy",
+    "categories": [
+      "marketing",
+      "sales",
+      "design"
+    ],
+    "posted_at": "2026-09-26T10:52:25+00:00",
+    "salary": "120000–140000 USD / yearly",
+    "stipend": "",
+    "experience": "fresher",
+    "score": 43,
+    "reasons": [
+      "Marketing match",
+      "Fresher-friendly signal"
+    ]
+  },
+  {
+    "type": "job",
+    "title": "Enterprise Sales Director - Majors",
+    "company": "Sierra",
+    "location": "USA",
+    "location_key": "remote",
+    "mode": "Remote",
+    "url": "https://jobicy.com/jobs/151665-enterprise-sales-director-majors",
+    "source": "Jobicy",
+    "categories": [
+      "social",
+      "creator",
+      "sales",
+      "design"
+    ],
+    "posted_at": "2026-09-26T10:52:23+00:00",
+    "salary": "300000–345000 USD / yearly",
+    "stipend": "",
+    "experience": "mid",
+    "score": 43,
+    "reasons": [
+      "Social match",
+      "Remote"
+    ]
+  },
+  {
+    "type": "job",
+    "title": "Head of Customer Support",
+    "company": "Obsidian Security",
+    "location": "USA",
+    "location_key": "remote",
+    "mode": "Remote",
+    "url": "https://jobicy.com/jobs/151667-head-of-customer-support-2",
+    "source": "Jobicy",
+    "categories": [
+      "marketing",
+      "sales",
+      "design"
+    ],
+    "posted_at": "2026-09-26T10:52:19+00:00",
+    "salary": "165000–199000 USD / yearly",
+    "stipend": "",
+    "experience": "fresher",
+    "score": 43,
+    "reasons": [
+      "Marketing match",
+      "Fresher-friendly signal"
+    ]
+  },
+  {
+    "type": "job",
+    "title": "Manufacturing Quality Engineer",
+    "company": "Meta",
+    "location": "USA",
+    "location_key": "remote",
+    "mode": "Remote",
+    "url": "https://jobicy.com/jobs/147559-manufacturing-quality-engineer",
+    "source": "Jobicy",
+    "categories": [
+      "sales",
+      "operations",
+      "design"
+    ],
+    "posted_at": "2026-09-26T10:50:19+00:00",
+    "salary": "",
+    "stipend": "",
+    "experience": "fresher",
+    "score": 43,
+    "reasons": [
+      "Sales match",
+      "Fresher-friendly signal"
+    ]
+  },
+  {
+    "type": "job",
+    "title": "Commercial Account Manager",
+    "company": "Salesloft",
+    "location": "USA",
+    "location_key": "remote",
+    "mode": "Remote",
+    "url": "https://jobicy.com/jobs/153460-commercial-account-manager",
+    "source": "Jobicy",
+    "categories": [
+      "marketing",
+      "social",
+      "sales"
+    ],
+    "posted_at": "2026-09-26T09:58:40+00:00",
+    "salary": "50000–65000 USD / yearly",
+    "stipend": "",
+    "experience": "fresher",
+    "score": 43,
+    "reasons": [
+      "Marketing match",
+      "Fresher-friendly signal"
+    ]
+  },
+  {
+    "type": "job",
+    "title": "Customer Success Manager III - Canberra",
+    "company": "ExtraHop",
+    "location": "Australia",
+    "location_key": "remote",
+    "mode": "Remote",
+    "url": "https://jobicy.com/jobs/151579-customer-success-manager-iii-canberra",
+    "source": "Jobicy",
+    "categories": [
+      "marketing",
+      "social",
+      "sales",
+      "operations"
+    ],
+    "posted_at": "2026-09-26T09:58:36+00:00",
+    "salary": "",
+    "stipend": "",
+    "experience": "mid",
+    "score": 43,
+    "reasons": [
+      "Marketing match",
+      "Remote"
+    ]
+  },
+  {
+    "type": "job",
+    "title": "Head of Communications",
+    "company": "Deepgram",
+    "location": "USA",
+    "location_key": "remote",
+    "mode": "Remote",
+    "url": "https://jobicy.com/jobs/149688-head-of-communications",
+    "source": "Jobicy",
+    "categories": [
+      "marketing",
+      "content",
+      "sales",
+      "design"
+    ],
+    "posted_at": "2026-09-26T09:58:33+00:00",
+    "salary": "153000–210000 USD / yearly",
+    "stipend": "",
+    "experience": "mid",
+    "score": 43,
     "reasons": [
       "Marketing match",
       "Remote"
@@ -2586,491 +3060,6 @@
   },
   {
     "type": "job",
-    "title": "Research Engineer",
-    "company": "Elevenlabs",
-    "location": "Bulgaria,  Germany,  Poland,  UK,  USA",
-    "location_key": "remote",
-    "mode": "Remote",
-    "url": "https://jobicy.com/jobs/154024-research-engineer",
-    "source": "Jobicy",
-    "categories": [
-      "marketing",
-      "creator",
-      "operations",
-      "design"
-    ],
-    "posted_at": "2026-09-24T12:27:01+00:00",
-    "salary": "",
-    "stipend": "",
-    "experience": "mid",
-    "score": 43,
-    "reasons": [
-      "Marketing match",
-      "Remote"
-    ]
-  },
-  {
-    "type": "job",
-    "title": "Design Engineer - EU",
-    "company": "Ashby",
-    "location": "Croatia,  Estonia,  Germany,  Ireland,  Italy,  Portugal,  Romania,  Spain,  Sweden,  Switzerland",
-    "location_key": "remote",
-    "mode": "Remote",
-    "url": "https://jobicy.com/jobs/154021-design-engineer-eu",
-    "source": "Jobicy",
-    "categories": [
-      "marketing",
-      "social",
-      "design"
-    ],
-    "posted_at": "2026-09-24T12:27:01+00:00",
-    "salary": "119000–145000 EUR / yearly",
-    "stipend": "",
-    "experience": "fresher",
-    "score": 43,
-    "reasons": [
-      "Marketing match",
-      "Fresher-friendly signal"
-    ]
-  },
-  {
-    "type": "job",
-    "title": "Design Engineer - UK",
-    "company": "Ashby",
-    "location": "UK",
-    "location_key": "remote",
-    "mode": "Remote",
-    "url": "https://jobicy.com/jobs/154023-design-engineer-uk",
-    "source": "Jobicy",
-    "categories": [
-      "marketing",
-      "social",
-      "design"
-    ],
-    "posted_at": "2026-09-24T12:26:59+00:00",
-    "salary": "123000–149000 GBP / yearly",
-    "stipend": "",
-    "experience": "fresher",
-    "score": 43,
-    "reasons": [
-      "Marketing match",
-      "Fresher-friendly signal"
-    ]
-  },
-  {
-    "type": "job",
-    "title": "Senior Product Designer",
-    "company": "TrustedHousesitters",
-    "location": "UK",
-    "location_key": "remote",
-    "mode": "Remote",
-    "url": "https://jobicy.com/jobs/154008-senior-product-designer-14",
-    "source": "Jobicy",
-    "categories": [
-      "marketing",
-      "content",
-      "social",
-      "design"
-    ],
-    "posted_at": "2026-09-24T12:25:13+00:00",
-    "salary": "70000–80000 GBP / yearly",
-    "stipend": "",
-    "experience": "mid",
-    "score": 43,
-    "reasons": [
-      "Marketing match",
-      "Remote"
-    ]
-  },
-  {
-    "type": "job",
-    "title": "Technical Product Analyst",
-    "company": "CentralReach",
-    "location": "USA",
-    "location_key": "remote",
-    "mode": "Remote",
-    "url": "https://jobicy.com/jobs/154002-technical-product-analyst",
-    "source": "Jobicy",
-    "categories": [
-      "marketing",
-      "social",
-      "design"
-    ],
-    "posted_at": "2026-09-24T11:38:30+00:00",
-    "salary": "85000–105000 USD / yearly",
-    "stipend": "",
-    "experience": "fresher",
-    "score": 43,
-    "reasons": [
-      "Marketing match",
-      "Fresher-friendly signal"
-    ]
-  },
-  {
-    "type": "job",
-    "title": "CPS Engagement Manager",
-    "company": "Collibra",
-    "location": "USA",
-    "location_key": "remote",
-    "mode": "Remote",
-    "url": "https://jobicy.com/jobs/154000-cps-engagement-manager",
-    "source": "Jobicy",
-    "categories": [
-      "marketing",
-      "sales",
-      "operations"
-    ],
-    "posted_at": "2026-09-24T11:38:29+00:00",
-    "salary": "96000–120000 USD / yearly",
-    "stipend": "",
-    "experience": "fresher",
-    "score": 43,
-    "reasons": [
-      "Marketing match",
-      "Fresher-friendly signal"
-    ]
-  },
-  {
-    "type": "job",
-    "title": "CPS Account Program Manager",
-    "company": "Collibra",
-    "location": "USA",
-    "location_key": "remote",
-    "mode": "Remote",
-    "url": "https://jobicy.com/jobs/153995-cps-account-program-manager",
-    "source": "Jobicy",
-    "categories": [
-      "sales",
-      "operations",
-      "design"
-    ],
-    "posted_at": "2026-09-24T11:38:29+00:00",
-    "salary": "104000–130000 USD / yearly",
-    "stipend": "",
-    "experience": "fresher",
-    "score": 43,
-    "reasons": [
-      "Sales match",
-      "Fresher-friendly signal"
-    ]
-  },
-  {
-    "type": "job",
-    "title": "Sr. Manager, Data Engineering",
-    "company": "Carrot",
-    "location": "USA",
-    "location_key": "remote",
-    "mode": "Remote",
-    "url": "https://jobicy.com/jobs/154001-sr-manager-data-engineering",
-    "source": "Jobicy",
-    "categories": [
-      "marketing",
-      "operations",
-      "design"
-    ],
-    "posted_at": "2026-09-24T11:38:28+00:00",
-    "salary": "170000–210000 USD / yearly",
-    "stipend": "",
-    "experience": "fresher",
-    "score": 43,
-    "reasons": [
-      "Marketing match",
-      "Fresher-friendly signal"
-    ]
-  },
-  {
-    "type": "job",
-    "title": "Product Design Lead",
-    "company": "Carrot",
-    "location": "USA",
-    "location_key": "remote",
-    "mode": "Remote",
-    "url": "https://jobicy.com/jobs/153996-product-design-lead",
-    "source": "Jobicy",
-    "categories": [
-      "marketing",
-      "content",
-      "design"
-    ],
-    "posted_at": "2026-09-24T11:38:27+00:00",
-    "salary": "145000–170000 USD / yearly",
-    "stipend": "",
-    "experience": "fresher",
-    "score": 43,
-    "reasons": [
-      "Marketing match",
-      "Fresher-friendly signal"
-    ]
-  },
-  {
-    "type": "job",
-    "title": "Account Executive, Commercial - Mid Market Central / East (Remote Eligible)",
-    "company": "Smartsheet",
-    "location": "USA",
-    "location_key": "remote",
-    "mode": "Remote",
-    "url": "https://jobicy.com/jobs/153987-account-executive-commercial-mid-market-central-east-remote-eligible",
-    "source": "Jobicy",
-    "categories": [
-      "marketing",
-      "social",
-      "sales"
-    ],
-    "posted_at": "2026-09-24T11:35:31+00:00",
-    "salary": "75000–95000 USD / yearly",
-    "stipend": "",
-    "experience": "fresher",
-    "score": 43,
-    "reasons": [
-      "Marketing match",
-      "Fresher-friendly signal"
-    ]
-  },
-  {
-    "type": "job",
-    "title": "Engineering Manager - MLOps & Analytics",
-    "company": "Canonical",
-    "location": "Anywhere",
-    "location_key": "remote",
-    "mode": "Remote",
-    "url": "https://jobicy.com/jobs/149521-engineering-manager-mlops-analytics",
-    "source": "Jobicy",
-    "categories": [
-      "social",
-      "operations",
-      "design"
-    ],
-    "posted_at": "2026-09-24T04:55:10+00:00",
-    "salary": "",
-    "stipend": "",
-    "experience": "fresher",
-    "score": 43,
-    "reasons": [
-      "Social match",
-      "Fresher-friendly signal"
-    ]
-  },
-  {
-    "type": "job",
-    "title": "Sales Engineer, EMEA",
-    "company": "Socket",
-    "location": "UK",
-    "location_key": "remote",
-    "mode": "Remote",
-    "url": "https://jobicy.com/jobs/151047-sales-engineer-emea",
-    "source": "Jobicy",
-    "categories": [
-      "marketing",
-      "social",
-      "sales",
-      "design"
-    ],
-    "posted_at": "2026-09-24T04:50:07+00:00",
-    "salary": "",
-    "stipend": "",
-    "experience": "mid",
-    "score": 43,
-    "reasons": [
-      "Marketing match",
-      "Remote"
-    ]
-  },
-  {
-    "type": "job",
-    "title": "Senior Applied Scientist",
-    "company": "Samsara",
-    "location": "USA",
-    "location_key": "remote",
-    "mode": "Remote",
-    "url": "https://jobicy.com/jobs/149596-senior-applied-scientist",
-    "source": "Jobicy",
-    "categories": [
-      "marketing",
-      "operations",
-      "design"
-    ],
-    "posted_at": "2026-09-24T04:40:29+00:00",
-    "salary": "170170–286000 USD / yearly",
-    "stipend": "",
-    "experience": "fresher",
-    "score": 43,
-    "reasons": [
-      "Marketing match",
-      "Fresher-friendly signal"
-    ]
-  },
-  {
-    "type": "job",
-    "title": "Enterprise Account Executive",
-    "company": "DataGrail",
-    "location": "USA",
-    "location_key": "remote",
-    "mode": "Remote",
-    "url": "https://jobicy.com/jobs/151522-enterprise-account-executive-11",
-    "source": "Jobicy",
-    "categories": [
-      "marketing",
-      "sales",
-      "operations",
-      "design"
-    ],
-    "posted_at": "2026-09-24T04:40:27+00:00",
-    "salary": "260000–290000 USD / yearly",
-    "stipend": "",
-    "experience": "mid",
-    "score": 43,
-    "reasons": [
-      "Marketing match",
-      "Remote"
-    ]
-  },
-  {
-    "type": "job",
-    "title": "SDET – Regression Automation Engineer",
-    "company": "Oowlish Technology",
-    "location": "Argentina,  Brazil,  Mexico",
-    "location_key": "remote",
-    "mode": "Remote",
-    "url": "https://jobicy.com/jobs/151503-sdet-regression-automation-engineer",
-    "source": "Jobicy",
-    "categories": [
-      "marketing",
-      "social",
-      "design"
-    ],
-    "posted_at": "2026-09-24T04:40:23+00:00",
-    "salary": "",
-    "stipend": "",
-    "experience": "fresher",
-    "score": 43,
-    "reasons": [
-      "Marketing match",
-      "Fresher-friendly signal"
-    ]
-  },
-  {
-    "type": "job",
-    "title": "Full Stack Web Engineer (Python & React)",
-    "company": "Oowlish Technology",
-    "location": "Argentina,  Brazil,  Mexico",
-    "location_key": "remote",
-    "mode": "Remote",
-    "url": "https://jobicy.com/jobs/151496-full-stack-web-engineer-python-react",
-    "source": "Jobicy",
-    "categories": [
-      "marketing",
-      "social",
-      "design"
-    ],
-    "posted_at": "2026-09-24T04:40:19+00:00",
-    "salary": "",
-    "stipend": "",
-    "experience": "fresher",
-    "score": 43,
-    "reasons": [
-      "Marketing match",
-      "Fresher-friendly signal"
-    ]
-  },
-  {
-    "type": "job",
-    "title": "Customer Success Manager",
-    "company": "AssetWatch",
-    "location": "USA",
-    "location_key": "remote",
-    "mode": "Remote",
-    "url": "https://jobicy.com/jobs/149623-customer-success-manager-3",
-    "source": "Jobicy",
-    "categories": [
-      "marketing",
-      "sales",
-      "design"
-    ],
-    "posted_at": "2026-09-24T04:40:11+00:00",
-    "salary": "95000–112000 USD / yearly",
-    "stipend": "",
-    "experience": "fresher",
-    "score": 43,
-    "reasons": [
-      "Marketing match",
-      "Fresher-friendly signal"
-    ]
-  },
-  {
-    "type": "job",
-    "title": "Head of Marketing",
-    "company": "Anagram",
-    "location": "USA",
-    "location_key": "remote",
-    "mode": "Remote",
-    "url": "https://jobicy.com/jobs/151526-head-of-marketing-3",
-    "source": "Jobicy",
-    "categories": [
-      "marketing",
-      "content",
-      "sales",
-      "design"
-    ],
-    "posted_at": "2026-09-24T04:40:05+00:00",
-    "salary": "175000–200000 USD / yearly",
-    "stipend": "",
-    "experience": "mid",
-    "score": 43,
-    "reasons": [
-      "Marketing match",
-      "Remote"
-    ]
-  },
-  {
-    "type": "job",
-    "title": "Customer Success Manager",
-    "company": "Tenable",
-    "location": "USA",
-    "location_key": "remote",
-    "mode": "Remote",
-    "url": "https://jobicy.com/jobs/153975-customer-success-manager-49",
-    "source": "Jobicy",
-    "categories": [
-      "marketing",
-      "social",
-      "sales"
-    ],
-    "posted_at": "2026-09-23T15:19:28+00:00",
-    "salary": "33–44 USD / hourly",
-    "stipend": "",
-    "experience": "fresher",
-    "score": 43,
-    "reasons": [
-      "Marketing match",
-      "Fresher-friendly signal"
-    ]
-  },
-  {
-    "type": "job",
-    "title": "Commercial Territory Manager",
-    "company": "Tenable",
-    "location": "USA",
-    "location_key": "remote",
-    "mode": "Remote",
-    "url": "https://jobicy.com/jobs/153964-commercial-territory-manager-2",
-    "source": "Jobicy",
-    "categories": [
-      "marketing",
-      "social",
-      "sales"
-    ],
-    "posted_at": "2026-09-23T15:18:13+00:00",
-    "salary": "29–39 USD / hourly",
-    "stipend": "",
-    "experience": "fresher",
-    "score": 43,
-    "reasons": [
-      "Marketing match",
-      "Fresher-friendly signal"
-    ]
-  },
-  {
-    "type": "job",
     "title": "VP Pricing & Packaging",
     "company": "Delinea",
     "location": "Redwood City",
@@ -3314,52 +3303,6 @@
   },
   {
     "type": "job",
-    "title": "Operations Associate",
-    "company": "CoinGecko",
-    "location": "Philippines",
-    "location_key": "remote",
-    "mode": "Remote",
-    "url": "https://jobicy.com/jobs/153997-operations-associate",
-    "source": "Jobicy",
-    "categories": [
-      "operations",
-      "design"
-    ],
-    "posted_at": "2026-09-24T11:38:28+00:00",
-    "salary": "",
-    "stipend": "",
-    "experience": "fresher",
-    "score": 37,
-    "reasons": [
-      "Operations match",
-      "Fresher-friendly signal"
-    ]
-  },
-  {
-    "type": "job",
-    "title": "Patient Onboarding Associate- Call Center",
-    "company": "Luna Physical Therapy",
-    "location": "USA",
-    "location_key": "remote",
-    "mode": "Remote",
-    "url": "https://jobicy.com/jobs/153961-patient-onboarding-associate-call-center",
-    "source": "Jobicy",
-    "categories": [
-      "marketing",
-      "design"
-    ],
-    "posted_at": "2026-09-23T15:18:08+00:00",
-    "salary": "16–16 USD / hourly",
-    "stipend": "",
-    "experience": "fresher",
-    "score": 37,
-    "reasons": [
-      "Marketing match",
-      "Fresher-friendly signal"
-    ]
-  },
-  {
-    "type": "job",
     "title": "Marketing Operations Specialist",
     "company": "Engine",
     "location": "Remote - US",
@@ -3377,6 +3320,403 @@
     "stipend": "",
     "experience": "mid",
     "score": 37,
+    "reasons": [
+      "Marketing match",
+      "Remote"
+    ]
+  },
+  {
+    "type": "job",
+    "title": "Junior Web Builder (Fully Remote, PH-Based Only, Fresh Grads Welcome to Apply)",
+    "company": "Luxury Presence",
+    "location": "Philippines",
+    "location_key": "remote",
+    "mode": "Remote",
+    "url": "https://jobicy.com/jobs/152598-junior-web-builder-fully-remote-ph-based-only-fresh-grads-welcome-to-apply",
+    "source": "Jobicy",
+    "categories": [
+      "marketing",
+      "design"
+    ],
+    "posted_at": "2026-09-26T11:25:10+00:00",
+    "salary": "500–500 USD / monthly",
+    "stipend": "",
+    "experience": "fresher",
+    "score": 33,
+    "reasons": [
+      "Marketing match",
+      "Fresher-friendly signal"
+    ]
+  },
+  {
+    "type": "job",
+    "title": "ERP System Administrator (Acumatica)",
+    "company": "Alimentiv",
+    "location": "Canada",
+    "location_key": "remote",
+    "mode": "Remote",
+    "url": "https://jobicy.com/jobs/151608-erp-system-administrator-acumatica",
+    "source": "Jobicy",
+    "categories": [
+      "operations",
+      "design"
+    ],
+    "posted_at": "2026-09-26T11:25:09+00:00",
+    "salary": "78000–130000 CAD / yearly",
+    "stipend": "",
+    "experience": "fresher",
+    "score": 33,
+    "reasons": [
+      "Operations match",
+      "Fresher-friendly signal"
+    ]
+  },
+  {
+    "type": "job",
+    "title": "Business Consultant",
+    "company": "Autodesk",
+    "location": "Denmark,  Netherlands,  Norway,  UK",
+    "location_key": "remote",
+    "mode": "Remote",
+    "url": "https://jobicy.com/jobs/149963-business-consultant",
+    "source": "Jobicy",
+    "categories": [
+      "sales",
+      "design"
+    ],
+    "posted_at": "2026-09-26T11:15:19+00:00",
+    "salary": "69000–101200 USD / yearly",
+    "stipend": "",
+    "experience": "fresher",
+    "score": 33,
+    "reasons": [
+      "Sales match",
+      "Fresher-friendly signal"
+    ]
+  },
+  {
+    "type": "job",
+    "title": "Renewals Representative, Account Based, Denmark",
+    "company": "Autodesk",
+    "location": "Denmark",
+    "location_key": "remote",
+    "mode": "Remote",
+    "url": "https://jobicy.com/jobs/148712-renewals-representative-account-based-denmark",
+    "source": "Jobicy",
+    "categories": [
+      "sales",
+      "design"
+    ],
+    "posted_at": "2026-09-26T11:15:15+00:00",
+    "salary": "",
+    "stipend": "",
+    "experience": "fresher",
+    "score": 33,
+    "reasons": [
+      "Sales match",
+      "Fresher-friendly signal"
+    ]
+  },
+  {
+    "type": "job",
+    "title": "Compliance Officer / MLRO- Senegal",
+    "company": "dLocal",
+    "location": "EMEA",
+    "location_key": "remote",
+    "mode": "Remote",
+    "url": "https://jobicy.com/jobs/151725-compliance-officer-mlro-senegal",
+    "source": "Jobicy",
+    "categories": [
+      "marketing",
+      "social"
+    ],
+    "posted_at": "2026-09-26T11:10:08+00:00",
+    "salary": "",
+    "stipend": "",
+    "experience": "fresher",
+    "score": 33,
+    "reasons": [
+      "Marketing match",
+      "Fresher-friendly signal"
+    ]
+  },
+  {
+    "type": "job",
+    "title": "Sales Development Representative Career Coach",
+    "company": "CourseCareers",
+    "location": "USA",
+    "location_key": "remote",
+    "mode": "Remote",
+    "url": "https://jobicy.com/jobs/151731-sales-development-representative-career-coach",
+    "source": "Jobicy",
+    "categories": [
+      "content",
+      "sales"
+    ],
+    "posted_at": "2026-09-26T11:10:04+00:00",
+    "salary": "50–1000 USD / monthly",
+    "stipend": "",
+    "experience": "fresher",
+    "score": 33,
+    "reasons": [
+      "Content match",
+      "Fresher-friendly signal"
+    ]
+  },
+  {
+    "type": "job",
+    "title": "ChatGPT Performance Engineer",
+    "company": "OpenAI",
+    "location": "USA",
+    "location_key": "remote",
+    "mode": "Remote",
+    "url": "https://jobicy.com/jobs/151770-chatgpt-performance-engineer",
+    "source": "Jobicy",
+    "categories": [
+      "marketing",
+      "design"
+    ],
+    "posted_at": "2026-09-26T11:05:29+00:00",
+    "salary": "325000–405000 USD / yearly",
+    "stipend": "",
+    "experience": "fresher",
+    "score": 33,
+    "reasons": [
+      "Marketing match",
+      "Fresher-friendly signal"
+    ]
+  },
+  {
+    "type": "job",
+    "title": "Technical Threat Investigator, Threat Intel Engineering",
+    "company": "OpenAI",
+    "location": "USA",
+    "location_key": "remote",
+    "mode": "Remote",
+    "url": "https://jobicy.com/jobs/151752-technical-threat-investigator-threat-intel-engineering",
+    "source": "Jobicy",
+    "categories": [
+      "sales",
+      "operations"
+    ],
+    "posted_at": "2026-09-26T11:05:25+00:00",
+    "salary": "230000–385000 USD / yearly",
+    "stipend": "",
+    "experience": "fresher",
+    "score": 33,
+    "reasons": [
+      "Sales match",
+      "Fresher-friendly signal"
+    ]
+  },
+  {
+    "type": "job",
+    "title": "Internal Sales Representative - France",
+    "company": "ChargePoint",
+    "location": "France,  UK",
+    "location_key": "remote",
+    "mode": "Remote",
+    "url": "https://jobicy.com/jobs/151747-internal-sales-representative-france",
+    "source": "Jobicy",
+    "categories": [
+      "marketing",
+      "sales"
+    ],
+    "posted_at": "2026-09-26T11:05:19+00:00",
+    "salary": "",
+    "stipend": "",
+    "experience": "fresher",
+    "score": 33,
+    "reasons": [
+      "Marketing match",
+      "Fresher-friendly signal"
+    ]
+  },
+  {
+    "type": "job",
+    "title": "Senior Software Engineer, Platform",
+    "company": "Branch",
+    "location": "USA",
+    "location_key": "remote",
+    "mode": "Remote",
+    "url": "https://jobicy.com/jobs/151717-senior-software-engineer-platform-2",
+    "source": "Jobicy",
+    "categories": [
+      "marketing",
+      "sales",
+      "design"
+    ],
+    "posted_at": "2026-09-26T11:00:45+00:00",
+    "salary": "160000–170000 USD / yearly",
+    "stipend": "",
+    "experience": "mid",
+    "score": 33,
+    "reasons": [
+      "Marketing match",
+      "Remote"
+    ]
+  },
+  {
+    "type": "job",
+    "title": "Staff Backend Engineer",
+    "company": "Future PLC",
+    "location": "USA",
+    "location_key": "remote",
+    "mode": "Remote",
+    "url": "https://jobicy.com/jobs/151706-staff-backend-engineer",
+    "source": "Jobicy",
+    "categories": [
+      "social",
+      "operations",
+      "design"
+    ],
+    "posted_at": "2026-09-26T11:00:32+00:00",
+    "salary": "200000–230000 USD / yearly",
+    "stipend": "",
+    "experience": "mid",
+    "score": 33,
+    "reasons": [
+      "Social match",
+      "Remote"
+    ]
+  },
+  {
+    "type": "job",
+    "title": "Senior Product Designer",
+    "company": "Future PLC",
+    "location": "USA",
+    "location_key": "remote",
+    "mode": "Remote",
+    "url": "https://jobicy.com/jobs/151702-senior-product-designer-2",
+    "source": "Jobicy",
+    "categories": [
+      "marketing",
+      "social",
+      "design"
+    ],
+    "posted_at": "2026-09-26T11:00:30+00:00",
+    "salary": "155000–200000 USD / yearly",
+    "stipend": "",
+    "experience": "mid",
+    "score": 33,
+    "reasons": [
+      "Marketing match",
+      "Remote"
+    ]
+  },
+  {
+    "type": "job",
+    "title": "Senior Software Engineer, Canvas Core",
+    "company": "Mural",
+    "location": "Argentina,  Canada,  UK",
+    "location_key": "remote",
+    "mode": "Remote",
+    "url": "https://jobicy.com/jobs/151703-senior-software-engineer-canvas-core",
+    "source": "Jobicy",
+    "categories": [
+      "marketing",
+      "design"
+    ],
+    "posted_at": "2026-09-26T11:00:12+00:00",
+    "salary": "82400–103000 GBP / yearly",
+    "stipend": "",
+    "experience": "fresher",
+    "score": 33,
+    "reasons": [
+      "Marketing match",
+      "Fresher-friendly signal"
+    ]
+  },
+  {
+    "type": "job",
+    "title": "AI Systems Engineering Subject Matter Expert",
+    "company": "TripleTen",
+    "location": "USA",
+    "location_key": "remote",
+    "mode": "Remote",
+    "url": "https://jobicy.com/jobs/144479-ai-systems-engineering-subject-matter-expert",
+    "source": "Jobicy",
+    "categories": [
+      "content",
+      "design"
+    ],
+    "posted_at": "2026-09-26T10:52:32+00:00",
+    "salary": "",
+    "stipend": "",
+    "experience": "fresher",
+    "score": 33,
+    "reasons": [
+      "Content match",
+      "Fresher-friendly signal"
+    ]
+  },
+  {
+    "type": "job",
+    "title": "Customer Success Manager",
+    "company": "GitLab",
+    "location": "USA",
+    "location_key": "remote",
+    "mode": "Remote",
+    "url": "https://jobicy.com/jobs/151576-customer-success-manager-22",
+    "source": "Jobicy",
+    "categories": [
+      "marketing",
+      "sales",
+      "design"
+    ],
+    "posted_at": "2026-09-26T09:58:39+00:00",
+    "salary": "",
+    "stipend": "",
+    "experience": "mid",
+    "score": 33,
+    "reasons": [
+      "Marketing match",
+      "Remote"
+    ]
+  },
+  {
+    "type": "job",
+    "title": "Senior Software Engineer (Storage) - remote in the US",
+    "company": "Mirantis",
+    "location": "USA",
+    "location_key": "remote",
+    "mode": "Remote",
+    "url": "https://jobicy.com/jobs/149690-senior-software-engineer-storage-remote-in-the-us",
+    "source": "Jobicy",
+    "categories": [
+      "marketing",
+      "operations",
+      "design"
+    ],
+    "posted_at": "2026-09-26T09:58:34+00:00",
+    "salary": "",
+    "stipend": "",
+    "experience": "mid",
+    "score": 33,
+    "reasons": [
+      "Marketing match",
+      "Remote"
+    ]
+  },
+  {
+    "type": "job",
+    "title": "Sr. Customer Success Manager",
+    "company": "Instructure",
+    "location": "USA",
+    "location_key": "remote",
+    "mode": "Remote",
+    "url": "https://jobicy.com/jobs/151577-sr-customer-success-manager-3",
+    "source": "Jobicy",
+    "categories": [
+      "marketing",
+      "sales",
+      "design"
+    ],
+    "posted_at": "2026-09-26T09:58:31+00:00",
+    "salary": "",
+    "stipend": "",
+    "experience": "mid",
+    "score": 33,
     "reasons": [
       "Marketing match",
       "Remote"
@@ -3923,476 +4263,6 @@
   },
   {
     "type": "job",
-    "title": "Senior Product Manager – Marketplace (100% Remote within Spain)",
-    "company": "Docplanner",
-    "location": "Poland,  Spain",
-    "location_key": "remote",
-    "mode": "Remote",
-    "url": "https://jobicy.com/jobs/154010-senior-product-manager-marketplace-100-remote-within-spain",
-    "source": "Jobicy",
-    "categories": [
-      "marketing",
-      "operations",
-      "design"
-    ],
-    "posted_at": "2026-09-24T12:25:14+00:00",
-    "salary": "",
-    "stipend": "",
-    "experience": "mid",
-    "score": 33,
-    "reasons": [
-      "Marketing match",
-      "Remote"
-    ]
-  },
-  {
-    "type": "job",
-    "title": "Senior Product Manager – Marketplace (100% Remote within Poland)",
-    "company": "Docplanner",
-    "location": "Poland,  Spain",
-    "location_key": "remote",
-    "mode": "Remote",
-    "url": "https://jobicy.com/jobs/154006-senior-product-manager-marketplace-100-remote-within-poland",
-    "source": "Jobicy",
-    "categories": [
-      "marketing",
-      "operations",
-      "design"
-    ],
-    "posted_at": "2026-09-24T12:25:12+00:00",
-    "salary": "",
-    "stipend": "",
-    "experience": "mid",
-    "score": 33,
-    "reasons": [
-      "Marketing match",
-      "Remote"
-    ]
-  },
-  {
-    "type": "job",
-    "title": "Sr. Quality Engineer",
-    "company": "CentralReach",
-    "location": "USA",
-    "location_key": "remote",
-    "mode": "Remote",
-    "url": "https://jobicy.com/jobs/153999-sr-quality-engineer",
-    "source": "Jobicy",
-    "categories": [
-      "marketing",
-      "social"
-    ],
-    "posted_at": "2026-09-24T11:38:32+00:00",
-    "salary": "115000–140000 USD / yearly",
-    "stipend": "",
-    "experience": "fresher",
-    "score": 33,
-    "reasons": [
-      "Marketing match",
-      "Fresher-friendly signal"
-    ]
-  },
-  {
-    "type": "job",
-    "title": "CPS Solution Architect",
-    "company": "Collibra",
-    "location": "USA",
-    "location_key": "remote",
-    "mode": "Remote",
-    "url": "https://jobicy.com/jobs/154003-cps-solution-architect",
-    "source": "Jobicy",
-    "categories": [
-      "marketing",
-      "sales",
-      "design"
-    ],
-    "posted_at": "2026-09-24T11:38:31+00:00",
-    "salary": "96000–120000 USD / yearly",
-    "stipend": "",
-    "experience": "mid",
-    "score": 33,
-    "reasons": [
-      "Marketing match",
-      "Remote"
-    ]
-  },
-  {
-    "type": "job",
-    "title": "Business Development Representative",
-    "company": "Garner Health",
-    "location": "USA",
-    "location_key": "remote",
-    "mode": "Remote",
-    "url": "https://jobicy.com/jobs/153993-business-development-representative-16",
-    "source": "Jobicy",
-    "categories": [
-      "marketing",
-      "sales",
-      "design"
-    ],
-    "posted_at": "2026-09-24T11:35:32+00:00",
-    "salary": "70000–75000 USD / yearly",
-    "stipend": "",
-    "experience": "mid",
-    "score": 33,
-    "reasons": [
-      "Marketing match",
-      "Remote"
-    ]
-  },
-  {
-    "type": "job",
-    "title": "Senior Product Manager",
-    "company": "Best Egg",
-    "location": "USA",
-    "location_key": "remote",
-    "mode": "Remote",
-    "url": "https://jobicy.com/jobs/153985-senior-product-manager-8",
-    "source": "Jobicy",
-    "categories": [
-      "marketing",
-      "operations",
-      "design"
-    ],
-    "posted_at": "2026-09-24T11:35:30+00:00",
-    "salary": "150000–170000 USD / yearly",
-    "stipend": "",
-    "experience": "mid",
-    "score": 33,
-    "reasons": [
-      "Marketing match",
-      "Remote"
-    ]
-  },
-  {
-    "type": "job",
-    "title": "Security Software Engineer",
-    "company": "Canonical",
-    "location": "Anywhere",
-    "location_key": "remote",
-    "mode": "Remote",
-    "url": "https://jobicy.com/jobs/149550-security-software-engineer",
-    "source": "Jobicy",
-    "categories": [
-      "social",
-      "design"
-    ],
-    "posted_at": "2026-09-24T04:55:06+00:00",
-    "salary": "",
-    "stipend": "",
-    "experience": "fresher",
-    "score": 33,
-    "reasons": [
-      "Social match",
-      "Fresher-friendly signal"
-    ]
-  },
-  {
-    "type": "job",
-    "title": "Area Sales Manager ( Emilia-Romagna region)",
-    "company": "Ajax Systems",
-    "location": "Italy",
-    "location_key": "remote",
-    "mode": "Remote",
-    "url": "https://jobicy.com/jobs/152576-area-sales-manager-emilia-romagna-region",
-    "source": "Jobicy",
-    "categories": [
-      "marketing",
-      "sales"
-    ],
-    "posted_at": "2026-09-24T04:50:09+00:00",
-    "salary": "",
-    "stipend": "",
-    "experience": "fresher",
-    "score": 33,
-    "reasons": [
-      "Marketing match",
-      "Fresher-friendly signal"
-    ]
-  },
-  {
-    "type": "job",
-    "title": "Full Stack Engineer (Vue + Nest)",
-    "company": "Oowlish Technology",
-    "location": "Argentina,  Brazil,  Mexico",
-    "location_key": "remote",
-    "mode": "Remote",
-    "url": "https://jobicy.com/jobs/151493-full-stack-engineer-vue-nest",
-    "source": "Jobicy",
-    "categories": [
-      "marketing",
-      "social"
-    ],
-    "posted_at": "2026-09-24T04:40:28+00:00",
-    "salary": "",
-    "stipend": "",
-    "experience": "fresher",
-    "score": 33,
-    "reasons": [
-      "Marketing match",
-      "Fresher-friendly signal"
-    ]
-  },
-  {
-    "type": "job",
-    "title": "Senior Workday Platform Engineer",
-    "company": "Natera",
-    "location": "USA",
-    "location_key": "remote",
-    "mode": "Remote",
-    "url": "https://jobicy.com/jobs/149595-senior-workday-platform-engineer",
-    "source": "Jobicy",
-    "categories": [
-      "social",
-      "design"
-    ],
-    "posted_at": "2026-09-24T04:40:20+00:00",
-    "salary": "128800–161050 USD / yearly",
-    "stipend": "",
-    "experience": "fresher",
-    "score": 33,
-    "reasons": [
-      "Social match",
-      "Fresher-friendly signal"
-    ]
-  },
-  {
-    "type": "job",
-    "title": "Staff Security Architect",
-    "company": "Kraken",
-    "location": "EMEA,  LATAM,  Canada,  Europe",
-    "location_key": "remote",
-    "mode": "Remote",
-    "url": "https://jobicy.com/jobs/144336-staff-security-architect",
-    "source": "Jobicy",
-    "categories": [
-      "social",
-      "design"
-    ],
-    "posted_at": "2026-09-24T04:40:09+00:00",
-    "salary": "",
-    "stipend": "",
-    "experience": "fresher",
-    "score": 33,
-    "reasons": [
-      "Social match",
-      "Fresher-friendly signal"
-    ]
-  },
-  {
-    "type": "job",
-    "title": "Software Engineer",
-    "company": "FanDuel",
-    "location": "UK",
-    "location_key": "remote",
-    "mode": "Remote",
-    "url": "https://jobicy.com/jobs/151472-software-engineer-8",
-    "source": "Jobicy",
-    "categories": [
-      "marketing",
-      "design"
-    ],
-    "posted_at": "2026-09-24T04:35:22+00:00",
-    "salary": "",
-    "stipend": "",
-    "experience": "fresher",
-    "score": 33,
-    "reasons": [
-      "Marketing match",
-      "Fresher-friendly signal"
-    ]
-  },
-  {
-    "type": "job",
-    "title": "Background Investigator",
-    "company": "CertiK",
-    "location": "Europe,  UK,  USA",
-    "location_key": "remote",
-    "mode": "Remote",
-    "url": "https://jobicy.com/jobs/151466-background-investigator",
-    "source": "Jobicy",
-    "categories": [
-      "content",
-      "social",
-      "sales"
-    ],
-    "posted_at": "2026-09-24T04:35:20+00:00",
-    "salary": "60000–100000 USD / yearly",
-    "stipend": "",
-    "experience": "mid",
-    "score": 33,
-    "reasons": [
-      "Content match",
-      "Remote"
-    ]
-  },
-  {
-    "type": "job",
-    "title": "Commercial/Transactional Lawyer",
-    "company": "Brain Co.",
-    "location": "USA",
-    "location_key": "remote",
-    "mode": "Remote",
-    "url": "https://jobicy.com/jobs/151479-commercial-transactional-lawyer",
-    "source": "Jobicy",
-    "categories": [
-      "operations",
-      "design"
-    ],
-    "posted_at": "2026-09-24T04:35:19+00:00",
-    "salary": "",
-    "stipend": "",
-    "experience": "fresher",
-    "score": 33,
-    "reasons": [
-      "Operations match",
-      "Fresher-friendly signal"
-    ]
-  },
-  {
-    "type": "job",
-    "title": "Blockchain Security Engineer - (Solidity / Rust / Golang)",
-    "company": "CertiK",
-    "location": "USA",
-    "location_key": "remote",
-    "mode": "Remote",
-    "url": "https://jobicy.com/jobs/151470-blockchain-security-engineer-solidity-rust-golang",
-    "source": "Jobicy",
-    "categories": [
-      "sales",
-      "design"
-    ],
-    "posted_at": "2026-09-24T04:35:13+00:00",
-    "salary": "102000–180000 USD / yearly",
-    "stipend": "",
-    "experience": "fresher",
-    "score": 33,
-    "reasons": [
-      "Sales match",
-      "Fresher-friendly signal"
-    ]
-  },
-  {
-    "type": "job",
-    "title": "Sales Engineer",
-    "company": "Brain Co.",
-    "location": "USA",
-    "location_key": "remote",
-    "mode": "Remote",
-    "url": "https://jobicy.com/jobs/151477-sales-engineer-3",
-    "source": "Jobicy",
-    "categories": [
-      "marketing",
-      "sales",
-      "design"
-    ],
-    "posted_at": "2026-09-24T04:35:12+00:00",
-    "salary": "",
-    "stipend": "",
-    "experience": "mid",
-    "score": 33,
-    "reasons": [
-      "Marketing match",
-      "Remote"
-    ]
-  },
-  {
-    "type": "job",
-    "title": "President of Government Strategy & Partnerships",
-    "company": "Brain Co.",
-    "location": "USA",
-    "location_key": "remote",
-    "mode": "Remote",
-    "url": "https://jobicy.com/jobs/151471-president-of-government-strategy-partnerships",
-    "source": "Jobicy",
-    "categories": [
-      "marketing",
-      "sales",
-      "design"
-    ],
-    "posted_at": "2026-09-24T04:35:10+00:00",
-    "salary": "",
-    "stipend": "",
-    "experience": "mid",
-    "score": 33,
-    "reasons": [
-      "Marketing match",
-      "Remote"
-    ]
-  },
-  {
-    "type": "job",
-    "title": "Corporate Account Executive",
-    "company": "LaunchDarkly",
-    "location": "USA",
-    "location_key": "remote",
-    "mode": "Remote",
-    "url": "https://jobicy.com/jobs/153977-corporate-account-executive",
-    "source": "Jobicy",
-    "categories": [
-      "social",
-      "sales",
-      "operations"
-    ],
-    "posted_at": "2026-09-23T15:19:31+00:00",
-    "salary": "116000–187660 USD / yearly",
-    "stipend": "",
-    "experience": "mid",
-    "score": 33,
-    "reasons": [
-      "Social match",
-      "Remote"
-    ]
-  },
-  {
-    "type": "job",
-    "title": "Backend Engineer, Observability",
-    "company": "LaunchDarkly",
-    "location": "USA",
-    "location_key": "remote",
-    "mode": "Remote",
-    "url": "https://jobicy.com/jobs/153974-backend-engineer-observability",
-    "source": "Jobicy",
-    "categories": [
-      "social",
-      "operations",
-      "design"
-    ],
-    "posted_at": "2026-09-23T15:19:30+00:00",
-    "salary": "145500–235400 USD / yearly",
-    "stipend": "",
-    "experience": "mid",
-    "score": 33,
-    "reasons": [
-      "Social match",
-      "Remote"
-    ]
-  },
-  {
-    "type": "job",
-    "title": "Country Manager, Canada",
-    "company": "Tenable",
-    "location": "Canada",
-    "location_key": "remote",
-    "mode": "Remote",
-    "url": "https://jobicy.com/jobs/153968-country-manager-canada",
-    "source": "Jobicy",
-    "categories": [
-      "marketing",
-      "sales"
-    ],
-    "posted_at": "2026-09-23T15:18:13+00:00",
-    "salary": "",
-    "stipend": "",
-    "experience": "fresher",
-    "score": 33,
-    "reasons": [
-      "Marketing match",
-      "Fresher-friendly signal"
-    ]
-  },
-  {
-    "type": "job",
     "title": "Technical Product Manager AI Stockbroking App",
     "company": "Bjak ",
     "location": "Germany",
@@ -4651,6 +4521,28 @@
   },
   {
     "type": "job",
+    "title": "Claims Specialist",
+    "company": "Resilience",
+    "location": "USA",
+    "location_key": "remote",
+    "mode": "Remote",
+    "url": "https://jobicy.com/jobs/151662-claims-specialist",
+    "source": "Jobicy",
+    "categories": [
+      "social"
+    ],
+    "posted_at": "2026-09-26T10:52:18+00:00",
+    "salary": "100000–130000 USD / yearly",
+    "stipend": "",
+    "experience": "fresher",
+    "score": 27,
+    "reasons": [
+      "Social match",
+      "Fresher-friendly signal"
+    ]
+  },
+  {
+    "type": "job",
     "title": "Inbound Support Coordinator",
     "company": "HomeLight",
     "location": "Philippines",
@@ -4668,28 +4560,6 @@
     "score": 27,
     "reasons": [
       "Sales match",
-      "Fresher-friendly signal"
-    ]
-  },
-  {
-    "type": "job",
-    "title": "Associate Technical Writer (Remote Eligible - Costa Rica)",
-    "company": "Smartsheet",
-    "location": "Costa Rica",
-    "location_key": "remote",
-    "mode": "Remote",
-    "url": "https://jobicy.com/jobs/153992-associate-technical-writer-remote-eligible-costa-rica",
-    "source": "Jobicy",
-    "categories": [
-      "content"
-    ],
-    "posted_at": "2026-09-24T11:35:31+00:00",
-    "salary": "",
-    "stipend": "",
-    "experience": "fresher",
-    "score": 27,
-    "reasons": [
-      "Content match",
       "Fresher-friendly signal"
     ]
   },
@@ -4780,6 +4650,235 @@
     "reasons": [
       "Operations match",
       "Fresher-friendly signal"
+    ]
+  },
+  {
+    "type": "job",
+    "title": "Senior Software Engineer (Backend)",
+    "company": "TeamSnap",
+    "location": "USA",
+    "location_key": "remote",
+    "mode": "Remote",
+    "url": "https://jobicy.com/jobs/151776-senior-software-engineer-backend-2",
+    "source": "Jobicy",
+    "categories": [
+      "marketing",
+      "design"
+    ],
+    "posted_at": "2026-09-26T11:10:05+00:00",
+    "salary": "150000– USD / yearly",
+    "stipend": "",
+    "experience": "mid",
+    "score": 23,
+    "reasons": [
+      "Marketing match",
+      "Remote"
+    ]
+  },
+  {
+    "type": "job",
+    "title": "Senior Product Designer",
+    "company": "TeamSnap",
+    "location": "USA",
+    "location_key": "remote",
+    "mode": "Remote",
+    "url": "https://jobicy.com/jobs/151771-senior-product-designer-3",
+    "source": "Jobicy",
+    "categories": [
+      "marketing",
+      "design"
+    ],
+    "posted_at": "2026-09-26T11:05:30+00:00",
+    "salary": "145000– USD / yearly",
+    "stipend": "",
+    "experience": "mid",
+    "score": 23,
+    "reasons": [
+      "Marketing match",
+      "Remote"
+    ]
+  },
+  {
+    "type": "job",
+    "title": "Senior Marketing Manager",
+    "company": "TeamSnap",
+    "location": "USA",
+    "location_key": "remote",
+    "mode": "Remote",
+    "url": "https://jobicy.com/jobs/151766-senior-marketing-manager",
+    "source": "Jobicy",
+    "categories": [
+      "marketing",
+      "sales"
+    ],
+    "posted_at": "2026-09-26T11:05:28+00:00",
+    "salary": "115000– USD / yearly",
+    "stipend": "",
+    "experience": "mid",
+    "score": 23,
+    "reasons": [
+      "Marketing match",
+      "Remote"
+    ]
+  },
+  {
+    "type": "job",
+    "title": "Enterprise Account Executive",
+    "company": "TeamSnap",
+    "location": "USA",
+    "location_key": "remote",
+    "mode": "Remote",
+    "url": "https://jobicy.com/jobs/151754-enterprise-account-executive-14",
+    "source": "Jobicy",
+    "categories": [
+      "marketing",
+      "sales"
+    ],
+    "posted_at": "2026-09-26T11:05:26+00:00",
+    "salary": "",
+    "stipend": "",
+    "experience": "mid",
+    "score": 23,
+    "reasons": [
+      "Marketing match",
+      "Remote"
+    ]
+  },
+  {
+    "type": "job",
+    "title": "Security Engineer, Agent Security",
+    "company": "OpenAI",
+    "location": "USA",
+    "location_key": "remote",
+    "mode": "Remote",
+    "url": "https://jobicy.com/jobs/151775-security-engineer-agent-security",
+    "source": "Jobicy",
+    "categories": [
+      "design"
+    ],
+    "posted_at": "2026-09-26T11:05:21+00:00",
+    "salary": "234400–385000 USD / yearly",
+    "stipend": "",
+    "experience": "fresher",
+    "score": 23,
+    "reasons": [
+      "Design match",
+      "Fresher-friendly signal"
+    ]
+  },
+  {
+    "type": "job",
+    "title": "Sr. Security Engineer",
+    "company": "FastSpring",
+    "location": "USA",
+    "location_key": "remote",
+    "mode": "Remote",
+    "url": "https://jobicy.com/jobs/151709-sr-security-engineer",
+    "source": "Jobicy",
+    "categories": [
+      "sales",
+      "design"
+    ],
+    "posted_at": "2026-09-26T11:00:33+00:00",
+    "salary": "155000–187000 USD / yearly",
+    "stipend": "",
+    "experience": "mid",
+    "score": 23,
+    "reasons": [
+      "Sales match",
+      "Remote"
+    ]
+  },
+  {
+    "type": "job",
+    "title": "Lead Android Engineer",
+    "company": "Future PLC",
+    "location": "USA",
+    "location_key": "remote",
+    "mode": "Remote",
+    "url": "https://jobicy.com/jobs/151697-lead-android-engineer",
+    "source": "Jobicy",
+    "categories": [
+      "social",
+      "design"
+    ],
+    "posted_at": "2026-09-26T11:00:26+00:00",
+    "salary": "190000–230000 USD / yearly",
+    "stipend": "",
+    "experience": "mid",
+    "score": 23,
+    "reasons": [
+      "Social match",
+      "Remote"
+    ]
+  },
+  {
+    "type": "job",
+    "title": "Applied AI Engineer",
+    "company": "Future PLC",
+    "location": "USA",
+    "location_key": "remote",
+    "mode": "Remote",
+    "url": "https://jobicy.com/jobs/151692-applied-ai-engineer",
+    "source": "Jobicy",
+    "categories": [
+      "social",
+      "design"
+    ],
+    "posted_at": "2026-09-26T11:00:24+00:00",
+    "salary": "215000–250000 USD / yearly",
+    "stipend": "",
+    "experience": "unknown",
+    "score": 23,
+    "reasons": [
+      "Social match",
+      "Remote"
+    ]
+  },
+  {
+    "type": "job",
+    "title": "Staff Backend Engineer, AI Systems",
+    "company": "Mural",
+    "location": "UK,  USA",
+    "location_key": "remote",
+    "mode": "Remote",
+    "url": "https://jobicy.com/jobs/151711-staff-backend-engineer-ai-systems",
+    "source": "Jobicy",
+    "categories": [
+      "marketing",
+      "design"
+    ],
+    "posted_at": "2026-09-26T11:00:16+00:00",
+    "salary": "110416–138020 GBP / yearly",
+    "stipend": "",
+    "experience": "unknown",
+    "score": 23,
+    "reasons": [
+      "Marketing match",
+      "Remote"
+    ]
+  },
+  {
+    "type": "job",
+    "title": "Senior Software Engineer, Growth",
+    "company": "Mural",
+    "location": "Argentina",
+    "location_key": "remote",
+    "mode": "Remote",
+    "url": "https://jobicy.com/jobs/151707-senior-software-engineer-growth",
+    "source": "Jobicy",
+    "categories": [
+      "marketing",
+      "design"
+    ],
+    "posted_at": "2026-09-26T11:00:13+00:00",
+    "salary": "",
+    "stipend": "",
+    "experience": "mid",
+    "score": 23,
+    "reasons": [
+      "Marketing match",
+      "Remote"
     ]
   },
   {
@@ -5127,231 +5226,6 @@
   },
   {
     "type": "job",
-    "title": "Account Executive - West",
-    "company": "Garner Health",
-    "location": "USA",
-    "location_key": "remote",
-    "mode": "Remote",
-    "url": "https://jobicy.com/jobs/153991-account-executive-west",
-    "source": "Jobicy",
-    "categories": [
-      "sales",
-      "design"
-    ],
-    "posted_at": "2026-09-24T11:35:33+00:00",
-    "salary": "160000–175000 USD / yearly",
-    "stipend": "",
-    "experience": "mid",
-    "score": 23,
-    "reasons": [
-      "Sales match",
-      "Remote"
-    ]
-  },
-  {
-    "type": "job",
-    "title": "Account Executive - Southwest",
-    "company": "Garner Health",
-    "location": "USA",
-    "location_key": "remote",
-    "mode": "Remote",
-    "url": "https://jobicy.com/jobs/153989-account-executive-southwest",
-    "source": "Jobicy",
-    "categories": [
-      "sales",
-      "design"
-    ],
-    "posted_at": "2026-09-24T11:35:32+00:00",
-    "salary": "160000–175000 USD / yearly",
-    "stipend": "",
-    "experience": "mid",
-    "score": 23,
-    "reasons": [
-      "Sales match",
-      "Remote"
-    ]
-  },
-  {
-    "type": "job",
-    "title": "Account Executive - Northeast",
-    "company": "Garner Health",
-    "location": "USA",
-    "location_key": "remote",
-    "mode": "Remote",
-    "url": "https://jobicy.com/jobs/153986-account-executive-northeast",
-    "source": "Jobicy",
-    "categories": [
-      "sales",
-      "design"
-    ],
-    "posted_at": "2026-09-24T11:35:32+00:00",
-    "salary": "160000–175000 USD / yearly",
-    "stipend": "",
-    "experience": "mid",
-    "score": 23,
-    "reasons": [
-      "Sales match",
-      "Remote"
-    ]
-  },
-  {
-    "type": "job",
-    "title": "Junior Linux Kernel Engineer - Ubuntu",
-    "company": "Canonical",
-    "location": "Anywhere",
-    "location_key": "remote",
-    "mode": "Remote",
-    "url": "https://jobicy.com/jobs/149520-junior-linux-kernel-engineer-ubuntu",
-    "source": "Jobicy",
-    "categories": [
-      "social"
-    ],
-    "posted_at": "2026-09-24T04:55:08+00:00",
-    "salary": "",
-    "stipend": "",
-    "experience": "fresher",
-    "score": 23,
-    "reasons": [
-      "Social match",
-      "Fresher-friendly signal"
-    ]
-  },
-  {
-    "type": "job",
-    "title": "Support Engineering Manager",
-    "company": "Canonical",
-    "location": "Anywhere",
-    "location_key": "remote",
-    "mode": "Remote",
-    "url": "https://jobicy.com/jobs/149554-support-engineering-manager",
-    "source": "Jobicy",
-    "categories": [
-      "marketing"
-    ],
-    "posted_at": "2026-09-24T04:55:07+00:00",
-    "salary": "",
-    "stipend": "",
-    "experience": "fresher",
-    "score": 23,
-    "reasons": [
-      "Marketing match",
-      "Fresher-friendly signal"
-    ]
-  },
-  {
-    "type": "job",
-    "title": "Senior Platform Security Engineer (100% Remote within Spain)",
-    "company": "Docplanner",
-    "location": "Spain",
-    "location_key": "remote",
-    "mode": "Remote",
-    "url": "https://jobicy.com/jobs/151520-senior-platform-security-engineer-100-remote-within-spain",
-    "source": "Jobicy",
-    "categories": [
-      "design"
-    ],
-    "posted_at": "2026-09-24T04:40:25+00:00",
-    "salary": "",
-    "stipend": "",
-    "experience": "fresher",
-    "score": 23,
-    "reasons": [
-      "Design match",
-      "Fresher-friendly signal"
-    ]
-  },
-  {
-    "type": "job",
-    "title": "Project Manager",
-    "company": "Verra Mobility",
-    "location": "USA",
-    "location_key": "remote",
-    "mode": "Remote",
-    "url": "https://jobicy.com/jobs/151512-project-manager-4",
-    "source": "Jobicy",
-    "categories": [
-      "operations"
-    ],
-    "posted_at": "2026-09-24T04:40:13+00:00",
-    "salary": "",
-    "stipend": "",
-    "experience": "fresher",
-    "score": 23,
-    "reasons": [
-      "Operations match",
-      "Fresher-friendly signal"
-    ]
-  },
-  {
-    "type": "job",
-    "title": "Senior Platform Security Engineer (100% Remote within Poland)",
-    "company": "Docplanner",
-    "location": "Poland",
-    "location_key": "remote",
-    "mode": "Remote",
-    "url": "https://jobicy.com/jobs/151521-senior-platform-security-engineer-100-remote-within-poland",
-    "source": "Jobicy",
-    "categories": [
-      "design"
-    ],
-    "posted_at": "2026-09-24T04:40:06+00:00",
-    "salary": "",
-    "stipend": "",
-    "experience": "fresher",
-    "score": 23,
-    "reasons": [
-      "Design match",
-      "Fresher-friendly signal"
-    ]
-  },
-  {
-    "type": "job",
-    "title": "Builder/Architect/Engineer Expert Consultant (Part-Time Contractor)",
-    "company": "Brain Co.",
-    "location": "USA",
-    "location_key": "remote",
-    "mode": "Remote",
-    "url": "https://jobicy.com/jobs/151474-builder-architect-engineer-expert-consultant-part-time-contractor",
-    "source": "Jobicy",
-    "categories": [
-      "operations",
-      "design"
-    ],
-    "posted_at": "2026-09-24T04:35:11+00:00",
-    "salary": "",
-    "stipend": "",
-    "experience": "unknown",
-    "score": 23,
-    "reasons": [
-      "Operations match",
-      "Remote"
-    ]
-  },
-  {
-    "type": "job",
-    "title": "Atlassian Platform Architect",
-    "company": "Datavant",
-    "location": "USA",
-    "location_key": "remote",
-    "mode": "Remote",
-    "url": "https://jobicy.com/jobs/153965-atlassian-platform-architect",
-    "source": "Jobicy",
-    "categories": [
-      "marketing",
-      "design"
-    ],
-    "posted_at": "2026-09-23T15:18:12+00:00",
-    "salary": "160000–180000 USD / yearly",
-    "stipend": "",
-    "experience": "mid",
-    "score": 23,
-    "reasons": [
-      "Marketing match",
-      "Remote"
-    ]
-  },
-  {
-    "type": "job",
     "title": "Senior Growth Product Manager AI Native",
     "company": "Magic Eden",
     "location": "Melbourne",
@@ -5645,23 +5519,23 @@
   },
   {
     "type": "job",
-    "title": "Underwriter",
-    "company": "Resilience",
-    "location": "USA",
+    "title": "Analista de Customer Service, Delivery Station Customer Support",
+    "company": "Amazon.com",
+    "location": "Brazil",
     "location_key": "remote",
     "mode": "Remote",
-    "url": "https://jobicy.com/jobs/153998-underwriter",
+    "url": "https://jobicy.com/jobs/147502-analista-de-customer-service-delivery-station-customer-support",
     "source": "Jobicy",
     "categories": [
-      "marketing"
+      "content"
     ],
-    "posted_at": "2026-09-24T11:38:30+00:00",
-    "salary": "75000–90000 USD / yearly",
+    "posted_at": "2026-09-26T10:50:06+00:00",
+    "salary": "",
     "stipend": "",
     "experience": "junior",
     "score": 19,
     "reasons": [
-      "Marketing match",
+      "Content match",
       "Early-career signal"
     ]
   },
@@ -5706,6 +5580,116 @@
     "score": 17,
     "reasons": [
       "Operations match",
+      "Remote"
+    ]
+  },
+  {
+    "type": "job",
+    "title": "Security Engineer, Infrastructure Security",
+    "company": "OpenAI",
+    "location": "USA",
+    "location_key": "remote",
+    "mode": "Remote",
+    "url": "https://jobicy.com/jobs/151778-security-engineer-infrastructure-security",
+    "source": "Jobicy",
+    "categories": [
+      "design"
+    ],
+    "posted_at": "2026-09-26T11:10:10+00:00",
+    "salary": "230000–385000 USD / yearly",
+    "stipend": "",
+    "experience": "unknown",
+    "score": 13,
+    "reasons": [
+      "Design match",
+      "Remote"
+    ]
+  },
+  {
+    "type": "job",
+    "title": "Staff Backend Engineer",
+    "company": "TeamSnap",
+    "location": "USA",
+    "location_key": "remote",
+    "mode": "Remote",
+    "url": "https://jobicy.com/jobs/151779-staff-backend-engineer-2",
+    "source": "Jobicy",
+    "categories": [
+      "design"
+    ],
+    "posted_at": "2026-09-26T11:10:07+00:00",
+    "salary": "200000– USD / yearly",
+    "stipend": "",
+    "experience": "mid",
+    "score": 13,
+    "reasons": [
+      "Design match",
+      "Remote"
+    ]
+  },
+  {
+    "type": "job",
+    "title": "Security Engineer, Detection and Response",
+    "company": "OpenAI",
+    "location": "USA",
+    "location_key": "remote",
+    "mode": "Remote",
+    "url": "https://jobicy.com/jobs/151765-security-engineer-detection-and-response",
+    "source": "Jobicy",
+    "categories": [
+      "design"
+    ],
+    "posted_at": "2026-09-26T11:05:08+00:00",
+    "salary": "293000–385000 USD / yearly",
+    "stipend": "",
+    "experience": "unknown",
+    "score": 13,
+    "reasons": [
+      "Design match",
+      "Remote"
+    ]
+  },
+  {
+    "type": "job",
+    "title": "Design Technologist",
+    "company": "Elation Health",
+    "location": "Canada,  USA",
+    "location_key": "remote",
+    "mode": "Remote",
+    "url": "https://jobicy.com/jobs/147498-design-technologist",
+    "source": "Jobicy",
+    "categories": [
+      "design"
+    ],
+    "posted_at": "2026-09-26T10:50:16+00:00",
+    "salary": "",
+    "stipend": "",
+    "experience": "mid",
+    "score": 13,
+    "reasons": [
+      "Design match",
+      "Remote"
+    ]
+  },
+  {
+    "type": "job",
+    "title": "Ontology Architect",
+    "company": "Tiger Analytics",
+    "location": "USA",
+    "location_key": "remote",
+    "mode": "Remote",
+    "url": "https://jobicy.com/jobs/147512-ontology-architect",
+    "source": "Jobicy",
+    "categories": [
+      "design"
+    ],
+    "posted_at": "2026-09-26T10:50:10+00:00",
+    "salary": "",
+    "stipend": "",
+    "experience": "mid",
+    "score": 13,
+    "reasons": [
+      "Design match",
       "Remote"
     ]
   },
@@ -5794,50 +5778,6 @@
     "score": 13,
     "reasons": [
       "Social match",
-      "Remote"
-    ]
-  },
-  {
-    "type": "job",
-    "title": "Product Manager",
-    "company": "Limbic",
-    "location": "USA",
-    "location_key": "remote",
-    "mode": "Remote",
-    "url": "https://jobicy.com/jobs/151483-product-manager-3",
-    "source": "Jobicy",
-    "categories": [
-      "operations"
-    ],
-    "posted_at": "2026-09-24T04:45:22+00:00",
-    "salary": "",
-    "stipend": "",
-    "experience": "mid",
-    "score": 13,
-    "reasons": [
-      "Operations match",
-      "Remote"
-    ]
-  },
-  {
-    "type": "job",
-    "title": "Senior Product Designer",
-    "company": "RevenueCat",
-    "location": "EMEA,  LATAM,  Canada,  USA",
-    "location_key": "remote",
-    "mode": "Remote",
-    "url": "https://jobicy.com/jobs/153973-senior-product-designer-13",
-    "source": "Jobicy",
-    "categories": [
-      "design"
-    ],
-    "posted_at": "2026-09-23T15:19:29+00:00",
-    "salary": "220000–220000 USD / yearly",
-    "stipend": "",
-    "experience": "mid",
-    "score": 13,
-    "reasons": [
-      "Design match",
       "Remote"
     ]
   },
