@@ -16,6 +16,6 @@ jobs:
         run: |
           git config user.name "Radar Bot"
           git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
-          git add data/opportunities.json feed.xml
+          git add data/opportunities.json data/health.json feed.xml
           git diff --cached --quiet || git commit -m "Refresh RADAR opportunity database"
           git push
