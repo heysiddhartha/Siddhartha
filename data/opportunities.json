@@ -16,6 +16,12 @@
     "posted_at": "2026-09-26T11:00:09+00:00",
     "salary": "100000–110000 USD / yearly",
     "stipend": "",
+    "employment_type": [
+      "Part-Time"
+    ],
+    "applicants": null,
+    "industry": "",
+    "function": "",
     "experience": "fresher",
     "score": 40,
     "reasons": [
@@ -40,6 +46,12 @@
     "posted_at": "2026-09-26T10:50:08+00:00",
     "salary": "",
     "stipend": "",
+    "employment_type": [
+      "Full-Time"
+    ],
+    "applicants": null,
+    "industry": "",
+    "function": "",
     "experience": "fresher",
     "score": 40,
     "reasons": [
@@ -63,6 +75,12 @@
     "posted_at": "2026-09-25T04:15:17+00:00",
     "salary": "37250–83800 USD / yearly",
     "stipend": "",
+    "employment_type": [
+      "Full-Time"
+    ],
+    "applicants": null,
+    "industry": "",
+    "function": "",
     "experience": "fresher",
     "score": 34,
     "reasons": [
@@ -86,6 +104,10 @@
     "posted_at": "2026-09-24T16:00:06+00:00",
     "salary": "",
     "stipend": "",
+    "employment_type": "",
+    "applicants": null,
+    "industry": "",
+    "function": "",
     "experience": "fresher",
     "score": 33,
     "reasons": [
@@ -110,6 +132,10 @@
     "posted_at": "2026-09-18T13:29:53+00:00",
     "salary": "",
     "stipend": "",
+    "employment_type": "",
+    "applicants": null,
+    "industry": "",
+    "function": "",
     "experience": "fresher",
     "score": 33,
     "reasons": [
@@ -134,6 +160,10 @@
     "posted_at": "2026-09-14T00:00:12+00:00",
     "salary": "",
     "stipend": "",
+    "employment_type": "",
+    "applicants": null,
+    "industry": "",
+    "function": "",
     "experience": "fresher",
     "score": 33,
     "reasons": [
@@ -158,6 +188,10 @@
     "posted_at": "2026-08-17T16:00:38+00:00",
     "salary": "",
     "stipend": "",
+    "employment_type": "",
+    "applicants": null,
+    "industry": "",
+    "function": "",
     "experience": "fresher",
     "score": 33,
     "reasons": [
@@ -182,6 +216,12 @@
     "posted_at": "2026-09-26T11:00:37+00:00",
     "salary": "160000–200000 USD / yearly",
     "stipend": "",
+    "employment_type": [
+      "Full-Time"
+    ],
+    "applicants": null,
+    "industry": "",
+    "function": "",
     "experience": "fresher",
     "score": 30,
     "reasons": [
@@ -205,6 +245,12 @@
     "posted_at": "2026-09-26T11:00:35+00:00",
     "salary": "185000–220000 USD / yearly",
     "stipend": "",
+    "employment_type": [
+      "Full-Time"
+    ],
+    "applicants": null,
+    "industry": "",
+    "function": "",
     "experience": "fresher",
     "score": 30,
     "reasons": [
@@ -228,6 +274,12 @@
     "posted_at": "2026-09-26T11:00:21+00:00",
     "salary": "",
     "stipend": "",
+    "employment_type": [
+      "Full-Time"
+    ],
+    "applicants": null,
+    "industry": "",
+    "function": "",
     "experience": "fresher",
     "score": 30,
     "reasons": [
@@ -251,6 +303,12 @@
     "posted_at": "2026-09-26T10:52:25+00:00",
     "salary": "120000–140000 USD / yearly",
     "stipend": "",
+    "employment_type": [
+      "Full-Time"
+    ],
+    "applicants": null,
+    "industry": "",
+    "function": "",
     "experience": "fresher",
     "score": 30,
     "reasons": [
@@ -274,6 +332,12 @@
     "posted_at": "2026-09-25T20:54:07+00:00",
     "salary": "",
     "stipend": "",
+    "employment_type": [
+      "Full-Time"
+    ],
+    "applicants": null,
+    "industry": "",
+    "function": "",
     "experience": "fresher",
     "score": 30,
     "reasons": [
@@ -297,6 +361,12 @@
     "posted_at": "2026-09-25T20:53:54+00:00",
     "salary": "",
     "stipend": "",
+    "employment_type": [
+      "Full-Time"
+    ],
+    "applicants": null,
+    "industry": "",
+    "function": "",
     "experience": "fresher",
     "score": 30,
     "reasons": [
@@ -320,6 +390,12 @@
     "posted_at": "2026-09-25T20:53:53+00:00",
     "salary": "",
     "stipend": "",
+    "employment_type": [
+      "Full-Time"
+    ],
+    "applicants": null,
+    "industry": "",
+    "function": "",
     "experience": "fresher",
     "score": 30,
     "reasons": [
@@ -343,6 +419,12 @@
     "posted_at": "2026-09-25T20:53:53+00:00",
     "salary": "",
     "stipend": "",
+    "employment_type": [
+      "Full-Time"
+    ],
+    "applicants": null,
+    "industry": "",
+    "function": "",
     "experience": "fresher",
     "score": 30,
     "reasons": [
@@ -366,6 +448,12 @@
     "posted_at": "2026-09-25T20:53:50+00:00",
     "salary": "",
     "stipend": "",
+    "employment_type": [
+      "Full-Time"
+    ],
+    "applicants": null,
+    "industry": "",
+    "function": "",
     "experience": "fresher",
     "score": 30,
     "reasons": [
@@ -389,6 +477,12 @@
     "posted_at": "2026-09-25T04:20:07+00:00",
     "salary": "107000–134000 USD / yearly",
     "stipend": "",
+    "employment_type": [
+      "Full-Time"
+    ],
+    "applicants": null,
+    "industry": "",
+    "function": "",
     "experience": "fresher",
     "score": 30,
     "reasons": [
@@ -412,6 +506,12 @@
     "posted_at": "2026-09-25T04:10:10+00:00",
     "salary": "",
     "stipend": "",
+    "employment_type": [
+      "Full-Time"
+    ],
+    "applicants": null,
+    "industry": "",
+    "function": "",
     "experience": "fresher",
     "score": 30,
     "reasons": [
@@ -435,6 +535,12 @@
     "posted_at": "2026-09-24T18:41:46+00:00",
     "salary": "146200–170000 USD / yearly",
     "stipend": "",
+    "employment_type": [
+      "Full-Time"
+    ],
+    "applicants": null,
+    "industry": "",
+    "function": "",
     "experience": "fresher",
     "score": 30,
     "reasons": [
@@ -458,6 +564,12 @@
     "posted_at": "2026-09-24T18:41:42+00:00",
     "salary": "274000–356000 USD / yearly",
     "stipend": "",
+    "employment_type": [
+      "Full-Time"
+    ],
+    "applicants": null,
+    "industry": "",
+    "function": "",
     "experience": "fresher",
     "score": 30,
     "reasons": [
@@ -480,6 +592,10 @@
     "posted_at": "2026-09-21T16:00:11+00:00",
     "salary": "",
     "stipend": "",
+    "employment_type": "",
+    "applicants": null,
+    "industry": "",
+    "function": "",
     "experience": "fresher",
     "score": 27,
     "reasons": [
@@ -503,6 +619,10 @@
     "posted_at": "2026-09-12T00:00:05+00:00",
     "salary": "",
     "stipend": "",
+    "employment_type": "",
+    "applicants": null,
+    "industry": "",
+    "function": "",
     "experience": "fresher",
     "score": 27,
     "reasons": [
@@ -526,6 +646,10 @@
     "posted_at": "2026-08-22T16:00:15+00:00",
     "salary": "",
     "stipend": "",
+    "employment_type": "",
+    "applicants": null,
+    "industry": "",
+    "function": "",
     "experience": "fresher",
     "score": 27,
     "reasons": [
@@ -550,6 +674,10 @@
     "posted_at": "2026-08-18T16:00:57+00:00",
     "salary": "",
     "stipend": "",
+    "employment_type": "",
+    "applicants": null,
+    "industry": "",
+    "function": "",
     "experience": "mid",
     "score": 27,
     "reasons": [
@@ -573,6 +701,12 @@
     "posted_at": "2026-09-26T11:05:23+00:00",
     "salary": "120000–135000 USD / yearly",
     "stipend": "",
+    "employment_type": [
+      "Full-Time"
+    ],
+    "applicants": null,
+    "industry": "",
+    "function": "",
     "experience": "junior",
     "score": 26,
     "reasons": [
@@ -596,6 +730,12 @@
     "posted_at": "2026-09-24T18:41:42+00:00",
     "salary": "34000–38000 USD / yearly",
     "stipend": "",
+    "employment_type": [
+      "Contract"
+    ],
+    "applicants": null,
+    "industry": "",
+    "function": "",
     "experience": "junior",
     "score": 26,
     "reasons": [
@@ -618,6 +758,12 @@
     "posted_at": "2026-09-26T11:20:06+00:00",
     "salary": "",
     "stipend": "",
+    "employment_type": [
+      "Full-Time"
+    ],
+    "applicants": null,
+    "industry": "",
+    "function": "",
     "experience": "fresher",
     "score": 24,
     "reasons": [
@@ -640,6 +786,12 @@
     "posted_at": "2026-09-26T11:15:12+00:00",
     "salary": "",
     "stipend": "",
+    "employment_type": [
+      "Full-Time"
+    ],
+    "applicants": null,
+    "industry": "",
+    "function": "",
     "experience": "fresher",
     "score": 24,
     "reasons": [
@@ -662,6 +814,12 @@
     "posted_at": "2026-09-26T11:15:10+00:00",
     "salary": "",
     "stipend": "",
+    "employment_type": [
+      "Full-Time"
+    ],
+    "applicants": null,
+    "industry": "",
+    "function": "",
     "experience": "fresher",
     "score": 24,
     "reasons": [
@@ -684,6 +842,12 @@
     "posted_at": "2026-09-26T11:00:23+00:00",
     "salary": "",
     "stipend": "",
+    "employment_type": [
+      "Contract"
+    ],
+    "applicants": null,
+    "industry": "",
+    "function": "",
     "experience": "fresher",
     "score": 24,
     "reasons": [
@@ -706,6 +870,12 @@
     "posted_at": "2026-09-26T10:52:35+00:00",
     "salary": "100000–115000 USD / yearly",
     "stipend": "",
+    "employment_type": [
+      "Full-Time"
+    ],
+    "applicants": null,
+    "industry": "",
+    "function": "",
     "experience": "fresher",
     "score": 24,
     "reasons": [
@@ -728,6 +898,12 @@
     "posted_at": "2026-09-26T10:52:18+00:00",
     "salary": "100000–130000 USD / yearly",
     "stipend": "",
+    "employment_type": [
+      "Full-Time"
+    ],
+    "applicants": null,
+    "industry": "",
+    "function": "",
     "experience": "fresher",
     "score": 24,
     "reasons": [
@@ -751,6 +927,12 @@
     "posted_at": "2026-09-26T10:52:17+00:00",
     "salary": "",
     "stipend": "",
+    "employment_type": [
+      "Contract"
+    ],
+    "applicants": null,
+    "industry": "",
+    "function": "",
     "experience": "mid",
     "score": 24,
     "reasons": [
@@ -772,6 +954,12 @@
     "posted_at": "2026-09-26T10:52:14+00:00",
     "salary": "66000–77000 USD / yearly",
     "stipend": "",
+    "employment_type": [
+      "Full-Time"
+    ],
+    "applicants": null,
+    "industry": "",
+    "function": "",
     "experience": "fresher",
     "score": 24,
     "reasons": [
@@ -794,6 +982,12 @@
     "posted_at": "2026-09-26T10:52:13+00:00",
     "salary": "90000–115000 USD / yearly",
     "stipend": "",
+    "employment_type": [
+      "Full-Time"
+    ],
+    "applicants": null,
+    "industry": "",
+    "function": "",
     "experience": "fresher",
     "score": 24,
     "reasons": [
@@ -816,6 +1010,12 @@
     "posted_at": "2026-09-25T04:15:15+00:00",
     "salary": "46150–103900 USD / yearly",
     "stipend": "",
+    "employment_type": [
+      "Full-Time"
+    ],
+    "applicants": null,
+    "industry": "",
+    "function": "",
     "experience": "fresher",
     "score": 24,
     "reasons": [
@@ -838,6 +1038,12 @@
     "posted_at": "2026-09-24T18:46:44+00:00",
     "salary": "75000–90000 USD / yearly",
     "stipend": "",
+    "employment_type": [
+      "Full-Time"
+    ],
+    "applicants": null,
+    "industry": "",
+    "function": "",
     "experience": "fresher",
     "score": 24,
     "reasons": [
@@ -860,6 +1066,12 @@
     "posted_at": "2026-09-24T18:46:44+00:00",
     "salary": "",
     "stipend": "",
+    "employment_type": [
+      "Full-Time"
+    ],
+    "applicants": null,
+    "industry": "",
+    "function": "",
     "experience": "fresher",
     "score": 24,
     "reasons": [
@@ -882,6 +1094,12 @@
     "posted_at": "2026-09-24T12:27:03+00:00",
     "salary": "123000–142000 EUR / yearly",
     "stipend": "",
+    "employment_type": [
+      "Full-Time"
+    ],
+    "applicants": null,
+    "industry": "",
+    "function": "",
     "experience": "fresher",
     "score": 24,
     "reasons": [
@@ -904,6 +1122,10 @@
     "posted_at": "2026-09-22T14:36:54+00:00",
     "salary": "",
     "stipend": "",
+    "employment_type": "",
+    "applicants": null,
+    "industry": "",
+    "function": "",
     "experience": "fresher",
     "score": 23,
     "reasons": [
@@ -927,6 +1149,10 @@
     "posted_at": "2026-09-19T00:00:06+00:00",
     "salary": "",
     "stipend": "",
+    "employment_type": "",
+    "applicants": null,
+    "industry": "",
+    "function": "",
     "experience": "fresher",
     "score": 23,
     "reasons": [
@@ -950,6 +1176,10 @@
     "posted_at": "2026-09-11T08:00:08+00:00",
     "salary": "",
     "stipend": "",
+    "employment_type": "",
+    "applicants": null,
+    "industry": "",
+    "function": "",
     "experience": "fresher",
     "score": 23,
     "reasons": [
@@ -973,6 +1203,10 @@
     "posted_at": "2026-09-08T14:57:50+00:00",
     "salary": "",
     "stipend": "",
+    "employment_type": "",
+    "applicants": null,
+    "industry": "",
+    "function": "",
     "experience": "fresher",
     "score": 23,
     "reasons": [
@@ -996,6 +1230,10 @@
     "posted_at": "2026-09-08T13:51:19+00:00",
     "salary": "",
     "stipend": "",
+    "employment_type": "",
+    "applicants": null,
+    "industry": "",
+    "function": "",
     "experience": "fresher",
     "score": 23,
     "reasons": [
@@ -1020,6 +1258,10 @@
     "posted_at": "2026-09-08T02:35:30+00:00",
     "salary": "",
     "stipend": "",
+    "employment_type": "",
+    "applicants": null,
+    "industry": "",
+    "function": "",
     "experience": "unknown",
     "score": 23,
     "reasons": [
@@ -1042,6 +1284,10 @@
     "posted_at": "2026-09-04T15:13:46+00:00",
     "salary": "",
     "stipend": "",
+    "employment_type": "",
+    "applicants": null,
+    "industry": "",
+    "function": "",
     "experience": "fresher",
     "score": 23,
     "reasons": [
@@ -1065,6 +1311,10 @@
     "posted_at": "2026-08-16T00:00:16+00:00",
     "salary": "",
     "stipend": "",
+    "employment_type": "",
+    "applicants": null,
+    "industry": "",
+    "function": "",
     "experience": "fresher",
     "score": 23,
     "reasons": [
@@ -1088,6 +1338,10 @@
     "posted_at": "2026-08-14T16:00:49+00:00",
     "salary": "",
     "stipend": "",
+    "employment_type": "",
+    "applicants": null,
+    "industry": "",
+    "function": "",
     "experience": "fresher",
     "score": 23,
     "reasons": [
@@ -1111,6 +1365,12 @@
     "posted_at": "2026-09-26T11:30:15+00:00",
     "salary": "68000–86000 EUR / yearly",
     "stipend": "",
+    "employment_type": [
+      "Full-Time"
+    ],
+    "applicants": null,
+    "industry": "",
+    "function": "",
     "experience": "fresher",
     "score": 20,
     "reasons": [
@@ -1133,6 +1393,12 @@
     "posted_at": "2026-09-26T11:25:10+00:00",
     "salary": "500–500 USD / monthly",
     "stipend": "",
+    "employment_type": [
+      "Contract"
+    ],
+    "applicants": null,
+    "industry": "",
+    "function": "",
     "experience": "fresher",
     "score": 20,
     "reasons": [
@@ -1155,6 +1421,12 @@
     "posted_at": "2026-09-26T11:15:14+00:00",
     "salary": "",
     "stipend": "",
+    "employment_type": [
+      "Full-Time"
+    ],
+    "applicants": null,
+    "industry": "",
+    "function": "",
     "experience": "fresher",
     "score": 20,
     "reasons": [
@@ -1177,6 +1449,12 @@
     "posted_at": "2026-09-26T11:15:08+00:00",
     "salary": "",
     "stipend": "",
+    "employment_type": [
+      "Full-Time"
+    ],
+    "applicants": null,
+    "industry": "",
+    "function": "",
     "experience": "fresher",
     "score": 20,
     "reasons": [
@@ -1199,6 +1477,12 @@
     "posted_at": "2026-09-26T11:10:11+00:00",
     "salary": "200000–250000 USD / yearly",
     "stipend": "",
+    "employment_type": [
+      "Full-Time"
+    ],
+    "applicants": null,
+    "industry": "",
+    "function": "",
     "experience": "fresher",
     "score": 20,
     "reasons": [
@@ -1221,6 +1505,12 @@
     "posted_at": "2026-09-26T11:10:08+00:00",
     "salary": "",
     "stipend": "",
+    "employment_type": [
+      "Full-Time"
+    ],
+    "applicants": null,
+    "industry": "",
+    "function": "",
     "experience": "fresher",
     "score": 20,
     "reasons": [
@@ -1243,6 +1533,12 @@
     "posted_at": "2026-09-26T11:10:04+00:00",
     "salary": "50–1000 USD / monthly",
     "stipend": "",
+    "employment_type": [
+      "Part-Time"
+    ],
+    "applicants": null,
+    "industry": "",
+    "function": "",
     "experience": "fresher",
     "score": 20,
     "reasons": [
@@ -1265,6 +1561,12 @@
     "posted_at": "2026-09-26T11:05:29+00:00",
     "salary": "325000–405000 USD / yearly",
     "stipend": "",
+    "employment_type": [
+      "Full-Time"
+    ],
+    "applicants": null,
+    "industry": "",
+    "function": "",
     "experience": "fresher",
     "score": 20,
     "reasons": [
@@ -1287,6 +1589,12 @@
     "posted_at": "2026-09-26T11:05:25+00:00",
     "salary": "230000–385000 USD / yearly",
     "stipend": "",
+    "employment_type": [
+      "Full-Time"
+    ],
+    "applicants": null,
+    "industry": "",
+    "function": "",
     "experience": "fresher",
     "score": 20,
     "reasons": [
@@ -1309,6 +1617,12 @@
     "posted_at": "2026-09-26T11:05:20+00:00",
     "salary": "42000–52000 EUR / yearly",
     "stipend": "",
+    "employment_type": [
+      "Full-Time"
+    ],
+    "applicants": null,
+    "industry": "",
+    "function": "",
     "experience": "fresher",
     "score": 20,
     "reasons": [
@@ -1331,6 +1645,12 @@
     "posted_at": "2026-09-26T11:05:19+00:00",
     "salary": "",
     "stipend": "",
+    "employment_type": [
+      "Full-Time"
+    ],
+    "applicants": null,
+    "industry": "",
+    "function": "",
     "experience": "fresher",
     "score": 20,
     "reasons": [
@@ -1353,6 +1673,12 @@
     "posted_at": "2026-09-26T11:05:13+00:00",
     "salary": "195000–212000 USD / yearly",
     "stipend": "",
+    "employment_type": [
+      "Full-Time"
+    ],
+    "applicants": null,
+    "industry": "",
+    "function": "",
     "experience": "fresher",
     "score": 20,
     "reasons": [
@@ -1375,6 +1701,12 @@
     "posted_at": "2026-09-26T11:05:10+00:00",
     "salary": "113000–125000 USD / yearly",
     "stipend": "",
+    "employment_type": [
+      "Full-Time"
+    ],
+    "applicants": null,
+    "industry": "",
+    "function": "",
     "experience": "fresher",
     "score": 20,
     "reasons": [
@@ -1397,6 +1729,12 @@
     "posted_at": "2026-09-26T11:00:43+00:00",
     "salary": "150000–188000 USD / yearly",
     "stipend": "",
+    "employment_type": [
+      "Full-Time"
+    ],
+    "applicants": null,
+    "industry": "",
+    "function": "",
     "experience": "fresher",
     "score": 20,
     "reasons": [
@@ -1419,6 +1757,12 @@
     "posted_at": "2026-09-26T11:00:12+00:00",
     "salary": "82400–103000 GBP / yearly",
     "stipend": "",
+    "employment_type": [
+      "Full-Time"
+    ],
+    "applicants": null,
+    "industry": "",
+    "function": "",
     "experience": "fresher",
     "score": 20,
     "reasons": [
@@ -1442,6 +1786,12 @@
     "posted_at": "2026-09-26T10:52:37+00:00",
     "salary": "70000–80000 USD / yearly",
     "stipend": "",
+    "employment_type": [
+      "Full-Time"
+    ],
+    "applicants": null,
+    "industry": "",
+    "function": "",
     "experience": "mid",
     "score": 20,
     "reasons": [
@@ -1463,6 +1813,12 @@
     "posted_at": "2026-09-26T10:52:33+00:00",
     "salary": "128800–214500 USD / yearly",
     "stipend": "",
+    "employment_type": [
+      "Full-Time"
+    ],
+    "applicants": null,
+    "industry": "",
+    "function": "",
     "experience": "fresher",
     "score": 20,
     "reasons": [
@@ -1485,6 +1841,12 @@
     "posted_at": "2026-09-26T10:52:19+00:00",
     "salary": "165000–199000 USD / yearly",
     "stipend": "",
+    "employment_type": [
+      "Full-Time"
+    ],
+    "applicants": null,
+    "industry": "",
+    "function": "",
     "experience": "fresher",
     "score": 20,
     "reasons": [
@@ -1508,6 +1870,12 @@
     "posted_at": "2026-09-26T10:52:16+00:00",
     "salary": "",
     "stipend": "",
+    "employment_type": [
+      "Full-Time"
+    ],
+    "applicants": null,
+    "industry": "",
+    "function": "",
     "experience": "mid",
     "score": 20,
     "reasons": [
@@ -1529,6 +1897,12 @@
     "posted_at": "2026-09-26T10:50:19+00:00",
     "salary": "",
     "stipend": "",
+    "employment_type": [
+      "Full-Time"
+    ],
+    "applicants": null,
+    "industry": "",
+    "function": "",
     "experience": "fresher",
     "score": 20,
     "reasons": [
@@ -1551,6 +1925,12 @@
     "posted_at": "2026-09-26T09:58:40+00:00",
     "salary": "50000–65000 USD / yearly",
     "stipend": "",
+    "employment_type": [
+      "Full-Time"
+    ],
+    "applicants": null,
+    "industry": "",
+    "function": "",
     "experience": "fresher",
     "score": 20,
     "reasons": [
@@ -1573,6 +1953,12 @@
     "posted_at": "2026-09-26T09:58:37+00:00",
     "salary": "84000–100000 USD / yearly",
     "stipend": "",
+    "employment_type": [
+      "Full-Time"
+    ],
+    "applicants": null,
+    "industry": "",
+    "function": "",
     "experience": "fresher",
     "score": 20,
     "reasons": [
@@ -1596,6 +1982,12 @@
     "posted_at": "2026-09-26T09:58:36+00:00",
     "salary": "",
     "stipend": "",
+    "employment_type": [
+      "Full-Time"
+    ],
+    "applicants": null,
+    "industry": "",
+    "function": "",
     "experience": "mid",
     "score": 20,
     "reasons": [
@@ -1618,6 +2010,12 @@
     "posted_at": "2026-09-25T20:54:06+00:00",
     "salary": "175000–230000 USD / yearly",
     "stipend": "",
+    "employment_type": [
+      "Full-Time"
+    ],
+    "applicants": null,
+    "industry": "",
+    "function": "",
     "experience": "mid",
     "score": 20,
     "reasons": [
@@ -1639,6 +2037,12 @@
     "posted_at": "2026-09-25T20:53:54+00:00",
     "salary": "200000–250000 USD / yearly",
     "stipend": "",
+    "employment_type": [
+      "Full-Time"
+    ],
+    "applicants": null,
+    "industry": "",
+    "function": "",
     "experience": "fresher",
     "score": 20,
     "reasons": [
@@ -1662,6 +2066,12 @@
     "posted_at": "2026-09-25T20:53:50+00:00",
     "salary": "270000–320000 USD / yearly",
     "stipend": "",
+    "employment_type": [
+      "Full-Time"
+    ],
+    "applicants": null,
+    "industry": "",
+    "function": "",
     "experience": "mid",
     "score": 20,
     "reasons": [
@@ -1683,6 +2093,12 @@
     "posted_at": "2026-09-25T18:05:30+00:00",
     "salary": "",
     "stipend": "",
+    "employment_type": [
+      "Full-Time"
+    ],
+    "applicants": null,
+    "industry": "",
+    "function": "",
     "experience": "fresher",
     "score": 20,
     "reasons": [
@@ -1706,6 +2122,12 @@
     "posted_at": "2026-09-25T18:05:30+00:00",
     "salary": "200000–220000 USD / yearly",
     "stipend": "",
+    "employment_type": [
+      "Full-Time"
+    ],
+    "applicants": null,
+    "industry": "",
+    "function": "",
     "experience": "mid",
     "score": 20,
     "reasons": [
@@ -1727,6 +2149,12 @@
     "posted_at": "2026-09-25T18:05:30+00:00",
     "salary": "51000–85000 USD / yearly",
     "stipend": "",
+    "employment_type": [
+      "Full-Time"
+    ],
+    "applicants": null,
+    "industry": "",
+    "function": "",
     "experience": "fresher",
     "score": 20,
     "reasons": [
@@ -1749,6 +2177,12 @@
     "posted_at": "2026-09-25T18:05:29+00:00",
     "salary": "203680–254600 CAD / yearly",
     "stipend": "",
+    "employment_type": [
+      "Full-Time"
+    ],
+    "applicants": null,
+    "industry": "",
+    "function": "",
     "experience": "fresher",
     "score": 20,
     "reasons": [
@@ -1771,6 +2205,12 @@
     "posted_at": "2026-09-25T18:05:27+00:00",
     "salary": "",
     "stipend": "",
+    "employment_type": [
+      "Full-Time"
+    ],
+    "applicants": null,
+    "industry": "",
+    "function": "",
     "experience": "fresher",
     "score": 20,
     "reasons": [
@@ -1793,6 +2233,12 @@
     "posted_at": "2026-09-25T18:05:26+00:00",
     "salary": "101000–135000 USD / yearly",
     "stipend": "",
+    "employment_type": [
+      "Full-Time"
+    ],
+    "applicants": null,
+    "industry": "",
+    "function": "",
     "experience": "fresher",
     "score": 20,
     "reasons": [
@@ -1815,6 +2261,12 @@
     "posted_at": "2026-09-25T18:05:25+00:00",
     "salary": "",
     "stipend": "",
+    "employment_type": [
+      "Full-Time"
+    ],
+    "applicants": null,
+    "industry": "",
+    "function": "",
     "experience": "fresher",
     "score": 20,
     "reasons": [
@@ -1837,6 +2289,12 @@
     "posted_at": "2026-09-25T04:50:05+00:00",
     "salary": "180000–230000 USD / yearly",
     "stipend": "",
+    "employment_type": [
+      "Full-Time"
+    ],
+    "applicants": null,
+    "industry": "",
+    "function": "",
     "experience": "fresher",
     "score": 20,
     "reasons": [
@@ -1859,6 +2317,12 @@
     "posted_at": "2026-09-25T04:30:30+00:00",
     "salary": "",
     "stipend": "",
+    "employment_type": [
+      "Full-Time"
+    ],
+    "applicants": null,
+    "industry": "",
+    "function": "",
     "experience": "fresher",
     "score": 20,
     "reasons": [
@@ -1881,6 +2345,12 @@
     "posted_at": "2026-09-25T04:30:24+00:00",
     "salary": "164000–175000 USD / yearly",
     "stipend": "",
+    "employment_type": [
+      "Full-Time"
+    ],
+    "applicants": null,
+    "industry": "",
+    "function": "",
     "experience": "fresher",
     "score": 20,
     "reasons": [
@@ -1903,6 +2373,12 @@
     "posted_at": "2026-09-25T04:30:22+00:00",
     "salary": "170000–200000 USD / yearly",
     "stipend": "",
+    "employment_type": [
+      "Full-Time"
+    ],
+    "applicants": null,
+    "industry": "",
+    "function": "",
     "experience": "fresher",
     "score": 20,
     "reasons": [
@@ -1925,6 +2401,12 @@
     "posted_at": "2026-09-25T04:30:21+00:00",
     "salary": "250000–295000 USD / yearly",
     "stipend": "",
+    "employment_type": [
+      "Full-Time"
+    ],
+    "applicants": null,
+    "industry": "",
+    "function": "",
     "experience": "fresher",
     "score": 20,
     "reasons": [
@@ -1947,6 +2429,12 @@
     "posted_at": "2026-09-25T04:30:19+00:00",
     "salary": "140000–170000 USD / yearly",
     "stipend": "",
+    "employment_type": [
+      "Full-Time"
+    ],
+    "applicants": null,
+    "industry": "",
+    "function": "",
     "experience": "fresher",
     "score": 20,
     "reasons": [
@@ -1969,6 +2457,12 @@
     "posted_at": "2026-09-25T04:25:26+00:00",
     "salary": "164000–170000 USD / yearly",
     "stipend": "",
+    "employment_type": [
+      "Full-Time"
+    ],
+    "applicants": null,
+    "industry": "",
+    "function": "",
     "experience": "fresher",
     "score": 20,
     "reasons": [
@@ -1991,6 +2485,12 @@
     "posted_at": "2026-09-25T04:25:25+00:00",
     "salary": "106800–264700 USD / yearly",
     "stipend": "",
+    "employment_type": [
+      "Full-Time"
+    ],
+    "applicants": null,
+    "industry": "",
+    "function": "",
     "experience": "fresher",
     "score": 20,
     "reasons": [
@@ -2013,6 +2513,12 @@
     "posted_at": "2026-09-25T04:25:19+00:00",
     "salary": "100000–120000 EUR / yearly",
     "stipend": "",
+    "employment_type": [
+      "Full-Time"
+    ],
+    "applicants": null,
+    "industry": "",
+    "function": "",
     "experience": "fresher",
     "score": 20,
     "reasons": [
@@ -2035,6 +2541,12 @@
     "posted_at": "2026-09-25T04:25:17+00:00",
     "salary": "106800–264700 USD / yearly",
     "stipend": "",
+    "employment_type": [
+      "Full-Time"
+    ],
+    "applicants": null,
+    "industry": "",
+    "function": "",
     "experience": "fresher",
     "score": 20,
     "reasons": [
@@ -2057,6 +2569,12 @@
     "posted_at": "2026-09-25T04:25:13+00:00",
     "salary": "110000–200000 GBP / yearly",
     "stipend": "",
+    "employment_type": [
+      "Full-Time"
+    ],
+    "applicants": null,
+    "industry": "",
+    "function": "",
     "experience": "fresher",
     "score": 20,
     "reasons": [
@@ -2079,6 +2597,12 @@
     "posted_at": "2026-09-25T04:25:11+00:00",
     "salary": "220000–275000 USD / yearly",
     "stipend": "",
+    "employment_type": [
+      "Full-Time"
+    ],
+    "applicants": null,
+    "industry": "",
+    "function": "",
     "experience": "fresher",
     "score": 20,
     "reasons": [
@@ -2101,6 +2625,12 @@
     "posted_at": "2026-09-25T04:25:09+00:00",
     "salary": "190000–280000 CAD / yearly",
     "stipend": "",
+    "employment_type": [
+      "Full-Time"
+    ],
+    "applicants": null,
+    "industry": "",
+    "function": "",
     "experience": "fresher",
     "score": 20,
     "reasons": [
@@ -2123,6 +2653,12 @@
     "posted_at": "2026-09-25T04:25:08+00:00",
     "salary": "229500–261000 EUR / yearly",
     "stipend": "",
+    "employment_type": [
+      "Full-Time"
+    ],
+    "applicants": null,
+    "industry": "",
+    "function": "",
     "experience": "fresher",
     "score": 20,
     "reasons": [
@@ -2145,6 +2681,12 @@
     "posted_at": "2026-09-25T04:20:29+00:00",
     "salary": "",
     "stipend": "",
+    "employment_type": [
+      "Full-Time"
+    ],
+    "applicants": null,
+    "industry": "",
+    "function": "",
     "experience": "fresher",
     "score": 20,
     "reasons": [
@@ -2167,6 +2709,12 @@
     "posted_at": "2026-09-25T04:20:28+00:00",
     "salary": "175000–195000 USD / yearly",
     "stipend": "",
+    "employment_type": [
+      "Full-Time"
+    ],
+    "applicants": null,
+    "industry": "",
+    "function": "",
     "experience": "fresher",
     "score": 20,
     "reasons": [
@@ -2189,6 +2737,12 @@
     "posted_at": "2026-09-25T04:20:24+00:00",
     "salary": "190000–206000 USD / yearly",
     "stipend": "",
+    "employment_type": [
+      "Full-Time"
+    ],
+    "applicants": null,
+    "industry": "",
+    "function": "",
     "experience": "fresher",
     "score": 20,
     "reasons": [
@@ -2211,6 +2765,12 @@
     "posted_at": "2026-09-25T04:20:20+00:00",
     "salary": "150000–160000 USD / yearly",
     "stipend": "",
+    "employment_type": [
+      "Full-Time"
+    ],
+    "applicants": null,
+    "industry": "",
+    "function": "",
     "experience": "fresher",
     "score": 20,
     "reasons": [
@@ -2233,6 +2793,12 @@
     "posted_at": "2026-09-25T04:20:13+00:00",
     "salary": "75000–90000 USD / yearly",
     "stipend": "",
+    "employment_type": [
+      "Full-Time"
+    ],
+    "applicants": null,
+    "industry": "",
+    "function": "",
     "experience": "fresher",
     "score": 20,
     "reasons": [
@@ -2255,6 +2821,12 @@
     "posted_at": "2026-09-25T04:20:11+00:00",
     "salary": "",
     "stipend": "",
+    "employment_type": [
+      "Full-Time"
+    ],
+    "applicants": null,
+    "industry": "",
+    "function": "",
     "experience": "fresher",
     "score": 20,
     "reasons": [
@@ -2277,6 +2849,12 @@
     "posted_at": "2026-09-25T04:15:24+00:00",
     "salary": "",
     "stipend": "",
+    "employment_type": [
+      "Full-Time"
+    ],
+    "applicants": null,
+    "industry": "",
+    "function": "",
     "experience": "fresher",
     "score": 20,
     "reasons": [
@@ -2300,6 +2878,12 @@
     "posted_at": "2026-09-25T04:15:23+00:00",
     "salary": "165000–174000 CAD / yearly",
     "stipend": "",
+    "employment_type": [
+      "Full-Time"
+    ],
+    "applicants": null,
+    "industry": "",
+    "function": "",
     "experience": "mid",
     "score": 20,
     "reasons": [
@@ -2321,6 +2905,12 @@
     "posted_at": "2026-09-25T04:15:20+00:00",
     "salary": "",
     "stipend": "",
+    "employment_type": [
+      "Full-Time"
+    ],
+    "applicants": null,
+    "industry": "",
+    "function": "",
     "experience": "fresher",
     "score": 20,
     "reasons": [
@@ -2343,6 +2933,12 @@
     "posted_at": "2026-09-25T04:15:16+00:00",
     "salary": "71850–80800 EUR / yearly",
     "stipend": "",
+    "employment_type": [
+      "Full-Time"
+    ],
+    "applicants": null,
+    "industry": "",
+    "function": "",
     "experience": "fresher",
     "score": 20,
     "reasons": [
@@ -2365,6 +2961,12 @@
     "posted_at": "2026-09-25T04:15:11+00:00",
     "salary": "105600–158400 USD / yearly",
     "stipend": "",
+    "employment_type": [
+      "Full-Time"
+    ],
+    "applicants": null,
+    "industry": "",
+    "function": "",
     "experience": "fresher",
     "score": 20,
     "reasons": [
@@ -2387,6 +2989,12 @@
     "posted_at": "2026-09-25T04:15:10+00:00",
     "salary": "",
     "stipend": "",
+    "employment_type": [
+      "Full-Time"
+    ],
+    "applicants": null,
+    "industry": "",
+    "function": "",
     "experience": "fresher",
     "score": 20,
     "reasons": [
@@ -2409,6 +3017,12 @@
     "posted_at": "2026-09-25T04:15:07+00:00",
     "salary": "",
     "stipend": "",
+    "employment_type": [
+      "Full-Time"
+    ],
+    "applicants": null,
+    "industry": "",
+    "function": "",
     "experience": "fresher",
     "score": 20,
     "reasons": [
@@ -2431,6 +3045,12 @@
     "posted_at": "2026-09-25T04:10:19+00:00",
     "salary": "",
     "stipend": "",
+    "employment_type": [
+      "Full-Time"
+    ],
+    "applicants": null,
+    "industry": "",
+    "function": "",
     "experience": "fresher",
     "score": 20,
     "reasons": [
@@ -2453,6 +3073,12 @@
     "posted_at": "2026-09-25T04:10:15+00:00",
     "salary": "48000–67000 GBP / yearly",
     "stipend": "",
+    "employment_type": [
+      "Full-Time"
+    ],
+    "applicants": null,
+    "industry": "",
+    "function": "",
     "experience": "fresher",
     "score": 20,
     "reasons": [
@@ -2475,6 +3101,12 @@
     "posted_at": "2026-09-25T04:10:11+00:00",
     "salary": "87000–126000 GBP / yearly",
     "stipend": "",
+    "employment_type": [
+      "Full-Time"
+    ],
+    "applicants": null,
+    "industry": "",
+    "function": "",
     "experience": "fresher",
     "score": 20,
     "reasons": [
@@ -2497,6 +3129,12 @@
     "posted_at": "2026-09-24T18:46:47+00:00",
     "salary": "100000–180000 USD / yearly",
     "stipend": "",
+    "employment_type": [
+      "Full-Time"
+    ],
+    "applicants": null,
+    "industry": "",
+    "function": "",
     "experience": "fresher",
     "score": 20,
     "reasons": [
@@ -2519,6 +3157,12 @@
     "posted_at": "2026-09-24T18:46:46+00:00",
     "salary": "172800–216000 USD / yearly",
     "stipend": "",
+    "employment_type": [
+      "Full-Time"
+    ],
+    "applicants": null,
+    "industry": "",
+    "function": "",
     "experience": "fresher",
     "score": 20,
     "reasons": [
@@ -2541,6 +3185,12 @@
     "posted_at": "2026-09-24T18:46:45+00:00",
     "salary": "142000–290000 USD / yearly",
     "stipend": "",
+    "employment_type": [
+      "Full-Time"
+    ],
+    "applicants": null,
+    "industry": "",
+    "function": "",
     "experience": "fresher",
     "score": 20,
     "reasons": [
@@ -2563,6 +3213,12 @@
     "posted_at": "2026-09-24T18:41:44+00:00",
     "salary": "70000–90000 USD / yearly",
     "stipend": "",
+    "employment_type": [
+      "Full-Time"
+    ],
+    "applicants": null,
+    "industry": "",
+    "function": "",
     "experience": "fresher",
     "score": 20,
     "reasons": [
@@ -2585,6 +3241,12 @@
     "posted_at": "2026-09-24T18:41:43+00:00",
     "salary": "75000–100000 USD / yearly",
     "stipend": "",
+    "employment_type": [
+      "Full-Time"
+    ],
+    "applicants": null,
+    "industry": "",
+    "function": "",
     "experience": "fresher",
     "score": 20,
     "reasons": [
@@ -2607,6 +3269,12 @@
     "posted_at": "2026-09-24T18:41:42+00:00",
     "salary": "205000–220000 USD / yearly",
     "stipend": "",
+    "employment_type": [
+      "Full-Time"
+    ],
+    "applicants": null,
+    "industry": "",
+    "function": "",
     "experience": "fresher",
     "score": 20,
     "reasons": [
@@ -2629,6 +3297,12 @@
     "posted_at": "2026-09-24T18:41:41+00:00",
     "salary": "76900–100000 USD / yearly",
     "stipend": "",
+    "employment_type": [
+      "Contract"
+    ],
+    "applicants": null,
+    "industry": "",
+    "function": "",
     "experience": "fresher",
     "score": 20,
     "reasons": [
@@ -2651,6 +3325,12 @@
     "posted_at": "2026-09-24T15:33:12+00:00",
     "salary": "110000–130000 USD / yearly",
     "stipend": "",
+    "employment_type": [
+      "Full-Time"
+    ],
+    "applicants": null,
+    "industry": "",
+    "function": "",
     "experience": "fresher",
     "score": 20,
     "reasons": [
@@ -2673,6 +3353,12 @@
     "posted_at": "2026-09-24T15:33:10+00:00",
     "salary": "120–160 USD / hourly",
     "stipend": "",
+    "employment_type": [
+      "Contract"
+    ],
+    "applicants": null,
+    "industry": "",
+    "function": "",
     "experience": "fresher",
     "score": 20,
     "reasons": [
@@ -2695,6 +3381,12 @@
     "posted_at": "2026-09-24T15:33:09+00:00",
     "salary": "110000–130000 USD / yearly",
     "stipend": "",
+    "employment_type": [
+      "Full-Time"
+    ],
+    "applicants": null,
+    "industry": "",
+    "function": "",
     "experience": "fresher",
     "score": 20,
     "reasons": [
@@ -2717,6 +3409,12 @@
     "posted_at": "2026-09-24T15:33:08+00:00",
     "salary": "40–50 USD / hourly",
     "stipend": "",
+    "employment_type": [
+      "Contract"
+    ],
+    "applicants": null,
+    "industry": "",
+    "function": "",
     "experience": "fresher",
     "score": 20,
     "reasons": [
@@ -2739,6 +3437,12 @@
     "posted_at": "2026-09-24T15:33:07+00:00",
     "salary": "3800–4200 USD / monthly",
     "stipend": "",
+    "employment_type": [
+      "Contract"
+    ],
+    "applicants": null,
+    "industry": "",
+    "function": "",
     "experience": "fresher",
     "score": 20,
     "reasons": [
@@ -2761,6 +3465,12 @@
     "posted_at": "2026-09-24T12:27:05+00:00",
     "salary": "",
     "stipend": "",
+    "employment_type": [
+      "Full-Time"
+    ],
+    "applicants": null,
+    "industry": "",
+    "function": "",
     "experience": "fresher",
     "score": 20,
     "reasons": [
@@ -2783,6 +3493,12 @@
     "posted_at": "2026-09-24T12:27:03+00:00",
     "salary": "",
     "stipend": "",
+    "employment_type": [
+      "Full-Time"
+    ],
+    "applicants": null,
+    "industry": "",
+    "function": "",
     "experience": "fresher",
     "score": 20,
     "reasons": [
@@ -2805,6 +3521,12 @@
     "posted_at": "2026-09-24T12:27:03+00:00",
     "salary": "30000–35000 GBP / yearly",
     "stipend": "",
+    "employment_type": [
+      "Full-Time"
+    ],
+    "applicants": null,
+    "industry": "",
+    "function": "",
     "experience": "fresher",
     "score": 20,
     "reasons": [
@@ -2827,6 +3549,12 @@
     "posted_at": "2026-09-24T12:27:02+00:00",
     "salary": "1–2 USD / yearly",
     "stipend": "",
+    "employment_type": [
+      "Full-Time"
+    ],
+    "applicants": null,
+    "industry": "",
+    "function": "",
     "experience": "fresher",
     "score": 20,
     "reasons": [
@@ -2849,6 +3577,10 @@
     "posted_at": "2026-08-27T16:00:04+00:00",
     "salary": "",
     "stipend": "",
+    "employment_type": "",
+    "applicants": null,
+    "industry": "",
+    "function": "",
     "experience": "mid",
     "score": 17,
     "reasons": [
@@ -2871,6 +3603,12 @@
     "posted_at": "2026-09-26T11:05:24+00:00",
     "salary": "120000–130000 USD / yearly",
     "stipend": "",
+    "employment_type": [
+      "Full-Time"
+    ],
+    "applicants": null,
+    "industry": "",
+    "function": "",
     "experience": "junior",
     "score": 16,
     "reasons": [
@@ -2893,6 +3631,12 @@
     "posted_at": "2026-09-25T04:25:27+00:00",
     "salary": "",
     "stipend": "",
+    "employment_type": [
+      "Full-Time"
+    ],
+    "applicants": null,
+    "industry": "",
+    "function": "",
     "experience": "junior",
     "score": 16,
     "reasons": [
@@ -2915,6 +3659,12 @@
     "posted_at": "2026-09-25T04:15:14+00:00",
     "salary": "",
     "stipend": "",
+    "employment_type": [
+      "Full-Time"
+    ],
+    "applicants": null,
+    "industry": "",
+    "function": "",
     "experience": "junior",
     "score": 16,
     "reasons": [
@@ -2937,6 +3687,10 @@
     "posted_at": "2026-08-17T08:00:03+00:00",
     "salary": "",
     "stipend": "",
+    "employment_type": "",
+    "applicants": null,
+    "industry": "",
+    "function": "",
     "experience": "mid",
     "score": 15,
     "reasons": [
@@ -2958,6 +3712,10 @@
     "posted_at": "2026-09-22T00:00:07+00:00",
     "salary": "",
     "stipend": "",
+    "employment_type": "",
+    "applicants": null,
+    "industry": "",
+    "function": "",
     "experience": "mid",
     "score": 13,
     "reasons": [
@@ -2980,6 +3738,10 @@
     "posted_at": "2026-09-16T00:00:13+00:00",
     "salary": "",
     "stipend": "",
+    "employment_type": "",
+    "applicants": null,
+    "industry": "",
+    "function": "",
     "experience": "mid",
     "score": 13,
     "reasons": [
@@ -3002,6 +3764,10 @@
     "posted_at": "2026-09-11T00:00:35+00:00",
     "salary": "",
     "stipend": "",
+    "employment_type": "",
+    "applicants": null,
+    "industry": "",
+    "function": "",
     "experience": "mid",
     "score": 13,
     "reasons": [
@@ -3024,6 +3790,10 @@
     "posted_at": "2026-09-10T21:13:22+00:00",
     "salary": "",
     "stipend": "",
+    "employment_type": "",
+    "applicants": null,
+    "industry": "",
+    "function": "",
     "experience": "mid",
     "score": 13,
     "reasons": [
@@ -3046,6 +3816,10 @@
     "posted_at": "2026-09-02T16:00:07+00:00",
     "salary": "",
     "stipend": "",
+    "employment_type": "",
+    "applicants": null,
+    "industry": "",
+    "function": "",
     "experience": "mid",
     "score": 13,
     "reasons": [
@@ -3068,6 +3842,10 @@
     "posted_at": "2026-08-27T00:00:23+00:00",
     "salary": "",
     "stipend": "",
+    "employment_type": "",
+    "applicants": null,
+    "industry": "",
+    "function": "",
     "experience": "mid",
     "score": 13,
     "reasons": [
@@ -3090,6 +3868,10 @@
     "posted_at": "2026-08-18T16:00:30+00:00",
     "salary": "",
     "stipend": "",
+    "employment_type": "",
+    "applicants": null,
+    "industry": "",
+    "function": "",
     "experience": "mid",
     "score": 13,
     "reasons": [
@@ -3112,6 +3894,10 @@
     "posted_at": "2026-08-12T16:55:55+00:00",
     "salary": "",
     "stipend": "",
+    "employment_type": "",
+    "applicants": null,
+    "industry": "",
+    "function": "",
     "experience": "mid",
     "score": 13,
     "reasons": [
@@ -3134,6 +3920,12 @@
     "posted_at": "2026-09-26T11:25:07+00:00",
     "salary": "45000–50000 USD / yearly",
     "stipend": "",
+    "employment_type": [
+      "Full-Time"
+    ],
+    "applicants": null,
+    "industry": "",
+    "function": "",
     "experience": "mid",
     "score": 10,
     "reasons": [
@@ -3155,6 +3947,12 @@
     "posted_at": "2026-09-26T11:10:05+00:00",
     "salary": "150000– USD / yearly",
     "stipend": "",
+    "employment_type": [
+      "Full-Time"
+    ],
+    "applicants": null,
+    "industry": "",
+    "function": "",
     "experience": "mid",
     "score": 10,
     "reasons": [
@@ -3176,6 +3974,12 @@
     "posted_at": "2026-09-26T11:05:36+00:00",
     "salary": "",
     "stipend": "",
+    "employment_type": [
+      "Full-Time"
+    ],
+    "applicants": null,
+    "industry": "",
+    "function": "",
     "experience": "mid",
     "score": 10,
     "reasons": [
@@ -3197,6 +4001,12 @@
     "posted_at": "2026-09-26T11:05:30+00:00",
     "salary": "145000– USD / yearly",
     "stipend": "",
+    "employment_type": [
+      "Full-Time"
+    ],
+    "applicants": null,
+    "industry": "",
+    "function": "",
     "experience": "mid",
     "score": 10,
     "reasons": [
@@ -3218,6 +4028,12 @@
     "posted_at": "2026-09-26T11:05:28+00:00",
     "salary": "115000– USD / yearly",
     "stipend": "",
+    "employment_type": [
+      "Full-Time"
+    ],
+    "applicants": null,
+    "industry": "",
+    "function": "",
     "experience": "mid",
     "score": 10,
     "reasons": [
@@ -3239,6 +4055,12 @@
     "posted_at": "2026-09-26T11:05:26+00:00",
     "salary": "",
     "stipend": "",
+    "employment_type": [
+      "Full-Time"
+    ],
+    "applicants": null,
+    "industry": "",
+    "function": "",
     "experience": "mid",
     "score": 10,
     "reasons": [
@@ -3260,6 +4082,12 @@
     "posted_at": "2026-09-26T11:05:07+00:00",
     "salary": "150000–165000 USD / yearly",
     "stipend": "",
+    "employment_type": [
+      "Full-Time"
+    ],
+    "applicants": null,
+    "industry": "",
+    "function": "",
     "experience": "mid",
     "score": 10,
     "reasons": [
@@ -3281,6 +4109,12 @@
     "posted_at": "2026-09-26T11:00:32+00:00",
     "salary": "200000–230000 USD / yearly",
     "stipend": "",
+    "employment_type": [
+      "Full-Time"
+    ],
+    "applicants": null,
+    "industry": "",
+    "function": "",
     "experience": "mid",
     "score": 10,
     "reasons": [
@@ -3302,6 +4136,12 @@
     "posted_at": "2026-09-26T11:00:30+00:00",
     "salary": "155000–200000 USD / yearly",
     "stipend": "",
+    "employment_type": [
+      "Full-Time"
+    ],
+    "applicants": null,
+    "industry": "",
+    "function": "",
     "experience": "mid",
     "score": 10,
     "reasons": [
@@ -3323,6 +4163,12 @@
     "posted_at": "2026-09-26T11:00:26+00:00",
     "salary": "190000–230000 USD / yearly",
     "stipend": "",
+    "employment_type": [
+      "Full-Time"
+    ],
+    "applicants": null,
+    "industry": "",
+    "function": "",
     "experience": "mid",
     "score": 10,
     "reasons": [
@@ -3344,6 +4190,12 @@
     "posted_at": "2026-09-26T11:00:24+00:00",
     "salary": "215000–250000 USD / yearly",
     "stipend": "",
+    "employment_type": [
+      "Full-Time"
+    ],
+    "applicants": null,
+    "industry": "",
+    "function": "",
     "experience": "unknown",
     "score": 10,
     "reasons": [
@@ -3365,6 +4217,12 @@
     "posted_at": "2026-09-26T11:00:18+00:00",
     "salary": "107978–134973 USD / yearly",
     "stipend": "",
+    "employment_type": [
+      "Full-Time"
+    ],
+    "applicants": null,
+    "industry": "",
+    "function": "",
     "experience": "mid",
     "score": 10,
     "reasons": [
@@ -3386,6 +4244,12 @@
     "posted_at": "2026-09-26T11:00:16+00:00",
     "salary": "110416–138020 GBP / yearly",
     "stipend": "",
+    "employment_type": [
+      "Full-Time"
+    ],
+    "applicants": null,
+    "industry": "",
+    "function": "",
     "experience": "unknown",
     "score": 10,
     "reasons": [
@@ -3407,6 +4271,12 @@
     "posted_at": "2026-09-26T11:00:13+00:00",
     "salary": "",
     "stipend": "",
+    "employment_type": [
+      "Full-Time"
+    ],
+    "applicants": null,
+    "industry": "",
+    "function": "",
     "experience": "mid",
     "score": 10,
     "reasons": [
@@ -3428,6 +4298,12 @@
     "posted_at": "2026-09-26T10:52:29+00:00",
     "salary": "210000–285000 EUR / yearly",
     "stipend": "",
+    "employment_type": [
+      "Full-Time"
+    ],
+    "applicants": null,
+    "industry": "",
+    "function": "",
     "experience": "mid",
     "score": 10,
     "reasons": [
@@ -3449,6 +4325,12 @@
     "posted_at": "2026-09-26T10:52:28+00:00",
     "salary": "240000–305000 USD / yearly",
     "stipend": "",
+    "employment_type": [
+      "Full-Time"
+    ],
+    "applicants": null,
+    "industry": "",
+    "function": "",
     "experience": "mid",
     "score": 10,
     "reasons": [
@@ -3470,6 +4352,12 @@
     "posted_at": "2026-09-26T10:52:26+00:00",
     "salary": "450000–470000 USD / yearly",
     "stipend": "",
+    "employment_type": [
+      "Full-Time"
+    ],
+    "applicants": null,
+    "industry": "",
+    "function": "",
     "experience": "mid",
     "score": 10,
     "reasons": [
@@ -3491,6 +4379,12 @@
     "posted_at": "2026-09-26T10:52:23+00:00",
     "salary": "300000–345000 USD / yearly",
     "stipend": "",
+    "employment_type": [
+      "Full-Time"
+    ],
+    "applicants": null,
+    "industry": "",
+    "function": "",
     "experience": "mid",
     "score": 10,
     "reasons": [
@@ -3512,6 +4406,12 @@
     "posted_at": "2026-09-26T10:52:12+00:00",
     "salary": "260000–280000 USD / yearly",
     "stipend": "",
+    "employment_type": [
+      "Full-Time"
+    ],
+    "applicants": null,
+    "industry": "",
+    "function": "",
     "experience": "mid",
     "score": 10,
     "reasons": [
@@ -3533,6 +4433,12 @@
     "posted_at": "2026-09-26T10:50:16+00:00",
     "salary": "",
     "stipend": "",
+    "employment_type": [
+      "Full-Time"
+    ],
+    "applicants": null,
+    "industry": "",
+    "function": "",
     "experience": "mid",
     "score": 10,
     "reasons": [
@@ -3554,6 +4460,12 @@
     "posted_at": "2026-09-26T09:58:39+00:00",
     "salary": "",
     "stipend": "",
+    "employment_type": [
+      "Full-Time"
+    ],
+    "applicants": null,
+    "industry": "",
+    "function": "",
     "experience": "mid",
     "score": 10,
     "reasons": [
@@ -3575,6 +4487,12 @@
     "posted_at": "2026-09-26T09:58:34+00:00",
     "salary": "",
     "stipend": "",
+    "employment_type": [
+      "Full-Time"
+    ],
+    "applicants": null,
+    "industry": "",
+    "function": "",
     "experience": "mid",
     "score": 10,
     "reasons": [
@@ -3596,6 +4514,12 @@
     "posted_at": "2026-09-26T09:58:33+00:00",
     "salary": "153000–210000 USD / yearly",
     "stipend": "",
+    "employment_type": [
+      "Full-Time"
+    ],
+    "applicants": null,
+    "industry": "",
+    "function": "",
     "experience": "mid",
     "score": 10,
     "reasons": [
@@ -3617,6 +4541,12 @@
     "posted_at": "2026-09-26T09:58:31+00:00",
     "salary": "",
     "stipend": "",
+    "employment_type": [
+      "Full-Time"
+    ],
+    "applicants": null,
+    "industry": "",
+    "function": "",
     "experience": "mid",
     "score": 10,
     "reasons": [
@@ -3638,6 +4568,12 @@
     "posted_at": "2026-09-25T20:53:51+00:00",
     "salary": "",
     "stipend": "",
+    "employment_type": [
+      "Full-Time"
+    ],
+    "applicants": null,
+    "industry": "",
+    "function": "",
     "experience": "mid",
     "score": 10,
     "reasons": [
@@ -3659,6 +4595,12 @@
     "posted_at": "2026-09-25T20:53:51+00:00",
     "salary": "",
     "stipend": "",
+    "employment_type": [
+      "Full-Time"
+    ],
+    "applicants": null,
+    "industry": "",
+    "function": "",
     "experience": "mid",
     "score": 10,
     "reasons": [
@@ -3680,6 +4622,12 @@
     "posted_at": "2026-09-25T18:05:31+00:00",
     "salary": "165000–185000 USD / yearly",
     "stipend": "",
+    "employment_type": [
+      "Full-Time"
+    ],
+    "applicants": null,
+    "industry": "",
+    "function": "",
     "experience": "mid",
     "score": 10,
     "reasons": [
@@ -3701,6 +4649,12 @@
     "posted_at": "2026-09-25T18:05:27+00:00",
     "salary": "110000–130000 USD / yearly",
     "stipend": "",
+    "employment_type": [
+      "Full-Time"
+    ],
+    "applicants": null,
+    "industry": "",
+    "function": "",
     "experience": "mid",
     "score": 10,
     "reasons": [
@@ -3722,6 +4676,12 @@
     "posted_at": "2026-09-25T18:05:26+00:00",
     "salary": "",
     "stipend": "",
+    "employment_type": [
+      "Full-Time"
+    ],
+    "applicants": null,
+    "industry": "",
+    "function": "",
     "experience": "mid",
     "score": 10,
     "reasons": [
@@ -3743,6 +4703,12 @@
     "posted_at": "2026-09-25T04:25:33+00:00",
     "salary": "180000–240000 USD / yearly",
     "stipend": "",
+    "employment_type": [
+      "Full-Time"
+    ],
+    "applicants": null,
+    "industry": "",
+    "function": "",
     "experience": "mid",
     "score": 10,
     "reasons": [
@@ -3764,6 +4730,12 @@
     "posted_at": "2026-09-25T04:25:30+00:00",
     "salary": "",
     "stipend": "",
+    "employment_type": [
+      "Full-Time"
+    ],
+    "applicants": null,
+    "industry": "",
+    "function": "",
     "experience": "mid",
     "score": 10,
     "reasons": [
@@ -3785,6 +4757,12 @@
     "posted_at": "2026-09-25T04:25:16+00:00",
     "salary": "",
     "stipend": "",
+    "employment_type": [
+      "Full-Time"
+    ],
+    "applicants": null,
+    "industry": "",
+    "function": "",
     "experience": "mid",
     "score": 10,
     "reasons": [
@@ -3806,6 +4784,12 @@
     "posted_at": "2026-09-25T04:25:07+00:00",
     "salary": "230000–230000 USD / yearly",
     "stipend": "",
+    "employment_type": [
+      "Full-Time"
+    ],
+    "applicants": null,
+    "industry": "",
+    "function": "",
     "experience": "mid",
     "score": 10,
     "reasons": [
@@ -3827,6 +4811,12 @@
     "posted_at": "2026-09-25T04:20:26+00:00",
     "salary": "140000–180000 USD / yearly",
     "stipend": "",
+    "employment_type": [
+      "Full-Time"
+    ],
+    "applicants": null,
+    "industry": "",
+    "function": "",
     "experience": "mid",
     "score": 10,
     "reasons": [
@@ -3848,6 +4838,12 @@
     "posted_at": "2026-09-25T04:20:14+00:00",
     "salary": "230000–230000 USD / yearly",
     "stipend": "",
+    "employment_type": [
+      "Full-Time"
+    ],
+    "applicants": null,
+    "industry": "",
+    "function": "",
     "experience": "mid",
     "score": 10,
     "reasons": [
@@ -3869,6 +4865,12 @@
     "posted_at": "2026-09-25T04:20:09+00:00",
     "salary": "99000–114000 GBP / yearly",
     "stipend": "",
+    "employment_type": [
+      "Full-Time"
+    ],
+    "applicants": null,
+    "industry": "",
+    "function": "",
     "experience": "mid",
     "score": 10,
     "reasons": [
@@ -3890,6 +4892,12 @@
     "posted_at": "2026-09-25T04:20:08+00:00",
     "salary": "",
     "stipend": "",
+    "employment_type": [
+      "Full-Time"
+    ],
+    "applicants": null,
+    "industry": "",
+    "function": "",
     "experience": "mid",
     "score": 10,
     "reasons": [
@@ -3911,6 +4919,12 @@
     "posted_at": "2026-09-25T04:20:04+00:00",
     "salary": "137048–178107 USD / yearly",
     "stipend": "",
+    "employment_type": [
+      "Full-Time"
+    ],
+    "applicants": null,
+    "industry": "",
+    "function": "",
     "experience": "mid",
     "score": 10,
     "reasons": [
@@ -3932,6 +4946,12 @@
     "posted_at": "2026-09-25T04:15:19+00:00",
     "salary": "150000–260000 USD / yearly",
     "stipend": "",
+    "employment_type": [
+      "Full-Time"
+    ],
+    "applicants": null,
+    "industry": "",
+    "function": "",
     "experience": "mid",
     "score": 10,
     "reasons": [
@@ -3953,6 +4973,12 @@
     "posted_at": "2026-09-25T04:10:18+00:00",
     "salary": "203200–345600 USD / yearly",
     "stipend": "",
+    "employment_type": [
+      "Full-Time"
+    ],
+    "applicants": null,
+    "industry": "",
+    "function": "",
     "experience": "mid",
     "score": 10,
     "reasons": [
@@ -3974,6 +5000,12 @@
     "posted_at": "2026-09-25T04:10:09+00:00",
     "salary": "",
     "stipend": "",
+    "employment_type": [
+      "Full-Time"
+    ],
+    "applicants": null,
+    "industry": "",
+    "function": "",
     "experience": "mid",
     "score": 10,
     "reasons": [
@@ -3995,6 +5027,12 @@
     "posted_at": "2026-09-25T04:10:07+00:00",
     "salary": "",
     "stipend": "",
+    "employment_type": [
+      "Contract"
+    ],
+    "applicants": null,
+    "industry": "",
+    "function": "",
     "experience": "mid",
     "score": 10,
     "reasons": [
@@ -4016,6 +5054,12 @@
     "posted_at": "2026-09-24T18:46:46+00:00",
     "salary": "",
     "stipend": "",
+    "employment_type": [
+      "Full-Time"
+    ],
+    "applicants": null,
+    "industry": "",
+    "function": "",
     "experience": "mid",
     "score": 10,
     "reasons": [
@@ -4037,6 +5081,12 @@
     "posted_at": "2026-09-24T18:46:44+00:00",
     "salary": "",
     "stipend": "",
+    "employment_type": [
+      "Full-Time"
+    ],
+    "applicants": null,
+    "industry": "",
+    "function": "",
     "experience": "mid",
     "score": 10,
     "reasons": [
@@ -4058,6 +5108,12 @@
     "posted_at": "2026-09-24T18:46:44+00:00",
     "salary": "90000–110000 USD / yearly",
     "stipend": "",
+    "employment_type": [
+      "Full-Time"
+    ],
+    "applicants": null,
+    "industry": "",
+    "function": "",
     "experience": "mid",
     "score": 10,
     "reasons": [
@@ -4079,6 +5135,12 @@
     "posted_at": "2026-09-24T18:41:44+00:00",
     "salary": "180000–210000 USD / yearly",
     "stipend": "",
+    "employment_type": [
+      "Full-Time"
+    ],
+    "applicants": null,
+    "industry": "",
+    "function": "",
     "experience": "mid",
     "score": 10,
     "reasons": [
@@ -4100,6 +5162,12 @@
     "posted_at": "2026-09-24T18:41:44+00:00",
     "salary": "150000–170000 CAD / yearly",
     "stipend": "",
+    "employment_type": [
+      "Full-Time"
+    ],
+    "applicants": null,
+    "industry": "",
+    "function": "",
     "experience": "unknown",
     "score": 10,
     "reasons": [
@@ -4121,6 +5189,12 @@
     "posted_at": "2026-09-24T18:41:41+00:00",
     "salary": "200000–235000 USD / yearly",
     "stipend": "",
+    "employment_type": [
+      "Full-Time"
+    ],
+    "applicants": null,
+    "industry": "",
+    "function": "",
     "experience": "mid",
     "score": 10,
     "reasons": [
