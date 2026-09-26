@@ -96,7 +96,14 @@ def himalayas():
             if key in seen: continue
             seen.add(key)
             locs=x.get("locationRestrictions") or []
-            location=", ".join((v.get("name","") if isinstance(v,dict) else str(v)) for v in locs) or "India / Remote"
+            names=[]
+            for v in locs:
+                if isinstance(v,dict):
+                    code=str(v.get("countryCode") or v.get("code") or "").upper()
+                    if code=="IN": names.append("India")
+                    elif v.get("name"): names.append(str(v.get("name")))
+                elif v: names.append(str(v))
+            location=", ".join(names) or "India / Remote"
             category_data=" ".join(map(str,x.get("category") or []))
             parent_data=" ".join(map(str,x.get("parentCategories") or []))
             text=" ".join([x.get("title",""),x.get("excerpt",""),x.get("description",""),category_data,parent_data])
