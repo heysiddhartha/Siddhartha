@@ -93,7 +93,7 @@ def himalayas():
             if key in seen: continue
             seen.add(key)
             locs=x.get("locationRestrictions") or []
-            location=", ".join(v.get("name","") for v in locs if isinstance(v,dict)) or "India / Remote"
+            location=", ".join((v.get("name","") if isinstance(v,dict) else str(v)) for v in locs) or "India / Remote"
             text=" ".join([x.get("title",""),x.get("excerpt",""),x.get("description","")," ".join(x.get("categories") or [])," ".join(x.get("parentCategories") or [])])
             salary=""
             if x.get("minSalary") or x.get("maxSalary"):
