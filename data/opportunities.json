@@ -2924,6 +2924,27 @@
   },
   {
     "type": "job",
+    "title": "Lead Product Designer",
+    "company": "HighLevel",
+    "location": "India",
+    "location_key": "india",
+    "mode": "Remote",
+    "url": "https://remoteOK.com/remote-jobs/remote-lead-product-designer-highlevel-1136841",
+    "source": "Remote OK",
+    "categories": [
+      "design"
+    ],
+    "posted_at": "2026-08-17T08:00:03+00:00",
+    "salary": "",
+    "stipend": "",
+    "experience": "mid",
+    "score": 15,
+    "reasons": [
+      "Design match"
+    ]
+  },
+  {
+    "type": "job",
     "title": "Senior Growth Product Manager AI Native",
     "company": "Magic Eden",
     "location": "Melbourne",
@@ -3073,28 +3094,6 @@
     "score": 13,
     "reasons": [
       "Marketing match",
-      "Remote"
-    ]
-  },
-  {
-    "type": "job",
-    "title": "Lead Product Designer",
-    "company": "HighLevel",
-    "location": "India",
-    "location_key": "remote",
-    "mode": "Remote",
-    "url": "https://remoteOK.com/remote-jobs/remote-lead-product-designer-highlevel-1136841",
-    "source": "Remote OK",
-    "categories": [
-      "design"
-    ],
-    "posted_at": "2026-08-17T08:00:03+00:00",
-    "salary": "",
-    "stipend": "",
-    "experience": "mid",
-    "score": 13,
-    "reasons": [
-      "Design match",
       "Remote"
     ]
   },
