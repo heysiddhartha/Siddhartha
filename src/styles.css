@@ -64,3 +64,46 @@ body{background:#06070a}
 @media(max-width:1000px){.hero-clean{grid-template-columns:1fr;min-height:auto;padding-top:70px}.hero-visual{height:520px;min-height:420px}.hero-copy{max-width:850px}.feed-layout{padding-top:35px}}
 @media(max-width:650px){.nav{height:58px;padding:0 18px}.brand strong{font-size:23px}.hero-clean{padding:55px 20px 45px}.hero-clean h1{font-size:86px;margin-top:22px}.hero-clean p{font-size:13px}.hero-clean .hero-search{flex-wrap:wrap;height:auto;padding:5px}.hero-clean .hero-search input{height:46px;width:calc(100% - 50px)}.hero-clean .hero-search button{width:100%;margin-top:4px}.hero-hint{line-height:1.8}.hero-visual{height:390px;min-height:340px}.radar-minimal{width:76%}.scroll-cue{right:0;bottom:0}.thread-a{width:100%}.thread-b{width:115%}.feed-layout{padding-top:25px}}
 @media(prefers-reduced-motion:reduce){.radar-hand,.signal-node,.web-orbit,.scroll-cue{animation:none}.radar-minimal,.thread,.web-bg{transform:none!important}}
+
+
+/* RADAR clean tracker layer */
+.hero-clean{min-height:720px;max-width:1500px;margin:auto;padding:88px 5.2vw 96px;grid-template-columns:minmax(0,1fr) minmax(430px,.86fr);gap:5vw}
+.hero-copy{max-width:760px}
+.hero-kicker{letter-spacing:.24em}
+.hero-clean h1{font-size:clamp(78px,9.4vw,148px);letter-spacing:.015em;line-height:.82;margin:25px 0 30px}
+.hero-clean h1 em{letter-spacing:.01em}
+.hero-clean p{max-width:610px;letter-spacing:.025em;line-height:1.85}
+.hero-search{max-width:860px;letter-spacing:.02em}
+.hero-hint{letter-spacing:.11em}
+.hero-visual{min-height:560px}
+.radar-minimal{width:390px;height:390px}
+.radar-ring{border-color:rgba(150,180,220,.15)}
+.radar-center b{letter-spacing:.06em}
+.thread{opacity:.42}
+.web-orbit{opacity:.42}
+.signal-node{opacity:.72}
+.scroll-cue{letter-spacing:.24em}
+.nav{letter-spacing:.05em}
+.brand strong{letter-spacing:.12em}
+.nav-center{letter-spacing:.22em}
+.saved-btn{letter-spacing:.2em}
+.feed-layout{padding-top:42px}
+.results-head h2{letter-spacing:.055em}
+.results-head h2 small{letter-spacing:.18em}
+.eyebrow{letter-spacing:.24em}
+.job-card,.filter-panel,.results-head,.active-row{letter-spacing:.015em}
+.filter-group h3,.filter-head span,.filter-head button,.more-toggle{letter-spacing:.2em}
+.select-list button,.toggle,.field{letter-spacing:.035em}
+.empty-state{letter-spacing:.04em}
+@media(max-width:980px){
+ .hero-clean{grid-template-columns:1fr;min-height:auto;padding-top:65px}
+ .hero-visual{min-height:470px}
+ .radar-minimal{width:320px;height:320px}
+}
+@media(max-width:640px){
+ .hero-clean h1{font-size:clamp(66px,18vw,104px);letter-spacing:.01em}
+ .hero-copy{max-width:100%}
+ .hero-visual{min-height:390px}
+ .radar-minimal{width:275px;height:275px}
+ .hero-hint{letter-spacing:.06em}
+}
