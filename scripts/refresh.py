@@ -114,6 +114,32 @@ def hopin():
             mode="Remote" if x.get("remote") else x.get("job_type") or ""
             add(rows,typ,title,x.get("company_name") or x.get("company"),x.get("location") or x.get("city") or "India",mode,url,"Hopin",x.get("posted_at") or "",str(x.get("ctc_amount") or ""),str(x.get("stipend") or ""),text)
 
+def jobvetta():
+    import os
+    key=os.getenv("JOBVETTA_API_KEY","").strip()
+    if not key:
+        raise RuntimeError("JOBVETTA_API_KEY not configured")
+    queries=["marketing","content","social media","sales","operations","design","business development"]
+    seen=set()
+    for q in queries:
+        url="https://api.jobvetta.com/v1/jobs?"+urllib.parse.urlencode({"q":q,"days":30,"limit":10})
+        req=urllib.request.Request(url,headers={"User-Agent":"RADAR/2.0","Authorization":"Bearer "+key})
+        with urllib.request.urlopen(req,timeout=25) as r:
+            data=json.load(r)
+        for x in data.get("jobs",[]):
+            jid=x.get("job_id") or x.get("url")
+            if jid in seen: continue
+            seen.add(jid)
+            loc=x.get("location") or "India"
+            posted=x.get("created_at")
+            if isinstance(posted,(int,float)):
+                posted=datetime.datetime.fromtimestamp(posted,datetime.timezone.utc).isoformat()
+            salary=""
+            if x.get("salary_min") or x.get("salary_max"):
+                salary=f'{x.get("salary_min") or ""}–{x.get("salary_max") or ""} {x.get("salary_currency") or ""}'.strip(" –")
+            text=" ".join([x.get("title",""),x.get("description","")," ".join(x.get("skills_required") or [])])
+            add(rows,"job",x.get("title",""),x.get("company"),loc,x.get("work_model") or "",x.get("url"),"Jobvetta",posted,salary,text=text)
+
 def jobisite_india():
     raw=urllib.request.urlopen(urllib.request.Request("https://ws.jobisite.com/cntryrss.jsp?country=India",headers={"User-Agent":"RADAR/1.1"}),timeout=25).read()
     root=ET.fromstring(raw)
@@ -125,7 +151,7 @@ def jobisite_india():
         if title and link:
             add(rows,"job",title,"Jobisite","India","See listing",link,"Jobisite",pub,text=f"{title} {desc}")
 
-for name,fn in [("Remote OK",remoteok),("Jobicy",jobicy),("Himalayas India",himalayas),("Hopin",hopin),("Jobisite India",jobisite_india)]: run_source(name,fn)
+for name,fn in [("Remote OK",remoteok),("Jobicy",jobicy),("Himalayas India",himalayas),("Hopin",hopin),("Jobisite India",jobisite_india),("Jobvetta India",jobvetta)]: run_source(name,fn)
 
 now=datetime.datetime.now(datetime.timezone.utc)
 seen=set(); clean=[]
