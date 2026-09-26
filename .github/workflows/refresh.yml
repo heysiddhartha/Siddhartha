@@ -8,6 +8,9 @@ on:
     paths:
       - "scripts/refresh.py"
       - ".github/workflows/refresh.yml"
+concurrency:
+  group: radar-refresh
+  cancel-in-progress: true
 permissions:
   contents: write
 jobs:
