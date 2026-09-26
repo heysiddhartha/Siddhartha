@@ -112,7 +112,7 @@ def himalayas():
                 salary=f'{x.get("minSalary") or ""}–{x.get("maxSalary") or ""} {x.get("currency") or ""} / {x.get("salaryPeriod") or ""}'.strip(" –/")
             pub=x.get("pubDate")
             if isinstance(pub,(int,float)):
-                pub=datetime.datetime.fromtimestamp(pub/1000,datetime.timezone.utc).isoformat()
+                pub=datetime.datetime.fromtimestamp(pub/1000 if pub>20000000000 else pub,datetime.timezone.utc).isoformat()
             add(rows,"job",x.get("title",""),x.get("companyName"),location,"Remote",x.get("applicationLink") or x.get("guid"),"Himalayas",str(pub or ""),salary,text=text,employment_type=x.get("employmentType") or x.get("jobType") or "",function=category_data)
 
 def hopin():
