@@ -135,6 +135,7 @@ def yubhub():
         data=fetch(url)
         records=data.get("jobs",data.get("results",data.get("data",[]))) if isinstance(data,dict) else (data if isinstance(data,list) else [])
         for x in records:
+            if not isinstance(x,dict): continue
             title=x.get("title") or x.get("name") or ""
             company=x.get("company") or x.get("company_name") or ""
             if isinstance(company,dict): company=company.get("name","")
