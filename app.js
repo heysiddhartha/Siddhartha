@@ -1,4 +1,4 @@
-const state={all:[],view:[],category:"all",location:"all",experience:"all",freshness:"all",sort:"fresh",saved:new Set(JSON.parse(localStorage.getItem("radar-saved")||"[]")),savedOnly:false};
+const state={all:[],view:[],category:"all",location:"india",experience:"all",freshness:"all",sort:"fresh",saved:new Set(JSON.parse(localStorage.getItem("radar-saved")||"[]")),savedOnly:false};
 const $=s=>document.querySelector(s),$$=s=>[...document.querySelectorAll(s)];
 const esc=v=>String(v??"").replace(/[&<>"']/g,m=>({"&":"&amp;","<":"&lt;",">":"&gt;","\"":"&quot;","'":"&#039;"}[m]));
 const age=x=>{const d=x.posted_at||x.date;if(!d)return 999;const n=(Date.now()-new Date(d).getTime())/86400000;return Number.isFinite(n)?Math.max(0,n):999};
