@@ -1,0 +1,29 @@
+{
+  "updated_at": "2026-09-26T19:45:43.414071+00:00",
+  "total_fetched": 272,
+  "total_clean": 188,
+  "published": 188,
+  "sources": {
+    "Remote OK": {
+      "status": "ok",
+      "items": 46
+    },
+    "Jobicy": {
+      "status": "ok",
+      "items": 161
+    },
+    "Himalayas India": {
+      "status": "ok",
+      "items": 65
+    },
+    "Hopin": {
+      "status": "ok",
+      "items": 0
+    },
+    "Jobisite India": {
+      "status": "error",
+      "items": 0,
+      "error": "HTTP Error 522: <none>"
+    }
+  }
+}
