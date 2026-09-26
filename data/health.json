@@ -1,33 +1,34 @@
 {
-  "updated_at": "2026-09-26T19:57:43.476159+00:00",
-  "total_fetched": 271,
-  "total_clean": 188,
-  "published": 188,
+  "updated_at": "2026-09-26T20:04:55.270337+00:00",
+  "total_fetched": 382,
+  "total_clean": 246,
+  "published": 246,
   "sources": {
     "Remote OK": {
       "status": "ok",
-      "items": 46
+      "items": 77
     },
     "Jobicy": {
       "status": "ok",
-      "items": 161
+      "items": 194
     },
     "Himalayas India": {
       "status": "ok",
-      "items": 64
+      "items": 111
     },
     "Hopin": {
       "status": "ok",
       "items": 0
     },
+    "YubHub": {
+      "status": "error",
+      "items": 0,
+      "error": "'str' object has no attribute 'get'"
+    },
     "Jobisite India": {
       "status": "error",
       "items": 0,
       "error": "HTTP Error 522: <none>"
-    },
-    "YubHub": {
-      "status": "ok",
-      "items": 0
     },
     "Jobvetta India": {
       "status": "error",
