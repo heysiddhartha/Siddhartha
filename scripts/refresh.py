@@ -142,42 +142,35 @@ def jobvetta():
 
 
 def yubhub():
-    # Public facet feeds; no key required. Keep YubHub attribution in source metadata.
-    facets=["marketing","sales","operations","design","business-development","communications","media"]
+    # Public YubHub search endpoint; no key required for the read-only data API.
+    queries=["marketing","content","social media","sales","business development","operations","design","communications","creator"]
     seen=set()
-    for facet in facets:
-        url="https://feeds.yubhub.co/facet/category/"+facet+".json"
+    for q in queries:
+        url="https://api.yubhub.co/search?"+urllib.parse.urlencode({"q":q,"page":1,"perPage":100})
         data=fetch(url)
-        records=data.get("jobs",data if isinstance(data,list) else [])
+        records=data.get("jobs",data.get("results",data if isinstance(data,list) else []))
         for x in records:
             title=x.get("title") or x.get("name") or ""
-            org=x.get("hiringOrganization") or x.get("hiring_organization") or x.get("company") or {}
-            company=org.get("name","") if isinstance(org,dict) else str(org)
-            loc=x.get("jobLocation") or x.get("job_location") or x.get("location") or ""
-            if isinstance(loc,list):
-                vals=[]
-                for v in loc:
-                    if isinstance(v,dict):
-                        a=v.get("address") or {}
-                        vals.append(a.get("addressLocality") or a.get("addressRegion") or a.get("addressCountry") or "")
-                    else: vals.append(str(v))
-                loc=", ".join([v for v in vals if v])
-            elif isinstance(loc,dict):
+            company=x.get("company") or x.get("company_name") or ""
+            if isinstance(company,dict): company=company.get("name","")
+            loc=x.get("location") or x.get("jobLocation") or ""
+            if isinstance(loc,dict):
                 a=loc.get("address") or {}
                 loc=", ".join([str(a.get(k)) for k in ["addressLocality","addressRegion","addressCountry"] if a.get(k)])
-            urlx=x.get("url") or x.get("directApplyUrl") or x.get("application_url") or ""
+            urlx=x.get("url") or x.get("apply_url") or x.get("application_url") or ""
             if not title or not urlx or urlx in seen: continue
             seen.add(urlx)
-            posted=x.get("datePosted") or x.get("date_posted") or ""
+            posted=x.get("datePosted") or x.get("date_posted") or x.get("posted_at") or ""
+            if isinstance(posted,(int,float)):
+                posted=datetime.datetime.fromtimestamp(posted/1000 if posted>20000000000 else posted,datetime.timezone.utc).isoformat()
             salary=""
-            bs=x.get("baseSalary") or x.get("base_salary") or {}
-            if isinstance(bs,dict):
-                val=bs.get("value") or {}
-                if isinstance(val,dict) and (val.get("minValue") or val.get("maxValue")):
-                    salary=f'{val.get("minValue") or ""}–{val.get("maxValue") or ""} {bs.get("currency") or ""}'.strip(" –")
-            mode=x.get("jobLocationType") or x.get("workArrangement") or x.get("work_arrangement") or ""
-            textblob=" ".join([title,str(x.get("description") or ""),facet,str(x.get("skills") or "")])
-            add(rows,"job",title,company,loc or "India",mode,urlx,"YubHub",posted,salary,text=textblob,employment_type=x.get("employmentType") or x.get("employment_type") or "",industry=x.get("industry") or "",function=facet)
+            lo=x.get("salary_min") or x.get("salaryMin")
+            hi=x.get("salary_max") or x.get("salaryMax")
+            cur=x.get("salary_currency") or x.get("salaryCurrency") or ""
+            if lo or hi: salary=f"{lo or ''}–{hi or ''} {cur}".strip(" –")
+            mode=x.get("work_arrangement") or x.get("workArrangement") or x.get("jobLocationType") or ""
+            textblob=" ".join([title,str(x.get("description") or ""),q,str(x.get("skills") or ""),str(x.get("category") or "")])
+            add(rows,"job",title,company,loc or "India",mode,urlx,"YubHub",posted,salary,text=textblob,employment_type=x.get("employment_type") or x.get("employmentType") or "",industry=x.get("industry") or "",function=x.get("category") or q)
 
 def jobisite_india():
     raw=urllib.request.urlopen(urllib.request.Request("https://ws.jobisite.com/cntryrss.jsp?country=India",headers={"User-Agent":"RADAR/1.1"}),timeout=25).read()
