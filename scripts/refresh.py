@@ -183,7 +183,7 @@ def jobisite_india():
         if title and link:
             add(rows,"job",title,"Jobisite","India","See listing",link,"Jobisite",pub,text=f"{title} {desc}")
 
-for name,fn in [("Remote OK",remoteok),("Jobicy",jobicy),("Himalayas India",himalayas),("Hopin",hopin),("Jobisite India",jobisite_india),("Jobvetta India",jobvetta)]: run_source(name,fn)
+for name,fn in [("Remote OK",remoteok),("Jobicy",jobicy),("Himalayas India",himalayas),("Hopin",hopin),("Jobisite India",jobisite_india),("YubHub",yubhub),("Jobvetta India",jobvetta)]: run_source(name,fn)
 
 now=datetime.datetime.now(datetime.timezone.utc)
 seen=set(); clean=[]
