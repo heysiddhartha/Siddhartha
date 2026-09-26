@@ -5,7 +5,9 @@ import "./styles.css";
 
 const roleCats=["all","marketing","content","social","creator","sales","operations","design"];
 const roleLabels={all:"All roles",marketing:"Marketing",content:"Content",social:"Social Media",creator:"Creator",sales:"Sales / BD",operations:"Operations",design:"Design / Creative"};
-const cities=["all","india","kolkata","bengaluru","mumbai","delhi","hyderabad","chennai","pune","remote"];\nconst states=["all","west-bengal","karnataka","maharashtra","delhi","telangana","tamil-nadu","gujarat","rajasthan","uttar-pradesh","kerala","andhra-pradesh","madhya-pradesh","odisha","punjab","haryana"];\nconst stateLabels={all:"All states","west-bengal":"West Bengal",karnataka:"Karnataka",maharashtra:"Maharashtra",delhi:"Delhi",telangana:"Telangana","tamil-nadu":"Tamil Nadu",gujarat:"Gujarat",rajasthan:"Rajasthan","uttar-pradesh":"Uttar Pradesh",kerala:"Kerala","andhra-pradesh":"Andhra Pradesh","madhya-pradesh":"Madhya Pradesh",odisha:"Odisha",punjab:"Punjab",haryana:"Haryana"};
+const cities=["all","india","kolkata","bengaluru","mumbai","delhi","hyderabad","chennai","pune","remote"];
+const states=["all","west-bengal","karnataka","maharashtra","delhi","telangana","tamil-nadu","gujarat","rajasthan","uttar-pradesh","kerala","andhra-pradesh","madhya-pradesh","odisha","punjab","haryana"];
+const stateLabels={all:"All states","west-bengal":"West Bengal",karnataka:"Karnataka",maharashtra:"Maharashtra",delhi:"Delhi",telangana:"Telangana","tamil-nadu":"Tamil Nadu",gujarat:"Gujarat",rajasthan:"Rajasthan","uttar-pradesh":"Uttar Pradesh",kerala:"Kerala","andhra-pradesh":"Andhra Pradesh","madhya-pradesh":"Madhya Pradesh",odisha:"Odisha",punjab:"Punjab",haryana:"Haryana"};
 const cityLabels={all:"Anywhere",india:"India",kolkata:"Kolkata",bengaluru:"Bengaluru",mumbai:"Mumbai",delhi:"Delhi NCR",hyderabad:"Hyderabad",chennai:"Chennai",pune:"Pune",remote:"Remote"};
 const experience=["all","internship","entry","associate","mid","director"];
 const employment=["all","full-time","part-time","contract","temporary","internship","volunteer"];
@@ -37,7 +39,8 @@ function App(){
    if(role!=="all"&&!cats.includes(role))return false;
    const ls=((x.location_key||"")+" "+(x.location||"")).toLowerCase();
    if(loc==="india"&&!/india|kolkata|bengaluru|bangalore|mumbai|delhi|gurgaon|gurugram|noida|hyderabad|chennai|pune|kerala/.test(ls))return false;
-   if(loc!=="all"&&loc!=="india"&&!ls.includes(loc==="delhi"?"delhi":loc))return false;\n   if(state!=="all"&&getState(x)!==state)return false;
+   if(loc!=="all"&&loc!=="india"&&!ls.includes(loc==="delhi"?"delhi":loc))return false;
+   if(state!=="all"&&getState(x)!==state)return false;
    if(posted!=="all"&&age(x)>Number(posted))return false;
    if(company&&!String(x.company||"").toLowerCase().includes(company.toLowerCase()))return false;
    if(!expMatch(x,exp))return false;
@@ -85,7 +88,8 @@ function App(){
     <aside className="filter-panel glass">
       <div className="filter-head"><div><span>ALL FILTERS</span><b>{view.length} matches</b></div><button onClick={reset}>RESET</button></div>
       <Filter title="Search"><input className="field" value={q} onChange={e=>setQ(e.target.value)} placeholder="Keywords, skills, company"/></Filter>
-      <Filter title="Location"><div className="select-list">{cities.map(v=><button key={v} className={loc===v?"active":""} onClick={()=>setLoc(v)}>{cityLabels[v]}</button>)}</div></Filter>\n      <Filter title="State"><div className="select-list state-list">{states.map(v=><button key={v} className={state===v?"active":""} onClick={()=>{setState(v);if(v!=="all")setLoc("india")}}>{stateLabels[v]}</button>)}</div></Filter>
+      <Filter title="Location"><div className="select-list">{cities.map(v=><button key={v} className={loc===v?"active":""} onClick={()=>setLoc(v)}>{cityLabels[v]}</button>)}</div></Filter>
+      <Filter title="State"><div className="select-list state-list">{states.map(v=><button key={v} className={state===v?"active":""} onClick={()=>{setState(v);if(v!=="all")setLoc("india")}}>{stateLabels[v]}</button>)}</div></Filter>
       <Filter title="Date posted"><div className="select-list">{postedOptions.map(([v,l])=><button key={v} className={posted===v?"active":""} onClick={()=>setPosted(v)}>{l}</button>)}</div></Filter>
       <Filter title="Experience level"><div className="select-list">{experience.map(v=><button key={v} className={exp===v?"active":""} onClick={()=>setExp(v)}>{v==="all"?"Any":v.replace("-", " ")}</button>)}</div></Filter>
       <Filter title="Employment type"><div className="select-list">{employment.map(v=><button key={v} className={type===v?"active":""} onClick={()=>setType(v)}>{v==="all"?"Any":v}</button>)}</div></Filter>
