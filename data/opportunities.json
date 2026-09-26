@@ -135,6 +135,32 @@
   },
   {
     "type": "job",
+    "title": "Associate Services Architect",
+    "company": "Tenable",
+    "location": "USA",
+    "location_key": "remote",
+    "mode": "Remote",
+    "url": "https://jobicy.com/jobs/153962-associate-services-architect",
+    "source": "Jobicy",
+    "categories": [
+      "marketing",
+      "content",
+      "social",
+      "sales",
+      "design"
+    ],
+    "posted_at": "2026-09-23T15:18:08+00:00",
+    "salary": "65000–87000 USD / yearly",
+    "stipend": "",
+    "experience": "fresher",
+    "score": 67,
+    "reasons": [
+      "Marketing match",
+      "Fresher-friendly signal"
+    ]
+  },
+  {
+    "type": "job",
     "title": "Head of GTM Enablement",
     "company": "Obsidian Security",
     "location": "USA",
@@ -203,32 +229,6 @@
     ],
     "posted_at": "2026-09-25T04:25:08+00:00",
     "salary": "229500–261000 EUR / yearly",
-    "stipend": "",
-    "experience": "fresher",
-    "score": 63,
-    "reasons": [
-      "Marketing match",
-      "Fresher-friendly signal"
-    ]
-  },
-  {
-    "type": "job",
-    "title": "Director, Strategic Partner Sales",
-    "company": "Remote",
-    "location": "Europe",
-    "location_key": "remote",
-    "mode": "Remote",
-    "url": "https://jobicy.com/jobs/151440-director-strategic-partner-sales",
-    "source": "Jobicy",
-    "categories": [
-      "marketing",
-      "social",
-      "sales",
-      "operations",
-      "design"
-    ],
-    "posted_at": "2026-09-25T04:15:27+00:00",
-    "salary": "252050–425300 USD / yearly",
     "stipend": "",
     "experience": "fresher",
     "score": 63,
@@ -3337,6 +3337,29 @@
   },
   {
     "type": "job",
+    "title": "Patient Onboarding Associate- Call Center",
+    "company": "Luna Physical Therapy",
+    "location": "USA",
+    "location_key": "remote",
+    "mode": "Remote",
+    "url": "https://jobicy.com/jobs/153961-patient-onboarding-associate-call-center",
+    "source": "Jobicy",
+    "categories": [
+      "marketing",
+      "design"
+    ],
+    "posted_at": "2026-09-23T15:18:08+00:00",
+    "salary": "16–16 USD / hourly",
+    "stipend": "",
+    "experience": "fresher",
+    "score": 37,
+    "reasons": [
+      "Marketing match",
+      "Fresher-friendly signal"
+    ]
+  },
+  {
+    "type": "job",
     "title": "Marketing Operations Specialist",
     "company": "Engine",
     "location": "Remote - US",
@@ -4605,30 +4628,6 @@
   },
   {
     "type": "job",
-    "title": "Sales Development Representative Attributeâ",
-    "company": "DoiT",
-    "location": "Remote UK",
-    "location_key": "remote",
-    "mode": "Remote",
-    "url": "https://remoteOK.com/remote-jobs/",
-    "source": "Remote OK",
-    "categories": [
-      "marketing",
-      "social",
-      "sales"
-    ],
-    "posted_at": "2026-08-11T08:00:43+00:00",
-    "salary": "",
-    "stipend": "",
-    "experience": "mid",
-    "score": 33,
-    "reasons": [
-      "Marketing match",
-      "Remote"
-    ]
-  },
-  {
-    "type": "job",
     "title": "Lead Automation Engineer",
     "company": "Capital on Tap",
     "location": "Portugal",
@@ -5773,28 +5772,6 @@
     "score": 13,
     "reasons": [
       "Content match",
-      "Remote"
-    ]
-  },
-  {
-    "type": "job",
-    "title": "Senior AI Engineer",
-    "company": "Sonatus",
-    "location": "Poland",
-    "location_key": "remote",
-    "mode": "Remote",
-    "url": "https://jobicy.com/jobs/151536-senior-ai-engineer-7",
-    "source": "Jobicy",
-    "categories": [
-      "design"
-    ],
-    "posted_at": "2026-09-25T04:10:14+00:00",
-    "salary": "",
-    "stipend": "",
-    "experience": "mid",
-    "score": 13,
-    "reasons": [
-      "Design match",
       "Remote"
     ]
   },
