@@ -20,10 +20,12 @@ function normMode(x){const s=((x.mode||"")+" "+(x.work_model||"")).toLowerCase()
 function salaryNumber(s){const m=String(s||"").replace(/,/g,"").match(/(d+(?:.d+)?)/);return m?Number(m[1]):null}
 
 function App(){
+ const [scrollY,setScrollY]=useState(0);
  const [jobs,setJobs]=useState([]),[loading,setLoading]=useState(true),[saved,setSaved]=useState(()=>new Set(JSON.parse(localStorage.getItem("radar-saved")||"[]"))),[selected,setSelected]=useState(null);
  const [q,setQ]=useState(""),[role,setRole]=useState("all"),[loc,setLoc]=useState("india"),[posted,setPosted]=useState("all"),[company,setCompany]=useState(""),[exp,setExp]=useState("all"),[type,setType]=useState("all"),[remote,setRemote]=useState("all"),[industry,setIndustry]=useState("all"),[functionFilter,setFunctionFilter]=useState("all"),[title,setTitle]=useState(""),[easy,setEasy]=useState(false),[linkedin,setLinkedin]=useState(false),[network,setNetwork]=useState(false),[under10,setUnder10]=useState(false),[salary,setSalary]=useState(""),[sort,setSort]=useState("recent"),[showMore,setShowMore]=useState(false);
 
  useEffect(()=>{fetch("./data/opportunities.json?"+Date.now()).then(r=>r.json()).then(x=>setJobs(Array.isArray(x)?x:[])).catch(()=>setJobs([])).finally(()=>setLoading(false))},[]);
+ useEffect(()=>{const onScroll=()=>setScrollY(window.scrollY);window.addEventListener("scroll",onScroll,{passive:true});return()=>window.removeEventListener("scroll",onScroll)},[]);
  useEffect(()=>localStorage.setItem("radar-saved",JSON.stringify([...saved])),[saved]);
 
  const indiaCount=useMemo(()=>jobs.filter(x=>{const s=((x.location_key||"")+" "+(x.location||"")).toLowerCase();return /india|kolkata|bengaluru|bangalore|mumbai|delhi|gurgaon|gurugram|noida|hyderabad|chennai|pune|kerala/.test(s)}).length,[jobs]);
@@ -57,22 +59,24 @@ function App(){
  const reset=()=>{setQ("");setRole("all");setLoc("india");setPosted("all");setCompany("");setExp("all");setType("all");setRemote("all");setIndustry("all");setFunctionFilter("all");setTitle("");setEasy(false);setLinkedin(false);setNetwork(false);setUnder10(false);setSalary("");setSort("recent")};
  const toggleSave=x=>setSaved(s=>{const n=new Set(s),id=x.url||x.title;n.has(id)?n.delete(id):n.add(id);return n});
 
- return <div className="app"><div className="ambient"/><Web/>
-  <header className="nav glass"><div className="brand"><span className="logo-ring">R</span><strong>RADAR</strong><small>OPPORTUNITY OS</small></div><div className="nav-center"><span className="live-dot"/>LIVE INDEX <b>{jobs.length}</b><span className="source-pill">{sourceCount} SOURCES</span></div><button className="saved-btn" onClick={()=>document.getElementById("feed")?.scrollIntoView({behavior:"smooth"})}>SAVED <b>{saved.size}</b></button></header>
+ return <div className="app"><div className="ambient"/><Web scrollY={scrollY}/>
+  <header className="nav glass"><div className="brand"><span className="logo-ring">R</span><strong>RADAR</strong><small>OPPORTUNITY OS</small></div><div className="nav-center"><span className="live-dot"/>LIVE <b>{jobs.length}</b></div><button className="saved-btn" onClick={()=>document.getElementById("feed")?.scrollIntoView({behavior:"smooth"})}>SAVED <b>{saved.size}</b></button></header>
 
   <main>
-   <section className="hero">
-    <div className="hero-left">
-      <div className="eyebrow"><span>01</span> DISCOVER / FILTER / APPLY</div>
-      <h1>FIND THE<br/><em>OPENING.</em></h1>
-      <p className="hero-lead">A sharper layer between you and the job boards. Search the signal, cut the noise, and open the original listing.</p>
-      <div className="hero-search glass"><span>⌕</span><input value={q} onChange={e=>setQ(e.target.value)} placeholder="Try “content strategist in Kolkata”"/><button onClick={()=>document.getElementById("feed")?.scrollIntoView({behavior:"smooth"})}>SEARCH</button></div>
-      <div className="hero-meta"><span><b>{indiaCount}</b> India signals</span><span><b>{jobs.length}</b> indexed</span><span><b>{sourceCount}</b> public sources</span></div>
+   <section className="hero-clean">
+    <div className="hero-copy">
+      <div className="hero-kicker"><span className="kicker-line"/><span>RADAR / OPPORTUNITY DISCOVERY</span></div>
+      <h1>YOUR NEXT<br/><em>MOVE.</em></h1>
+      <p>One clean layer between you and the noise. Find the opening, filter the signal, and move.</p>
+      <div className="hero-search glass"><span className="search-icon">⌕</span><input value={q} onChange={e=>setQ(e.target.value)} placeholder="Search roles, skills, companies or cities"/><button onClick={()=>document.getElementById("feed")?.scrollIntoView({behavior:"smooth"})}>SEARCH <span>↗</span></button></div>
+      <div className="hero-hint"><span>TRY</span> content strategy · marketing · Kolkata · remote</div>
     </div>
-    <div className="command glass">
-      <div className="command-top"><span>RADAR COMMAND</span><i>SCAN 360°</i></div>
-      <div className="radar-stage"><div className="radar-grid"/><div className="radar-sweep"/><div className="radar-core"><b>{view.length}</b><small>MATCHES</small></div><i className="blip b1"/><i className="blip b2"/><i className="blip b3"/><i className="blip b4"/></div>
-      <div className="command-foot"><span>LOCATION <b>INDIA</b></span><span>FRESHNESS <b>{posted==="all"?"ANY":posted+"D"}</b></span><span>STATUS <b>ONLINE</b></span></div>
+    <div className="hero-visual" style={{"--scroll":scrollY+"px"}}>
+      <div className="thread thread-a"/><div className="thread thread-b"/><div className="thread thread-c"/>
+      <div className="web-orbit orbit-1"/><div className="web-orbit orbit-2"/><div className="web-orbit orbit-3"/>
+      <div className="signal-node node-1"/><div className="signal-node node-2"/><div className="signal-node node-3"/>
+      <div className="radar-minimal"><div className="radar-ring r1"/><div className="radar-ring r2"/><div className="radar-ring r3"/><div className="radar-cross"/><div className="radar-hand"/><div className="radar-center"><b>{view.length}</b><span>LIVE</span></div></div>
+      <div className="scroll-cue"><span>SCROLL</span><i>↓</i></div>
     </div>
    </section>
 
@@ -113,5 +117,5 @@ function Filter({title,children}){return <div className="filter-group"><h3>{titl
 function Toggle({label,value,set}){return <button className={"toggle "+(value?"on":"")} onClick={()=>set(!value)}><span>{label}</span><i/></button>}
 function Job({x,i,saved,onSave,onOpen}){const mode=normMode(x);return <motion.article className="job-card glass" initial={{opacity:0,y:18}} animate={{opacity:1,y:0}} transition={{delay:Math.min(i,15)*.025}} whileHover={{y:-5}}><div className="card-top"><span>{x.source||"PUBLIC SOURCE"}</span><button onClick={onSave}>{saved?"★":"☆"}</button></div><div className="company-line"><div className="company-mark">{(x.company||"?").slice(0,1)}</div><div><h3>{x.title}</h3><p>{x.company}</p></div></div><div className="facts"><span>⌖ {x.location||"India"}</span><span>◷ {ageText(age(x))}</span>{mode&&<span>◉ {mode}</span>}</div><div className="chips">{(x.categories||[]).slice(0,3).map(c=><i key={c}>{c}</i>)}</div><div className="card-bottom"><span>RADAR <b>{x.score||0}</b></span><button onClick={onOpen}>VIEW SIGNAL ↗</button></div></motion.article>}
 function Detail({x,saved,onSave,onClose}){return <motion.div className="overlay" initial={{opacity:0}} animate={{opacity:1}} exit={{opacity:0}}><motion.aside className="drawer glass" initial={{x:"100%"}} animate={{x:0}} exit={{x:"100%"}}><button className="close" onClick={onClose}>×</button><div className="eyebrow"><span>03</span> {x.source||"PUBLIC SOURCE"}</div><h2>{x.title}</h2><h3>{x.company}</h3><div className="detail-grid"><span>LOCATION<b>{x.location||"India"}</b></span><span>EXPERIENCE<b>{x.experience||"Unknown"}</b></span><span>TYPE<b>{x.employment_type||"Not supplied"}</b></span><span>PAY<b>{x.salary||x.stipend||"Not listed"}</b></span></div><p>{(x.reasons||[]).join(" · ")||"Relevant opportunity detected by RADAR."}</p><div className="signal-score"><b>{x.score||0}</b><span>RADAR<br/>SIGNAL</span></div><div className="drawer-actions"><a href={x.url} target="_blank" rel="noreferrer">OPEN ORIGINAL ↗</a><button onClick={onSave}>{saved?"REMOVE SAVE":"SAVE SIGNAL"}</button></div></motion.aside></motion.div>}
-function Web(){return <div className="web-bg"><svg viewBox="0 0 1440 900" preserveAspectRatio="none"><path d="M0 180L360 0M0 520L720 0M250 900L1440 0M860 900L1440 460M1160 900L1440 690"/><circle cx="930" cy="260" r="250"/><circle cx="930" cy="260" r="170"/><circle cx="930" cy="260" r="90"/></svg></div>}
+function Web({scrollY=0}){return <div className="web-bg" style={{transform:"translateY("+(scrollY*.16)+"px)"}}><svg viewBox="0 0 1440 1100" preserveAspectRatio="none"><path d="M0 110L720 550L1440 110M0 550L720 550L1440 550M0 990L720 550L1440 990M180 0L720 550L1260 0M180 1100L720 550L1260 1100"/><circle cx="720" cy="550" r="470"/><circle cx="720" cy="550" r="350"/><circle cx="720" cy="550" r="235"/><circle cx="720" cy="550" r="120"/></svg></div>}
 createRoot(document.getElementById("root")).render(<App/>);
