@@ -22,7 +22,7 @@ function salaryNumber(s){const m=String(s||"").replace(/,/g,"").match(/(d+(?:.d+
 function App(){
  const [scrollY,setScrollY]=useState(0);
  const [jobs,setJobs]=useState([]),[loading,setLoading]=useState(true),[saved,setSaved]=useState(()=>new Set(JSON.parse(localStorage.getItem("radar-saved")||"[]"))),[selected,setSelected]=useState(null);
- const [q,setQ]=useState(""),[role,setRole]=useState("all"),[loc,setLoc]=useState("india"),[posted,setPosted]=useState("all"),[company,setCompany]=useState(""),[exp,setExp]=useState("all"),[type,setType]=useState("all"),[remote,setRemote]=useState("all"),[industry,setIndustry]=useState("all"),[functionFilter,setFunctionFilter]=useState("all"),[title,setTitle]=useState(""),[easy,setEasy]=useState(false),[linkedin,setLinkedin]=useState(false),[network,setNetwork]=useState(false),[under10,setUnder10]=useState(false),[salary,setSalary]=useState(""),[sort,setSort]=useState("recent"),[showMore,setShowMore]=useState(false);
+ const [q,setQ]=useState(()=>new URLSearchParams(window.location.search).get("q")||""),[role,setRole]=useState("all"),[loc,setLoc]=useState("india"),[posted,setPosted]=useState("all"),[company,setCompany]=useState(""),[exp,setExp]=useState("all"),[type,setType]=useState("all"),[remote,setRemote]=useState("all"),[industry,setIndustry]=useState("all"),[functionFilter,setFunctionFilter]=useState("all"),[title,setTitle]=useState(""),[easy,setEasy]=useState(false),[linkedin,setLinkedin]=useState(false),[network,setNetwork]=useState(false),[under10,setUnder10]=useState(false),[salary,setSalary]=useState(""),[sort,setSort]=useState("recent"),[showMore,setShowMore]=useState(false);
 
  useEffect(()=>{fetch("./data/opportunities.json?"+Date.now()).then(r=>r.json()).then(x=>setJobs(Array.isArray(x)?x:[])).catch(()=>setJobs([])).finally(()=>setLoading(false))},[]);
  useEffect(()=>{const onScroll=()=>setScrollY(window.scrollY);window.addEventListener("scroll",onScroll,{passive:true});return()=>window.removeEventListener("scroll",onScroll)},[]);
@@ -76,6 +76,7 @@ function App(){
       <div className="web-orbit orbit-1"/><div className="web-orbit orbit-2"/><div className="web-orbit orbit-3"/>
       <div className="signal-node node-1"/><div className="signal-node node-2"/><div className="signal-node node-3"/>
       <div className="radar-minimal"><div className="radar-ring r1"/><div className="radar-ring r2"/><div className="radar-ring r3"/><div className="radar-cross"/><div className="radar-hand"/><div className="radar-center"><b>{view.length}</b><span>LIVE</span></div></div>
+      <div className="tracker-log glass"><div className="tracker-log-head"><span>ACTIVITY LOG</span><b>{view.length?"SIGNALS LOCKED":"SCANNING"}</b></div>{view.slice(0,3).map((x,i)=><div className="tracker-row" key={x.url||i}><i className={i===0?"confirmed":i===1?"rumored":"event"}/><div><b>{x.title}</b><span>{x.company} · {x.location||"Remote"}</span></div><em>{ageText(age(x))}</em></div>)}{!view.length&&<div className="tracker-empty">Waiting for the next signal.</div>}</div>
       <div className="scroll-cue"><span>SCROLL</span><i>↓</i></div>
     </div>
    </section>
