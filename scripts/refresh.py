@@ -13,9 +13,8 @@ KEYWORDS={
 CITY_MAP={"kolkata":["kolkata","calcutta"],"bengaluru":["bengaluru","bangalore"],"mumbai":["mumbai"],"delhi":["delhi","gurgaon","gurugram","noida"],"hyderabad":["hyderabad"],"chennai":["chennai","madras"],"india":["india"]}
 
 def fetch(url):
-    req=urllib.request.Request(url,headers={"User-Agent":"RADAR/1.0"})
-    with urllib.request.urlopen(req,timeout=30) as r:
-        return json.load(r)
+    req=urllib.request.Request(url,headers={"User-Agent":"RADAR/1.1"})
+    with urllib.request.urlopen(req,timeout=25) as r: return json.load(r)
 
 def cats(text):
     t=text.lower()
@@ -35,63 +34,70 @@ def experience(title,text=""):
     if any(w in t for w in ["senior","lead","manager","3+ year","3-5 year","5+ year"]): return "mid"
     return "unknown"
 
-def score(x):
-    s=len(x["categories"])*10
+def add(rows,typ,title,company,location,mode,url,source,posted="",salary="",stipend="",text=""):
+    if not title or not url: return
+    categories=cats(f"{title} {text}")
+    if not categories: return
+    x={"type":typ,"title":re.sub(r"\s+"," ",title).strip(),"company":company or "Unknown company","location":location or "India","location_key":location_key(location or "India",mode),"mode":mode or "See listing","url":url,"source":source,"categories":categories,"posted_at":posted or "","salary":salary or "","stipend":stipend or ""}
+    x["experience"]=experience(title,text)
+    s=len(categories)*10
     if x["experience"]=="fresher": s+=10
     elif x["experience"]=="junior": s+=6
     if x["location_key"]=="india": s+=5
     if x["location_key"]=="remote": s+=3
-    title=x["title"].lower()
-    if any(w in title for w in ["strategist","specialist","coordinator","associate"]): s+=4
-    return s
-
-def add(rows,typ,title,company,location,mode,url,source,categories,posted="",salary="",stipend="",text=""):
-    if not title or not url or not categories: return
-    x={"type":typ,"title":re.sub(r"\s+"," ",title).strip(),"company":company or "Unknown company","location":location or "India","location_key":location_key(location or "India",mode),"mode":mode or "See listing","url":url,"source":source,"categories":categories,"posted_at":posted or "","salary":salary or "","stipend":stipend or ""}
-    x["experience"]=experience(title,text)
-    x["score"]=score(x)
+    if any(w in title.lower() for w in ["strategist","specialist","coordinator","associate"]): s+=4
+    x["score"]=s
     x["reasons"]=[categories[0].title()+" match"]
     if x["experience"]=="fresher": x["reasons"].append("Fresher-friendly signal")
     elif x["experience"]=="junior": x["reasons"].append("Early-career signal")
-    elif x["location_key"]=="remote": x["reasons"].append("Remote")
+    if x["location_key"]=="remote": x["reasons"].append("Remote")
     rows.append(x)
 
+sources={}
 rows=[]
 
-try:
+def run_source(name,fn):
+    try:
+        before=len(rows); fn(); sources[name]={"status":"ok","items":len(rows)-before}
+    except Exception as e:
+        sources[name]={"status":"error","items":0,"error":str(e)[:180]}
+        print(name+":",e)
+
+def remoteok():
     for x in fetch("https://remoteok.com/api"):
         if isinstance(x,dict) and x.get("position") and x.get("url"):
             text=" ".join([x.get("position",""),x.get("description","")," ".join(x.get("tags") or [])])
             epoch=x.get("epoch")
             posted=datetime.datetime.fromtimestamp(epoch,datetime.timezone.utc).isoformat() if epoch else ""
-            add(rows,"job",x["position"],x.get("company"),x.get("location") or "Remote","Remote",x["url"],"Remote OK",cats(text),posted,text=text)
-except Exception as e: print("Remote OK:",e)
+            add(rows,"job",x["position"],x.get("company"),x.get("location") or "Remote","Remote",x["url"],"Remote OK",posted,text=text)
 
-try:
+def jobicy():
     for x in fetch("https://jobicy.com/api/v2/remote-jobs?count=200").get("jobs",[]):
         text=" ".join([x.get("jobTitle","")," ".join(x.get("jobIndustry") or []),x.get("jobDescription","")])
         salary=""
         if x.get("salaryMin") or x.get("salaryMax"):
             salary=f'{x.get("salaryMin") or ""}–{x.get("salaryMax") or ""} {x.get("salaryCurrency") or ""} / {x.get("salaryPeriod") or ""}'.strip(" –/")
-        add(rows,"job",x.get("jobTitle",""),x.get("companyName"),x.get("jobGeo") or "Remote","Remote",x.get("url"),"Jobicy",cats(text),x.get("pubDate",""),salary,text=text)
-except Exception as e: print("Jobicy:",e)
+        geo=x.get("jobGeo") or "Remote"
+        mode="Remote" if "remote" in str(geo).lower() else "See listing"
+        add(rows,"job",x.get("jobTitle",""),x.get("companyName"),geo,mode,x.get("url"),"Jobicy",x.get("pubDate",""),salary,text=text)
 
-try:
+def himalayas():
     for x in fetch("https://himalayas.app/jobs/api?limit=100").get("jobs",[]):
         text=" ".join([x.get("title",""),x.get("description","")," ".join(x.get("categories") or [])])
-        add(rows,"job",x.get("title",""),x.get("companyName"),x.get("location") or "Remote","Remote",x.get("url") or x.get("applicationUrl"),"Himalayas",cats(text),x.get("publishedAt") or x.get("pubDate") or "",text=text)
-except Exception as e: print("Himalayas:",e)
+        add(rows,"job",x.get("title",""),x.get("companyName"),x.get("location") or "Remote","Remote",x.get("url") or x.get("applicationUrl"),"Himalayas",x.get("publishedAt") or x.get("pubDate") or "",text=text)
 
-try:
+def hopin():
     for endpoint,typ in [("https://api.hopinjobs.com/api/jobs","job"),("https://api.hopinjobs.com/api/internships","internship")]:
-        data=fetch(endpoint)
-        records=data.get("jobs",data.get("internships",data if isinstance(data,list) else []))
+        data=fetch(endpoint); records=data.get("jobs",data.get("internships",data if isinstance(data,list) else []))
         for x in records:
+            if x.get("is_active") is False: continue
             title=x.get("title") or x.get("name") or ""
             text=" ".join(str(x.get(k,"")) for k in ["title","description","industry","role_type","job_type"])
             url=x.get("url") or x.get("application_url") or x.get("apply_url")
-            add(rows,typ,title,x.get("company_name") or x.get("company"),x.get("location") or x.get("city") or "India","Remote" if x.get("remote") else x.get("job_type") or "",url,"Hopin",cats(text),x.get("posted_at") or "",str(x.get("ctc_amount") or ""),str(x.get("stipend") or ""),text)
-except Exception as e: print("Hopin:",e)
+            mode="Remote" if x.get("remote") else x.get("job_type") or ""
+            add(rows,typ,title,x.get("company_name") or x.get("company"),x.get("location") or x.get("city") or "India",mode,url,"Hopin",x.get("posted_at") or "",str(x.get("ctc_amount") or ""),str(x.get("stipend") or ""),text)
+
+for name,fn in [("Remote OK",remoteok),("Jobicy",jobicy),("Himalayas",himalayas),("Hopin",hopin)]: run_source(name,fn)
 
 now=datetime.datetime.now(datetime.timezone.utc)
 seen=set(); clean=[]
@@ -107,7 +113,12 @@ for x in sorted(rows,key=lambda y:(y["score"],y.get("posted_at","")),reverse=Tru
     seen.add(url); clean.append(x)
 
 Path("data").mkdir(exist_ok=True)
-Path("data/opportunities.json").write_text(json.dumps(clean[:250],ensure_ascii=False,indent=2),encoding="utf-8")
+db=Path("data/opportunities.json")
+if len(clean)>=10 or not db.exists():
+    db.write_text(json.dumps(clean[:250],ensure_ascii=False,indent=2),encoding="utf-8")
+else:
+    print(f"Safety hold: only {len(clean)} usable records; keeping previous database.")
+
 items=clean[:50]
 rss=['<?xml version="1.0" encoding="UTF-8"?>','<rss version="2.0"><channel><title>RADAR — India Opportunities</title><link>https://heysiddhartha.github.io/Siddhartha/</link><description>Fresh jobs, internships, freelance and creator opportunities.</description>']
 for x in items:
@@ -116,4 +127,6 @@ for x in items:
     rss.append(f"<item><title>{title}</title><link>{link}</link><guid>{link}</guid><description>{x['company']} · {x['location']}</description></item>")
 rss.append("</channel></rss>")
 Path("feed.xml").write_text("\n".join(rss),encoding="utf-8")
+health={"updated_at":now.isoformat(),"total_fetched":len(rows),"total_clean":len(clean),"published":min(len(clean),250),"sources":sources}
+Path("data/health.json").write_text(json.dumps(health,ensure_ascii=False,indent=2),encoding="utf-8")
 print(f"RADAR refreshed: {len(clean)} opportunities")
