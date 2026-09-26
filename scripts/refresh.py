@@ -10,7 +10,8 @@ KEYWORDS={
  "operations":["operations","project manager","program manager","strategy & operations","business operations"],
  "design":["designer","design","creative","art director","video editor","motion","graphic designer"]
 }
-CITY_MAP={"kolkata":["kolkata","calcutta"],"bengaluru":["bengaluru","bangalore"],"mumbai":["mumbai"],"delhi":["delhi","gurgaon","gurugram","noida"],"hyderabad":["hyderabad"],"chennai":["chennai","madras"],"pune":["pune"],"india":["india"]}\nSTATE_MAP={"west-bengal":["west bengal","kolkata","calcutta","siliguri","howrah","durgapur"],"karnataka":["karnataka","bengaluru","bangalore","mysuru","mysore"],"maharashtra":["maharashtra","mumbai","pune","nagpur","nashik"],"delhi":["delhi","new delhi","gurgaon","gurugram","noida"],"telangana":["telangana","hyderabad"],"tamil-nadu":["tamil nadu","chennai","madras","coimbatore"],"gujarat":["gujarat","ahmedabad","surat","vadodara"],"rajasthan":["rajasthan","jaipur","udaipur","jodhpur"],"uttar-pradesh":["uttar pradesh","lucknow","noida","kanpur","agra","varanasi"],"kerala":["kerala","kochi","cochin","thiruvananthapuram"],"andhra-pradesh":["andhra pradesh","visakhapatnam","vijayawada"],"madhya-pradesh":["madhya pradesh","bhopal","indore"],"odisha":["odisha","orissa","bhubaneswar","cuttack"],"punjab":["punjab","chandigarh","ludhiana","amritsar"],"haryana":["haryana","gurgaon","gurugram","faridabad"]}
+CITY_MAP={"kolkata":["kolkata","calcutta"],"bengaluru":["bengaluru","bangalore"],"mumbai":["mumbai"],"delhi":["delhi","gurgaon","gurugram","noida"],"hyderabad":["hyderabad"],"chennai":["chennai","madras"],"pune":["pune"],"india":["india"]}
+STATE_MAP={"west-bengal":["west bengal","kolkata","calcutta","siliguri","howrah","durgapur"],"karnataka":["karnataka","bengaluru","bangalore","mysuru","mysore"],"maharashtra":["maharashtra","mumbai","pune","nagpur","nashik"],"delhi":["delhi","new delhi","gurgaon","gurugram","noida"],"telangana":["telangana","hyderabad"],"tamil-nadu":["tamil nadu","chennai","madras","coimbatore"],"gujarat":["gujarat","ahmedabad","surat","vadodara"],"rajasthan":["rajasthan","jaipur","udaipur","jodhpur"],"uttar-pradesh":["uttar pradesh","lucknow","noida","kanpur","agra","varanasi"],"kerala":["kerala","kochi","cochin","thiruvananthapuram"],"andhra-pradesh":["andhra pradesh","visakhapatnam","vijayawada"],"madhya-pradesh":["madhya pradesh","bhopal","indore"],"odisha":["odisha","orissa","bhubaneswar","cuttack"],"punjab":["punjab","chandigarh","ludhiana","amritsar"],"haryana":["haryana","gurgaon","gurugram","faridabad"]}
 
 def fetch(url):
     req=urllib.request.Request(url,headers={"User-Agent":"RADAR/2.2 (+https://heysiddhartha.github.io/Siddhartha/)"})
@@ -28,7 +29,13 @@ def location_key(location,mode=""):
         if any(w in t for w in words): return key
     return "other"
 
-def state_key(location):\n    t=str(location or "").lower()\n    for key,words in STATE_MAP.items():\n        if any(w in t for w in words): return key\n    return ""\n\ndef experience(title,text=""):
+def state_key(location):
+    t=str(location or "").lower()
+    for key,words in STATE_MAP.items():
+        if any(w in t for w in words): return key
+    return ""
+
+def experience(title,text=""):
     t=f"{title} {text}".lower()
     if any(w in t for w in ["intern","fresher","entry level","entry-level","graduate","trainee","0-1 year","0 to 1"]): return "fresher"
     if any(w in t for w in ["junior","associate","1-2 year","1-3 year","1 to 3"]): return "junior"
@@ -223,7 +230,8 @@ for x in items:
     link=x["url"].replace("&","&amp;")
     rss.append(f"<item><title>{title}</title><link>{link}</link><guid>{link}</guid><description>{x['company']} · {x['location']}</description></item>")
 rss.append("</channel></rss>")
-Path("feed.xml").write_text("\n".join(rss),encoding="utf-8")
+Path("feed.xml").write_text("
+".join(rss),encoding="utf-8")
 health={"updated_at":now.isoformat(),"total_fetched":len(rows),"total_clean":len(clean),"published":min(len(clean),400),"sources":sources}
 Path("data/health.json").write_text(json.dumps(health,ensure_ascii=False,indent=2),encoding="utf-8")
 print(f"RADAR refreshed: {len(clean)} opportunities")
