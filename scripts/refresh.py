@@ -40,7 +40,7 @@ def add(rows,typ,title,company,location,mode,url,source,posted="",salary="",stip
     title_clean=re.sub(r"\s+"," ",str(title)).strip()
     blob=f"{title_clean} {text} {industry} {function}"
     categories=cats(blob)
-    if not categories: return
+    if not categories: categories=["other"]
     loc=location or "India"
     x={"type":typ,"title":title_clean,"company":company or "Unknown company","location":loc,"location_key":location_key(loc,mode),"mode":mode or "See listing","url":url,"source":source,"categories":categories,"posted_at":posted or "","salary":salary or "","stipend":stipend or "","employment_type":employment_type or "","applicants":applicants,"industry":industry or "","function":function or ""}
     x["experience"]=experience(title_clean,blob)
@@ -87,33 +87,50 @@ def jobicy():
         add(rows,"job",x.get("jobTitle",""),x.get("companyName"),geo,mode,x.get("url"),"Jobicy",x.get("pubDate",""),salary,text=text,employment_type=x.get("jobType") or x.get("jobTypeText") or "")
 
 def himalayas():
-    queries=["marketing","content","social media","sales","operations","design","business development","creator"]
+    # Ingest all India-eligible and worldwide remote listings, not just keyword matches.
     seen=set()
-    for q in queries:
-        url="https://himalayas.app/jobs/api/search?"+urllib.parse.urlencode({"q":q,"country":"IN","exclude_worldwide":"true","sort":"recent","page":1})
-        for x in fetch(url).get("jobs",[]):
-            key=x.get("guid") or x.get("applicationLink")
-            if key in seen: continue
-            seen.add(key)
-            locs=x.get("locationRestrictions") or []
-            names=[]
-            for v in locs:
-                if isinstance(v,dict):
-                    code=str(v.get("countryCode") or v.get("code") or "").upper()
-                    if code=="IN": names.append("India")
-                    elif v.get("name"): names.append(str(v.get("name")))
-                elif v: names.append(str(v))
-            location="India"
-            category_data=" ".join(map(str,x.get("category") or []))
-            parent_data=" ".join(map(str,x.get("parentCategories") or []))
-            text=" ".join([x.get("title",""),x.get("excerpt",""),x.get("description",""),category_data,parent_data])
-            salary=""
-            if x.get("minSalary") or x.get("maxSalary"):
-                salary=f'{x.get("minSalary") or ""}–{x.get("maxSalary") or ""} {x.get("currency") or ""} / {x.get("salaryPeriod") or ""}'.strip(" –/")
-            pub=x.get("pubDate")
-            if isinstance(pub,(int,float)):
-                pub=datetime.datetime.fromtimestamp(pub/1000 if pub>20000000000 else pub,datetime.timezone.utc).isoformat()
-            add(rows,"job",x.get("title",""),x.get("companyName"),location,"Remote",x.get("applicationLink") or x.get("guid"),"Himalayas",str(pub or ""),salary,text=text,employment_type=x.get("employmentType") or x.get("jobType") or "",function=category_data)
+
+    def collect(params):
+        page=1
+        while page<=100:
+            p=dict(params); p["sort"]="recent"; p["page"]=page
+            data=fetch("https://himalayas.app/jobs/api/search?"+urllib.parse.urlencode(p))
+            jobs=data.get("jobs",[]) if isinstance(data,dict) else []
+            if not jobs: break
+            added=0
+            for x in jobs:
+                if not isinstance(x,dict): continue
+                key=x.get("guid") or x.get("applicationLink")
+                if not key or key in seen: continue
+                seen.add(key)
+                locs=x.get("locationRestrictions") or []
+                names=[]
+                for v in locs:
+                    if isinstance(v,dict):
+                        code=str(v.get("alpha2") or v.get("countryCode") or v.get("code") or "").upper()
+                        if code=="IN": names.append("India")
+                        elif v.get("name"): names.append(str(v.get("name")))
+                    elif v: names.append(str(v))
+                india_specific=any(n.lower()=="india" for n in names)
+                worldwide=not locs
+                if not india_specific and not worldwide: continue
+                location="India" if india_specific else "Worldwide / Remote"
+                category_data=" ".join(map(str,x.get("category") or []))
+                parent_data=" ".join(map(str,x.get("parentCategories") or []))
+                text=" ".join([str(x.get("title","")),str(x.get("excerpt","")),str(x.get("description","")),category_data,parent_data])
+                salary=""
+                if x.get("minSalary") or x.get("maxSalary"):
+                    salary=f'{x.get("minSalary") or ""}–{x.get("maxSalary") or ""} {x.get("currency") or ""} / {x.get("salaryPeriod") or ""}'.strip(" –/")
+                pub=x.get("pubDate")
+                if isinstance(pub,(int,float)):
+                    pub=datetime.datetime.fromtimestamp(pub/1000 if pub>20000000000 else pub,datetime.timezone.utc).isoformat()
+                add(rows,"job",x.get("title",""),x.get("companyName"),location,"Remote",x.get("applicationLink") or x.get("guid"),"Himalayas",str(pub or ""),salary,text=text,employment_type=x.get("employmentType") or x.get("jobType") or "",function=category_data)
+                added+=1
+            page+=1
+            if not jobs or len(jobs)<20: break
+
+    collect({"country":"IN","exclude_worldwide":"true"})
+    collect({"worldwide":"true"})
 
 def hopin():
     for endpoint,typ in [("https://api.hopinjobs.com/api/jobs","job"),("https://api.hopinjobs.com/api/internships","internship")]:
@@ -212,7 +229,7 @@ for x in sorted(rows,key=lambda y:(y["score"],y.get("posted_at","")),reverse=Tru
 Path("data").mkdir(exist_ok=True)
 db=Path("data/opportunities.json")
 if len(clean)>=10 or not db.exists():
-    db.write_text(json.dumps(clean[:400],ensure_ascii=False,indent=2),encoding="utf-8")
+    db.write_text(json.dumps(clean,ensure_ascii=False,indent=2),encoding="utf-8")
 else:
     print(f"Safety hold: only {len(clean)} usable records; keeping previous database.")
 
@@ -224,6 +241,6 @@ for x in items:
     rss.append(f"<item><title>{title}</title><link>{link}</link><guid>{link}</guid><description>{x['company']} · {x['location']}</description></item>")
 rss.append("</channel></rss>")
 Path("feed.xml").write_text("\n".join(rss),encoding="utf-8")
-health={"updated_at":now.isoformat(),"total_fetched":len(rows),"total_clean":len(clean),"published":min(len(clean),400),"sources":sources}
+health={"updated_at":now.isoformat(),"total_fetched":len(rows),"total_clean":len(clean),"published":len(clean),"sources":sources}
 Path("data/health.json").write_text(json.dumps(health,ensure_ascii=False,indent=2),encoding="utf-8")
 print(f"RADAR refreshed: {len(clean)} opportunities")
