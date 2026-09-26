@@ -1,0 +1,73 @@
+<!doctype html>
+<html lang="en">
+<head>
+<meta charset="utf-8">
+<meta name="viewport" content="width=device-width,initial-scale=1">
+<title>Website Sales Dashboard</title>
+<style>
+*{box-sizing:border-box}body{margin:0;font-family:Inter,system-ui,-apple-system,Segoe UI,sans-serif;background:#f6f7f9;color:#17202a}
+.wrap{max-width:1100px;margin:auto;padding:32px 20px}.top{display:flex;justify-content:space-between;gap:20px;align-items:end;margin-bottom:24px}
+h1{margin:0;font-size:30px}.muted{color:#667085}.badge{background:#e9f8ef;color:#18794e;padding:7px 11px;border-radius:999px;font-size:13px;font-weight:700}
+.cards{display:grid;grid-template-columns:repeat(4,1fr);gap:14px}.card{background:#fff;border:1px solid #e6e8ec;border-radius:14px;padding:18px}.num{font-size:30px;font-weight:800;margin-top:8px}
+.section{margin-top:28px}.pipeline{display:grid;grid-template-columns:repeat(5,1fr);gap:10px}.stage{background:#fff;border:1px solid #e6e8ec;border-radius:12px;padding:14px}.stage b{font-size:22px}
+.lead{margin-top:14px;background:#fff;border:1px solid #e6e8ec;border-radius:14px;padding:18px;display:grid;grid-template-columns:1fr auto;gap:15px}.lead h3{margin:0 0 6px}.tag{display:inline-block;background:#f0f2f5;padding:5px 9px;border-radius:8px;font-size:12px;margin:3px 3px 0 0}.status{font-weight:700;color:#9a6700}.footer{margin-top:30px;font-size:13px;color:#667085}
+@media(max-width:800px){.cards,.pipeline{grid-template-columns:repeat(2,1fr)}.lead{grid-template-columns:1fr}}@media(max-width:500px){.cards,.pipeline{grid-template-columns:1fr}.top{display:block}}
+</style>
+</head>
+<body>
+<div class="wrap">
+  <div class="top">
+    <div><h1>Website Sales Dashboard</h1><div class="muted">Find businesses → qualify → contact → close.</div></div>
+    <div class="badge">₹0 system target</div>
+  </div>
+
+  <div class="cards">
+    <div class="card"><div class="muted">Qualified leads</div><div class="num">1</div></div>
+    <div class="card"><div class="muted">Markets</div><div class="num">12</div></div>
+    <div class="card"><div class="muted">Outreach sent</div><div class="num">0</div></div>
+    <div class="card"><div class="muted">Deals won</div><div class="num">0</div></div>
+  </div>
+
+  <div class="section">
+    <h2>Pipeline</h2>
+    <div class="pipeline">
+      <div class="stage">Found<br><b>5</b></div>
+      <div class="stage">Qualified<br><b>1</b></div>
+      <div class="stage">Contacted<br><b>0</b></div>
+      <div class="stage">Interested<br><b>0</b></div>
+      <div class="stage">Won<br><b>0</b></div>
+    </div>
+  </div>
+
+  <div class="section">
+    <h2>Current lead</h2>
+    <div class="lead">
+      <div>
+        <h3>Small.good. — Sydney, Australia</h3>
+        <div class="muted">Independent deli / snack business</div>
+        <div style="margin-top:10px">
+          <span class="tag">Potential web gap</span>
+          <span class="tag">Public contact route</span>
+          <span class="tag">Needs verification</span>
+        </div>
+      </div>
+      <div class="status">Investigate</div>
+    </div>
+  </div>
+
+  <div class="section">
+    <h2>What the system does</h2>
+    <div class="card">
+      <p>1. Find real businesses in the target markets.</p>
+      <p>2. Remove agencies, duplicates and weak prospects.</p>
+      <p>3. Check their website and identify a real opportunity.</p>
+      <p>4. Score the lead and prepare a personalized message.</p>
+      <p>5. Track replies and move interested businesses through the pipeline.</p>
+      <p class="muted">Important: email sending is not connected yet, so the system prepares outreach rather than pretending it sent anything.</p>
+    </div>
+  </div>
+
+  <div class="footer">Last dashboard snapshot: 26 Sep 2026 · Data shown here is only what has been verified; no fake activity is added.</div>
+</div>
+</body>
+</html>
