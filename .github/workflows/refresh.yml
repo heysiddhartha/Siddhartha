@@ -26,3 +26,5 @@ jobs:
           git fetch origin main
           git rebase origin/main
           git push
+
+# force refresh after source activation
