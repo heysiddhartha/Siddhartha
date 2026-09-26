@@ -22,11 +22,11 @@ def cats(text):
 
 def location_key(location,mode=""):
     t=f"{location} {mode}".lower()
+    if "india" in t: return "india"
     if "remote" in t: return "remote"
     for key,words in CITY_MAP.items():
         if any(w in t for w in words): return key
     return "other"
-
 def experience(title,text=""):
     t=f"{title} {text}".lower()
     if any(w in t for w in ["intern","fresher","entry level","entry-level","graduate","trainee","0-1 year","0 to 1"]): return "fresher"
