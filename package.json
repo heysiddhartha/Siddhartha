@@ -1,0 +1,9 @@
+{
+  "name":"radar-opportunity-intelligence",
+  "private":true,
+  "version":"2.0.0",
+  "type":"module",
+  "scripts":{"dev":"vite","build":"vite build","preview":"vite preview","refresh":"node scripts/refresh.mjs"},
+  "dependencies":{"@vitejs/plugin-react":"latest","framer-motion":"latest","react":"latest","react-dom":"latest","vite":"latest"},
+  "devDependencies":{}
+}
