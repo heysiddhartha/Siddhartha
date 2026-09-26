@@ -2,19 +2,19 @@ import json, re, urllib.request, urllib.parse, datetime, xml.etree.ElementTree a
 from pathlib import Path
 
 KEYWORDS={
- "marketing":["marketing","growth","brand","digital marketing","performance marketing"],
- "content":["content","editorial","content strategist","content marketing"],
- "social":["social media","community","instagram","tiktok","linkedin"],
- "creator":["creator","influencer","influencer marketing","creator partnerships"],
- "sales":["sales","business development","account executive","partnerships"],
- "operations":["operations","project manager","program manager"],
- "design":["designer","design","creative","art director","video editor","motion"]
+ "marketing":["marketing","growth","brand","digital marketing","performance marketing","product marketing","marketing communications"],
+ "content":["content","editorial","content strategist","content marketing","content writer","content creator","content strategy"],
+ "social":["social media","community","instagram","tiktok","linkedin","social strategy","social content"],
+ "creator":["creator","influencer","influencer marketing","creator partnerships","content creator"],
+ "sales":["sales","business development","account executive","partnerships","business development representative"],
+ "operations":["operations","project manager","program manager","strategy & operations","business operations"],
+ "design":["designer","design","creative","art director","video editor","motion","graphic designer"]
 }
-CITY_MAP={"kolkata":["kolkata","calcutta"],"bengaluru":["bengaluru","bangalore"],"mumbai":["mumbai"],"delhi":["delhi","gurgaon","gurugram","noida"],"hyderabad":["hyderabad"],"chennai":["chennai","madras"],"india":["india"]}
+CITY_MAP={"kolkata":["kolkata","calcutta"],"bengaluru":["bengaluru","bangalore"],"mumbai":["mumbai"],"delhi":["delhi","gurgaon","gurugram","noida"],"hyderabad":["hyderabad"],"chennai":["chennai","madras"],"pune":["pune"],"india":["india"]}
 
 def fetch(url):
-    req=urllib.request.Request(url,headers={"User-Agent":"RADAR/1.1"})
-    with urllib.request.urlopen(req,timeout=25) as r: return json.load(r)
+    req=urllib.request.Request(url,headers={"User-Agent":"RADAR/2.2 (+https://heysiddhartha.github.io/Siddhartha/)"})
+    with urllib.request.urlopen(req,timeout=30) as r: return json.load(r)
 
 def cats(text):
     t=text.lower()
@@ -22,11 +22,12 @@ def cats(text):
 
 def location_key(location,mode=""):
     t=f"{location} {mode}".lower()
-    if "india" in t: return "india"
+    if "india" in t or any(w in t for w in ["kolkata","calcutta","bengaluru","bangalore","mumbai","delhi","gurgaon","gurugram","noida","hyderabad","chennai","madras","pune"]): return "india"
     if "remote" in t: return "remote"
     for key,words in CITY_MAP.items():
         if any(w in t for w in words): return key
     return "other"
+
 def experience(title,text=""):
     t=f"{title} {text}".lower()
     if any(w in t for w in ["intern","fresher","entry level","entry-level","graduate","trainee","0-1 year","0 to 1"]): return "fresher"
@@ -36,22 +37,24 @@ def experience(title,text=""):
 
 def add(rows,typ,title,company,location,mode,url,source,posted="",salary="",stipend="",text="",employment_type="",applicants=None,industry="",function=""):
     if not title or not url: return
-    categories=cats(title)
-    if not categories:
-        categories=cats(" ".join(re.findall(r"\b(?:growth|brand|digital|performance|community|partnerships)\b", text.lower())))
+    title_clean=re.sub(r"\s+"," ",str(title)).strip()
+    blob=f"{title_clean} {text} {industry} {function}"
+    categories=cats(blob)
     if not categories: return
-    x={"type":typ,"title":re.sub(r"\s+"," ",title).strip(),"company":company or "Unknown company","location":location or "India","location_key":location_key(location or "India",mode),"mode":mode or "See listing","url":url,"source":source,"categories":categories,"posted_at":posted or "","salary":salary or "","stipend":stipend or "","employment_type":employment_type or "","applicants":applicants,"industry":industry or "","function":function or ""}
-    x["experience"]=experience(title,text)
+    loc=location or "India"
+    x={"type":typ,"title":title_clean,"company":company or "Unknown company","location":loc,"location_key":location_key(loc,mode),"mode":mode or "See listing","url":url,"source":source,"categories":categories,"posted_at":posted or "","salary":salary or "","stipend":stipend or "","employment_type":employment_type or "","applicants":applicants,"industry":industry or "","function":function or ""}
+    x["experience"]=experience(title_clean,blob)
     s=len(categories)*10
     if x["experience"]=="fresher": s+=10
     elif x["experience"]=="junior": s+=6
-    if x["location_key"]=="india": s+=5
-    if x["location_key"]=="remote": s+=3
-    if any(w in title.lower() for w in ["strategist","specialist","coordinator","associate"]): s+=4
+    if x["location_key"]=="india": s+=12
+    elif x["location_key"]=="remote": s+=3
+    if any(w in title_clean.lower() for w in ["strategist","specialist","coordinator","associate","executive"]): s+=4
     x["score"]=s
     x["reasons"]=[categories[0].title()+" match"]
     if x["experience"]=="fresher": x["reasons"].append("Fresher-friendly signal")
     elif x["experience"]=="junior": x["reasons"].append("Early-career signal")
+    if x["location_key"]=="india": x["reasons"].append("India signal")
     if x["location_key"]=="remote": x["reasons"].append("Remote")
     rows.append(x)
 
@@ -84,7 +87,7 @@ def jobicy():
         add(rows,"job",x.get("jobTitle",""),x.get("companyName"),geo,mode,x.get("url"),"Jobicy",x.get("pubDate",""),salary,text=text,employment_type=x.get("jobType") or x.get("jobTypeText") or "")
 
 def himalayas():
-    queries=["marketing","content","social media","sales","operations","design"]
+    queries=["marketing","content","social media","sales","operations","design","business development","creator"]
     seen=set()
     for q in queries:
         url="https://himalayas.app/jobs/api/search?"+urllib.parse.urlencode({"q":q,"country":"India","sort":"recent","page":1})
@@ -94,14 +97,16 @@ def himalayas():
             seen.add(key)
             locs=x.get("locationRestrictions") or []
             location=", ".join((v.get("name","") if isinstance(v,dict) else str(v)) for v in locs) or "India / Remote"
-            text=" ".join([x.get("title",""),x.get("excerpt",""),x.get("description","")," ".join(x.get("categories") or [])," ".join(x.get("parentCategories") or [])])
+            category_data=" ".join(map(str,x.get("category") or []))
+            parent_data=" ".join(map(str,x.get("parentCategories") or []))
+            text=" ".join([x.get("title",""),x.get("excerpt",""),x.get("description",""),category_data,parent_data])
             salary=""
             if x.get("minSalary") or x.get("maxSalary"):
                 salary=f'{x.get("minSalary") or ""}–{x.get("maxSalary") or ""} {x.get("currency") or ""} / {x.get("salaryPeriod") or ""}'.strip(" –/")
             pub=x.get("pubDate")
             if isinstance(pub,(int,float)):
                 pub=datetime.datetime.fromtimestamp(pub/1000,datetime.timezone.utc).isoformat()
-            add(rows,"job",x.get("title",""),x.get("companyName"),location,"Remote",x.get("applicationLink") or x.get("guid"),"Himalayas",str(pub or ""),salary,text=text,employment_type=x.get("employmentType") or x.get("jobType") or "")
+            add(rows,"job",x.get("title",""),x.get("companyName"),location,"Remote",x.get("applicationLink") or x.get("guid"),"Himalayas",str(pub or ""),salary,text=text,employment_type=x.get("employmentType") or x.get("jobType") or "",function=category_data)
 
 def hopin():
     for endpoint,typ in [("https://api.hopinjobs.com/api/jobs","job"),("https://api.hopinjobs.com/api/internships","internship")]:
@@ -114,41 +119,14 @@ def hopin():
             mode="Remote" if x.get("remote") else x.get("job_type") or ""
             add(rows,typ,title,x.get("company_name") or x.get("company"),x.get("location") or x.get("city") or "India",mode,url,"Hopin",x.get("posted_at") or "",str(x.get("ctc_amount") or ""),str(x.get("stipend") or ""),text,employment_type=x.get("employment_type") or x.get("job_type") or "")
 
-def jobvetta():
-    import os
-    key=os.getenv("JOBVETTA_API_KEY","").strip()
-    if not key:
-        raise RuntimeError("JOBVETTA_API_KEY not configured")
-    queries=["marketing","content","social media","sales","operations","design","business development"]
-    seen=set()
-    for q in queries:
-        url="https://api.jobvetta.com/v1/jobs?"+urllib.parse.urlencode({"q":q,"days":30,"limit":10})
-        req=urllib.request.Request(url,headers={"User-Agent":"RADAR/2.0","Authorization":"Bearer "+key})
-        with urllib.request.urlopen(req,timeout=25) as r:
-            data=json.load(r)
-        for x in data.get("jobs",[]):
-            jid=x.get("job_id") or x.get("url")
-            if jid in seen: continue
-            seen.add(jid)
-            loc=x.get("location") or "India"
-            posted=x.get("created_at")
-            if isinstance(posted,(int,float)):
-                posted=datetime.datetime.fromtimestamp(posted,datetime.timezone.utc).isoformat()
-            salary=""
-            if x.get("salary_min") or x.get("salary_max"):
-                salary=f'{x.get("salary_min") or ""}–{x.get("salary_max") or ""} {x.get("salary_currency") or ""}'.strip(" –")
-            text=" ".join([x.get("title",""),x.get("description","")," ".join(x.get("skills_required") or [])])
-            add(rows,"job",x.get("title",""),x.get("company"),loc,x.get("work_model") or "",x.get("url"),"Jobvetta",posted,salary,text=text,employment_type=x.get("employment_type") or "",industry=x.get("industry") or "")
-
-
 def yubhub():
-    # Public YubHub search endpoint; no key required for the read-only data API.
-    queries=["India","Kolkata","Mumbai","Bengaluru","Bangalore","Delhi","Hyderabad","Chennai","Pune","marketing","content","social media","sales","business development","operations","design","communications","creator"]
+    # YubHub's current public search endpoint is unauthenticated and returns enriched job records.
+    queries=["marketing India","content India","social media India","sales India","operations India","design India","marketing Kolkata","marketing Bengaluru","marketing Mumbai","content Kolkata","social media Bengaluru"]
     seen=set()
     for q in queries:
         url="https://api.yubhub.co/search?"+urllib.parse.urlencode({"q":q,"page":1,"perPage":100})
         data=fetch(url)
-        records=data.get("jobs",data.get("results",data if isinstance(data,list) else []))
+        records=data.get("jobs",data.get("results",data.get("data",[]))) if isinstance(data,dict) else (data if isinstance(data,list) else [])
         for x in records:
             title=x.get("title") or x.get("name") or ""
             company=x.get("company") or x.get("company_name") or ""
@@ -157,10 +135,10 @@ def yubhub():
             if isinstance(loc,dict):
                 a=loc.get("address") or {}
                 loc=", ".join([str(a.get(k)) for k in ["addressLocality","addressRegion","addressCountry"] if a.get(k)])
-            urlx=x.get("url") or x.get("apply_url") or x.get("application_url") or ""
+            urlx=x.get("url") or x.get("apply_url") or x.get("application_url") or x.get("applicationLink") or ""
             if not title or not urlx or urlx in seen: continue
             seen.add(urlx)
-            posted=x.get("datePosted") or x.get("date_posted") or x.get("posted_at") or ""
+            posted=x.get("datePosted") or x.get("date_posted") or x.get("posted_at") or x.get("discovered_at") or ""
             if isinstance(posted,(int,float)):
                 posted=datetime.datetime.fromtimestamp(posted/1000 if posted>20000000000 else posted,datetime.timezone.utc).isoformat()
             salary=""
@@ -169,11 +147,13 @@ def yubhub():
             cur=x.get("salary_currency") or x.get("salaryCurrency") or ""
             if lo or hi: salary=f"{lo or ''}–{hi or ''} {cur}".strip(" –")
             mode=x.get("work_arrangement") or x.get("workArrangement") or x.get("jobLocationType") or ""
-            textblob=" ".join([title,str(x.get("description") or ""),q,str(x.get("skills") or ""),str(x.get("category") or "")])
-            add(rows,"job",title,company,loc or "India",mode,urlx,"YubHub",posted,salary,text=textblob,employment_type=x.get("employment_type") or x.get("employmentType") or "",industry=x.get("industry") or "",function=x.get("category") or q)
+            category=x.get("category") or x.get("function") or ""
+            skills=x.get("skills") or x.get("skills_required") or ""
+            textblob=" ".join([title,str(x.get("description") or ""),q,str(skills),str(category)])
+            add(rows,"job",title,company,loc or ("India" if "india" in q.lower() else "Remote"),mode,urlx,"YubHub",posted,salary,text=textblob,employment_type=x.get("employment_type") or x.get("employmentType") or "",industry=x.get("industry") or "",function=category)
 
 def jobisite_india():
-    raw=urllib.request.urlopen(urllib.request.Request("https://ws.jobisite.com/cntryrss.jsp?country=India",headers={"User-Agent":"RADAR/1.1"}),timeout=25).read()
+    raw=urllib.request.urlopen(urllib.request.Request("https://ws.jobisite.com/cntryrss.jsp?country=India",headers={"User-Agent":"RADAR/2.2"}),timeout=25).read()
     root=ET.fromstring(raw)
     for item in root.findall(".//item"):
         title=(item.findtext("title") or "").strip()
@@ -183,7 +163,30 @@ def jobisite_india():
         if title and link:
             add(rows,"job",title,"Jobisite","India","See listing",link,"Jobisite",pub,text=f"{title} {desc}")
 
-for name,fn in [("Remote OK",remoteok),("Jobicy",jobicy),("Himalayas India",himalayas),("Hopin",hopin),("Jobisite India",jobisite_india),("YubHub",yubhub),("Jobvetta India",jobvetta)]: run_source(name,fn)
+def jobvetta():
+    import os
+    key=os.getenv("JOBVETTA_API_KEY","").strip()
+    if not key:
+        raise RuntimeError("JOBVETTA_API_KEY not configured")
+    queries=["marketing","content","social media","sales","operations","design","business development"]
+    seen=set()
+    for q in queries:
+        url="https://api.jobvetta.com/v1/jobs?"+urllib.parse.urlencode({"q":q,"days":30,"limit":50})
+        req=urllib.request.Request(url,headers={"User-Agent":"RADAR/2.2","Authorization":"Bearer "+key})
+        with urllib.request.urlopen(req,timeout=25) as r: data=json.load(r)
+        for x in data.get("jobs",[]):
+            jid=x.get("job_id") or x.get("url")
+            if jid in seen: continue
+            seen.add(jid)
+            loc=x.get("location") or "India"
+            posted=x.get("created_at")
+            if isinstance(posted,(int,float)): posted=datetime.datetime.fromtimestamp(posted,datetime.timezone.utc).isoformat()
+            salary=""
+            if x.get("salary_min") or x.get("salary_max"): salary=f'{x.get("salary_min") or ""}–{x.get("salary_max") or ""} {x.get("salary_currency") or ""}'.strip(" –")
+            text=" ".join([x.get("title",""),x.get("description","")," ".join(x.get("skills_required") or [])])
+            add(rows,"job",x.get("title",""),x.get("company"),loc,x.get("work_model") or "",x.get("url"),"Jobvetta",posted,salary,text=text,employment_type=x.get("employment_type") or "",industry=x.get("industry") or "")
+
+for name,fn in [("Remote OK",remoteok),("Jobicy",jobicy),("Himalayas India",himalayas),("Hopin",hopin),("YubHub",yubhub),("Jobisite India",jobisite_india),("Jobvetta India",jobvetta)]: run_source(name,fn)
 
 now=datetime.datetime.now(datetime.timezone.utc)
 seen=set(); clean=[]
@@ -201,18 +204,18 @@ for x in sorted(rows,key=lambda y:(y["score"],y.get("posted_at","")),reverse=Tru
 Path("data").mkdir(exist_ok=True)
 db=Path("data/opportunities.json")
 if len(clean)>=10 or not db.exists():
-    db.write_text(json.dumps(clean[:250],ensure_ascii=False,indent=2),encoding="utf-8")
+    db.write_text(json.dumps(clean[:400],ensure_ascii=False,indent=2),encoding="utf-8")
 else:
     print(f"Safety hold: only {len(clean)} usable records; keeping previous database.")
 
-items=clean[:50]
-rss=['<?xml version="1.0" encoding="UTF-8"?>','<rss version="2.0"><channel><title>RADAR — India Opportunities</title><link>https://heysiddhartha.github.io/Siddhartha/</link><description>Fresh jobs, internships, freelance and creator opportunities.</description>']
+items=clean[:100]
+rss=['<?xml version="1.0" encoding="UTF-8"?>','<rss version="2.0"><channel><title>RADAR — India Opportunities</title><link>https://heysiddhartha.github.io/Siddhartha/</link><description>Fresh jobs and career opportunities.</description>']
 for x in items:
     title=x["title"].replace("&","&amp;").replace("<","&lt;").replace(">","&gt;")
     link=x["url"].replace("&","&amp;")
     rss.append(f"<item><title>{title}</title><link>{link}</link><guid>{link}</guid><description>{x['company']} · {x['location']}</description></item>")
 rss.append("</channel></rss>")
 Path("feed.xml").write_text("\n".join(rss),encoding="utf-8")
-health={"updated_at":now.isoformat(),"total_fetched":len(rows),"total_clean":len(clean),"published":min(len(clean),250),"sources":sources}
+health={"updated_at":now.isoformat(),"total_fetched":len(rows),"total_clean":len(clean),"published":min(len(clean),400),"sources":sources}
 Path("data/health.json").write_text(json.dumps(health,ensure_ascii=False,indent=2),encoding="utf-8")
 print(f"RADAR refreshed: {len(clean)} opportunities")
