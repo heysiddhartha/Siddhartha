@@ -76,7 +76,14 @@
   <div class="why-grid"><article><b>01</b><h3>Freshness first</h3><p>Old listings don't get treated like today's opportunities.</p></article><article><b>02</b><h3>Fit, not volume</h3><p>Signals are combined into a visible score instead of another endless feed.</p></article><article><b>03</b><h3>Built to run itself</h3><p>Sources are collected, normalised, cleaned and republished automatically.</p></article></div>
 </section>
 </main>
+<div id="detailModal" class="modal" hidden>
+  <div class="modal-backdrop" data-close-modal></div>
+  <aside class="detail-panel" role="dialog" aria-modal="true" aria-labelledby="detailTitle">
+    <button class="modal-close" data-close-modal aria-label="Close">×</button>
+    <div id="detailContent"></div>
+  </aside>
+</div>
 <footer><div class="shell"><span class="footer-logo">RADAR/</span><span>Built for people who are done opening 40 tabs.</span><a href="feed.xml">RSS feed ↗</a></div></footer>
-<script src="app.js"></script>
+<script src="app.js" defer></script>
 </body>
 </html>
