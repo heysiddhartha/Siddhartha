@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-09-26T19:56:30.324516+00:00",
+  "updated_at": "2026-09-26T19:57:43.476159+00:00",
   "total_fetched": 271,
   "total_clean": 188,
   "published": 188,
@@ -24,6 +24,10 @@
       "status": "error",
       "items": 0,
       "error": "HTTP Error 522: <none>"
+    },
+    "YubHub": {
+      "status": "ok",
+      "items": 0
     },
     "Jobvetta India": {
       "status": "error",
