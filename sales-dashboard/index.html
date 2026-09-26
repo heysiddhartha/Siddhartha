@@ -24,8 +24,13 @@ h1{margin:0;font-size:30px}.muted{color:#667085}.badge{background:#e9f8ef;color:
   <div class="cards">
     <div class="card"><div class="muted">Qualified leads</div><div class="num">1</div></div>
     <div class="card"><div class="muted">Markets</div><div class="num">12</div></div>
-    <div class="card"><div class="muted">Outreach sent</div><div class="num">0</div></div>
-    <div class="card"><div class="muted">Deals won</div><div class="num">0</div></div>
+    <div class="card"><div class="muted">Outreach sent</div><div class="num" id="outreach">0</div></div>
+    <div class="card"><div class="muted">Deals won</div><div class="num" id="won">0</div></div>
+  </div>
+
+  <div class="section">
+    <h2>Mail activity</h2>
+    <div class="card"><p><b id="mailStatus">Connected</b> — <span id="mailAddress">siddhartha.sales@agentmail.to</span></p><p class="muted">The dashboard is wired to the sales inbox data updated by the sales automation. It records actual sends/replies only.</p><p><span class="tag">Sent: <b id="sentCount">0</b></span><span class="tag">Replies: <b id="replyCount">0</b></span><span class="tag">Last activity: <b id="lastActivity">—</b></span></p></div>
   </div>
 
   <div class="section">
@@ -63,11 +68,26 @@ h1{margin:0;font-size:30px}.muted{color:#667085}.badge{background:#e9f8ef;color:
       <p>3. Check their website and identify a real opportunity.</p>
       <p>4. Score the lead and prepare a personalized message.</p>
       <p>5. Track replies and move interested businesses through the pipeline.</p>
-      <p class="muted">Important: email sending is not connected yet, so the system prepares outreach rather than pretending it sent anything.</p>
+      <p class="muted">Email is connected through the dedicated sales inbox. Only real sends and replies are counted.</p>
     </div>
   </div>
 
-  <div class="footer">Last dashboard snapshot: 26 Sep 2026 · Data shown here is only what has been verified; no fake activity is added.</div>
+  <div class="footer">Sales inbox: siddhartha.sales@agentmail.to · Data shown here is only what has been verified; no fake activity is added.</div>
 </div>
+<script>
+async function loadMailStatus(){
+  try{
+    const r=await fetch('./mail-status.json?ts='+Date.now(),{cache:'no-store'});
+    if(!r.ok) return;
+    const d=await r.json();
+    document.getElementById('outreach').textContent=d.sent||0;
+    document.getElementById('sentCount').textContent=d.sent||0;
+    document.getElementById('replyCount').textContent=d.replies||0;
+    document.getElementById('won').textContent=d.won||0;
+    document.getElementById('lastActivity').textContent=d.lastActivity||'—';
+  }catch(e){}
+}
+loadMailStatus();
+</script>
 </body>
 </html>
