@@ -5,7 +5,7 @@ import "./styles.css";
 
 const roleCats=["all","marketing","content","social","creator","sales","operations","design"];
 const roleLabels={all:"All roles",marketing:"Marketing",content:"Content",social:"Social Media",creator:"Creator",sales:"Sales / BD",operations:"Operations",design:"Design / Creative"};
-const cities=["all","india","kolkata","bengaluru","mumbai","delhi","hyderabad","chennai","pune","remote"];
+const cities=["all","india","kolkata","bengaluru","mumbai","delhi","hyderabad","chennai","pune","remote"];\nconst states=["all","west-bengal","karnataka","maharashtra","delhi","telangana","tamil-nadu","gujarat","rajasthan","uttar-pradesh","kerala","andhra-pradesh","madhya-pradesh","odisha","punjab","haryana"];\nconst stateLabels={all:"All states","west-bengal":"West Bengal",karnataka:"Karnataka",maharashtra:"Maharashtra",delhi:"Delhi",telangana:"Telangana","tamil-nadu":"Tamil Nadu",gujarat:"Gujarat",rajasthan:"Rajasthan","uttar-pradesh":"Uttar Pradesh",kerala:"Kerala","andhra-pradesh":"Andhra Pradesh","madhya-pradesh":"Madhya Pradesh",odisha:"Odisha",punjab:"Punjab",haryana:"Haryana"};
 const cityLabels={all:"Anywhere",india:"India",kolkata:"Kolkata",bengaluru:"Bengaluru",mumbai:"Mumbai",delhi:"Delhi NCR",hyderabad:"Hyderabad",chennai:"Chennai",pune:"Pune",remote:"Remote"};
 const experience=["all","internship","entry","associate","mid","director"];
 const employment=["all","full-time","part-time","contract","temporary","internship","volunteer"];
@@ -22,7 +22,7 @@ function salaryNumber(s){const m=String(s||"").replace(/,/g,"").match(/(d+(?:.d+
 function App(){
  const [scrollY,setScrollY]=useState(0);
  const [jobs,setJobs]=useState([]),[loading,setLoading]=useState(true),[saved,setSaved]=useState(()=>new Set(JSON.parse(localStorage.getItem("radar-saved")||"[]"))),[selected,setSelected]=useState(null);
- const [q,setQ]=useState(()=>new URLSearchParams(window.location.search).get("q")||""),[role,setRole]=useState("all"),[loc,setLoc]=useState("india"),[posted,setPosted]=useState("all"),[company,setCompany]=useState(""),[exp,setExp]=useState("all"),[type,setType]=useState("all"),[remote,setRemote]=useState("all"),[industry,setIndustry]=useState("all"),[functionFilter,setFunctionFilter]=useState("all"),[title,setTitle]=useState(""),[easy,setEasy]=useState(false),[linkedin,setLinkedin]=useState(false),[network,setNetwork]=useState(false),[under10,setUnder10]=useState(false),[salary,setSalary]=useState(""),[sort,setSort]=useState("recent"),[showMore,setShowMore]=useState(false);
+ const [q,setQ]=useState(()=>new URLSearchParams(window.location.search).get("q")||""),[role,setRole]=useState("all"),[loc,setLoc]=useState("india"),[state,setState]=useState("all"),[posted,setPosted]=useState("all"),[company,setCompany]=useState(""),[exp,setExp]=useState("all"),[type,setType]=useState("all"),[remote,setRemote]=useState("all"),[industry,setIndustry]=useState("all"),[functionFilter,setFunctionFilter]=useState("all"),[title,setTitle]=useState(""),[easy,setEasy]=useState(false),[linkedin,setLinkedin]=useState(false),[network,setNetwork]=useState(false),[under10,setUnder10]=useState(false),[salary,setSalary]=useState(""),[sort,setSort]=useState("recent"),[showMore,setShowMore]=useState(false);
 
  useEffect(()=>{fetch("./data/opportunities.json?"+Date.now()).then(r=>r.json()).then(x=>setJobs(Array.isArray(x)?x:[])).catch(()=>setJobs([])).finally(()=>setLoading(false))},[]);
  useEffect(()=>{const onScroll=()=>setScrollY(window.scrollY);window.addEventListener("scroll",onScroll,{passive:true});return()=>window.removeEventListener("scroll",onScroll)},[]);
@@ -37,7 +37,7 @@ function App(){
    if(role!=="all"&&!cats.includes(role))return false;
    const ls=((x.location_key||"")+" "+(x.location||"")).toLowerCase();
    if(loc==="india"&&!/india|kolkata|bengaluru|bangalore|mumbai|delhi|gurgaon|gurugram|noida|hyderabad|chennai|pune|kerala/.test(ls))return false;
-   if(loc!=="all"&&loc!=="india"&&!ls.includes(loc==="delhi"?"delhi":loc))return false;
+   if(loc!=="all"&&loc!=="india"&&!ls.includes(loc==="delhi"?"delhi":loc))return false;\n   if(state!=="all"&&String(x.state_key||"").toLowerCase()!==state)return false;
    if(posted!=="all"&&age(x)>Number(posted))return false;
    if(company&&!String(x.company||"").toLowerCase().includes(company.toLowerCase()))return false;
    if(!expMatch(x,exp))return false;
@@ -56,7 +56,7 @@ function App(){
   return a.sort((a,b)=>sort==="score"?(b.score||0)-(a.score||0):age(a)-age(b));
  },[jobs,q,role,loc,posted,company,exp,type,remote,industry,functionFilter,title,easy,linkedin,network,under10,salary,sort]);
 
- const reset=()=>{setQ("");setRole("all");setLoc("india");setPosted("all");setCompany("");setExp("all");setType("all");setRemote("all");setIndustry("all");setFunctionFilter("all");setTitle("");setEasy(false);setLinkedin(false);setNetwork(false);setUnder10(false);setSalary("");setSort("recent")};
+ const reset=()=>{setQ("");setRole("all");setLoc("india");setState("all");setPosted("all");setCompany("");setExp("all");setType("all");setRemote("all");setIndustry("all");setFunctionFilter("all");setTitle("");setEasy(false);setLinkedin(false);setNetwork(false);setUnder10(false);setSalary("");setSort("recent")};
  const toggleSave=x=>setSaved(s=>{const n=new Set(s),id=x.url||x.title;n.has(id)?n.delete(id):n.add(id);return n});
 
  return <div className="app"><div className="ambient"/><Web scrollY={scrollY}/>
@@ -85,7 +85,7 @@ function App(){
     <aside className="filter-panel glass">
       <div className="filter-head"><div><span>ALL FILTERS</span><b>{view.length} matches</b></div><button onClick={reset}>RESET</button></div>
       <Filter title="Search"><input className="field" value={q} onChange={e=>setQ(e.target.value)} placeholder="Keywords, skills, company"/></Filter>
-      <Filter title="Location"><div className="select-list">{cities.map(v=><button key={v} className={loc===v?"active":""} onClick={()=>setLoc(v)}>{cityLabels[v]}</button>)}</div></Filter>
+      <Filter title="Location"><div className="select-list">{cities.map(v=><button key={v} className={loc===v?"active":""} onClick={()=>setLoc(v)}>{cityLabels[v]}</button>)}</div></Filter>\n      <Filter title="State"><div className="select-list state-list">{states.map(v=><button key={v} className={state===v?"active":""} onClick={()=>{setState(v);if(v!=="all")setLoc("india")}}>{stateLabels[v]}</button>)}</div></Filter>
       <Filter title="Date posted"><div className="select-list">{postedOptions.map(([v,l])=><button key={v} className={posted===v?"active":""} onClick={()=>setPosted(v)}>{l}</button>)}</div></Filter>
       <Filter title="Experience level"><div className="select-list">{experience.map(v=><button key={v} className={exp===v?"active":""} onClick={()=>setExp(v)}>{v==="all"?"Any":v.replace("-", " ")}</button>)}</div></Filter>
       <Filter title="Employment type"><div className="select-list">{employment.map(v=><button key={v} className={type===v?"active":""} onClick={()=>setType(v)}>{v==="all"?"Any":v}</button>)}</div></Filter>
@@ -105,7 +105,7 @@ function App(){
 
     <section className="results">
       <div className="results-head"><div><div className="eyebrow"><span>02</span> LIVE OPPORTUNITY STREAM</div><h2>{loading?"SCANNING":view.length}<small> RESULTS</small></h2></div><div className="sort glass"><span>SORT</span><select value={sort} onChange={e=>setSort(e.target.value)}><option value="recent">Most recent</option><option value="score">Most relevant</option></select></div></div>
-      <div className="active-row"><span><i className="live-dot"/> INDIA MODE</span><span>{posted==="all"?"ANY TIME":posted+" DAY WINDOW"}</span><span>{sourceCount} SOURCES</span><button onClick={()=>setLoc("all")}>SEARCH EVERYWHERE ↗</button></div>
+      <div className="active-row"><span><i className="live-dot"/> {state==="all"?"INDIA MODE":stateLabels[state].toUpperCase()}</span><span>{posted==="all"?"ANY TIME":posted+" DAY WINDOW"}</span><span>{sourceCount} SOURCES</span><button onClick={()=>setLoc("all")}>SEARCH EVERYWHERE ↗</button></div>
       {view.length===0&&!loading?<div className="empty glass"><div className="empty-orb">⌁</div><h3>NO MATCHES IN THIS NET</h3><p>Broaden a filter or switch Location to Anywhere. India currently has {indiaCount} indexed signal{indiaCount===1?"":"s"}.</p><button onClick={reset}>RESET FILTERS</button></div>:<div className="job-grid">{view.map((x,i)=><Job key={x.url||i} x={x} i={i} saved={saved.has(x.url||x.title)} onSave={()=>toggleSave(x)} onOpen={()=>setSelected(x)}/>)}</div>}
     </section>
    </section>
