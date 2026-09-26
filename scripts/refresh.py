@@ -1,4 +1,4 @@
-import json, re, urllib.request, datetime
+import json, re, urllib.request, urllib.parse, datetime, xml.etree.ElementTree as ET
 from pathlib import Path
 
 KEYWORDS={
@@ -84,9 +84,24 @@ def jobicy():
         add(rows,"job",x.get("jobTitle",""),x.get("companyName"),geo,mode,x.get("url"),"Jobicy",x.get("pubDate",""),salary,text=text)
 
 def himalayas():
-    for x in fetch("https://himalayas.app/jobs/api?limit=100").get("jobs",[]):
-        text=" ".join([x.get("title",""),x.get("description","")," ".join(x.get("categories") or [])])
-        add(rows,"job",x.get("title",""),x.get("companyName"),x.get("location") or "Remote","Remote",x.get("url") or x.get("applicationUrl"),"Himalayas",x.get("publishedAt") or x.get("pubDate") or "",text=text)
+    queries=["marketing","content","social media","sales","operations","design"]
+    seen=set()
+    for q in queries:
+        url="https://himalayas.app/jobs/api/search?"+urllib.parse.urlencode({"q":q,"country":"India","sort":"recent","page":1})
+        for x in fetch(url).get("jobs",[]):
+            key=x.get("guid") or x.get("applicationLink")
+            if key in seen: continue
+            seen.add(key)
+            locs=x.get("locationRestrictions") or []
+            location=", ".join(v.get("name","") for v in locs if isinstance(v,dict)) or "India / Remote"
+            text=" ".join([x.get("title",""),x.get("excerpt",""),x.get("description","")," ".join(x.get("categories") or [])," ".join(x.get("parentCategories") or [])])
+            salary=""
+            if x.get("minSalary") or x.get("maxSalary"):
+                salary=f'{x.get("minSalary") or ""}–{x.get("maxSalary") or ""} {x.get("currency") or ""} / {x.get("salaryPeriod") or ""}'.strip(" –/")
+            pub=x.get("pubDate")
+            if isinstance(pub,(int,float)):
+                pub=datetime.datetime.fromtimestamp(pub/1000,datetime.timezone.utc).isoformat()
+            add(rows,"job",x.get("title",""),x.get("companyName"),location,"Remote",x.get("applicationLink") or x.get("guid"),"Himalayas",str(pub or ""),salary,text=text)
 
 def hopin():
     for endpoint,typ in [("https://api.hopinjobs.com/api/jobs","job"),("https://api.hopinjobs.com/api/internships","internship")]:
@@ -99,7 +114,18 @@ def hopin():
             mode="Remote" if x.get("remote") else x.get("job_type") or ""
             add(rows,typ,title,x.get("company_name") or x.get("company"),x.get("location") or x.get("city") or "India",mode,url,"Hopin",x.get("posted_at") or "",str(x.get("ctc_amount") or ""),str(x.get("stipend") or ""),text)
 
-for name,fn in [("Remote OK",remoteok),("Jobicy",jobicy),("Himalayas",himalayas),("Hopin",hopin)]: run_source(name,fn)
+def jobisite_india():
+    raw=urllib.request.urlopen(urllib.request.Request("https://ws.jobisite.com/cntryrss.jsp?country=India",headers={"User-Agent":"RADAR/1.1"}),timeout=25).read()
+    root=ET.fromstring(raw)
+    for item in root.findall(".//item"):
+        title=(item.findtext("title") or "").strip()
+        link=(item.findtext("link") or "").strip()
+        desc=re.sub(r"<[^>]+>"," ",item.findtext("description") or "")
+        pub=item.findtext("pubDate") or ""
+        if title and link:
+            add(rows,"job",title,"Jobisite","India","See listing",link,"Jobisite",pub,text=f"{title} {desc}")
+
+for name,fn in [("Remote OK",remoteok),("Jobicy",jobicy),("Himalayas India",himalayas),("Hopin",hopin),("Jobisite India",jobisite_india)]: run_source(name,fn)
 
 now=datetime.datetime.now(datetime.timezone.utc)
 seen=set(); clean=[]
