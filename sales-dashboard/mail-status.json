@@ -1,8 +1,9 @@
 {
   "inbox": "siddhartha.sales@agentmail.to",
-  "sent": 0,
+  "sent": 1,
   "replies": 0,
   "won": 0,
-  "lastActivity": null,
+  "lastActivity": "2026-09-27T11:18:00+05:30",
+  "lastAction": "Email sent to Craft Salon Singapore",
   "note": "Counts are updated from actual AgentMail activity by the sales automation."
 }
