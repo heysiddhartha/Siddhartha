@@ -1,9 +1,9 @@
 {
   "inbox": "siddhartha.sales@agentmail.to",
-  "sent": 4,
+  "sent": 8,
   "replies": 0,
   "won": 0,
-  "lastActivity": "2026-09-27T11:18:00+05:30",
-  "lastAction": "3 more emails sent: Hair by Billie, Earlybird, Triple L Hair Studio",
-  "note": "Counts are updated from actual AgentMail activity by the sales automation."
+  "lastActivity": "2026-09-28T13:40:53+05:30",
+  "lastAction": "4 additional verified outreach emails sent: Elliott's Bakery & Cafe, Cafe Turkey New Plymouth, Amici's Cafe, Cielito Lindo Cafe & Taqueria",
+  "note": "Counts are updated from actual AgentMail activity by the sales automation. Bounced/invalid addresses are suppressed and not retried."
 }
