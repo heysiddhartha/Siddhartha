@@ -1,38 +1,6 @@
 [
   {
     "type": "job",
-    "title": "Account Executive, Integrated Marketing and Strategy",
-    "company": "Interdependence Public Relations",
-    "location": "Worldwide / Remote",
-    "location_key": "remote",
-    "mode": "Remote",
-    "url": "https://himalayas.app/companies/interdependence-public-relations/jobs/account-executive-integrated-marketing-and-strategy",
-    "source": "Himalayas",
-    "categories": [
-      "marketing",
-      "content",
-      "social",
-      "creator",
-      "sales",
-      "design"
-    ],
-    "posted_at": "2026-09-27T15:47:36+00:00",
-    "salary": "",
-    "stipend": "",
-    "employment_type": "Full Time",
-    "applicants": null,
-    "industry": "",
-    "function": "",
-    "experience": "fresher",
-    "score": 77,
-    "reasons": [
-      "Marketing match",
-      "Fresher-friendly signal",
-      "Remote"
-    ]
-  },
-  {
-    "type": "job",
     "title": "Zoom Phone Porting Specialist",
     "company": "Zoom Communications, Inc.",
     "location": "India",
@@ -95,38 +63,6 @@
   },
   {
     "type": "job",
-    "title": "Project Manager, Content Products",
-    "company": "Yaqeen Institute",
-    "location": "Worldwide / Remote",
-    "location_key": "remote",
-    "mode": "Remote",
-    "url": "https://himalayas.app/companies/yaqeen-institute/jobs/project-manager-content-products",
-    "source": "Himalayas",
-    "categories": [
-      "marketing",
-      "content",
-      "social",
-      "creator",
-      "operations",
-      "design"
-    ],
-    "posted_at": "2026-09-27T19:21:03+00:00",
-    "salary": "",
-    "stipend": "",
-    "employment_type": "Full Time",
-    "applicants": null,
-    "industry": "",
-    "function": "",
-    "experience": "fresher",
-    "score": 73,
-    "reasons": [
-      "Marketing match",
-      "Fresher-friendly signal",
-      "Remote"
-    ]
-  },
-  {
-    "type": "job",
     "title": "Video Editor - Odia",
     "company": "Lokal",
     "location": "India",
@@ -158,33 +94,68 @@
   },
   {
     "type": "job",
-    "title": "Senior Full-Stack Developer (Remote - India)",
-    "company": "Ovation Law Firm",
-    "location": "India",
-    "location_key": "india",
-    "mode": "Remote",
-    "url": "https://himalayas.app/companies/ovation-law-firm/jobs/senior-full-stack-developer-remote-india",
-    "source": "Himalayas",
+    "title": "Business Operations & Chief of Staff",
+    "company": "Waymark",
+    "location": "USA",
+    "location_key": "other",
+    "mode": "See listing",
+    "url": "https://jobicy.com/jobs/152055-business-operations-chief-of-staff",
+    "source": "Jobicy",
     "categories": [
       "marketing",
       "content",
+      "social",
       "sales",
       "operations",
       "design"
     ],
-    "posted_at": "2026-09-27T11:13:01+00:00",
-    "salary": "",
+    "posted_at": "2026-09-29T03:35:05+00:00",
+    "salary": "124000–229000 USD / yearly",
     "stipend": "",
-    "employment_type": "Full Time",
+    "employment_type": [
+      "Full-Time"
+    ],
     "applicants": null,
     "industry": "",
     "function": "",
     "experience": "fresher",
-    "score": 72,
+    "score": 70,
     "reasons": [
       "Marketing match",
-      "Fresher-friendly signal",
-      "India signal"
+      "Fresher-friendly signal"
+    ]
+  },
+  {
+    "type": "job",
+    "title": "Professional Services Engagement Manager",
+    "company": "Harness",
+    "location": "USA",
+    "location_key": "other",
+    "mode": "See listing",
+    "url": "https://jobicy.com/jobs/147874-professional-services-engagement-manager",
+    "source": "Jobicy",
+    "categories": [
+      "marketing",
+      "content",
+      "social",
+      "sales",
+      "operations",
+      "design"
+    ],
+    "posted_at": "2026-09-29T03:25:11+00:00",
+    "salary": "165000–198000 USD / yearly",
+    "stipend": "",
+    "employment_type": [
+      "Full-Time"
+    ],
+    "applicants": null,
+    "industry": "",
+    "function": "",
+    "experience": "fresher",
+    "score": 70,
+    "reasons": [
+      "Marketing match",
+      "Fresher-friendly signal"
     ]
   },
   {
@@ -222,37 +193,6 @@
   },
   {
     "type": "job",
-    "title": "Digital Marketing Project Coordinator",
-    "company": "LigaData",
-    "location": "Worldwide / Remote",
-    "location_key": "remote",
-    "mode": "Remote",
-    "url": "https://himalayas.app/companies/ligadata/jobs/digital-marketing-project-coordinator",
-    "source": "Himalayas",
-    "categories": [
-      "marketing",
-      "content",
-      "social",
-      "operations",
-      "design"
-    ],
-    "posted_at": "2026-09-27T19:35:51+00:00",
-    "salary": "",
-    "stipend": "",
-    "employment_type": "Contractor",
-    "applicants": null,
-    "industry": "",
-    "function": "",
-    "experience": "fresher",
-    "score": 67,
-    "reasons": [
-      "Marketing match",
-      "Fresher-friendly signal",
-      "Remote"
-    ]
-  },
-  {
-    "type": "job",
     "title": "Senior Performance Marketing Specialist, Paid Media",
     "company": "QuillBot",
     "location": "India",
@@ -279,6 +219,38 @@
       "Marketing match",
       "Fresher-friendly signal",
       "India signal"
+    ]
+  },
+  {
+    "type": "job",
+    "title": "Account Executive DACH",
+    "company": "Remote",
+    "location": "UK",
+    "location_key": "other",
+    "mode": "See listing",
+    "url": "https://jobicy.com/jobs/151999-account-executive-dach-3",
+    "source": "Jobicy",
+    "categories": [
+      "marketing",
+      "social",
+      "sales",
+      "operations",
+      "design"
+    ],
+    "posted_at": "2026-09-29T03:35:04+00:00",
+    "salary": "110000–150000 EUR / yearly",
+    "stipend": "",
+    "employment_type": [
+      "Full-Time"
+    ],
+    "applicants": null,
+    "industry": "",
+    "function": "",
+    "experience": "fresher",
+    "score": 64,
+    "reasons": [
+      "Marketing match",
+      "Fresher-friendly signal"
     ]
   },
   {
@@ -311,69 +283,6 @@
     "score": 64,
     "reasons": [
       "Marketing match"
-    ]
-  },
-  {
-    "type": "job",
-    "title": "Technical Sales Specialist - AEC (ANZ)",
-    "company": "Autodesk",
-    "location": "Australia,  New Zealand",
-    "location_key": "other",
-    "mode": "See listing",
-    "url": "https://jobicy.com/jobs/147117-technical-sales-specialist-aec-anz",
-    "source": "Jobicy",
-    "categories": [
-      "marketing",
-      "content",
-      "sales",
-      "operations",
-      "design"
-    ],
-    "posted_at": "2026-09-26T11:15:10+00:00",
-    "salary": "",
-    "stipend": "",
-    "employment_type": [
-      "Full-Time"
-    ],
-    "applicants": null,
-    "industry": "",
-    "function": "",
-    "experience": "fresher",
-    "score": 64,
-    "reasons": [
-      "Marketing match",
-      "Fresher-friendly signal"
-    ]
-  },
-  {
-    "type": "job",
-    "title": "Business Analyst / Product Owner",
-    "company": "Addepto",
-    "location": "Worldwide / Remote",
-    "location_key": "remote",
-    "mode": "Remote",
-    "url": "https://himalayas.app/companies/addepto/jobs/business-analyst-product-owner",
-    "source": "Himalayas",
-    "categories": [
-      "marketing",
-      "social",
-      "sales",
-      "operations",
-      "design"
-    ],
-    "posted_at": "2026-09-27T20:46:32+00:00",
-    "salary": "",
-    "stipend": "",
-    "employment_type": "Full Time",
-    "applicants": null,
-    "industry": "",
-    "function": "",
-    "experience": "fresher",
-    "score": 63,
-    "reasons": [
-      "Marketing match",
-      "Fresher-friendly signal",
-      "Remote"
     ]
   },
   {
@@ -649,66 +558,6 @@
   },
   {
     "type": "job",
-    "title": "Manager, Personalized Support",
-    "company": "Twilio",
-    "location": "India",
-    "location_key": "india",
-    "mode": "Remote",
-    "url": "https://himalayas.app/companies/twilio/jobs/manager-personalized-support-5764863992",
-    "source": "Himalayas",
-    "categories": [
-      "marketing",
-      "sales",
-      "operations",
-      "design"
-    ],
-    "posted_at": "2026-09-27T12:03:07+00:00",
-    "salary": "",
-    "stipend": "",
-    "employment_type": "Full Time",
-    "applicants": null,
-    "industry": "",
-    "function": "",
-    "experience": "fresher",
-    "score": 62,
-    "reasons": [
-      "Marketing match",
-      "Fresher-friendly signal",
-      "India signal"
-    ]
-  },
-  {
-    "type": "job",
-    "title": "Business Analyst",
-    "company": "Lingaro",
-    "location": "India",
-    "location_key": "india",
-    "mode": "Remote",
-    "url": "https://himalayas.app/companies/lingaro/jobs/business-analyst",
-    "source": "Himalayas",
-    "categories": [
-      "marketing",
-      "social",
-      "sales",
-      "design"
-    ],
-    "posted_at": "2026-09-27T10:00:51+00:00",
-    "salary": "",
-    "stipend": "",
-    "employment_type": "Contractor",
-    "applicants": null,
-    "industry": "",
-    "function": "",
-    "experience": "fresher",
-    "score": 62,
-    "reasons": [
-      "Marketing match",
-      "Fresher-friendly signal",
-      "India signal"
-    ]
-  },
-  {
-    "type": "job",
     "title": "Lead Product Designer",
     "company": "HighLevel",
     "location": "India",
@@ -735,6 +584,38 @@
     "reasons": [
       "Marketing match",
       "India signal"
+    ]
+  },
+  {
+    "type": "job",
+    "title": "Marketing Director, Americas",
+    "company": "Echodyne",
+    "location": "USA",
+    "location_key": "other",
+    "mode": "See listing",
+    "url": "https://jobicy.com/jobs/151968-marketing-director-americas",
+    "source": "Jobicy",
+    "categories": [
+      "marketing",
+      "content",
+      "sales",
+      "operations",
+      "design"
+    ],
+    "posted_at": "2026-09-29T03:30:25+00:00",
+    "salary": "150000–210000 USD / yearly",
+    "stipend": "",
+    "employment_type": [
+      "Full-Time"
+    ],
+    "applicants": null,
+    "industry": "",
+    "function": "",
+    "experience": "fresher",
+    "score": 60,
+    "reasons": [
+      "Marketing match",
+      "Fresher-friendly signal"
     ]
   },
   {
@@ -1187,162 +1068,6 @@
   },
   {
     "type": "job",
-    "title": "Senior Customer Marketing Manager",
-    "company": "Obsidian Security",
-    "location": "USA",
-    "location_key": "other",
-    "mode": "See listing",
-    "url": "https://jobicy.com/jobs/151648-senior-customer-marketing-manager-4",
-    "source": "Jobicy",
-    "categories": [
-      "marketing",
-      "content",
-      "social",
-      "sales",
-      "design"
-    ],
-    "posted_at": "2026-09-27T07:20:18+00:00",
-    "salary": "148000–200000 USD / yearly",
-    "stipend": "",
-    "employment_type": [
-      "Full-Time"
-    ],
-    "applicants": null,
-    "industry": "",
-    "function": "",
-    "experience": "fresher",
-    "score": 60,
-    "reasons": [
-      "Marketing match",
-      "Fresher-friendly signal"
-    ]
-  },
-  {
-    "type": "job",
-    "title": "Senior Technical Product Manager, Ads ML Platform",
-    "company": "Reddit",
-    "location": "USA",
-    "location_key": "other",
-    "mode": "See listing",
-    "url": "https://jobicy.com/jobs/144634-senior-technical-product-manager-ads-ml-platform",
-    "source": "Jobicy",
-    "categories": [
-      "marketing",
-      "content",
-      "social",
-      "operations",
-      "design"
-    ],
-    "posted_at": "2026-09-27T07:20:16+00:00",
-    "salary": "190800–267100 USD / yearly",
-    "stipend": "",
-    "employment_type": [
-      "Full-Time"
-    ],
-    "applicants": null,
-    "industry": "",
-    "function": "",
-    "experience": "fresher",
-    "score": 60,
-    "reasons": [
-      "Marketing match",
-      "Fresher-friendly signal"
-    ]
-  },
-  {
-    "type": "job",
-    "title": "Director, AI Enablement & Security",
-    "company": "Bloomreach",
-    "location": "USA",
-    "location_key": "other",
-    "mode": "See listing",
-    "url": "https://jobicy.com/jobs/151780-director-ai-enablement-security",
-    "source": "Jobicy",
-    "categories": [
-      "marketing",
-      "content",
-      "social",
-      "sales",
-      "design"
-    ],
-    "posted_at": "2026-09-26T11:10:11+00:00",
-    "salary": "200000–250000 USD / yearly",
-    "stipend": "",
-    "employment_type": [
-      "Full-Time"
-    ],
-    "applicants": null,
-    "industry": "",
-    "function": "",
-    "experience": "fresher",
-    "score": 60,
-    "reasons": [
-      "Marketing match",
-      "Fresher-friendly signal"
-    ]
-  },
-  {
-    "type": "job",
-    "title": "SEO & AEO Specialist",
-    "company": "Superformula",
-    "location": "Worldwide / Remote",
-    "location_key": "remote",
-    "mode": "Remote",
-    "url": "https://himalayas.app/companies/superformula/jobs/seo-aeo-specialist",
-    "source": "Himalayas",
-    "categories": [
-      "marketing",
-      "content",
-      "creator",
-      "design"
-    ],
-    "posted_at": "2026-09-27T18:25:16+00:00",
-    "salary": "",
-    "stipend": "",
-    "employment_type": "Contractor",
-    "applicants": null,
-    "industry": "",
-    "function": "",
-    "experience": "fresher",
-    "score": 57,
-    "reasons": [
-      "Marketing match",
-      "Fresher-friendly signal",
-      "Remote"
-    ]
-  },
-  {
-    "type": "job",
-    "title": "Marketing Analytics Specialist - Paid Acquisition",
-    "company": "Tameson",
-    "location": "Worldwide / Remote",
-    "location_key": "remote",
-    "mode": "Remote",
-    "url": "https://himalayas.app/companies/tameson/jobs/marketing-analytics-specialist-paid-acquisition",
-    "source": "Himalayas",
-    "categories": [
-      "marketing",
-      "sales",
-      "operations",
-      "design"
-    ],
-    "posted_at": "2026-09-27T16:07:52+00:00",
-    "salary": "",
-    "stipend": "",
-    "employment_type": "Contractor",
-    "applicants": null,
-    "industry": "",
-    "function": "",
-    "experience": "fresher",
-    "score": 57,
-    "reasons": [
-      "Marketing match",
-      "Fresher-friendly signal",
-      "Remote"
-    ]
-  },
-  {
-    "type": "job",
     "title": "HR Operations Specialist",
     "company": "Law Offices of Sabrina Li",
     "location": "Remote",
@@ -1526,99 +1251,6 @@
   },
   {
     "type": "job",
-    "title": "Account Executive - EMEA Specialist",
-    "company": "Samsara",
-    "location": "UK",
-    "location_key": "other",
-    "mode": "See listing",
-    "url": "https://jobicy.com/jobs/152475-account-executive-emea-specialist",
-    "source": "Jobicy",
-    "categories": [
-      "marketing",
-      "sales",
-      "operations",
-      "design"
-    ],
-    "posted_at": "2026-09-26T11:20:06+00:00",
-    "salary": "",
-    "stipend": "",
-    "employment_type": [
-      "Full-Time"
-    ],
-    "applicants": null,
-    "industry": "",
-    "function": "",
-    "experience": "fresher",
-    "score": 54,
-    "reasons": [
-      "Marketing match",
-      "Fresher-friendly signal"
-    ]
-  },
-  {
-    "type": "job",
-    "title": "Technical Success Manager - Autodesk Forma (Construction Specialist)",
-    "company": "Autodesk",
-    "location": "EMEA,  Germany",
-    "location_key": "other",
-    "mode": "See listing",
-    "url": "https://jobicy.com/jobs/146036-technical-success-manager-autodesk-forma-construction-specialist",
-    "source": "Jobicy",
-    "categories": [
-      "marketing",
-      "social",
-      "sales",
-      "design"
-    ],
-    "posted_at": "2026-09-26T11:15:12+00:00",
-    "salary": "",
-    "stipend": "",
-    "employment_type": [
-      "Full-Time"
-    ],
-    "applicants": null,
-    "industry": "",
-    "function": "",
-    "experience": "fresher",
-    "score": 54,
-    "reasons": [
-      "Marketing match",
-      "Fresher-friendly signal"
-    ]
-  },
-  {
-    "type": "job",
-    "title": "Fusion Sales Account Executive - Named Accounts",
-    "company": "Autodesk",
-    "location": "EMEA,  Germany",
-    "location_key": "other",
-    "mode": "See listing",
-    "url": "https://jobicy.com/jobs/146020-fusion-sales-account-executive-named-accounts",
-    "source": "Jobicy",
-    "categories": [
-      "marketing",
-      "sales",
-      "operations",
-      "design"
-    ],
-    "posted_at": "2026-09-26T11:15:08+00:00",
-    "salary": "",
-    "stipend": "",
-    "employment_type": [
-      "Full-Time"
-    ],
-    "applicants": null,
-    "industry": "",
-    "function": "",
-    "experience": "fresher",
-    "score": 54,
-    "reasons": [
-      "Marketing match",
-      "Fresher-friendly signal"
-    ]
-  },
-  {
-    "type": "job",
     "title": "Staff Analytics Engineer",
     "company": "Alpaca",
     "location": "Worldwide / Remote",
@@ -1641,156 +1273,6 @@
     "industry": "",
     "function": "",
     "experience": "mid",
-    "score": 53,
-    "reasons": [
-      "Marketing match",
-      "Remote"
-    ]
-  },
-  {
-    "type": "job",
-    "title": "Commercial Operations Director",
-    "company": "Anywherenow",
-    "location": "Worldwide / Remote",
-    "location_key": "remote",
-    "mode": "Remote",
-    "url": "https://himalayas.app/companies/anywhere-now/jobs/commercial-operations-director-9071182339",
-    "source": "Himalayas",
-    "categories": [
-      "marketing",
-      "sales",
-      "operations",
-      "design"
-    ],
-    "posted_at": "2026-09-28T01:07:42+00:00",
-    "salary": "",
-    "stipend": "",
-    "employment_type": "Full Time",
-    "applicants": null,
-    "industry": "",
-    "function": "",
-    "experience": "fresher",
-    "score": 53,
-    "reasons": [
-      "Marketing match",
-      "Fresher-friendly signal",
-      "Remote"
-    ]
-  },
-  {
-    "type": "job",
-    "title": "Compliance Operations Manager (Traffic & Content)",
-    "company": "Mayflower",
-    "location": "Worldwide / Remote",
-    "location_key": "remote",
-    "mode": "Remote",
-    "url": "https://himalayas.app/companies/mayflower/jobs/compliance-operations-manager-traffic-content",
-    "source": "Himalayas",
-    "categories": [
-      "marketing",
-      "content",
-      "operations",
-      "design"
-    ],
-    "posted_at": "2026-09-28T00:51:23+00:00",
-    "salary": "",
-    "stipend": "",
-    "employment_type": "Full Time",
-    "applicants": null,
-    "industry": "",
-    "function": "",
-    "experience": "fresher",
-    "score": 53,
-    "reasons": [
-      "Marketing match",
-      "Fresher-friendly signal",
-      "Remote"
-    ]
-  },
-  {
-    "type": "job",
-    "title": "Video Editor",
-    "company": "Yaqeen Institute",
-    "location": "Worldwide / Remote",
-    "location_key": "remote",
-    "mode": "Remote",
-    "url": "https://himalayas.app/companies/yaqeen-institute/jobs/video-editor",
-    "source": "Himalayas",
-    "categories": [
-      "marketing",
-      "content",
-      "social",
-      "creator",
-      "design"
-    ],
-    "posted_at": "2026-09-28T00:24:59+00:00",
-    "salary": "",
-    "stipend": "",
-    "employment_type": "Contractor",
-    "applicants": null,
-    "industry": "",
-    "function": "",
-    "experience": "unknown",
-    "score": 53,
-    "reasons": [
-      "Marketing match",
-      "Remote"
-    ]
-  },
-  {
-    "type": "job",
-    "title": "CRM & Lifecycle Marketing Lead",
-    "company": "Finyard",
-    "location": "Worldwide / Remote",
-    "location_key": "remote",
-    "mode": "Remote",
-    "url": "https://himalayas.app/companies/finyard/jobs/crm-lifecycle-marketing-lead",
-    "source": "Himalayas",
-    "categories": [
-      "marketing",
-      "content",
-      "sales",
-      "design"
-    ],
-    "posted_at": "2026-09-27T23:17:54+00:00",
-    "salary": "",
-    "stipend": "",
-    "employment_type": "Full Time",
-    "applicants": null,
-    "industry": "",
-    "function": "",
-    "experience": "fresher",
-    "score": 53,
-    "reasons": [
-      "Marketing match",
-      "Fresher-friendly signal",
-      "Remote"
-    ]
-  },
-  {
-    "type": "job",
-    "title": "Werkstudent (m/w/d) Operations",
-    "company": "XDi - Experience Design Institut",
-    "location": "Worldwide / Remote",
-    "location_key": "remote",
-    "mode": "Remote",
-    "url": "https://himalayas.app/companies/xdi-experience-design-institut/jobs/werkstudent-m-w-d-operations",
-    "source": "Himalayas",
-    "categories": [
-      "marketing",
-      "content",
-      "creator",
-      "operations",
-      "design"
-    ],
-    "posted_at": "2026-09-27T17:24:40+00:00",
-    "salary": "",
-    "stipend": "",
-    "employment_type": "Part Time",
-    "applicants": null,
-    "industry": "",
-    "function": "",
-    "experience": "unknown",
     "score": 53,
     "reasons": [
       "Marketing match",
@@ -2265,147 +1747,126 @@
   },
   {
     "type": "job",
-    "title": "Staff Engineer - Platform Frontend",
-    "company": "HighLevel",
-    "location": "India",
-    "location_key": "india",
-    "mode": "Remote",
-    "url": "https://himalayas.app/companies/highlevel/jobs/staff-engineer-platform-frontend",
-    "source": "Himalayas",
+    "title": "Support Engineer (EMEA)",
+    "company": "Supabase",
+    "location": "EMEA",
+    "location_key": "other",
+    "mode": "See listing",
+    "url": "https://jobicy.com/jobs/152053-support-engineer-emea",
+    "source": "Jobicy",
     "categories": [
       "marketing",
       "social",
-      "design"
-    ],
-    "posted_at": "2026-09-27T12:01:06+00:00",
-    "salary": "",
-    "stipend": "",
-    "employment_type": "Full Time",
-    "applicants": null,
-    "industry": "",
-    "function": "",
-    "experience": "fresher",
-    "score": 52,
-    "reasons": [
-      "Marketing match",
-      "Fresher-friendly signal",
-      "India signal"
-    ]
-  },
-  {
-    "type": "job",
-    "title": "Senior PV Officer",
-    "company": "Ergomed",
-    "location": "India",
-    "location_key": "india",
-    "mode": "Remote",
-    "url": "https://himalayas.app/companies/ergomedplc/jobs/senior-pv-officer",
-    "source": "Himalayas",
-    "categories": [
-      "marketing",
       "sales",
       "design"
     ],
-    "posted_at": "2026-09-27T11:54:08+00:00",
+    "posted_at": "2026-09-29T03:35:15+00:00",
     "salary": "",
     "stipend": "",
-    "employment_type": "Full Time",
+    "employment_type": [
+      "Full-Time"
+    ],
     "applicants": null,
     "industry": "",
     "function": "",
     "experience": "fresher",
-    "score": 52,
+    "score": 50,
     "reasons": [
       "Marketing match",
-      "Fresher-friendly signal",
-      "India signal"
+      "Fresher-friendly signal"
     ]
   },
   {
     "type": "job",
-    "title": "Biology Expert - Fully Remote | Up to $75/hr",
-    "company": "mercor",
-    "location": "India",
-    "location_key": "india",
-    "mode": "Remote",
-    "url": "https://himalayas.app/companies/mercor/jobs/biology-expert-fully-remote-up-to-75-hr-4188145475",
-    "source": "Himalayas",
-    "categories": [
-      "content",
-      "creator",
-      "design"
-    ],
-    "posted_at": "2026-09-27T11:38:40+00:00",
-    "salary": "60–75 USD / hourly",
-    "stipend": "",
-    "employment_type": "Contractor",
-    "applicants": null,
-    "industry": "",
-    "function": "",
-    "experience": "fresher",
-    "score": 52,
-    "reasons": [
-      "Content match",
-      "Fresher-friendly signal",
-      "India signal"
-    ]
-  },
-  {
-    "type": "job",
-    "title": "Senior Territory Account Manager (Gujarat)",
-    "company": "Sophos",
-    "location": "India",
-    "location_key": "india",
-    "mode": "Remote",
-    "url": "https://himalayas.app/companies/sophos/jobs/senior-territory-account-manager-gujarat",
-    "source": "Himalayas",
+    "title": "Senior Business Technology Product Manager- Supply Chain",
+    "company": "Samsara",
+    "location": "USA",
+    "location_key": "other",
+    "mode": "See listing",
+    "url": "https://jobicy.com/jobs/147872-senior-business-technology-product-manager-supply-chain",
+    "source": "Jobicy",
     "categories": [
       "marketing",
-      "social",
-      "sales"
-    ],
-    "posted_at": "2026-09-27T11:02:00+00:00",
-    "salary": "",
-    "stipend": "",
-    "employment_type": "Full Time",
-    "applicants": null,
-    "industry": "",
-    "function": "",
-    "experience": "fresher",
-    "score": 52,
-    "reasons": [
-      "Marketing match",
-      "Fresher-friendly signal",
-      "India signal"
-    ]
-  },
-  {
-    "type": "job",
-    "title": "Security Operations Analyst",
-    "company": "Workstreet",
-    "location": "India",
-    "location_key": "india",
-    "mode": "Remote",
-    "url": "https://himalayas.app/companies/workstreet/jobs/security-operations-analyst",
-    "source": "Himalayas",
-    "categories": [
-      "marketing",
+      "sales",
       "operations",
       "design"
     ],
-    "posted_at": "2026-09-27T09:38:29+00:00",
-    "salary": "",
+    "posted_at": "2026-09-29T03:25:15+00:00",
+    "salary": "131198–198450 USD / yearly",
     "stipend": "",
-    "employment_type": "Full Time",
+    "employment_type": [
+      "Full-Time"
+    ],
     "applicants": null,
     "industry": "",
     "function": "",
     "experience": "fresher",
-    "score": 52,
+    "score": 50,
     "reasons": [
       "Marketing match",
-      "Fresher-friendly signal",
-      "India signal"
+      "Fresher-friendly signal"
+    ]
+  },
+  {
+    "type": "job",
+    "title": "Founding Sales Development Representative (DACH)",
+    "company": "Tremendous",
+    "location": "Europe",
+    "location_key": "other",
+    "mode": "See listing",
+    "url": "https://jobicy.com/jobs/151997-founding-sales-development-representative-dach",
+    "source": "Jobicy",
+    "categories": [
+      "marketing",
+      "social",
+      "sales",
+      "design"
+    ],
+    "posted_at": "2026-09-29T03:25:08+00:00",
+    "salary": "45000–52000 GBP / yearly",
+    "stipend": "",
+    "employment_type": [
+      "Full-Time"
+    ],
+    "applicants": null,
+    "industry": "",
+    "function": "",
+    "experience": "fresher",
+    "score": 50,
+    "reasons": [
+      "Marketing match",
+      "Fresher-friendly signal"
+    ]
+  },
+  {
+    "type": "job",
+    "title": "Founding Sales Development Representative (Europe)",
+    "company": "Tremendous",
+    "location": "Europe",
+    "location_key": "other",
+    "mode": "See listing",
+    "url": "https://jobicy.com/jobs/151996-founding-sales-development-representative-europe",
+    "source": "Jobicy",
+    "categories": [
+      "marketing",
+      "social",
+      "sales",
+      "design"
+    ],
+    "posted_at": "2026-09-29T03:25:06+00:00",
+    "salary": "37000–45000 GBP / yearly",
+    "stipend": "",
+    "employment_type": [
+      "Full-Time"
+    ],
+    "applicants": null,
+    "industry": "",
+    "function": "",
+    "experience": "fresher",
+    "score": 50,
+    "reasons": [
+      "Marketing match",
+      "Fresher-friendly signal"
     ]
   },
   {
@@ -3185,37 +2646,6 @@
   },
   {
     "type": "job",
-    "title": "Software Architect",
-    "company": "Autodesk",
-    "location": "EMEA,  UK",
-    "location_key": "other",
-    "mode": "See listing",
-    "url": "https://jobicy.com/jobs/150381-software-architect",
-    "source": "Jobicy",
-    "categories": [
-      "content",
-      "sales",
-      "operations",
-      "design"
-    ],
-    "posted_at": "2026-09-26T11:15:22+00:00",
-    "salary": "",
-    "stipend": "",
-    "employment_type": [
-      "Full-Time"
-    ],
-    "applicants": null,
-    "industry": "",
-    "function": "",
-    "experience": "fresher",
-    "score": 50,
-    "reasons": [
-      "Content match",
-      "Fresher-friendly signal"
-    ]
-  },
-  {
-    "type": "job",
     "title": "Lifecycle Marketing Manager",
     "company": "Time Doctor",
     "location": "Worldwide / Remote",
@@ -3329,64 +2759,6 @@
       "Marketing match",
       "Early-career signal",
       "India signal"
-    ]
-  },
-  {
-    "type": "job",
-    "title": "Wear Solutions Specialist",
-    "company": "Castolin Eutectic",
-    "location": "Worldwide / Remote",
-    "location_key": "remote",
-    "mode": "Remote",
-    "url": "https://himalayas.app/companies/castolin-eutectic/jobs/wear-solutions-specialist",
-    "source": "Himalayas",
-    "categories": [
-      "marketing",
-      "sales",
-      "operations",
-      "design"
-    ],
-    "posted_at": "2026-09-27T15:17:06+00:00",
-    "salary": "",
-    "stipend": "",
-    "employment_type": "Full Time",
-    "applicants": null,
-    "industry": "",
-    "function": "",
-    "experience": "mid",
-    "score": 47,
-    "reasons": [
-      "Marketing match",
-      "Remote"
-    ]
-  },
-  {
-    "type": "job",
-    "title": "Recruitment Specialist",
-    "company": "When We First",
-    "location": "Worldwide / Remote",
-    "location_key": "remote",
-    "mode": "Remote",
-    "url": "https://himalayas.app/companies/when-we-first/jobs/recruitment-specialist",
-    "source": "Himalayas",
-    "categories": [
-      "marketing",
-      "sales",
-      "design"
-    ],
-    "posted_at": "2026-09-27T14:22:44+00:00",
-    "salary": "30000–40000 USD / annual",
-    "stipend": "",
-    "employment_type": "Full Time",
-    "applicants": null,
-    "industry": "",
-    "function": "",
-    "experience": "fresher",
-    "score": 47,
-    "reasons": [
-      "Marketing match",
-      "Fresher-friendly signal",
-      "Remote"
     ]
   },
   {
@@ -3566,6 +2938,36 @@
       "Marketing match",
       "Fresher-friendly signal",
       "India signal"
+    ]
+  },
+  {
+    "type": "job",
+    "title": "Founding Enterprise Account Executive (EMEA - German Speaker)",
+    "company": "Tremendous",
+    "location": "Europe",
+    "location_key": "other",
+    "mode": "See listing",
+    "url": "https://jobicy.com/jobs/151998-founding-enterprise-account-executive-emea-german-speaker",
+    "source": "Jobicy",
+    "categories": [
+      "marketing",
+      "sales",
+      "design"
+    ],
+    "posted_at": "2026-09-29T03:25:03+00:00",
+    "salary": "170000–220000 EUR / yearly",
+    "stipend": "",
+    "employment_type": [
+      "Full-Time"
+    ],
+    "applicants": null,
+    "industry": "",
+    "function": "",
+    "experience": "fresher",
+    "score": 44,
+    "reasons": [
+      "Marketing match",
+      "Fresher-friendly signal"
     ]
   },
   {
@@ -3780,96 +3182,6 @@
   },
   {
     "type": "job",
-    "title": "Account Executive Mid-Market - Italy",
-    "company": "Alma",
-    "location": "Italy",
-    "location_key": "other",
-    "mode": "See listing",
-    "url": "https://jobicy.com/jobs/151870-account-executive-mid-market-italy",
-    "source": "Jobicy",
-    "categories": [
-      "marketing",
-      "social",
-      "sales"
-    ],
-    "posted_at": "2026-09-26T11:30:15+00:00",
-    "salary": "68000–86000 EUR / yearly",
-    "stipend": "",
-    "employment_type": [
-      "Full-Time"
-    ],
-    "applicants": null,
-    "industry": "",
-    "function": "",
-    "experience": "fresher",
-    "score": 44,
-    "reasons": [
-      "Marketing match",
-      "Fresher-friendly signal"
-    ]
-  },
-  {
-    "type": "job",
-    "title": "Technical Account Specialist - Storm, Sewer, Flood",
-    "company": "Autodesk",
-    "location": "UK",
-    "location_key": "other",
-    "mode": "See listing",
-    "url": "https://jobicy.com/jobs/150370-technical-account-specialist-storm-sewer-flood",
-    "source": "Jobicy",
-    "categories": [
-      "social",
-      "sales",
-      "design"
-    ],
-    "posted_at": "2026-09-26T11:15:20+00:00",
-    "salary": "",
-    "stipend": "",
-    "employment_type": [
-      "Full-Time"
-    ],
-    "applicants": null,
-    "industry": "",
-    "function": "",
-    "experience": "fresher",
-    "score": 44,
-    "reasons": [
-      "Social match",
-      "Fresher-friendly signal"
-    ]
-  },
-  {
-    "type": "job",
-    "title": "Technical Adoption Specialist, Civil 3D, French speaking",
-    "company": "Autodesk",
-    "location": "Poland,  Spain",
-    "location_key": "other",
-    "mode": "See listing",
-    "url": "https://jobicy.com/jobs/149313-technical-adoption-specialist-civil-3d-french-speaking",
-    "source": "Jobicy",
-    "categories": [
-      "content",
-      "sales",
-      "design"
-    ],
-    "posted_at": "2026-09-26T11:15:17+00:00",
-    "salary": "",
-    "stipend": "",
-    "employment_type": [
-      "Full-Time"
-    ],
-    "applicants": null,
-    "industry": "",
-    "function": "",
-    "experience": "fresher",
-    "score": 44,
-    "reasons": [
-      "Content match",
-      "Fresher-friendly signal"
-    ]
-  },
-  {
-    "type": "job",
     "title": "AI Solutions Engineer",
     "company": "Mercuryo",
     "location": "Worldwide / Remote",
@@ -3915,354 +3227,6 @@
     "salary": "",
     "stipend": "",
     "employment_type": "Contractor",
-    "applicants": null,
-    "industry": "",
-    "function": "",
-    "experience": "fresher",
-    "score": 43,
-    "reasons": [
-      "Marketing match",
-      "Fresher-friendly signal",
-      "Remote"
-    ]
-  },
-  {
-    "type": "job",
-    "title": "Staff Software Engineer, Product",
-    "company": "Customer.io",
-    "location": "Worldwide / Remote",
-    "location_key": "remote",
-    "mode": "Remote",
-    "url": "https://himalayas.app/companies/customer-io/jobs/staff-software-engineer-product",
-    "source": "Himalayas",
-    "categories": [
-      "marketing",
-      "social",
-      "sales",
-      "design"
-    ],
-    "posted_at": "2026-09-28T00:50:29+00:00",
-    "salary": "200000–280000 USD / annual",
-    "stipend": "",
-    "employment_type": "Full Time",
-    "applicants": null,
-    "industry": "",
-    "function": "",
-    "experience": "mid",
-    "score": 43,
-    "reasons": [
-      "Marketing match",
-      "Remote"
-    ]
-  },
-  {
-    "type": "job",
-    "title": "Lead MES Consultant",
-    "company": "Vimachem",
-    "location": "Worldwide / Remote",
-    "location_key": "remote",
-    "mode": "Remote",
-    "url": "https://himalayas.app/companies/vimachem/jobs/lead-mes-consultant",
-    "source": "Himalayas",
-    "categories": [
-      "social",
-      "sales",
-      "design"
-    ],
-    "posted_at": "2026-09-27T23:25:22+00:00",
-    "salary": "",
-    "stipend": "",
-    "employment_type": "Full Time",
-    "applicants": null,
-    "industry": "",
-    "function": "",
-    "experience": "fresher",
-    "score": 43,
-    "reasons": [
-      "Social match",
-      "Fresher-friendly signal",
-      "Remote"
-    ]
-  },
-  {
-    "type": "job",
-    "title": "MedTech Content Marketing Manager (100 % remote) (m/f/d)",
-    "company": "EWOR GmbH",
-    "location": "Worldwide / Remote",
-    "location_key": "remote",
-    "mode": "Remote",
-    "url": "https://himalayas.app/companies/ewor-gmbh/jobs/medtech-content-marketing-manager-100-remote-m-f-d-2721852520",
-    "source": "Himalayas",
-    "categories": [
-      "marketing",
-      "content",
-      "creator"
-    ],
-    "posted_at": "2026-09-27T22:24:17+00:00",
-    "salary": "",
-    "stipend": "",
-    "employment_type": "Full Time",
-    "applicants": null,
-    "industry": "",
-    "function": "",
-    "experience": "fresher",
-    "score": 43,
-    "reasons": [
-      "Marketing match",
-      "Fresher-friendly signal",
-      "Remote"
-    ]
-  },
-  {
-    "type": "job",
-    "title": "AI Research Lab Content Marketing Manager (100 % remote) (m/f/d)",
-    "company": "EWOR GmbH",
-    "location": "Worldwide / Remote",
-    "location_key": "remote",
-    "mode": "Remote",
-    "url": "https://himalayas.app/companies/ewor-gmbh/jobs/ai-research-lab-content-marketing-manager-100-remote-m-f-d-8816904457",
-    "source": "Himalayas",
-    "categories": [
-      "marketing",
-      "content",
-      "creator"
-    ],
-    "posted_at": "2026-09-27T22:19:11+00:00",
-    "salary": "",
-    "stipend": "",
-    "employment_type": "Full Time",
-    "applicants": null,
-    "industry": "",
-    "function": "",
-    "experience": "fresher",
-    "score": 43,
-    "reasons": [
-      "Marketing match",
-      "Fresher-friendly signal",
-      "Remote"
-    ]
-  },
-  {
-    "type": "job",
-    "title": "DevTools Content Marketing Manager (100 % remote) (m/f/d)",
-    "company": "EWOR GmbH",
-    "location": "Worldwide / Remote",
-    "location_key": "remote",
-    "mode": "Remote",
-    "url": "https://himalayas.app/companies/ewor-gmbh/jobs/devtools-content-marketing-manager-100-remote-m-f-d",
-    "source": "Himalayas",
-    "categories": [
-      "marketing",
-      "content",
-      "creator"
-    ],
-    "posted_at": "2026-09-27T22:18:38+00:00",
-    "salary": "",
-    "stipend": "",
-    "employment_type": "Full Time",
-    "applicants": null,
-    "industry": "",
-    "function": "",
-    "experience": "fresher",
-    "score": 43,
-    "reasons": [
-      "Marketing match",
-      "Fresher-friendly signal",
-      "Remote"
-    ]
-  },
-  {
-    "type": "job",
-    "title": "Senior Product Designer",
-    "company": "Scentbird",
-    "location": "Worldwide / Remote",
-    "location_key": "remote",
-    "mode": "Remote",
-    "url": "https://himalayas.app/companies/scentbird/jobs/senior-product-designer",
-    "source": "Himalayas",
-    "categories": [
-      "marketing",
-      "social",
-      "design"
-    ],
-    "posted_at": "2026-09-27T19:30:46+00:00",
-    "salary": "",
-    "stipend": "",
-    "employment_type": "Contractor",
-    "applicants": null,
-    "industry": "",
-    "function": "",
-    "experience": "fresher",
-    "score": 43,
-    "reasons": [
-      "Marketing match",
-      "Fresher-friendly signal",
-      "Remote"
-    ]
-  },
-  {
-    "type": "job",
-    "title": "HealthTech Content Marketing Manager (100 % remote) (m/f/d)",
-    "company": "EWOR GmbH",
-    "location": "Worldwide / Remote",
-    "location_key": "remote",
-    "mode": "Remote",
-    "url": "https://himalayas.app/companies/ewor-gmbh/jobs/healthtech-content-marketing-manager-100-remote-m-f-d-5418378336",
-    "source": "Himalayas",
-    "categories": [
-      "marketing",
-      "content",
-      "creator"
-    ],
-    "posted_at": "2026-09-27T19:17:31+00:00",
-    "salary": "",
-    "stipend": "",
-    "employment_type": "Full Time",
-    "applicants": null,
-    "industry": "",
-    "function": "",
-    "experience": "fresher",
-    "score": 43,
-    "reasons": [
-      "Marketing match",
-      "Fresher-friendly signal",
-      "Remote"
-    ]
-  },
-  {
-    "type": "job",
-    "title": "Co-Founding CEO (Metabolic & Inflammation Therapies)",
-    "company": "NLC Health Ventures",
-    "location": "Worldwide / Remote",
-    "location_key": "remote",
-    "mode": "Remote",
-    "url": "https://himalayas.app/companies/nlc-health-ventures/jobs/co-founding-ceo-metabolic-inflammation-therapies",
-    "source": "Himalayas",
-    "categories": [
-      "marketing",
-      "social",
-      "sales",
-      "operations"
-    ],
-    "posted_at": "2026-09-27T19:06:38+00:00",
-    "salary": "",
-    "stipend": "",
-    "employment_type": "Full Time",
-    "applicants": null,
-    "industry": "",
-    "function": "",
-    "experience": "mid",
-    "score": 43,
-    "reasons": [
-      "Marketing match",
-      "Remote"
-    ]
-  },
-  {
-    "type": "job",
-    "title": "Technical Lead - Fashion",
-    "company": "INDG",
-    "location": "Worldwide / Remote",
-    "location_key": "remote",
-    "mode": "Remote",
-    "url": "https://himalayas.app/companies/indg/jobs/technical-lead-fashion",
-    "source": "Himalayas",
-    "categories": [
-      "marketing",
-      "content",
-      "operations",
-      "design"
-    ],
-    "posted_at": "2026-09-27T17:24:46+00:00",
-    "salary": "",
-    "stipend": "",
-    "employment_type": "Full Time",
-    "applicants": null,
-    "industry": "",
-    "function": "",
-    "experience": "mid",
-    "score": 43,
-    "reasons": [
-      "Marketing match",
-      "Remote"
-    ]
-  },
-  {
-    "type": "job",
-    "title": "MedTech Chief of Staff (100 % remote) (m/f/d)",
-    "company": "EWOR GmbH",
-    "location": "Worldwide / Remote",
-    "location_key": "remote",
-    "mode": "Remote",
-    "url": "https://himalayas.app/companies/ewor-gmbh/jobs/medtech-chief-of-staff-100-remote-m-f-d",
-    "source": "Himalayas",
-    "categories": [
-      "marketing",
-      "sales",
-      "operations"
-    ],
-    "posted_at": "2026-09-27T15:02:03+00:00",
-    "salary": "",
-    "stipend": "",
-    "employment_type": "Full Time",
-    "applicants": null,
-    "industry": "",
-    "function": "",
-    "experience": "fresher",
-    "score": 43,
-    "reasons": [
-      "Marketing match",
-      "Fresher-friendly signal",
-      "Remote"
-    ]
-  },
-  {
-    "type": "job",
-    "title": "Marketing Manager",
-    "company": "Asset Living",
-    "location": "Worldwide / Remote",
-    "location_key": "remote",
-    "mode": "Remote",
-    "url": "https://himalayas.app/companies/asset-living/jobs/marketing-manager",
-    "source": "Himalayas",
-    "categories": [
-      "marketing",
-      "social",
-      "operations",
-      "design"
-    ],
-    "posted_at": "2026-09-27T13:18:13+00:00",
-    "salary": "",
-    "stipend": "",
-    "employment_type": "Full Time",
-    "applicants": null,
-    "industry": "",
-    "function": "",
-    "experience": "mid",
-    "score": 43,
-    "reasons": [
-      "Marketing match",
-      "Remote"
-    ]
-  },
-  {
-    "type": "job",
-    "title": "Logistics Content Marketing Manager (100 % remote) (m/f/d)",
-    "company": "EWOR GmbH",
-    "location": "Worldwide / Remote",
-    "location_key": "remote",
-    "mode": "Remote",
-    "url": "https://himalayas.app/companies/ewor-gmbh/jobs/logistics-content-marketing-manager-100-remote-m-f-d-3477184492",
-    "source": "Himalayas",
-    "categories": [
-      "marketing",
-      "content",
-      "operations"
-    ],
-    "posted_at": "2026-09-27T13:09:42+00:00",
-    "salary": "",
-    "stipend": "",
-    "employment_type": "Full Time",
     "applicants": null,
     "industry": "",
     "function": "",
@@ -4984,170 +3948,242 @@
   },
   {
     "type": "job",
-    "title": "Quality Engineer",
-    "company": "Velocix Solutions USA Inc.",
-    "location": "India",
-    "location_key": "india",
-    "mode": "Remote",
-    "url": "https://himalayas.app/companies/velocix-solutions-usa-inc/jobs/quality-engineer",
-    "source": "Himalayas",
+    "title": "Developer Relations Engineer",
+    "company": "Supabase",
+    "location": "USA",
+    "location_key": "other",
+    "mode": "See listing",
+    "url": "https://jobicy.com/jobs/152060-developer-relations-engineer-2",
+    "source": "Jobicy",
     "categories": [
+      "marketing",
       "content",
+      "social",
       "design"
     ],
-    "posted_at": "2026-09-27T12:07:50+00:00",
+    "posted_at": "2026-09-29T03:35:16+00:00",
     "salary": "",
     "stipend": "",
-    "employment_type": "Full Time",
+    "employment_type": [
+      "Full-Time"
+    ],
     "applicants": null,
     "industry": "",
     "function": "",
-    "experience": "fresher",
-    "score": 42,
+    "experience": "unknown",
+    "score": 40,
     "reasons": [
-      "Content match",
-      "Fresher-friendly signal",
-      "India signal"
+      "Marketing match"
     ]
   },
   {
     "type": "job",
-    "title": "Lead Engineer ( Fullstack ) - Tasks",
-    "company": "HighLevel",
-    "location": "India",
-    "location_key": "india",
-    "mode": "Remote",
-    "url": "https://himalayas.app/companies/highlevel/jobs/lead-engineer-fullstack-tasks",
-    "source": "Himalayas",
+    "title": "Director of Product Management - US Remote",
+    "company": "PerfectServe",
+    "location": "USA",
+    "location_key": "other",
+    "mode": "See listing",
+    "url": "https://jobicy.com/jobs/152061-director-of-product-management-us-remote",
+    "source": "Jobicy",
+    "categories": [
+      "marketing",
+      "operations",
+      "design"
+    ],
+    "posted_at": "2026-09-29T03:35:12+00:00",
+    "salary": "180000– USD / yearly",
+    "stipend": "",
+    "employment_type": [
+      "Full-Time"
+    ],
+    "applicants": null,
+    "industry": "",
+    "function": "",
+    "experience": "fresher",
+    "score": 40,
+    "reasons": [
+      "Marketing match",
+      "Fresher-friendly signal"
+    ]
+  },
+  {
+    "type": "job",
+    "title": "Multigres Engineer",
+    "company": "Supabase",
+    "location": "Anywhere",
+    "location_key": "other",
+    "mode": "See listing",
+    "url": "https://jobicy.com/jobs/152057-multigres-engineer",
+    "source": "Jobicy",
     "categories": [
       "marketing",
       "social",
       "design"
     ],
-    "posted_at": "2026-09-27T11:24:25+00:00",
+    "posted_at": "2026-09-29T03:35:10+00:00",
     "salary": "",
     "stipend": "",
-    "employment_type": "Full Time",
+    "employment_type": [
+      "Full-Time"
+    ],
     "applicants": null,
     "industry": "",
     "function": "",
-    "experience": "mid",
-    "score": 42,
+    "experience": "fresher",
+    "score": 40,
     "reasons": [
       "Marketing match",
-      "India signal"
+      "Fresher-friendly signal"
     ]
   },
   {
     "type": "job",
-    "title": "Engineering Manager (Site Reliability)",
-    "company": "Moniepoint",
-    "location": "India",
-    "location_key": "india",
-    "mode": "Remote",
-    "url": "https://himalayas.app/companies/moniepoint/jobs/engineering-manager-site-reliability-3439426677",
-    "source": "Himalayas",
-    "categories": [
-      "marketing",
-      "design"
-    ],
-    "posted_at": "2026-09-27T11:00:31+00:00",
-    "salary": "",
-    "stipend": "",
-    "employment_type": "Full Time",
-    "applicants": null,
-    "industry": "",
-    "function": "",
-    "experience": "fresher",
-    "score": 42,
-    "reasons": [
-      "Marketing match",
-      "Fresher-friendly signal",
-      "India signal"
-    ]
-  },
-  {
-    "type": "job",
-    "title": "Senior Software Engineer, Authorization - India",
-    "company": "JumpCloud",
-    "location": "India",
-    "location_key": "india",
-    "mode": "Remote",
-    "url": "https://himalayas.app/companies/jumpcloud/jobs/senior-software-engineer-authorization-india",
-    "source": "Himalayas",
-    "categories": [
-      "operations",
-      "design"
-    ],
-    "posted_at": "2026-09-27T10:00:43+00:00",
-    "salary": "",
-    "stipend": "",
-    "employment_type": "Full Time",
-    "applicants": null,
-    "industry": "",
-    "function": "",
-    "experience": "fresher",
-    "score": 42,
-    "reasons": [
-      "Operations match",
-      "Fresher-friendly signal",
-      "India signal"
-    ]
-  },
-  {
-    "type": "job",
-    "title": "Software Engineer, Privileged Access Management (PAM) / Password Manager (PWM) -",
-    "company": "JumpCloud",
-    "location": "India",
-    "location_key": "india",
-    "mode": "Remote",
-    "url": "https://himalayas.app/companies/jumpcloud/jobs/software-engineer-privileged-access-management-pam-password-manager-pwm",
-    "source": "Himalayas",
-    "categories": [
-      "operations",
-      "design"
-    ],
-    "posted_at": "2026-09-27T09:53:44+00:00",
-    "salary": "",
-    "stipend": "",
-    "employment_type": "Full Time",
-    "applicants": null,
-    "industry": "",
-    "function": "",
-    "experience": "fresher",
-    "score": 42,
-    "reasons": [
-      "Operations match",
-      "Fresher-friendly signal",
-      "India signal"
-    ]
-  },
-  {
-    "type": "job",
-    "title": "Kyriba Implementation Senior Analyst",
-    "company": "Clearsulting",
-    "location": "India",
-    "location_key": "india",
-    "mode": "Remote",
-    "url": "https://himalayas.app/companies/clearsulting/jobs/kyriba-implementation-senior-analyst",
-    "source": "Himalayas",
+    "title": "Manager/ Sr. Manager - BI Consulting (Life Sciences/Pharma)",
+    "company": "Tiger Analytics",
+    "location": "Canada",
+    "location_key": "other",
+    "mode": "See listing",
+    "url": "https://jobicy.com/jobs/142623-manager-sr-manager-bi-consulting-life-sciences-pharma",
+    "source": "Jobicy",
     "categories": [
       "marketing",
       "sales",
       "design"
     ],
-    "posted_at": "2026-09-27T08:28:02+00:00",
+    "posted_at": "2026-09-29T03:35:08+00:00",
     "salary": "",
     "stipend": "",
-    "employment_type": "Other",
+    "employment_type": [
+      "Full-Time"
+    ],
     "applicants": null,
     "industry": "",
     "function": "",
-    "experience": "mid",
-    "score": 42,
+    "experience": "fresher",
+    "score": 40,
     "reasons": [
       "Marketing match",
-      "India signal"
+      "Fresher-friendly signal"
+    ]
+  },
+  {
+    "type": "job",
+    "title": "Employee Relations Business Partner - EMEA",
+    "company": "Remote",
+    "location": "EMEA",
+    "location_key": "other",
+    "mode": "See listing",
+    "url": "https://jobicy.com/jobs/152001-employee-relations-business-partner-emea",
+    "source": "Jobicy",
+    "categories": [
+      "marketing",
+      "social",
+      "operations"
+    ],
+    "posted_at": "2026-09-29T03:35:06+00:00",
+    "salary": "46500–104650 USD / yearly",
+    "stipend": "",
+    "employment_type": [
+      "Full-Time"
+    ],
+    "applicants": null,
+    "industry": "",
+    "function": "",
+    "experience": "fresher",
+    "score": 40,
+    "reasons": [
+      "Marketing match",
+      "Fresher-friendly signal"
+    ]
+  },
+  {
+    "type": "job",
+    "title": "Bilingual Product Support Analyst (Canadian French)",
+    "company": "D2L",
+    "location": "Canada",
+    "location_key": "other",
+    "mode": "See listing",
+    "url": "https://jobicy.com/jobs/151964-bilingual-product-support-analyst-canadian-french",
+    "source": "Jobicy",
+    "categories": [
+      "marketing",
+      "sales",
+      "design"
+    ],
+    "posted_at": "2026-09-29T03:30:32+00:00",
+    "salary": "55000–65000 CAD / yearly",
+    "stipend": "",
+    "employment_type": [
+      "Full-Time"
+    ],
+    "applicants": null,
+    "industry": "",
+    "function": "",
+    "experience": "fresher",
+    "score": 40,
+    "reasons": [
+      "Marketing match",
+      "Fresher-friendly signal"
+    ]
+  },
+  {
+    "type": "job",
+    "title": "Business Development Manager, Central Region",
+    "company": "CompScience",
+    "location": "USA",
+    "location_key": "other",
+    "mode": "See listing",
+    "url": "https://jobicy.com/jobs/150698-business-development-manager-central-region",
+    "source": "Jobicy",
+    "categories": [
+      "marketing",
+      "sales",
+      "design"
+    ],
+    "posted_at": "2026-09-29T03:30:08+00:00",
+    "salary": "120000–150000 USD / yearly",
+    "stipend": "",
+    "employment_type": [
+      "Full-Time"
+    ],
+    "applicants": null,
+    "industry": "",
+    "function": "",
+    "experience": "fresher",
+    "score": 40,
+    "reasons": [
+      "Marketing match",
+      "Fresher-friendly signal"
+    ]
+  },
+  {
+    "type": "job",
+    "title": "Enterprise Business Development Representative - East",
+    "company": "Chainguard",
+    "location": "USA",
+    "location_key": "other",
+    "mode": "See listing",
+    "url": "https://jobicy.com/jobs/151992-enterprise-business-development-representative-east",
+    "source": "Jobicy",
+    "categories": [
+      "marketing",
+      "sales",
+      "design"
+    ],
+    "posted_at": "2026-09-29T03:25:12+00:00",
+    "salary": "100000–100000 USD / yearly",
+    "stipend": "",
+    "employment_type": [
+      "Full-Time"
+    ],
+    "applicants": null,
+    "industry": "",
+    "function": "",
+    "experience": "fresher",
+    "score": 40,
+    "reasons": [
+      "Marketing match",
+      "Fresher-friendly signal"
     ]
   },
   {
@@ -6352,186 +5388,6 @@
   },
   {
     "type": "job",
-    "title": "Customer Solutions Consultant II",
-    "company": "Ada",
-    "location": "UK",
-    "location_key": "other",
-    "mode": "See listing",
-    "url": "https://jobicy.com/jobs/151795-customer-solutions-consultant-ii-2",
-    "source": "Jobicy",
-    "categories": [
-      "marketing",
-      "sales",
-      "design"
-    ],
-    "posted_at": "2026-09-27T07:20:23+00:00",
-    "salary": "",
-    "stipend": "",
-    "employment_type": [
-      "Full-Time"
-    ],
-    "applicants": null,
-    "industry": "",
-    "function": "",
-    "experience": "fresher",
-    "score": 40,
-    "reasons": [
-      "Marketing match",
-      "Fresher-friendly signal"
-    ]
-  },
-  {
-    "type": "job",
-    "title": "Full Time Remote Telemedicine Physician - (40+ State Licenses)",
-    "company": "Wheel",
-    "location": "USA",
-    "location_key": "other",
-    "mode": "See listing",
-    "url": "https://jobicy.com/jobs/151790-full-time-remote-telemedicine-physician-40-state-licenses",
-    "source": "Jobicy",
-    "categories": [
-      "marketing",
-      "social",
-      "operations"
-    ],
-    "posted_at": "2026-09-27T07:20:14+00:00",
-    "salary": "",
-    "stipend": "",
-    "employment_type": [
-      "Contract"
-    ],
-    "applicants": null,
-    "industry": "",
-    "function": "",
-    "experience": "fresher",
-    "score": 40,
-    "reasons": [
-      "Marketing match",
-      "Fresher-friendly signal"
-    ]
-  },
-  {
-    "type": "job",
-    "title": "Full Time Remote Telemedicine Physician - (CA and IMLC license required)",
-    "company": "Wheel",
-    "location": "USA",
-    "location_key": "other",
-    "mode": "See listing",
-    "url": "https://jobicy.com/jobs/151794-full-time-remote-telemedicine-physician-ca-and-imlc-license-required",
-    "source": "Jobicy",
-    "categories": [
-      "marketing",
-      "social",
-      "operations"
-    ],
-    "posted_at": "2026-09-27T07:20:13+00:00",
-    "salary": "",
-    "stipend": "",
-    "employment_type": [
-      "Contract"
-    ],
-    "applicants": null,
-    "industry": "",
-    "function": "",
-    "experience": "fresher",
-    "score": 40,
-    "reasons": [
-      "Marketing match",
-      "Fresher-friendly signal"
-    ]
-  },
-  {
-    "type": "job",
-    "title": "Core Experience & AI Product Manager",
-    "company": "Binance",
-    "location": "Hong Kong,  Malaysia",
-    "location_key": "other",
-    "mode": "See listing",
-    "url": "https://jobicy.com/jobs/151651-core-experience-ai-product-manager",
-    "source": "Jobicy",
-    "categories": [
-      "marketing",
-      "content",
-      "operations",
-      "design"
-    ],
-    "posted_at": "2026-09-27T07:20:10+00:00",
-    "salary": "",
-    "stipend": "",
-    "employment_type": [
-      "Full-Time"
-    ],
-    "applicants": null,
-    "industry": "",
-    "function": "",
-    "experience": "mid",
-    "score": 40,
-    "reasons": [
-      "Marketing match"
-    ]
-  },
-  {
-    "type": "job",
-    "title": "RAGBRAI Ride Operations",
-    "company": "Gannett",
-    "location": "USA",
-    "location_key": "other",
-    "mode": "See listing",
-    "url": "https://jobicy.com/jobs/144385-ragbrai-ride-operations",
-    "source": "Jobicy",
-    "categories": [
-      "marketing",
-      "content",
-      "operations",
-      "design"
-    ],
-    "posted_at": "2026-09-26T11:25:07+00:00",
-    "salary": "45000–50000 USD / yearly",
-    "stipend": "",
-    "employment_type": [
-      "Full-Time"
-    ],
-    "applicants": null,
-    "industry": "",
-    "function": "",
-    "experience": "mid",
-    "score": 40,
-    "reasons": [
-      "Marketing match"
-    ]
-  },
-  {
-    "type": "job",
-    "title": "Account Technical Lead (ATL), Enterprise Accounts",
-    "company": "Autodesk",
-    "location": "Australia",
-    "location_key": "other",
-    "mode": "See listing",
-    "url": "https://jobicy.com/jobs/147706-account-technical-lead-atl-enterprise-accounts",
-    "source": "Jobicy",
-    "categories": [
-      "marketing",
-      "sales",
-      "design"
-    ],
-    "posted_at": "2026-09-26T11:15:14+00:00",
-    "salary": "",
-    "stipend": "",
-    "employment_type": [
-      "Full-Time"
-    ],
-    "applicants": null,
-    "industry": "",
-    "function": "",
-    "experience": "fresher",
-    "score": 40,
-    "reasons": [
-      "Marketing match",
-      "Fresher-friendly signal"
-    ]
-  },
-  {
-    "type": "job",
     "title": "Software Engineer",
     "company": "Meazure Learning",
     "location": "India",
@@ -6644,34 +5500,6 @@
   },
   {
     "type": "job",
-    "title": "Billing Coordinator",
-    "company": "Zelh",
-    "location": "Worldwide / Remote",
-    "location_key": "remote",
-    "mode": "Remote",
-    "url": "https://himalayas.app/companies/zelh/jobs/billing-coordinator",
-    "source": "Himalayas",
-    "categories": [
-      "sales",
-      "operations"
-    ],
-    "posted_at": "2026-09-27T22:48:35+00:00",
-    "salary": "",
-    "stipend": "",
-    "employment_type": "Full Time",
-    "applicants": null,
-    "industry": "",
-    "function": "",
-    "experience": "fresher",
-    "score": 37,
-    "reasons": [
-      "Sales match",
-      "Fresher-friendly signal",
-      "Remote"
-    ]
-  },
-  {
-    "type": "job",
     "title": "Marketing Operations Specialist",
     "company": "Engine",
     "location": "Remote - US",
@@ -6754,29 +5582,89 @@
   },
   {
     "type": "job",
-    "title": "Information Security Associate",
-    "company": "athenahealth",
-    "location": "India",
-    "location_key": "india",
-    "mode": "Remote",
-    "url": "https://himalayas.app/companies/athenahealth/jobs/information-security-associate",
-    "source": "Himalayas",
+    "title": "Enterprise Account Executive - Nordics",
+    "company": "Chainguard",
+    "location": "Sweden",
+    "location_key": "other",
+    "mode": "See listing",
+    "url": "https://jobicy.com/jobs/151988-enterprise-account-executive-nordics",
+    "source": "Jobicy",
     "categories": [
-      "operations"
+      "sales",
+      "design"
     ],
-    "posted_at": "2026-09-27T09:18:22+00:00",
+    "posted_at": "2026-09-29T03:30:19+00:00",
     "salary": "",
     "stipend": "",
-    "employment_type": "Full Time",
+    "employment_type": [
+      "Full-Time"
+    ],
     "applicants": null,
     "industry": "",
     "function": "",
     "experience": "fresher",
-    "score": 36,
+    "score": 34,
     "reasons": [
-      "Operations match",
-      "Fresher-friendly signal",
-      "India signal"
+      "Sales match",
+      "Fresher-friendly signal"
+    ]
+  },
+  {
+    "type": "job",
+    "title": "Enterprise Account Executive - DACH",
+    "company": "Chainguard",
+    "location": "Germany",
+    "location_key": "other",
+    "mode": "See listing",
+    "url": "https://jobicy.com/jobs/151985-enterprise-account-executive-dach-2",
+    "source": "Jobicy",
+    "categories": [
+      "sales",
+      "design"
+    ],
+    "posted_at": "2026-09-29T03:30:14+00:00",
+    "salary": "",
+    "stipend": "",
+    "employment_type": [
+      "Full-Time"
+    ],
+    "applicants": null,
+    "industry": "",
+    "function": "",
+    "experience": "fresher",
+    "score": 34,
+    "reasons": [
+      "Sales match",
+      "Fresher-friendly signal"
+    ]
+  },
+  {
+    "type": "job",
+    "title": "Founding Mid-Market Account Executive (EMEA - German Speaker)",
+    "company": "Tremendous",
+    "location": "Europe",
+    "location_key": "other",
+    "mode": "See listing",
+    "url": "https://jobicy.com/jobs/151995-founding-mid-market-account-executive-emea-german-speaker",
+    "source": "Jobicy",
+    "categories": [
+      "marketing",
+      "sales"
+    ],
+    "posted_at": "2026-09-29T03:25:05+00:00",
+    "salary": "130000–160000 EUR / yearly",
+    "stipend": "",
+    "employment_type": [
+      "Full-Time"
+    ],
+    "applicants": null,
+    "industry": "",
+    "function": "",
+    "experience": "fresher",
+    "score": 34,
+    "reasons": [
+      "Marketing match",
+      "Fresher-friendly signal"
     ]
   },
   {
@@ -7070,34 +5958,6 @@
   },
   {
     "type": "job",
-    "title": "Space Tech Robotics Engineer (100 % remote) (m/f/d)",
-    "company": "EWOR GmbH",
-    "location": "Worldwide / Remote",
-    "location_key": "remote",
-    "mode": "Remote",
-    "url": "https://himalayas.app/companies/ewor-gmbh/jobs/space-tech-robotics-engineer-100-remote-m-f-d-5937304860",
-    "source": "Himalayas",
-    "categories": [
-      "marketing",
-      "operations"
-    ],
-    "posted_at": "2026-09-28T20:34:08+00:00",
-    "salary": "",
-    "stipend": "",
-    "employment_type": "Full Time",
-    "applicants": null,
-    "industry": "",
-    "function": "",
-    "experience": "fresher",
-    "score": 33,
-    "reasons": [
-      "Marketing match",
-      "Fresher-friendly signal",
-      "Remote"
-    ]
-  },
-  {
-    "type": "job",
     "title": "Space Tech Content Marketing Manager (100 % remote) (m/f/d)",
     "company": "EWOR GmbH",
     "location": "Worldwide / Remote",
@@ -7110,818 +5970,6 @@
       "content"
     ],
     "posted_at": "2026-09-28T02:54:09+00:00",
-    "salary": "",
-    "stipend": "",
-    "employment_type": "Full Time",
-    "applicants": null,
-    "industry": "",
-    "function": "",
-    "experience": "fresher",
-    "score": 33,
-    "reasons": [
-      "Marketing match",
-      "Fresher-friendly signal",
-      "Remote"
-    ]
-  },
-  {
-    "type": "job",
-    "title": "Customer Tech Care Lead Customer Care Department - Remote",
-    "company": "Stellar Tech",
-    "location": "Worldwide / Remote",
-    "location_key": "remote",
-    "mode": "Remote",
-    "url": "https://himalayas.app/companies/stellar-tech/jobs/customer-tech-care-lead-customer-care-department-remote",
-    "source": "Himalayas",
-    "categories": [
-      "operations",
-      "design"
-    ],
-    "posted_at": "2026-09-28T00:54:08+00:00",
-    "salary": "",
-    "stipend": "",
-    "employment_type": "Contractor",
-    "applicants": null,
-    "industry": "",
-    "function": "",
-    "experience": "fresher",
-    "score": 33,
-    "reasons": [
-      "Operations match",
-      "Fresher-friendly signal",
-      "Remote"
-    ]
-  },
-  {
-    "type": "job",
-    "title": "Applied AI UI/UX & Brand Designer (100 % remote) (m/f/d)",
-    "company": "EWOR GmbH",
-    "location": "Worldwide / Remote",
-    "location_key": "remote",
-    "mode": "Remote",
-    "url": "https://himalayas.app/companies/ewor-gmbh/jobs/applied-ai-ui-ux-brand-designer-100-remote-m-f-d",
-    "source": "Himalayas",
-    "categories": [
-      "marketing",
-      "design"
-    ],
-    "posted_at": "2026-09-28T00:22:22+00:00",
-    "salary": "",
-    "stipend": "",
-    "employment_type": "Full Time",
-    "applicants": null,
-    "industry": "",
-    "function": "",
-    "experience": "fresher",
-    "score": 33,
-    "reasons": [
-      "Marketing match",
-      "Fresher-friendly signal",
-      "Remote"
-    ]
-  },
-  {
-    "type": "job",
-    "title": "B2B UI/UX & Brand Designer (100 % remote) (m/f/d)",
-    "company": "EWOR GmbH",
-    "location": "Worldwide / Remote",
-    "location_key": "remote",
-    "mode": "Remote",
-    "url": "https://himalayas.app/companies/ewor-gmbh/jobs/b2b-ui-ux-brand-designer-100-remote-m-f-d-3193243082",
-    "source": "Himalayas",
-    "categories": [
-      "marketing",
-      "design"
-    ],
-    "posted_at": "2026-09-27T23:31:43+00:00",
-    "salary": "",
-    "stipend": "",
-    "employment_type": "Full Time",
-    "applicants": null,
-    "industry": "",
-    "function": "",
-    "experience": "fresher",
-    "score": 33,
-    "reasons": [
-      "Marketing match",
-      "Fresher-friendly signal",
-      "Remote"
-    ]
-  },
-  {
-    "type": "job",
-    "title": "Analista de CRM & Marketing Automation Pleno",
-    "company": "Arco Educação",
-    "location": "Worldwide / Remote",
-    "location_key": "remote",
-    "mode": "Remote",
-    "url": "https://himalayas.app/companies/arco-educacao/jobs/analista-de-crm-marketing-automation-pleno",
-    "source": "Himalayas",
-    "categories": [
-      "marketing",
-      "content",
-      "sales"
-    ],
-    "posted_at": "2026-09-27T22:07:46+00:00",
-    "salary": "",
-    "stipend": "",
-    "employment_type": "Full Time",
-    "applicants": null,
-    "industry": "",
-    "function": "",
-    "experience": "unknown",
-    "score": 33,
-    "reasons": [
-      "Marketing match",
-      "Remote"
-    ]
-  },
-  {
-    "type": "job",
-    "title": "Industrial Tech UI/UX & Brand Designer (100 % remote) (m/f/d)",
-    "company": "EWOR GmbH",
-    "location": "Worldwide / Remote",
-    "location_key": "remote",
-    "mode": "Remote",
-    "url": "https://himalayas.app/companies/ewor-gmbh/jobs/industrial-tech-ui-ux-brand-designer-100-remote-m-f-d",
-    "source": "Himalayas",
-    "categories": [
-      "marketing",
-      "design"
-    ],
-    "posted_at": "2026-09-27T21:30:40+00:00",
-    "salary": "",
-    "stipend": "",
-    "employment_type": "Full Time",
-    "applicants": null,
-    "industry": "",
-    "function": "",
-    "experience": "fresher",
-    "score": 33,
-    "reasons": [
-      "Marketing match",
-      "Fresher-friendly signal",
-      "Remote"
-    ]
-  },
-  {
-    "type": "job",
-    "title": "Supply Chain UI/UX & Brand Designer (100 % remote) (m/f/d)",
-    "company": "EWOR GmbH",
-    "location": "Worldwide / Remote",
-    "location_key": "remote",
-    "mode": "Remote",
-    "url": "https://himalayas.app/companies/ewor-gmbh/jobs/supply-chain-ui-ux-brand-designer-100-remote-m-f-d-2439267510",
-    "source": "Himalayas",
-    "categories": [
-      "marketing",
-      "design"
-    ],
-    "posted_at": "2026-09-27T20:52:37+00:00",
-    "salary": "",
-    "stipend": "",
-    "employment_type": "Full Time",
-    "applicants": null,
-    "industry": "",
-    "function": "",
-    "experience": "fresher",
-    "score": 33,
-    "reasons": [
-      "Marketing match",
-      "Fresher-friendly signal",
-      "Remote"
-    ]
-  },
-  {
-    "type": "job",
-    "title": "Cybersecurity UI/UX & Brand Designer (100 % remote) (m/f/d)",
-    "company": "EWOR GmbH",
-    "location": "Worldwide / Remote",
-    "location_key": "remote",
-    "mode": "Remote",
-    "url": "https://himalayas.app/companies/ewor-gmbh/jobs/cybersecurity-ui-ux-brand-designer-100-remote-m-f-d-5787237329",
-    "source": "Himalayas",
-    "categories": [
-      "marketing",
-      "design"
-    ],
-    "posted_at": "2026-09-27T19:46:36+00:00",
-    "salary": "",
-    "stipend": "",
-    "employment_type": "Full Time",
-    "applicants": null,
-    "industry": "",
-    "function": "",
-    "experience": "fresher",
-    "score": 33,
-    "reasons": [
-      "Marketing match",
-      "Fresher-friendly signal",
-      "Remote"
-    ]
-  },
-  {
-    "type": "job",
-    "title": "Semiconductor Founding Engineer (100 % remote) (m/f/d)",
-    "company": "EWOR GmbH",
-    "location": "Worldwide / Remote",
-    "location_key": "remote",
-    "mode": "Remote",
-    "url": "https://himalayas.app/companies/ewor-gmbh/jobs/semiconductor-founding-engineer-100-remote-m-f-d",
-    "source": "Himalayas",
-    "categories": [
-      "marketing",
-      "operations"
-    ],
-    "posted_at": "2026-09-27T19:25:06+00:00",
-    "salary": "",
-    "stipend": "",
-    "employment_type": "Full Time",
-    "applicants": null,
-    "industry": "",
-    "function": "",
-    "experience": "fresher",
-    "score": 33,
-    "reasons": [
-      "Marketing match",
-      "Fresher-friendly signal",
-      "Remote"
-    ]
-  },
-  {
-    "type": "job",
-    "title": "AI UI/UX & Brand Designer (100 % remote) (m/f/d)",
-    "company": "EWOR GmbH",
-    "location": "Worldwide / Remote",
-    "location_key": "remote",
-    "mode": "Remote",
-    "url": "https://himalayas.app/companies/ewor-gmbh/jobs/ai-ui-ux-brand-designer-100-remote-m-f-d-5450662531",
-    "source": "Himalayas",
-    "categories": [
-      "marketing",
-      "design"
-    ],
-    "posted_at": "2026-09-27T19:00:32+00:00",
-    "salary": "",
-    "stipend": "",
-    "employment_type": "Full Time",
-    "applicants": null,
-    "industry": "",
-    "function": "",
-    "experience": "fresher",
-    "score": 33,
-    "reasons": [
-      "Marketing match",
-      "Fresher-friendly signal",
-      "Remote"
-    ]
-  },
-  {
-    "type": "job",
-    "title": "Cybersecurity Business Development Manager (100 % remote) (m/f/d)",
-    "company": "EWOR GmbH",
-    "location": "Worldwide / Remote",
-    "location_key": "remote",
-    "mode": "Remote",
-    "url": "https://himalayas.app/companies/ewor-gmbh/jobs/cybersecurity-business-development-manager-100-remote-m-f-d-6798920103",
-    "source": "Himalayas",
-    "categories": [
-      "marketing",
-      "sales"
-    ],
-    "posted_at": "2026-09-27T17:34:42+00:00",
-    "salary": "",
-    "stipend": "",
-    "employment_type": "Full Time",
-    "applicants": null,
-    "industry": "",
-    "function": "",
-    "experience": "fresher",
-    "score": 33,
-    "reasons": [
-      "Marketing match",
-      "Fresher-friendly signal",
-      "Remote"
-    ]
-  },
-  {
-    "type": "job",
-    "title": "Clean Energy Chief of Staff (100 % remote) (m/f/d)",
-    "company": "EWOR GmbH",
-    "location": "Worldwide / Remote",
-    "location_key": "remote",
-    "mode": "Remote",
-    "url": "https://himalayas.app/companies/ewor-gmbh/jobs/clean-energy-chief-of-staff-100-remote-m-f-d",
-    "source": "Himalayas",
-    "categories": [
-      "marketing",
-      "operations"
-    ],
-    "posted_at": "2026-09-27T17:03:51+00:00",
-    "salary": "",
-    "stipend": "",
-    "employment_type": "Full Time",
-    "applicants": null,
-    "industry": "",
-    "function": "",
-    "experience": "fresher",
-    "score": 33,
-    "reasons": [
-      "Marketing match",
-      "Fresher-friendly signal",
-      "Remote"
-    ]
-  },
-  {
-    "type": "job",
-    "title": "Renewable Energy Business Development Manager (100 % remote) (m/f/d)",
-    "company": "EWOR GmbH",
-    "location": "Worldwide / Remote",
-    "location_key": "remote",
-    "mode": "Remote",
-    "url": "https://himalayas.app/companies/ewor-gmbh/jobs/renewable-energy-business-development-manager-100-remote-m-f-d-330239936",
-    "source": "Himalayas",
-    "categories": [
-      "marketing",
-      "sales"
-    ],
-    "posted_at": "2026-09-27T16:50:56+00:00",
-    "salary": "",
-    "stipend": "",
-    "employment_type": "Full Time",
-    "applicants": null,
-    "industry": "",
-    "function": "",
-    "experience": "fresher",
-    "score": 33,
-    "reasons": [
-      "Marketing match",
-      "Fresher-friendly signal",
-      "Remote"
-    ]
-  },
-  {
-    "type": "job",
-    "title": "MedTech Business Development Manager (100 % remote) (m/f/d)",
-    "company": "EWOR GmbH",
-    "location": "Worldwide / Remote",
-    "location_key": "remote",
-    "mode": "Remote",
-    "url": "https://himalayas.app/companies/ewor-gmbh/jobs/medtech-business-development-manager-100-remote-m-f-d-6776003882",
-    "source": "Himalayas",
-    "categories": [
-      "marketing",
-      "sales"
-    ],
-    "posted_at": "2026-09-27T16:33:14+00:00",
-    "salary": "",
-    "stipend": "",
-    "employment_type": "Full Time",
-    "applicants": null,
-    "industry": "",
-    "function": "",
-    "experience": "fresher",
-    "score": 33,
-    "reasons": [
-      "Marketing match",
-      "Fresher-friendly signal",
-      "Remote"
-    ]
-  },
-  {
-    "type": "job",
-    "title": "Fintech UI/UX & Brand Designer (100 % remote) (m/f/d)",
-    "company": "EWOR GmbH",
-    "location": "Worldwide / Remote",
-    "location_key": "remote",
-    "mode": "Remote",
-    "url": "https://himalayas.app/companies/ewor-gmbh/jobs/fintech-ui-ux-brand-designer-100-remote-m-f-d-5656260495",
-    "source": "Himalayas",
-    "categories": [
-      "marketing",
-      "design"
-    ],
-    "posted_at": "2026-09-27T16:03:58+00:00",
-    "salary": "",
-    "stipend": "",
-    "employment_type": "Full Time",
-    "applicants": null,
-    "industry": "",
-    "function": "",
-    "experience": "fresher",
-    "score": 33,
-    "reasons": [
-      "Marketing match",
-      "Fresher-friendly signal",
-      "Remote"
-    ]
-  },
-  {
-    "type": "job",
-    "title": "HealthTech Chief of Staff (100 % remote) (m/f/d)",
-    "company": "EWOR GmbH",
-    "location": "Worldwide / Remote",
-    "location_key": "remote",
-    "mode": "Remote",
-    "url": "https://himalayas.app/companies/ewor-gmbh/jobs/healthtech-chief-of-staff-100-remote-m-f-d",
-    "source": "Himalayas",
-    "categories": [
-      "marketing",
-      "operations"
-    ],
-    "posted_at": "2026-09-27T15:53:07+00:00",
-    "salary": "",
-    "stipend": "",
-    "employment_type": "Full Time",
-    "applicants": null,
-    "industry": "",
-    "function": "",
-    "experience": "fresher",
-    "score": 33,
-    "reasons": [
-      "Marketing match",
-      "Fresher-friendly signal",
-      "Remote"
-    ]
-  },
-  {
-    "type": "job",
-    "title": "Senior Manager, Data Science",
-    "company": "Chess.com",
-    "location": "Worldwide / Remote",
-    "location_key": "remote",
-    "mode": "Remote",
-    "url": "https://himalayas.app/companies/chess-com/jobs/senior-manager-data-science",
-    "source": "Himalayas",
-    "categories": [
-      "content",
-      "social",
-      "design"
-    ],
-    "posted_at": "2026-09-27T15:17:06+00:00",
-    "salary": "",
-    "stipend": "",
-    "employment_type": "Full Time",
-    "applicants": null,
-    "industry": "",
-    "function": "",
-    "experience": "mid",
-    "score": 33,
-    "reasons": [
-      "Content match",
-      "Remote"
-    ]
-  },
-  {
-    "type": "job",
-    "title": "Backend Lead - Hands-on Tech Lead",
-    "company": "Stellar Tech",
-    "location": "Worldwide / Remote",
-    "location_key": "remote",
-    "mode": "Remote",
-    "url": "https://himalayas.app/companies/stellar-tech/jobs/backend-lead-hands-on-tech-lead",
-    "source": "Himalayas",
-    "categories": [
-      "marketing",
-      "design"
-    ],
-    "posted_at": "2026-09-27T14:54:43+00:00",
-    "salary": "",
-    "stipend": "",
-    "employment_type": "Contractor",
-    "applicants": null,
-    "industry": "",
-    "function": "",
-    "experience": "fresher",
-    "score": 33,
-    "reasons": [
-      "Marketing match",
-      "Fresher-friendly signal",
-      "Remote"
-    ]
-  },
-  {
-    "type": "job",
-    "title": "Senior MES Implementation & Support Engineer",
-    "company": "Vimachem",
-    "location": "Worldwide / Remote",
-    "location_key": "remote",
-    "mode": "Remote",
-    "url": "https://himalayas.app/companies/vimachem/jobs/senior-mes-implementation-support-engineer",
-    "source": "Himalayas",
-    "categories": [
-      "social",
-      "sales"
-    ],
-    "posted_at": "2026-09-27T14:54:21+00:00",
-    "salary": "",
-    "stipend": "",
-    "employment_type": "Full Time",
-    "applicants": null,
-    "industry": "",
-    "function": "",
-    "experience": "fresher",
-    "score": 33,
-    "reasons": [
-      "Social match",
-      "Fresher-friendly signal",
-      "Remote"
-    ]
-  },
-  {
-    "type": "job",
-    "title": "Clinical Advisor, Strategic Enablement",
-    "company": "Timeless Medical Systems",
-    "location": "Worldwide / Remote",
-    "location_key": "remote",
-    "mode": "Remote",
-    "url": "https://himalayas.app/companies/timeless-medical-systems/jobs/clinical-advisor-strategic-enablement",
-    "source": "Himalayas",
-    "categories": [
-      "marketing",
-      "design"
-    ],
-    "posted_at": "2026-09-27T14:48:36+00:00",
-    "salary": "",
-    "stipend": "",
-    "employment_type": "Full Time",
-    "applicants": null,
-    "industry": "",
-    "function": "",
-    "experience": "fresher",
-    "score": 33,
-    "reasons": [
-      "Marketing match",
-      "Fresher-friendly signal",
-      "Remote"
-    ]
-  },
-  {
-    "type": "job",
-    "title": "DeepTech Business Development Manager (100 % remote) (m/f/d)",
-    "company": "EWOR GmbH",
-    "location": "Worldwide / Remote",
-    "location_key": "remote",
-    "mode": "Remote",
-    "url": "https://himalayas.app/companies/ewor-gmbh/jobs/deeptech-business-development-manager-100-remote-m-f-d-7704002172",
-    "source": "Himalayas",
-    "categories": [
-      "marketing",
-      "sales"
-    ],
-    "posted_at": "2026-09-27T14:22:14+00:00",
-    "salary": "",
-    "stipend": "",
-    "employment_type": "Full Time",
-    "applicants": null,
-    "industry": "",
-    "function": "",
-    "experience": "fresher",
-    "score": 33,
-    "reasons": [
-      "Marketing match",
-      "Fresher-friendly signal",
-      "Remote"
-    ]
-  },
-  {
-    "type": "job",
-    "title": "Digital Sales Consultant",
-    "company": "The Nassau Guardian",
-    "location": "Worldwide / Remote",
-    "location_key": "remote",
-    "mode": "Remote",
-    "url": "https://himalayas.app/companies/the-nassau-guardian/jobs/digital-sales-consultant",
-    "source": "Himalayas",
-    "categories": [
-      "marketing",
-      "social",
-      "sales"
-    ],
-    "posted_at": "2026-09-27T13:44:06+00:00",
-    "salary": "",
-    "stipend": "",
-    "employment_type": "Contractor",
-    "applicants": null,
-    "industry": "",
-    "function": "",
-    "experience": "mid",
-    "score": 33,
-    "reasons": [
-      "Marketing match",
-      "Remote"
-    ]
-  },
-  {
-    "type": "job",
-    "title": "Cybersecurity Chief of Staff (100 % remote) (m/f/d)",
-    "company": "EWOR GmbH",
-    "location": "Worldwide / Remote",
-    "location_key": "remote",
-    "mode": "Remote",
-    "url": "https://himalayas.app/companies/ewor-gmbh/jobs/cybersecurity-chief-of-staff-100-remote-m-f-d-2424086838",
-    "source": "Himalayas",
-    "categories": [
-      "marketing",
-      "operations"
-    ],
-    "posted_at": "2026-09-27T13:43:29+00:00",
-    "salary": "",
-    "stipend": "",
-    "employment_type": "Full Time",
-    "applicants": null,
-    "industry": "",
-    "function": "",
-    "experience": "fresher",
-    "score": 33,
-    "reasons": [
-      "Marketing match",
-      "Fresher-friendly signal",
-      "Remote"
-    ]
-  },
-  {
-    "type": "job",
-    "title": "AI Research Lab UI/UX & Brand Designer (100 % remote) (m/f/d)",
-    "company": "EWOR GmbH",
-    "location": "Worldwide / Remote",
-    "location_key": "remote",
-    "mode": "Remote",
-    "url": "https://himalayas.app/companies/ewor-gmbh/jobs/ai-research-lab-ui-ux-brand-designer-100-remote-m-f-d-5630181038",
-    "source": "Himalayas",
-    "categories": [
-      "marketing",
-      "design"
-    ],
-    "posted_at": "2026-09-27T13:25:13+00:00",
-    "salary": "",
-    "stipend": "",
-    "employment_type": "Full Time",
-    "applicants": null,
-    "industry": "",
-    "function": "",
-    "experience": "fresher",
-    "score": 33,
-    "reasons": [
-      "Marketing match",
-      "Fresher-friendly signal",
-      "Remote"
-    ]
-  },
-  {
-    "type": "job",
-    "title": "Photonics Chief of Staff (100 % remote) (m/f/d)",
-    "company": "EWOR GmbH",
-    "location": "Worldwide / Remote",
-    "location_key": "remote",
-    "mode": "Remote",
-    "url": "https://himalayas.app/companies/ewor-gmbh/jobs/photonics-chief-of-staff-100-remote-m-f-d",
-    "source": "Himalayas",
-    "categories": [
-      "marketing",
-      "operations"
-    ],
-    "posted_at": "2026-09-27T13:04:39+00:00",
-    "salary": "",
-    "stipend": "",
-    "employment_type": "Full Time",
-    "applicants": null,
-    "industry": "",
-    "function": "",
-    "experience": "fresher",
-    "score": 33,
-    "reasons": [
-      "Marketing match",
-      "Fresher-friendly signal",
-      "Remote"
-    ]
-  },
-  {
-    "type": "job",
-    "title": "SAP FI-CO Senior Functional Consultant",
-    "company": "Clarity",
-    "location": "Worldwide / Remote",
-    "location_key": "remote",
-    "mode": "Remote",
-    "url": "https://himalayas.app/companies/onclarity/jobs/sap-fi-co-senior-functional-consultant",
-    "source": "Himalayas",
-    "categories": [
-      "sales",
-      "design"
-    ],
-    "posted_at": "2026-09-27T12:50:33+00:00",
-    "salary": "",
-    "stipend": "",
-    "employment_type": "Full Time",
-    "applicants": null,
-    "industry": "",
-    "function": "",
-    "experience": "fresher",
-    "score": 33,
-    "reasons": [
-      "Sales match",
-      "Fresher-friendly signal",
-      "Remote"
-    ]
-  },
-  {
-    "type": "job",
-    "title": "Principal ESG Manager",
-    "company": "ESS (Environmental and Social Sustainability)",
-    "location": "Worldwide / Remote",
-    "location_key": "remote",
-    "mode": "Remote",
-    "url": "https://himalayas.app/companies/ess-environmental-and-social-sustainability/jobs/principal-esg-manager",
-    "source": "Himalayas",
-    "categories": [
-      "social",
-      "sales"
-    ],
-    "posted_at": "2026-09-27T12:28:11+00:00",
-    "salary": "",
-    "stipend": "",
-    "employment_type": "Full Time",
-    "applicants": null,
-    "industry": "",
-    "function": "",
-    "experience": "fresher",
-    "score": 33,
-    "reasons": [
-      "Social match",
-      "Fresher-friendly signal",
-      "Remote"
-    ]
-  },
-  {
-    "type": "job",
-    "title": "Senior Brand Designer",
-    "company": "Boldin",
-    "location": "Worldwide / Remote",
-    "location_key": "remote",
-    "mode": "Remote",
-    "url": "https://himalayas.app/companies/boldin/jobs/senior-brand-designer",
-    "source": "Himalayas",
-    "categories": [
-      "marketing",
-      "social",
-      "design"
-    ],
-    "posted_at": "2026-09-27T12:27:30+00:00",
-    "salary": "160000–180000 USD / annual",
-    "stipend": "",
-    "employment_type": "Full Time",
-    "applicants": null,
-    "industry": "",
-    "function": "",
-    "experience": "mid",
-    "score": 33,
-    "reasons": [
-      "Marketing match",
-      "Remote"
-    ]
-  },
-  {
-    "type": "job",
-    "title": "Senior Manager - Payments Analytics",
-    "company": "Hard Rock Digital",
-    "location": "Worldwide / Remote",
-    "location_key": "remote",
-    "mode": "Remote",
-    "url": "https://himalayas.app/companies/hard-rock-digital/jobs/senior-manager-payments-analytics",
-    "source": "Himalayas",
-    "categories": [
-      "marketing",
-      "operations"
-    ],
-    "posted_at": "2026-09-27T11:51:31+00:00",
-    "salary": "",
-    "stipend": "",
-    "employment_type": "Full Time",
-    "applicants": null,
-    "industry": "",
-    "function": "",
-    "experience": "fresher",
-    "score": 33,
-    "reasons": [
-      "Marketing match",
-      "Fresher-friendly signal",
-      "Remote"
-    ]
-  },
-  {
-    "type": "job",
-    "title": "Renewable Energy Chief of Staff (100 % remote) (m/f/d)",
-    "company": "EWOR GmbH",
-    "location": "Worldwide / Remote",
-    "location_key": "remote",
-    "mode": "Remote",
-    "url": "https://himalayas.app/companies/ewor-gmbh/jobs/renewable-energy-chief-of-staff-100-remote-m-f-d",
-    "source": "Himalayas",
-    "categories": [
-      "marketing",
-      "operations"
-    ],
-    "posted_at": "2026-09-27T11:41:46+00:00",
     "salary": "",
     "stipend": "",
     "employment_type": "Full Time",
@@ -8650,56 +6698,176 @@
   },
   {
     "type": "job",
-    "title": "AI Engineer",
-    "company": "Keywords Studios Plc",
-    "location": "India",
-    "location_key": "india",
-    "mode": "Remote",
-    "url": "https://himalayas.app/companies/keywords-studios-plc/jobs/ai-engineer",
-    "source": "Himalayas",
+    "title": "[Contract] Accreditation Solutions Consultant, Clinical Strategy",
+    "company": "Lyra Health",
+    "location": "USA",
+    "location_key": "other",
+    "mode": "See listing",
+    "url": "https://jobicy.com/jobs/152054-contract-accreditation-solutions-consultant-clinical-strategy",
+    "source": "Jobicy",
     "categories": [
       "marketing",
-      "design"
+      "operations"
     ],
-    "posted_at": "2026-09-27T11:24:54+00:00",
+    "posted_at": "2026-09-29T03:35:18+00:00",
     "salary": "",
     "stipend": "",
-    "employment_type": "Full Time",
+    "employment_type": [
+      "Contract"
+    ],
     "applicants": null,
     "industry": "",
     "function": "",
-    "experience": "mid",
-    "score": 32,
+    "experience": "fresher",
+    "score": 30,
     "reasons": [
       "Marketing match",
-      "India signal"
+      "Fresher-friendly signal"
     ]
   },
   {
     "type": "job",
-    "title": "Senior Product Manager - Recruiter Experience (India)",
-    "company": "Karat",
-    "location": "India",
-    "location_key": "india",
-    "mode": "Remote",
-    "url": "https://himalayas.app/companies/karat/jobs/senior-product-manager-recruiter-experience-india",
-    "source": "Himalayas",
+    "title": "Senior Data Scientist, RC Capital",
+    "company": "RevenueCat",
+    "location": "LATAM,  Canada,  USA",
+    "location_key": "other",
+    "mode": "See listing",
+    "url": "https://jobicy.com/jobs/143120-senior-data-scientist-rc-capital",
+    "source": "Jobicy",
     "categories": [
-      "content",
+      "marketing",
       "design"
     ],
-    "posted_at": "2026-09-27T10:43:45+00:00",
-    "salary": "",
+    "posted_at": "2026-09-29T03:35:14+00:00",
+    "salary": "208000– USD / yearly",
     "stipend": "",
-    "employment_type": "Full Time",
+    "employment_type": [
+      "Full-Time"
+    ],
     "applicants": null,
     "industry": "",
     "function": "",
-    "experience": "mid",
-    "score": 32,
+    "experience": "fresher",
+    "score": 30,
     "reasons": [
-      "Content match",
-      "India signal"
+      "Marketing match",
+      "Fresher-friendly signal"
+    ]
+  },
+  {
+    "type": "job",
+    "title": "Software Developer",
+    "company": "D2L",
+    "location": "Canada",
+    "location_key": "other",
+    "mode": "See listing",
+    "url": "https://jobicy.com/jobs/151986-software-developer",
+    "source": "Jobicy",
+    "categories": [
+      "marketing",
+      "design"
+    ],
+    "posted_at": "2026-09-29T03:30:42+00:00",
+    "salary": "70000–105000 CAD / yearly",
+    "stipend": "",
+    "employment_type": [
+      "Full-Time"
+    ],
+    "applicants": null,
+    "industry": "",
+    "function": "",
+    "experience": "fresher",
+    "score": 30,
+    "reasons": [
+      "Marketing match",
+      "Fresher-friendly signal"
+    ]
+  },
+  {
+    "type": "job",
+    "title": "Senior Software Developer 2",
+    "company": "D2L",
+    "location": "Canada",
+    "location_key": "other",
+    "mode": "See listing",
+    "url": "https://jobicy.com/jobs/151984-senior-software-developer-2-2",
+    "source": "Jobicy",
+    "categories": [
+      "marketing",
+      "design"
+    ],
+    "posted_at": "2026-09-29T03:30:40+00:00",
+    "salary": "110000–155000 CAD / yearly",
+    "stipend": "",
+    "employment_type": [
+      "Full-Time"
+    ],
+    "applicants": null,
+    "industry": "",
+    "function": "",
+    "experience": "fresher",
+    "score": 30,
+    "reasons": [
+      "Marketing match",
+      "Fresher-friendly signal"
+    ]
+  },
+  {
+    "type": "job",
+    "title": "Senior Software Developer",
+    "company": "D2L",
+    "location": "Canada",
+    "location_key": "other",
+    "mode": "See listing",
+    "url": "https://jobicy.com/jobs/151981-senior-software-developer",
+    "source": "Jobicy",
+    "categories": [
+      "marketing",
+      "design"
+    ],
+    "posted_at": "2026-09-29T03:30:27+00:00",
+    "salary": "90000–130000 CAD / yearly",
+    "stipend": "",
+    "employment_type": [
+      "Full-Time"
+    ],
+    "applicants": null,
+    "industry": "",
+    "function": "",
+    "experience": "fresher",
+    "score": 30,
+    "reasons": [
+      "Marketing match",
+      "Fresher-friendly signal"
+    ]
+  },
+  {
+    "type": "job",
+    "title": "Regional Sales Manager - Asia",
+    "company": "Echodyne",
+    "location": "APAC",
+    "location_key": "other",
+    "mode": "See listing",
+    "url": "https://jobicy.com/jobs/151972-regional-sales-manager-asia",
+    "source": "Jobicy",
+    "categories": [
+      "sales",
+      "design"
+    ],
+    "posted_at": "2026-09-29T03:30:22+00:00",
+    "salary": "",
+    "stipend": "",
+    "employment_type": [
+      "Full-Time"
+    ],
+    "applicants": null,
+    "industry": "",
+    "function": "",
+    "experience": "fresher",
+    "score": 30,
+    "reasons": [
+      "Sales match",
+      "Fresher-friendly signal"
     ]
   },
   {
@@ -9487,264 +7655,6 @@
   },
   {
     "type": "job",
-    "title": "Compliance and Security Lead",
-    "company": "Ada",
-    "location": "Canada",
-    "location_key": "other",
-    "mode": "See listing",
-    "url": "https://jobicy.com/jobs/151791-compliance-and-security-lead",
-    "source": "Jobicy",
-    "categories": [
-      "marketing",
-      "design"
-    ],
-    "posted_at": "2026-09-27T07:20:22+00:00",
-    "salary": "",
-    "stipend": "",
-    "employment_type": [
-      "Full-Time"
-    ],
-    "applicants": null,
-    "industry": "",
-    "function": "",
-    "experience": "fresher",
-    "score": 30,
-    "reasons": [
-      "Marketing match",
-      "Fresher-friendly signal"
-    ]
-  },
-  {
-    "type": "job",
-    "title": "Engineering Manager, Service Platform",
-    "company": "Instacart",
-    "location": "Canada",
-    "location_key": "other",
-    "mode": "See listing",
-    "url": "https://jobicy.com/jobs/147603-engineering-manager-service-platform",
-    "source": "Jobicy",
-    "categories": [
-      "social",
-      "design"
-    ],
-    "posted_at": "2026-09-27T07:20:15+00:00",
-    "salary": "196000–207000 USD / yearly",
-    "stipend": "",
-    "employment_type": [
-      "Full-Time"
-    ],
-    "applicants": null,
-    "industry": "",
-    "function": "",
-    "experience": "fresher",
-    "score": 30,
-    "reasons": [
-      "Social match",
-      "Fresher-friendly signal"
-    ]
-  },
-  {
-    "type": "job",
-    "title": "Operations Lead - Billing, Reconciliations, & Buyouts",
-    "company": "Rundoo",
-    "location": "Philippines",
-    "location_key": "other",
-    "mode": "See listing",
-    "url": "https://jobicy.com/jobs/151799-operations-lead-billing-reconciliations-buyouts",
-    "source": "Jobicy",
-    "categories": [
-      "social",
-      "sales",
-      "operations"
-    ],
-    "posted_at": "2026-09-27T07:20:04+00:00",
-    "salary": "18000–18000 USD / yearly",
-    "stipend": "",
-    "employment_type": [
-      "Contract"
-    ],
-    "applicants": null,
-    "industry": "",
-    "function": "",
-    "experience": "mid",
-    "score": 30,
-    "reasons": [
-      "Social match"
-    ]
-  },
-  {
-    "type": "job",
-    "title": "Junior Web Builder (Fully Remote, PH-Based Only, Fresh Grads Welcome to Apply)",
-    "company": "Luxury Presence",
-    "location": "Philippines",
-    "location_key": "other",
-    "mode": "See listing",
-    "url": "https://jobicy.com/jobs/152598-junior-web-builder-fully-remote-ph-based-only-fresh-grads-welcome-to-apply",
-    "source": "Jobicy",
-    "categories": [
-      "marketing",
-      "design"
-    ],
-    "posted_at": "2026-09-26T11:25:10+00:00",
-    "salary": "500–500 USD / monthly",
-    "stipend": "",
-    "employment_type": [
-      "Contract"
-    ],
-    "applicants": null,
-    "industry": "",
-    "function": "",
-    "experience": "fresher",
-    "score": 30,
-    "reasons": [
-      "Marketing match",
-      "Fresher-friendly signal"
-    ]
-  },
-  {
-    "type": "job",
-    "title": "ERP System Administrator (Acumatica)",
-    "company": "Alimentiv",
-    "location": "Canada",
-    "location_key": "other",
-    "mode": "See listing",
-    "url": "https://jobicy.com/jobs/151608-erp-system-administrator-acumatica",
-    "source": "Jobicy",
-    "categories": [
-      "operations",
-      "design"
-    ],
-    "posted_at": "2026-09-26T11:25:09+00:00",
-    "salary": "78000–130000 CAD / yearly",
-    "stipend": "",
-    "employment_type": [
-      "Full-Time"
-    ],
-    "applicants": null,
-    "industry": "",
-    "function": "",
-    "experience": "fresher",
-    "score": 30,
-    "reasons": [
-      "Operations match",
-      "Fresher-friendly signal"
-    ]
-  },
-  {
-    "type": "job",
-    "title": "Business Consultant",
-    "company": "Autodesk",
-    "location": "Denmark,  Netherlands,  Norway,  UK",
-    "location_key": "other",
-    "mode": "See listing",
-    "url": "https://jobicy.com/jobs/149963-business-consultant",
-    "source": "Jobicy",
-    "categories": [
-      "sales",
-      "design"
-    ],
-    "posted_at": "2026-09-26T11:15:19+00:00",
-    "salary": "69000–101200 USD / yearly",
-    "stipend": "",
-    "employment_type": [
-      "Full-Time"
-    ],
-    "applicants": null,
-    "industry": "",
-    "function": "",
-    "experience": "fresher",
-    "score": 30,
-    "reasons": [
-      "Sales match",
-      "Fresher-friendly signal"
-    ]
-  },
-  {
-    "type": "job",
-    "title": "Renewals Representative, Account Based, Denmark",
-    "company": "Autodesk",
-    "location": "Denmark",
-    "location_key": "other",
-    "mode": "See listing",
-    "url": "https://jobicy.com/jobs/148712-renewals-representative-account-based-denmark",
-    "source": "Jobicy",
-    "categories": [
-      "sales",
-      "design"
-    ],
-    "posted_at": "2026-09-26T11:15:15+00:00",
-    "salary": "",
-    "stipend": "",
-    "employment_type": [
-      "Full-Time"
-    ],
-    "applicants": null,
-    "industry": "",
-    "function": "",
-    "experience": "fresher",
-    "score": 30,
-    "reasons": [
-      "Sales match",
-      "Fresher-friendly signal"
-    ]
-  },
-  {
-    "type": "job",
-    "title": "Lead UX/UI Designer",
-    "company": "Prism Studio",
-    "location": "Worldwide / Remote",
-    "location_key": "remote",
-    "mode": "Remote",
-    "url": "https://himalayas.app/companies/prism-studio/jobs/lead-ux-ui-designer",
-    "source": "Himalayas",
-    "categories": [
-      "social",
-      "design"
-    ],
-    "posted_at": "2026-09-27T18:03:10+00:00",
-    "salary": "",
-    "stipend": "",
-    "employment_type": "Full Time",
-    "applicants": null,
-    "industry": "",
-    "function": "",
-    "experience": "junior",
-    "score": 29,
-    "reasons": [
-      "Social match",
-      "Early-career signal",
-      "Remote"
-    ]
-  },
-  {
-    "type": "job",
-    "title": "Buyer",
-    "company": "Ralliant",
-    "location": "India",
-    "location_key": "india",
-    "mode": "Remote",
-    "url": "https://himalayas.app/companies/ralliant/jobs/buyer-8937125017",
-    "source": "Himalayas",
-    "categories": [
-      "operations"
-    ],
-    "posted_at": "2026-09-27T12:12:48+00:00",
-    "salary": "",
-    "stipend": "",
-    "employment_type": "Full Time",
-    "applicants": null,
-    "industry": "",
-    "function": "",
-    "experience": "junior",
-    "score": 28,
-    "reasons": [
-      "Operations match",
-      "Early-career signal",
-      "India signal"
-    ]
-  },
-  {
-    "type": "job",
     "title": "Airtable Specialist",
     "company": "micro1",
     "location": "Worldwide / Remote",
@@ -9767,33 +7677,6 @@
     "score": 27,
     "reasons": [
       "Operations match",
-      "Remote"
-    ]
-  },
-  {
-    "type": "job",
-    "title": "V101 - Executive Assistant | Medical Records and Case Support Specialist",
-    "company": "Job Duck",
-    "location": "Worldwide / Remote",
-    "location_key": "remote",
-    "mode": "Remote",
-    "url": "https://himalayas.app/companies/job-duck/jobs/v101-executive-assistant-medical-records-and-case-support-specialist",
-    "source": "Himalayas",
-    "categories": [
-      "other"
-    ],
-    "posted_at": "2026-09-27T16:01:28+00:00",
-    "salary": "1060–1150 USD / monthly",
-    "stipend": "",
-    "employment_type": "Full Time",
-    "applicants": null,
-    "industry": "",
-    "function": "",
-    "experience": "fresher",
-    "score": 27,
-    "reasons": [
-      "Other match",
-      "Fresher-friendly signal",
       "Remote"
     ]
   },
@@ -9938,6 +7821,34 @@
   },
   {
     "type": "job",
+    "title": "Solutions Engineering Integration Specialist",
+    "company": "Echodyne",
+    "location": "USA",
+    "location_key": "other",
+    "mode": "See listing",
+    "url": "https://jobicy.com/jobs/151977-solutions-engineering-integration-specialist",
+    "source": "Jobicy",
+    "categories": [
+      "sales",
+      "design"
+    ],
+    "posted_at": "2026-09-29T03:30:18+00:00",
+    "salary": "100000–120000 USD / yearly",
+    "stipend": "",
+    "employment_type": [
+      "Full-Time"
+    ],
+    "applicants": null,
+    "industry": "",
+    "function": "",
+    "experience": "mid",
+    "score": 24,
+    "reasons": [
+      "Sales match"
+    ]
+  },
+  {
+    "type": "job",
     "title": "Associate Tutor - Wildlife, Marine Biology and Conservation - Animals",
     "company": "learndirect",
     "location": "UK",
@@ -10050,60 +7961,6 @@
   },
   {
     "type": "job",
-    "title": "AI Cloud Engineer (100 % remote) (m/f/d)",
-    "company": "EWOR GmbH",
-    "location": "Worldwide / Remote",
-    "location_key": "remote",
-    "mode": "Remote",
-    "url": "https://himalayas.app/companies/ewor-gmbh/jobs/ai-cloud-engineer-100-remote-m-f-d-5542580438",
-    "source": "Himalayas",
-    "categories": [
-      "marketing"
-    ],
-    "posted_at": "2026-09-28T20:34:08+00:00",
-    "salary": "",
-    "stipend": "",
-    "employment_type": "Full Time",
-    "applicants": null,
-    "industry": "",
-    "function": "",
-    "experience": "fresher",
-    "score": 23,
-    "reasons": [
-      "Marketing match",
-      "Fresher-friendly signal",
-      "Remote"
-    ]
-  },
-  {
-    "type": "job",
-    "title": "AI Infrastructure Full-Stack Developer (100 % remote) (m/f/d)",
-    "company": "EWOR GmbH",
-    "location": "Worldwide / Remote",
-    "location_key": "remote",
-    "mode": "Remote",
-    "url": "https://himalayas.app/companies/ewor-gmbh/jobs/ai-infrastructure-full-stack-developer-100-remote-m-f-d-1446705816",
-    "source": "Himalayas",
-    "categories": [
-      "marketing"
-    ],
-    "posted_at": "2026-09-28T20:34:06+00:00",
-    "salary": "",
-    "stipend": "",
-    "employment_type": "Full Time",
-    "applicants": null,
-    "industry": "",
-    "function": "",
-    "experience": "fresher",
-    "score": 23,
-    "reasons": [
-      "Marketing match",
-      "Fresher-friendly signal",
-      "Remote"
-    ]
-  },
-  {
-    "type": "job",
     "title": "Cybersecurity Founding Engineer (100 % remote) (m/f/d)",
     "company": "EWOR GmbH",
     "location": "Worldwide / Remote",
@@ -10142,33 +7999,6 @@
       "marketing"
     ],
     "posted_at": "2026-09-28T02:56:34+00:00",
-    "salary": "",
-    "stipend": "",
-    "employment_type": "Full Time",
-    "applicants": null,
-    "industry": "",
-    "function": "",
-    "experience": "fresher",
-    "score": 23,
-    "reasons": [
-      "Marketing match",
-      "Fresher-friendly signal",
-      "Remote"
-    ]
-  },
-  {
-    "type": "job",
-    "title": "Fintech Senior Full-Stack Engineer (100 % remote) (m/f/d)",
-    "company": "EWOR GmbH",
-    "location": "Worldwide / Remote",
-    "location_key": "remote",
-    "mode": "Remote",
-    "url": "https://himalayas.app/companies/ewor-gmbh/jobs/fintech-senior-full-stack-engineer-100-remote-m-f-d-4416338344",
-    "source": "Himalayas",
-    "categories": [
-      "marketing"
-    ],
-    "posted_at": "2026-09-28T02:53:11+00:00",
     "salary": "",
     "stipend": "",
     "employment_type": "Full Time",
@@ -10288,1113 +8118,6 @@
     "score": 23,
     "reasons": [
       "Marketing match",
-      "Remote"
-    ]
-  },
-  {
-    "type": "job",
-    "title": "Animateur 3D senior",
-    "company": "Squeeze Studio Animation",
-    "location": "Worldwide / Remote",
-    "location_key": "remote",
-    "mode": "Remote",
-    "url": "https://himalayas.app/companies/squeeze-studio-animation/jobs/animateur-3d-senior",
-    "source": "Himalayas",
-    "categories": [
-      "content",
-      "creator"
-    ],
-    "posted_at": "2026-09-28T00:32:15+00:00",
-    "salary": "",
-    "stipend": "",
-    "employment_type": "Temporary",
-    "applicants": null,
-    "industry": "",
-    "function": "",
-    "experience": "mid",
-    "score": 23,
-    "reasons": [
-      "Content match",
-      "Remote"
-    ]
-  },
-  {
-    "type": "job",
-    "title": "General Expression of Interest to work at Smart WFM",
-    "company": "Smart WFM",
-    "location": "Worldwide / Remote",
-    "location_key": "remote",
-    "mode": "Remote",
-    "url": "https://himalayas.app/companies/smart-wfm/jobs/general-expression-of-interest-to-work-at-smart-wfm",
-    "source": "Himalayas",
-    "categories": [
-      "other"
-    ],
-    "posted_at": "2026-09-28T00:11:52+00:00",
-    "salary": "",
-    "stipend": "",
-    "employment_type": "Full Time",
-    "applicants": null,
-    "industry": "",
-    "function": "",
-    "experience": "fresher",
-    "score": 23,
-    "reasons": [
-      "Other match",
-      "Fresher-friendly signal",
-      "Remote"
-    ]
-  },
-  {
-    "type": "job",
-    "title": "Space Tech Founding Engineer (100 % remote) (m/f/d)",
-    "company": "EWOR GmbH",
-    "location": "Worldwide / Remote",
-    "location_key": "remote",
-    "mode": "Remote",
-    "url": "https://himalayas.app/companies/ewor-gmbh/jobs/space-tech-founding-engineer-100-remote-m-f-d-1293108277",
-    "source": "Himalayas",
-    "categories": [
-      "marketing"
-    ],
-    "posted_at": "2026-09-27T23:30:35+00:00",
-    "salary": "",
-    "stipend": "",
-    "employment_type": "Full Time",
-    "applicants": null,
-    "industry": "",
-    "function": "",
-    "experience": "fresher",
-    "score": 23,
-    "reasons": [
-      "Marketing match",
-      "Fresher-friendly signal",
-      "Remote"
-    ]
-  },
-  {
-    "type": "job",
-    "title": "SaaS Full-Stack Developer (100 % remote) (m/f/d)",
-    "company": "EWOR GmbH",
-    "location": "Worldwide / Remote",
-    "location_key": "remote",
-    "mode": "Remote",
-    "url": "https://himalayas.app/companies/ewor-gmbh/jobs/saas-full-stack-developer-100-remote-m-f-d-4348284373",
-    "source": "Himalayas",
-    "categories": [
-      "marketing"
-    ],
-    "posted_at": "2026-09-27T21:52:43+00:00",
-    "salary": "",
-    "stipend": "",
-    "employment_type": "Full Time",
-    "applicants": null,
-    "industry": "",
-    "function": "",
-    "experience": "fresher",
-    "score": 23,
-    "reasons": [
-      "Marketing match",
-      "Fresher-friendly signal",
-      "Remote"
-    ]
-  },
-  {
-    "type": "job",
-    "title": "Senior Research Scientist",
-    "company": "DeepHealth",
-    "location": "Worldwide / Remote",
-    "location_key": "remote",
-    "mode": "Remote",
-    "url": "https://himalayas.app/companies/deephealth/jobs/senior-research-scientist",
-    "source": "Himalayas",
-    "categories": [
-      "design"
-    ],
-    "posted_at": "2026-09-27T21:34:26+00:00",
-    "salary": "",
-    "stipend": "",
-    "employment_type": "Full Time",
-    "applicants": null,
-    "industry": "",
-    "function": "",
-    "experience": "fresher",
-    "score": 23,
-    "reasons": [
-      "Design match",
-      "Fresher-friendly signal",
-      "Remote"
-    ]
-  },
-  {
-    "type": "job",
-    "title": "DeepTech Founding AI Engineer (100 % remote) (m/f/d)",
-    "company": "EWOR GmbH",
-    "location": "Worldwide / Remote",
-    "location_key": "remote",
-    "mode": "Remote",
-    "url": "https://himalayas.app/companies/ewor-gmbh/jobs/deeptech-founding-ai-engineer-100-remote-m-f-d",
-    "source": "Himalayas",
-    "categories": [
-      "marketing"
-    ],
-    "posted_at": "2026-09-27T20:52:37+00:00",
-    "salary": "",
-    "stipend": "",
-    "employment_type": "Full Time",
-    "applicants": null,
-    "industry": "",
-    "function": "",
-    "experience": "fresher",
-    "score": 23,
-    "reasons": [
-      "Marketing match",
-      "Fresher-friendly signal",
-      "Remote"
-    ]
-  },
-  {
-    "type": "job",
-    "title": "Payment Compliance Officer",
-    "company": "Yedpay",
-    "location": "Worldwide / Remote",
-    "location_key": "remote",
-    "mode": "Remote",
-    "url": "https://himalayas.app/companies/yedpay/jobs/payment-compliance-officer",
-    "source": "Himalayas",
-    "categories": [
-      "marketing"
-    ],
-    "posted_at": "2026-09-27T20:49:03+00:00",
-    "salary": "",
-    "stipend": "",
-    "employment_type": "Full Time",
-    "applicants": null,
-    "industry": "",
-    "function": "",
-    "experience": "fresher",
-    "score": 23,
-    "reasons": [
-      "Marketing match",
-      "Fresher-friendly signal",
-      "Remote"
-    ]
-  },
-  {
-    "type": "job",
-    "title": "Mobility Head of Data Engineering (100 % remote) (m/f/d)",
-    "company": "EWOR GmbH",
-    "location": "Worldwide / Remote",
-    "location_key": "remote",
-    "mode": "Remote",
-    "url": "https://himalayas.app/companies/ewor-gmbh/jobs/mobility-head-of-data-engineering-100-remote-m-f-d-6369641884",
-    "source": "Himalayas",
-    "categories": [
-      "marketing"
-    ],
-    "posted_at": "2026-09-27T20:21:39+00:00",
-    "salary": "",
-    "stipend": "",
-    "employment_type": "Full Time",
-    "applicants": null,
-    "industry": "",
-    "function": "",
-    "experience": "fresher",
-    "score": 23,
-    "reasons": [
-      "Marketing match",
-      "Fresher-friendly signal",
-      "Remote"
-    ]
-  },
-  {
-    "type": "job",
-    "title": "Senior AI Engineer",
-    "company": "TensorOps",
-    "location": "Worldwide / Remote",
-    "location_key": "remote",
-    "mode": "Remote",
-    "url": "https://himalayas.app/companies/tensorops/jobs/senior-ai-engineer",
-    "source": "Himalayas",
-    "categories": [
-      "design"
-    ],
-    "posted_at": "2026-09-27T20:21:30+00:00",
-    "salary": "",
-    "stipend": "",
-    "employment_type": "Full Time",
-    "applicants": null,
-    "industry": "",
-    "function": "",
-    "experience": "fresher",
-    "score": 23,
-    "reasons": [
-      "Design match",
-      "Fresher-friendly signal",
-      "Remote"
-    ]
-  },
-  {
-    "type": "job",
-    "title": "3D Artist - Minecraft Project",
-    "company": "Hypixel",
-    "location": "Worldwide / Remote",
-    "location_key": "remote",
-    "mode": "Remote",
-    "url": "https://himalayas.app/companies/hypixel/jobs/3d-artist-minecraft-project",
-    "source": "Himalayas",
-    "categories": [
-      "social",
-      "design"
-    ],
-    "posted_at": "2026-09-27T20:03:43+00:00",
-    "salary": "",
-    "stipend": "",
-    "employment_type": "Contractor",
-    "applicants": null,
-    "industry": "",
-    "function": "",
-    "experience": "unknown",
-    "score": 23,
-    "reasons": [
-      "Social match",
-      "Remote"
-    ]
-  },
-  {
-    "type": "job",
-    "title": "B2B Founding Engineer (100 % remote) (m/f/d)",
-    "company": "EWOR GmbH",
-    "location": "Worldwide / Remote",
-    "location_key": "remote",
-    "mode": "Remote",
-    "url": "https://himalayas.app/companies/ewor-gmbh/jobs/b2b-founding-engineer-100-remote-m-f-d",
-    "source": "Himalayas",
-    "categories": [
-      "marketing"
-    ],
-    "posted_at": "2026-09-27T19:32:19+00:00",
-    "salary": "",
-    "stipend": "",
-    "employment_type": "Full Time",
-    "applicants": null,
-    "industry": "",
-    "function": "",
-    "experience": "fresher",
-    "score": 23,
-    "reasons": [
-      "Marketing match",
-      "Fresher-friendly signal",
-      "Remote"
-    ]
-  },
-  {
-    "type": "job",
-    "title": "Mobility Founding AI Engineer (100 % remote) (m/f/d)",
-    "company": "EWOR GmbH",
-    "location": "Worldwide / Remote",
-    "location_key": "remote",
-    "mode": "Remote",
-    "url": "https://himalayas.app/companies/ewor-gmbh/jobs/mobility-founding-ai-engineer-100-remote-m-f-d",
-    "source": "Himalayas",
-    "categories": [
-      "marketing"
-    ],
-    "posted_at": "2026-09-27T19:27:37+00:00",
-    "salary": "",
-    "stipend": "",
-    "employment_type": "Full Time",
-    "applicants": null,
-    "industry": "",
-    "function": "",
-    "experience": "fresher",
-    "score": 23,
-    "reasons": [
-      "Marketing match",
-      "Fresher-friendly signal",
-      "Remote"
-    ]
-  },
-  {
-    "type": "job",
-    "title": "Space Tech Founding AI Engineer (100 % remote) (m/f/d)",
-    "company": "EWOR GmbH",
-    "location": "Worldwide / Remote",
-    "location_key": "remote",
-    "mode": "Remote",
-    "url": "https://himalayas.app/companies/ewor-gmbh/jobs/space-tech-founding-ai-engineer-100-remote-m-f-d",
-    "source": "Himalayas",
-    "categories": [
-      "marketing"
-    ],
-    "posted_at": "2026-09-27T19:01:24+00:00",
-    "salary": "",
-    "stipend": "",
-    "employment_type": "Full Time",
-    "applicants": null,
-    "industry": "",
-    "function": "",
-    "experience": "fresher",
-    "score": 23,
-    "reasons": [
-      "Marketing match",
-      "Fresher-friendly signal",
-      "Remote"
-    ]
-  },
-  {
-    "type": "job",
-    "title": "Semiconductor Senior Full-Stack Engineer (100 % remote) (m/f/d)",
-    "company": "EWOR GmbH",
-    "location": "Worldwide / Remote",
-    "location_key": "remote",
-    "mode": "Remote",
-    "url": "https://himalayas.app/companies/ewor-gmbh/jobs/semiconductor-senior-full-stack-engineer-100-remote-m-f-d-6650915437",
-    "source": "Himalayas",
-    "categories": [
-      "marketing"
-    ],
-    "posted_at": "2026-09-27T18:54:20+00:00",
-    "salary": "",
-    "stipend": "",
-    "employment_type": "Full Time",
-    "applicants": null,
-    "industry": "",
-    "function": "",
-    "experience": "fresher",
-    "score": 23,
-    "reasons": [
-      "Marketing match",
-      "Fresher-friendly signal",
-      "Remote"
-    ]
-  },
-  {
-    "type": "job",
-    "title": "AI Research Lab AI/ML Engineer (100 % remote) (m/f/d)",
-    "company": "EWOR GmbH",
-    "location": "Worldwide / Remote",
-    "location_key": "remote",
-    "mode": "Remote",
-    "url": "https://himalayas.app/companies/ewor-gmbh/jobs/ai-research-lab-ai-ml-engineer-100-remote-m-f-d-4378430621",
-    "source": "Himalayas",
-    "categories": [
-      "marketing"
-    ],
-    "posted_at": "2026-09-27T18:52:23+00:00",
-    "salary": "",
-    "stipend": "",
-    "employment_type": "Full Time",
-    "applicants": null,
-    "industry": "",
-    "function": "",
-    "experience": "fresher",
-    "score": 23,
-    "reasons": [
-      "Marketing match",
-      "Fresher-friendly signal",
-      "Remote"
-    ]
-  },
-  {
-    "type": "job",
-    "title": "HealthTech Senior Full-Stack Engineer (100 % remote) (m/f/d)",
-    "company": "EWOR GmbH",
-    "location": "Worldwide / Remote",
-    "location_key": "remote",
-    "mode": "Remote",
-    "url": "https://himalayas.app/companies/ewor-gmbh/jobs/healthtech-senior-full-stack-engineer-100-remote-m-f-d-6835807124",
-    "source": "Himalayas",
-    "categories": [
-      "marketing"
-    ],
-    "posted_at": "2026-09-27T18:40:57+00:00",
-    "salary": "",
-    "stipend": "",
-    "employment_type": "Full Time",
-    "applicants": null,
-    "industry": "",
-    "function": "",
-    "experience": "fresher",
-    "score": 23,
-    "reasons": [
-      "Marketing match",
-      "Fresher-friendly signal",
-      "Remote"
-    ]
-  },
-  {
-    "type": "job",
-    "title": "Business Development Manager - Remote",
-    "company": "The Collective Ace Group",
-    "location": "Worldwide / Remote",
-    "location_key": "remote",
-    "mode": "Remote",
-    "url": "https://himalayas.app/companies/the-collective-ace-group/jobs/business-development-manager-remote",
-    "source": "Himalayas",
-    "categories": [
-      "marketing",
-      "sales"
-    ],
-    "posted_at": "2026-09-27T17:41:07+00:00",
-    "salary": "",
-    "stipend": "",
-    "employment_type": "Full Time",
-    "applicants": null,
-    "industry": "",
-    "function": "",
-    "experience": "mid",
-    "score": 23,
-    "reasons": [
-      "Marketing match",
-      "Remote"
-    ]
-  },
-  {
-    "type": "job",
-    "title": "Industrial Tech Head of Data Engineering (100 % remote) (m/f/d)",
-    "company": "EWOR GmbH",
-    "location": "Worldwide / Remote",
-    "location_key": "remote",
-    "mode": "Remote",
-    "url": "https://himalayas.app/companies/ewor-gmbh/jobs/industrial-tech-head-of-data-engineering-100-remote-m-f-d-5882366856",
-    "source": "Himalayas",
-    "categories": [
-      "marketing"
-    ],
-    "posted_at": "2026-09-27T17:31:57+00:00",
-    "salary": "",
-    "stipend": "",
-    "employment_type": "Full Time",
-    "applicants": null,
-    "industry": "",
-    "function": "",
-    "experience": "fresher",
-    "score": 23,
-    "reasons": [
-      "Marketing match",
-      "Fresher-friendly signal",
-      "Remote"
-    ]
-  },
-  {
-    "type": "job",
-    "title": "Call Agent B2C",
-    "company": "BucherInvest GmbH",
-    "location": "Worldwide / Remote",
-    "location_key": "remote",
-    "mode": "Remote",
-    "url": "https://himalayas.app/companies/bucherinvest-gmbh/jobs/call-agent-b2c-2473590308",
-    "source": "Himalayas",
-    "categories": [
-      "sales"
-    ],
-    "posted_at": "2026-09-27T16:59:59+00:00",
-    "salary": "",
-    "stipend": "",
-    "employment_type": "Part Time",
-    "applicants": null,
-    "industry": "",
-    "function": "",
-    "experience": "fresher",
-    "score": 23,
-    "reasons": [
-      "Sales match",
-      "Fresher-friendly signal",
-      "Remote"
-    ]
-  },
-  {
-    "type": "job",
-    "title": "MedTech Founding AI Engineer (100 % remote) (m/f/d)",
-    "company": "EWOR GmbH",
-    "location": "Worldwide / Remote",
-    "location_key": "remote",
-    "mode": "Remote",
-    "url": "https://himalayas.app/companies/ewor-gmbh/jobs/medtech-founding-ai-engineer-100-remote-m-f-d",
-    "source": "Himalayas",
-    "categories": [
-      "marketing"
-    ],
-    "posted_at": "2026-09-27T16:59:45+00:00",
-    "salary": "",
-    "stipend": "",
-    "employment_type": "Full Time",
-    "applicants": null,
-    "industry": "",
-    "function": "",
-    "experience": "fresher",
-    "score": 23,
-    "reasons": [
-      "Marketing match",
-      "Fresher-friendly signal",
-      "Remote"
-    ]
-  },
-  {
-    "type": "job",
-    "title": "Renewable Energy Robotics Engineer (100 % remote) (m/f/d)",
-    "company": "EWOR GmbH",
-    "location": "Worldwide / Remote",
-    "location_key": "remote",
-    "mode": "Remote",
-    "url": "https://himalayas.app/companies/ewor-gmbh/jobs/renewable-energy-robotics-engineer-100-remote-m-f-d-2619683570",
-    "source": "Himalayas",
-    "categories": [
-      "marketing"
-    ],
-    "posted_at": "2026-09-27T16:50:20+00:00",
-    "salary": "",
-    "stipend": "",
-    "employment_type": "Full Time",
-    "applicants": null,
-    "industry": "",
-    "function": "",
-    "experience": "fresher",
-    "score": 23,
-    "reasons": [
-      "Marketing match",
-      "Fresher-friendly signal",
-      "Remote"
-    ]
-  },
-  {
-    "type": "job",
-    "title": "AI Infrastructure Cloud Engineer (100 % remote) (m/f/d)",
-    "company": "EWOR GmbH",
-    "location": "Worldwide / Remote",
-    "location_key": "remote",
-    "mode": "Remote",
-    "url": "https://himalayas.app/companies/ewor-gmbh/jobs/ai-infrastructure-cloud-engineer-100-remote-m-f-d-6918108704",
-    "source": "Himalayas",
-    "categories": [
-      "marketing"
-    ],
-    "posted_at": "2026-09-27T16:48:42+00:00",
-    "salary": "",
-    "stipend": "",
-    "employment_type": "Full Time",
-    "applicants": null,
-    "industry": "",
-    "function": "",
-    "experience": "fresher",
-    "score": 23,
-    "reasons": [
-      "Marketing match",
-      "Fresher-friendly signal",
-      "Remote"
-    ]
-  },
-  {
-    "type": "job",
-    "title": "Logistics Founding AI Engineer (100 % remote) (m/f/d)",
-    "company": "EWOR GmbH",
-    "location": "Worldwide / Remote",
-    "location_key": "remote",
-    "mode": "Remote",
-    "url": "https://himalayas.app/companies/ewor-gmbh/jobs/logistics-founding-ai-engineer-100-remote-m-f-d-2124797988",
-    "source": "Himalayas",
-    "categories": [
-      "marketing"
-    ],
-    "posted_at": "2026-09-27T16:34:06+00:00",
-    "salary": "",
-    "stipend": "",
-    "employment_type": "Full Time",
-    "applicants": null,
-    "industry": "",
-    "function": "",
-    "experience": "fresher",
-    "score": 23,
-    "reasons": [
-      "Marketing match",
-      "Fresher-friendly signal",
-      "Remote"
-    ]
-  },
-  {
-    "type": "job",
-    "title": "Space Tech Full-Stack Developer (100 % remote) (m/f/d)",
-    "company": "EWOR GmbH",
-    "location": "Worldwide / Remote",
-    "location_key": "remote",
-    "mode": "Remote",
-    "url": "https://himalayas.app/companies/ewor-gmbh/jobs/space-tech-full-stack-developer-100-remote-m-f-d",
-    "source": "Himalayas",
-    "categories": [
-      "marketing"
-    ],
-    "posted_at": "2026-09-27T16:33:14+00:00",
-    "salary": "",
-    "stipend": "",
-    "employment_type": "Full Time",
-    "applicants": null,
-    "industry": "",
-    "function": "",
-    "experience": "fresher",
-    "score": 23,
-    "reasons": [
-      "Marketing match",
-      "Fresher-friendly signal",
-      "Remote"
-    ]
-  },
-  {
-    "type": "job",
-    "title": "General Interest Application - Remote",
-    "company": "Global Energy Monitor",
-    "location": "Worldwide / Remote",
-    "location_key": "remote",
-    "mode": "Remote",
-    "url": "https://himalayas.app/companies/global-energy-monitor/jobs/general-interest-application-remote",
-    "source": "Himalayas",
-    "categories": [
-      "social"
-    ],
-    "posted_at": "2026-09-27T16:23:18+00:00",
-    "salary": "",
-    "stipend": "",
-    "employment_type": "Full Time",
-    "applicants": null,
-    "industry": "",
-    "function": "",
-    "experience": "fresher",
-    "score": 23,
-    "reasons": [
-      "Social match",
-      "Fresher-friendly signal",
-      "Remote"
-    ]
-  },
-  {
-    "type": "job",
-    "title": "Cybersecurity Senior Full-Stack Engineer (100 % remote) (m/f/d)",
-    "company": "EWOR GmbH",
-    "location": "Worldwide / Remote",
-    "location_key": "remote",
-    "mode": "Remote",
-    "url": "https://himalayas.app/companies/ewor-gmbh/jobs/cybersecurity-senior-full-stack-engineer-100-remote-m-f-d-3755821548",
-    "source": "Himalayas",
-    "categories": [
-      "marketing"
-    ],
-    "posted_at": "2026-09-27T16:10:26+00:00",
-    "salary": "",
-    "stipend": "",
-    "employment_type": "Full Time",
-    "applicants": null,
-    "industry": "",
-    "function": "",
-    "experience": "fresher",
-    "score": 23,
-    "reasons": [
-      "Marketing match",
-      "Fresher-friendly signal",
-      "Remote"
-    ]
-  },
-  {
-    "type": "job",
-    "title": "Logistics Founding Engineer (100 % remote) (m/f/d)",
-    "company": "EWOR GmbH",
-    "location": "Worldwide / Remote",
-    "location_key": "remote",
-    "mode": "Remote",
-    "url": "https://himalayas.app/companies/ewor-gmbh/jobs/logistics-founding-engineer-100-remote-m-f-d-8931173201",
-    "source": "Himalayas",
-    "categories": [
-      "marketing"
-    ],
-    "posted_at": "2026-09-27T16:07:32+00:00",
-    "salary": "",
-    "stipend": "",
-    "employment_type": "Full Time",
-    "applicants": null,
-    "industry": "",
-    "function": "",
-    "experience": "fresher",
-    "score": 23,
-    "reasons": [
-      "Marketing match",
-      "Fresher-friendly signal",
-      "Remote"
-    ]
-  },
-  {
-    "type": "job",
-    "title": "HealthTech Robotics Engineer (100 % remote) (m/f/d)",
-    "company": "EWOR GmbH",
-    "location": "Worldwide / Remote",
-    "location_key": "remote",
-    "mode": "Remote",
-    "url": "https://himalayas.app/companies/ewor-gmbh/jobs/healthtech-robotics-engineer-100-remote-m-f-d-8991975140",
-    "source": "Himalayas",
-    "categories": [
-      "marketing"
-    ],
-    "posted_at": "2026-09-27T16:04:13+00:00",
-    "salary": "",
-    "stipend": "",
-    "employment_type": "Full Time",
-    "applicants": null,
-    "industry": "",
-    "function": "",
-    "experience": "fresher",
-    "score": 23,
-    "reasons": [
-      "Marketing match",
-      "Fresher-friendly signal",
-      "Remote"
-    ]
-  },
-  {
-    "type": "job",
-    "title": "Change Manager",
-    "company": "Affidea BV",
-    "location": "Worldwide / Remote",
-    "location_key": "remote",
-    "mode": "Remote",
-    "url": "https://himalayas.app/companies/affidea-bv/jobs/change-manager",
-    "source": "Himalayas",
-    "categories": [
-      "content",
-      "operations"
-    ],
-    "posted_at": "2026-09-27T15:31:00+00:00",
-    "salary": "",
-    "stipend": "",
-    "employment_type": "Full Time",
-    "applicants": null,
-    "industry": "",
-    "function": "",
-    "experience": "mid",
-    "score": 23,
-    "reasons": [
-      "Content match",
-      "Remote"
-    ]
-  },
-  {
-    "type": "job",
-    "title": "Movement Resources - Ministry Team Member (Associate)",
-    "company": "Novo",
-    "location": "Worldwide / Remote",
-    "location_key": "remote",
-    "mode": "Remote",
-    "url": "https://himalayas.app/companies/novo/jobs/movement-resources-ministry-team-member-associate",
-    "source": "Himalayas",
-    "categories": [
-      "other"
-    ],
-    "posted_at": "2026-09-27T14:37:19+00:00",
-    "salary": "",
-    "stipend": "",
-    "employment_type": "Volunteer",
-    "applicants": null,
-    "industry": "",
-    "function": "",
-    "experience": "junior",
-    "score": 23,
-    "reasons": [
-      "Other match",
-      "Early-career signal",
-      "Remote"
-    ]
-  },
-  {
-    "type": "job",
-    "title": "DevTools Robotics Engineer (100 % remote) (m/f/d)",
-    "company": "EWOR GmbH",
-    "location": "Worldwide / Remote",
-    "location_key": "remote",
-    "mode": "Remote",
-    "url": "https://himalayas.app/companies/ewor-gmbh/jobs/devtools-robotics-engineer-100-remote-m-f-d-9508607277",
-    "source": "Himalayas",
-    "categories": [
-      "marketing"
-    ],
-    "posted_at": "2026-09-27T14:23:10+00:00",
-    "salary": "",
-    "stipend": "",
-    "employment_type": "Full Time",
-    "applicants": null,
-    "industry": "",
-    "function": "",
-    "experience": "fresher",
-    "score": 23,
-    "reasons": [
-      "Marketing match",
-      "Fresher-friendly signal",
-      "Remote"
-    ]
-  },
-  {
-    "type": "job",
-    "title": "MedTech Robotics Engineer (100 % remote) (m/f/d)",
-    "company": "EWOR GmbH",
-    "location": "Worldwide / Remote",
-    "location_key": "remote",
-    "mode": "Remote",
-    "url": "https://himalayas.app/companies/ewor-gmbh/jobs/medtech-robotics-engineer-100-remote-m-f-d-5047979893",
-    "source": "Himalayas",
-    "categories": [
-      "marketing"
-    ],
-    "posted_at": "2026-09-27T13:45:36+00:00",
-    "salary": "",
-    "stipend": "",
-    "employment_type": "Full Time",
-    "applicants": null,
-    "industry": "",
-    "function": "",
-    "experience": "fresher",
-    "score": 23,
-    "reasons": [
-      "Marketing match",
-      "Fresher-friendly signal",
-      "Remote"
-    ]
-  },
-  {
-    "type": "job",
-    "title": "Supply Chain Head of Data Engineering (100 % remote) (m/f/d)",
-    "company": "EWOR GmbH",
-    "location": "Worldwide / Remote",
-    "location_key": "remote",
-    "mode": "Remote",
-    "url": "https://himalayas.app/companies/ewor-gmbh/jobs/supply-chain-head-of-data-engineering-100-remote-m-f-d",
-    "source": "Himalayas",
-    "categories": [
-      "marketing"
-    ],
-    "posted_at": "2026-09-27T13:29:04+00:00",
-    "salary": "",
-    "stipend": "",
-    "employment_type": "Full Time",
-    "applicants": null,
-    "industry": "",
-    "function": "",
-    "experience": "fresher",
-    "score": 23,
-    "reasons": [
-      "Marketing match",
-      "Fresher-friendly signal",
-      "Remote"
-    ]
-  },
-  {
-    "type": "job",
-    "title": "Applied AI Full-Stack Developer (100 % remote) (m/f/d)",
-    "company": "EWOR GmbH",
-    "location": "Worldwide / Remote",
-    "location_key": "remote",
-    "mode": "Remote",
-    "url": "https://himalayas.app/companies/ewor-gmbh/jobs/applied-ai-full-stack-developer-100-remote-m-f-d-9583385502",
-    "source": "Himalayas",
-    "categories": [
-      "marketing"
-    ],
-    "posted_at": "2026-09-27T13:20:27+00:00",
-    "salary": "",
-    "stipend": "",
-    "employment_type": "Full Time",
-    "applicants": null,
-    "industry": "",
-    "function": "",
-    "experience": "fresher",
-    "score": 23,
-    "reasons": [
-      "Marketing match",
-      "Fresher-friendly signal",
-      "Remote"
-    ]
-  },
-  {
-    "type": "job",
-    "title": "SaaS Head of Data Engineering (100 % remote) (m/f/d)",
-    "company": "EWOR GmbH",
-    "location": "Worldwide / Remote",
-    "location_key": "remote",
-    "mode": "Remote",
-    "url": "https://himalayas.app/companies/ewor-gmbh/jobs/saas-head-of-data-engineering-100-remote-m-f-d-3686606294",
-    "source": "Himalayas",
-    "categories": [
-      "marketing"
-    ],
-    "posted_at": "2026-09-27T13:07:49+00:00",
-    "salary": "",
-    "stipend": "",
-    "employment_type": "Full Time",
-    "applicants": null,
-    "industry": "",
-    "function": "",
-    "experience": "fresher",
-    "score": 23,
-    "reasons": [
-      "Marketing match",
-      "Fresher-friendly signal",
-      "Remote"
-    ]
-  },
-  {
-    "type": "job",
-    "title": "QA Engineer (Manual, Web Platform)",
-    "company": "Stellar Tech",
-    "location": "Worldwide / Remote",
-    "location_key": "remote",
-    "mode": "Remote",
-    "url": "https://himalayas.app/companies/stellar-tech/jobs/qa-engineer-manual-web-platform",
-    "source": "Himalayas",
-    "categories": [
-      "design"
-    ],
-    "posted_at": "2026-09-27T13:00:20+00:00",
-    "salary": "",
-    "stipend": "",
-    "employment_type": "Contractor",
-    "applicants": null,
-    "industry": "",
-    "function": "",
-    "experience": "fresher",
-    "score": 23,
-    "reasons": [
-      "Design match",
-      "Fresher-friendly signal",
-      "Remote"
-    ]
-  },
-  {
-    "type": "job",
-    "title": "Renewable Energy Founding AI Engineer (100 % remote) (m/f/d)",
-    "company": "EWOR GmbH",
-    "location": "Worldwide / Remote",
-    "location_key": "remote",
-    "mode": "Remote",
-    "url": "https://himalayas.app/companies/ewor-gmbh/jobs/renewable-energy-founding-ai-engineer-100-remote-m-f-d",
-    "source": "Himalayas",
-    "categories": [
-      "marketing"
-    ],
-    "posted_at": "2026-09-27T12:43:32+00:00",
-    "salary": "",
-    "stipend": "",
-    "employment_type": "Full Time",
-    "applicants": null,
-    "industry": "",
-    "function": "",
-    "experience": "fresher",
-    "score": 23,
-    "reasons": [
-      "Marketing match",
-      "Fresher-friendly signal",
-      "Remote"
-    ]
-  },
-  {
-    "type": "job",
-    "title": "Virtual HR Support (Remote - Global Applicants)",
-    "company": "Peregrine Team",
-    "location": "Worldwide / Remote",
-    "location_key": "remote",
-    "mode": "Remote",
-    "url": "https://himalayas.app/companies/peregrine-team/jobs/virtual-hr-support-remote-global-applicants-4414859167",
-    "source": "Himalayas",
-    "categories": [
-      "other"
-    ],
-    "posted_at": "2026-09-27T12:41:36+00:00",
-    "salary": "800–1200 USD / monthly",
-    "stipend": "",
-    "employment_type": "Contractor",
-    "applicants": null,
-    "industry": "",
-    "function": "",
-    "experience": "fresher",
-    "score": 23,
-    "reasons": [
-      "Other match",
-      "Fresher-friendly signal",
-      "Remote"
-    ]
-  },
-  {
-    "type": "job",
-    "title": "Recruiter",
-    "company": "Starfish Partners",
-    "location": "Worldwide / Remote",
-    "location_key": "remote",
-    "mode": "Remote",
-    "url": "https://himalayas.app/companies/starfish-partners/jobs/recruiter",
-    "source": "Himalayas",
-    "categories": [
-      "marketing",
-      "social"
-    ],
-    "posted_at": "2026-09-27T12:40:12+00:00",
-    "salary": "",
-    "stipend": "",
-    "employment_type": "Full Time",
-    "applicants": null,
-    "industry": "",
-    "function": "",
-    "experience": "mid",
-    "score": 23,
-    "reasons": [
-      "Marketing match",
-      "Remote"
-    ]
-  },
-  {
-    "type": "job",
-    "title": "V105C -Legal Assistant-Litigation Legal Assistant",
-    "company": "Job Duck",
-    "location": "Worldwide / Remote",
-    "location_key": "remote",
-    "mode": "Remote",
-    "url": "https://himalayas.app/companies/job-duck/jobs/v105c-legal-assistant-litigation-legal-assistant",
-    "source": "Himalayas",
-    "categories": [
-      "other"
-    ],
-    "posted_at": "2026-09-27T12:11:32+00:00",
-    "salary": "1150–1220 USD / monthly",
-    "stipend": "",
-    "employment_type": "Full Time",
-    "applicants": null,
-    "industry": "",
-    "function": "",
-    "experience": "fresher",
-    "score": 23,
-    "reasons": [
-      "Other match",
-      "Fresher-friendly signal",
-      "Remote"
-    ]
-  },
-  {
-    "type": "job",
-    "title": "HealthTech Head of Data Engineering (100 % remote) (m/f/d)",
-    "company": "EWOR GmbH",
-    "location": "Worldwide / Remote",
-    "location_key": "remote",
-    "mode": "Remote",
-    "url": "https://himalayas.app/companies/ewor-gmbh/jobs/healthtech-head-of-data-engineering-100-remote-m-f-d-5974129722",
-    "source": "Himalayas",
-    "categories": [
-      "marketing"
-    ],
-    "posted_at": "2026-09-27T11:57:00+00:00",
-    "salary": "",
-    "stipend": "",
-    "employment_type": "Full Time",
-    "applicants": null,
-    "industry": "",
-    "function": "",
-    "experience": "fresher",
-    "score": 23,
-    "reasons": [
-      "Marketing match",
-      "Fresher-friendly signal",
       "Remote"
     ]
   },
@@ -11832,33 +8555,6 @@
   },
   {
     "type": "job",
-    "title": "Engineering Manager Thailand",
-    "company": "Bjak ",
-    "location": "Bangkok",
-    "location_key": "remote",
-    "mode": "Remote",
-    "url": "https://remoteOK.com/remote-jobs/remote-engineering-manager-thailand-bjak-1136670",
-    "source": "Remote OK",
-    "categories": [
-      "design"
-    ],
-    "posted_at": "2026-08-14T08:00:04+00:00",
-    "salary": "",
-    "stipend": "",
-    "employment_type": "",
-    "applicants": null,
-    "industry": "",
-    "function": "",
-    "experience": "fresher",
-    "score": 23,
-    "reasons": [
-      "Design match",
-      "Fresher-friendly signal",
-      "Remote"
-    ]
-  },
-  {
-    "type": "job",
     "title": "Senior Power Apps Developer",
     "company": "Parexel",
     "location": "India",
@@ -12067,32 +8763,6 @@
   },
   {
     "type": "job",
-    "title": "Senior Engineer (WFH, Backend & Full-Stack)",
-    "company": "Cadence Translate",
-    "location": "India",
-    "location_key": "india",
-    "mode": "Remote",
-    "url": "https://himalayas.app/companies/cadence-translate/jobs/senior-engineer-wfh-backend-full-stack",
-    "source": "Himalayas",
-    "categories": [
-      "design"
-    ],
-    "posted_at": "2026-09-27T13:07:40+00:00",
-    "salary": "",
-    "stipend": "",
-    "employment_type": "Full Time",
-    "applicants": null,
-    "industry": "",
-    "function": "",
-    "experience": "mid",
-    "score": 22,
-    "reasons": [
-      "Design match",
-      "India signal"
-    ]
-  },
-  {
-    "type": "job",
     "title": "Actuarial Analyst - Fully Remote | Upto $80/hr",
     "company": "mercor",
     "location": "India",
@@ -12119,28 +8789,86 @@
   },
   {
     "type": "job",
-    "title": "AI Safety Expert - Red Teamer",
-    "company": "mercor",
-    "location": "India",
-    "location_key": "india",
-    "mode": "Remote",
-    "url": "https://himalayas.app/companies/mercor/jobs/ai-safety-expert-red-teamer-6395572742",
-    "source": "Himalayas",
+    "title": "Customer Sales Engineer",
+    "company": "UpGuard",
+    "location": "USA",
+    "location_key": "other",
+    "mode": "See listing",
+    "url": "https://jobicy.com/jobs/147850-customer-sales-engineer-2",
+    "source": "Jobicy",
     "categories": [
-      "design"
+      "marketing",
+      "sales"
     ],
-    "posted_at": "2026-09-27T10:54:26+00:00",
-    "salary": "20–22 USD / hourly",
+    "posted_at": "2026-09-29T03:30:21+00:00",
+    "salary": "",
     "stipend": "",
-    "employment_type": "Contractor",
+    "employment_type": [
+      "Full-Time"
+    ],
     "applicants": null,
     "industry": "",
     "function": "",
     "experience": "mid",
-    "score": 22,
+    "score": 20,
+    "reasons": [
+      "Marketing match"
+    ]
+  },
+  {
+    "type": "job",
+    "title": "Principal Software Architect",
+    "company": "Testlio",
+    "location": "EMEA",
+    "location_key": "other",
+    "mode": "See listing",
+    "url": "https://jobicy.com/jobs/147700-principal-software-architect",
+    "source": "Jobicy",
+    "categories": [
+      "marketing",
+      "design"
+    ],
+    "posted_at": "2026-09-29T03:30:15+00:00",
+    "salary": "500000– USD / yearly",
+    "stipend": "",
+    "employment_type": [
+      "Full-Time"
+    ],
+    "applicants": null,
+    "industry": "",
+    "function": "",
+    "experience": "mid",
+    "score": 20,
+    "reasons": [
+      "Marketing match"
+    ]
+  },
+  {
+    "type": "job",
+    "title": "Detection & CorpSec Engineer",
+    "company": "Quora",
+    "location": "Anywhere",
+    "location_key": "other",
+    "mode": "See listing",
+    "url": "https://jobicy.com/jobs/151966-detection-corpsec-engineer",
+    "source": "Jobicy",
+    "categories": [
+      "design"
+    ],
+    "posted_at": "2026-09-29T03:30:10+00:00",
+    "salary": "172279–249640 USD / yearly",
+    "stipend": "",
+    "employment_type": [
+      "Full-Time"
+    ],
+    "applicants": null,
+    "industry": "",
+    "function": "",
+    "experience": "fresher",
+    "score": 20,
     "reasons": [
       "Design match",
-      "India signal"
+      "Fresher-friendly signal"
     ]
   },
   {
@@ -12817,140 +9545,27 @@
   },
   {
     "type": "job",
-    "title": "Senior Product Designer",
-    "company": "Dispatch",
-    "location": "USA",
-    "location_key": "other",
-    "mode": "See listing",
-    "url": "https://jobicy.com/jobs/151797-senior-product-designer-8",
-    "source": "Jobicy",
-    "categories": [
-      "marketing",
-      "design"
-    ],
-    "posted_at": "2026-09-27T07:20:24+00:00",
-    "salary": "",
-    "stipend": "",
-    "employment_type": [
-      "Full-Time"
-    ],
-    "applicants": null,
-    "industry": "",
-    "function": "",
-    "experience": "mid",
-    "score": 20,
-    "reasons": [
-      "Marketing match"
-    ]
-  },
-  {
-    "type": "job",
-    "title": "Senior Sales Engineer - Mexico",
-    "company": "Zscaler",
-    "location": "Mexico",
-    "location_key": "other",
-    "mode": "See listing",
-    "url": "https://jobicy.com/jobs/151654-senior-sales-engineer-mexico",
-    "source": "Jobicy",
-    "categories": [
-      "sales",
-      "design"
-    ],
-    "posted_at": "2026-09-27T07:20:19+00:00",
-    "salary": "",
-    "stipend": "",
-    "employment_type": [
-      "Full-Time"
-    ],
-    "applicants": null,
-    "industry": "",
-    "function": "",
-    "experience": "mid",
-    "score": 20,
-    "reasons": [
-      "Sales match"
-    ]
-  },
-  {
-    "type": "job",
-    "title": "Senior Applied Research Engineer - Video",
-    "company": "Synthesia",
-    "location": "Europe,  UK",
-    "location_key": "other",
-    "mode": "See listing",
-    "url": "https://jobicy.com/jobs/151649-senior-applied-research-engineer-video",
-    "source": "Jobicy",
-    "categories": [
-      "marketing",
-      "design"
-    ],
-    "posted_at": "2026-09-27T07:20:08+00:00",
-    "salary": "",
-    "stipend": "",
-    "employment_type": [
-      "Full-Time"
-    ],
-    "applicants": null,
-    "industry": "",
-    "function": "",
-    "experience": "mid",
-    "score": 20,
-    "reasons": [
-      "Marketing match"
-    ]
-  },
-  {
-    "type": "job",
-    "title": "Senior Product Designer, Mobile",
-    "company": "Homebound",
-    "location": "USA",
-    "location_key": "other",
-    "mode": "See listing",
-    "url": "https://jobicy.com/jobs/151800-senior-product-designer-mobile",
-    "source": "Jobicy",
-    "categories": [
-      "operations",
-      "design"
-    ],
-    "posted_at": "2026-09-27T07:20:05+00:00",
-    "salary": "130000–155000 USD / yearly",
-    "stipend": "",
-    "employment_type": [
-      "Full-Time"
-    ],
-    "applicants": null,
-    "industry": "",
-    "function": "",
-    "experience": "mid",
-    "score": 20,
-    "reasons": [
-      "Operations match"
-    ]
-  },
-  {
-    "type": "job",
-    "title": "Senior SAP CPQ Developer",
-    "company": "Clarity",
+    "title": "QuickBooks Specialist",
+    "company": "micro1",
     "location": "Worldwide / Remote",
     "location_key": "remote",
     "mode": "Remote",
-    "url": "https://himalayas.app/companies/onclarity/jobs/senior-sap-cpq-developer-733900425",
+    "url": "https://himalayas.app/companies/micro1/jobs/quickbooks-specialist",
     "source": "Himalayas",
     "categories": [
-      "design"
+      "other"
     ],
-    "posted_at": "2026-09-27T21:49:00+00:00",
-    "salary": "",
+    "posted_at": "2026-09-29T06:57:33+00:00",
+    "salary": "90–170 USD / hourly",
     "stipend": "",
     "employment_type": "Contractor",
     "applicants": null,
     "industry": "",
     "function": "",
-    "experience": "junior",
-    "score": 19,
+    "experience": "unknown",
+    "score": 17,
     "reasons": [
-      "Design match",
-      "Early-career signal",
+      "Other match",
       "Remote"
     ]
   },
@@ -13029,32 +9644,6 @@
     "score": 17,
     "reasons": [
       "Operations match",
-      "Remote"
-    ]
-  },
-  {
-    "type": "job",
-    "title": "B2B Integration Specialists*",
-    "company": "IWConnect",
-    "location": "Worldwide / Remote",
-    "location_key": "remote",
-    "mode": "Remote",
-    "url": "https://himalayas.app/companies/iwconnect/jobs/b2b-integration-specialists",
-    "source": "Himalayas",
-    "categories": [
-      "other"
-    ],
-    "posted_at": "2026-09-27T16:49:55+00:00",
-    "salary": "",
-    "stipend": "",
-    "employment_type": "Contractor",
-    "applicants": null,
-    "industry": "",
-    "function": "",
-    "experience": "unknown",
-    "score": 17,
-    "reasons": [
-      "Other match",
       "Remote"
     ]
   },
@@ -13212,370 +9801,6 @@
     "industry": "",
     "function": "",
     "experience": "mid",
-    "score": 13,
-    "reasons": [
-      "Design match",
-      "Remote"
-    ]
-  },
-  {
-    "type": "job",
-    "title": "Product Analyst",
-    "company": "Stellar Tech",
-    "location": "Worldwide / Remote",
-    "location_key": "remote",
-    "mode": "Remote",
-    "url": "https://himalayas.app/companies/stellar-tech/jobs/product-analyst",
-    "source": "Himalayas",
-    "categories": [
-      "design"
-    ],
-    "posted_at": "2026-09-28T00:54:41+00:00",
-    "salary": "",
-    "stipend": "",
-    "employment_type": "Contractor",
-    "applicants": null,
-    "industry": "",
-    "function": "",
-    "experience": "mid",
-    "score": 13,
-    "reasons": [
-      "Design match",
-      "Remote"
-    ]
-  },
-  {
-    "type": "job",
-    "title": "B2B RPA developers*",
-    "company": "IWConnect",
-    "location": "Worldwide / Remote",
-    "location_key": "remote",
-    "mode": "Remote",
-    "url": "https://himalayas.app/companies/iwconnect/jobs/b2b-rpa-developers",
-    "source": "Himalayas",
-    "categories": [
-      "design"
-    ],
-    "posted_at": "2026-09-28T00:07:39+00:00",
-    "salary": "",
-    "stipend": "",
-    "employment_type": "Contractor",
-    "applicants": null,
-    "industry": "",
-    "function": "",
-    "experience": "unknown",
-    "score": 13,
-    "reasons": [
-      "Design match",
-      "Remote"
-    ]
-  },
-  {
-    "type": "job",
-    "title": "Movement Division Ministry Candidate & Discernment: Phase II - Anna-Marie Banks",
-    "company": "Novo",
-    "location": "Worldwide / Remote",
-    "location_key": "remote",
-    "mode": "Remote",
-    "url": "https://himalayas.app/companies/novo/jobs/movement-division-ministry-candidate-discernment-phase-ii-anna-marie-banks",
-    "source": "Himalayas",
-    "categories": [
-      "other"
-    ],
-    "posted_at": "2026-09-28T00:05:26+00:00",
-    "salary": "",
-    "stipend": "",
-    "employment_type": "Volunteer",
-    "applicants": null,
-    "industry": "",
-    "function": "",
-    "experience": "unknown",
-    "score": 13,
-    "reasons": [
-      "Other match",
-      "Remote"
-    ]
-  },
-  {
-    "type": "job",
-    "title": "Open Application",
-    "company": "Syskit",
-    "location": "Worldwide / Remote",
-    "location_key": "remote",
-    "mode": "Remote",
-    "url": "https://himalayas.app/companies/syskit/jobs/open-application",
-    "source": "Himalayas",
-    "categories": [
-      "other"
-    ],
-    "posted_at": "2026-09-27T20:19:20+00:00",
-    "salary": "",
-    "stipend": "",
-    "employment_type": "Full Time",
-    "applicants": null,
-    "industry": "",
-    "function": "",
-    "experience": "unknown",
-    "score": 13,
-    "reasons": [
-      "Other match",
-      "Remote"
-    ]
-  },
-  {
-    "type": "job",
-    "title": "Aerodynamics Expert",
-    "company": "micro1",
-    "location": "Worldwide / Remote",
-    "location_key": "remote",
-    "mode": "Remote",
-    "url": "https://himalayas.app/companies/micro1/jobs/aerodynamics-expert-6077181634",
-    "source": "Himalayas",
-    "categories": [
-      "other"
-    ],
-    "posted_at": "2026-09-27T19:22:01+00:00",
-    "salary": "80–150 USD / hourly",
-    "stipend": "",
-    "employment_type": "Contractor",
-    "applicants": null,
-    "industry": "",
-    "function": "",
-    "experience": "mid",
-    "score": 13,
-    "reasons": [
-      "Other match",
-      "Remote"
-    ]
-  },
-  {
-    "type": "job",
-    "title": "Chief Leadership Partners Resume Submission",
-    "company": "Chief Executive Group",
-    "location": "Worldwide / Remote",
-    "location_key": "remote",
-    "mode": "Remote",
-    "url": "https://himalayas.app/companies/chief-executive-group/jobs/chief-leadership-partners-resume-submission",
-    "source": "Himalayas",
-    "categories": [
-      "other"
-    ],
-    "posted_at": "2026-09-27T19:13:03+00:00",
-    "salary": "",
-    "stipend": "",
-    "employment_type": "Other",
-    "applicants": null,
-    "industry": "",
-    "function": "",
-    "experience": "mid",
-    "score": 13,
-    "reasons": [
-      "Other match",
-      "Remote"
-    ]
-  },
-  {
-    "type": "job",
-    "title": "B2B Java Engineer*",
-    "company": "IWConnect",
-    "location": "Worldwide / Remote",
-    "location_key": "remote",
-    "mode": "Remote",
-    "url": "https://himalayas.app/companies/iwconnect/jobs/b2b-java-engineer",
-    "source": "Himalayas",
-    "categories": [
-      "other"
-    ],
-    "posted_at": "2026-09-27T19:11:59+00:00",
-    "salary": "",
-    "stipend": "",
-    "employment_type": "Contractor",
-    "applicants": null,
-    "industry": "",
-    "function": "",
-    "experience": "unknown",
-    "score": 13,
-    "reasons": [
-      "Other match",
-      "Remote"
-    ]
-  },
-  {
-    "type": "job",
-    "title": "Justice Advisory Committee",
-    "company": "FASD United",
-    "location": "Worldwide / Remote",
-    "location_key": "remote",
-    "mode": "Remote",
-    "url": "https://himalayas.app/companies/fasd-united/jobs/justice-advisory-committee",
-    "source": "Himalayas",
-    "categories": [
-      "design"
-    ],
-    "posted_at": "2026-09-27T19:05:24+00:00",
-    "salary": "",
-    "stipend": "",
-    "employment_type": "Volunteer",
-    "applicants": null,
-    "industry": "",
-    "function": "",
-    "experience": "mid",
-    "score": 13,
-    "reasons": [
-      "Design match",
-      "Remote"
-    ]
-  },
-  {
-    "type": "job",
-    "title": "Directeur de la Génération de Preuves",
-    "company": "Median Technologies",
-    "location": "Worldwide / Remote",
-    "location_key": "remote",
-    "mode": "Remote",
-    "url": "https://himalayas.app/companies/median-technologies/jobs/directeur-de-la-generation-de-preuves",
-    "source": "Himalayas",
-    "categories": [
-      "other"
-    ],
-    "posted_at": "2026-09-27T18:46:54+00:00",
-    "salary": "",
-    "stipend": "",
-    "employment_type": "Full Time",
-    "applicants": null,
-    "industry": "",
-    "function": "",
-    "experience": "mid",
-    "score": 13,
-    "reasons": [
-      "Other match",
-      "Remote"
-    ]
-  },
-  {
-    "type": "job",
-    "title": "Talent Pool - Tech",
-    "company": "FXGT",
-    "location": "Worldwide / Remote",
-    "location_key": "remote",
-    "mode": "Remote",
-    "url": "https://himalayas.app/companies/fxgt/jobs/talent-pool-tech",
-    "source": "Himalayas",
-    "categories": [
-      "other"
-    ],
-    "posted_at": "2026-09-27T18:33:00+00:00",
-    "salary": "",
-    "stipend": "",
-    "employment_type": "Full Time",
-    "applicants": null,
-    "industry": "",
-    "function": "",
-    "experience": "mid",
-    "score": 13,
-    "reasons": [
-      "Other match",
-      "Remote"
-    ]
-  },
-  {
-    "type": "job",
-    "title": "Anti-Cheat Developer - Minecraft Project",
-    "company": "Hypixel",
-    "location": "Worldwide / Remote",
-    "location_key": "remote",
-    "mode": "Remote",
-    "url": "https://himalayas.app/companies/hypixel/jobs/anti-cheat-developer-minecraft-project",
-    "source": "Himalayas",
-    "categories": [
-      "other"
-    ],
-    "posted_at": "2026-09-27T15:31:13+00:00",
-    "salary": "",
-    "stipend": "",
-    "employment_type": "Full Time",
-    "applicants": null,
-    "industry": "",
-    "function": "",
-    "experience": "mid",
-    "score": 13,
-    "reasons": [
-      "Other match",
-      "Remote"
-    ]
-  },
-  {
-    "type": "job",
-    "title": "B2B Technical Architects*",
-    "company": "IWConnect",
-    "location": "Worldwide / Remote",
-    "location_key": "remote",
-    "mode": "Remote",
-    "url": "https://himalayas.app/companies/iwconnect/jobs/b2b-technical-architects",
-    "source": "Himalayas",
-    "categories": [
-      "design"
-    ],
-    "posted_at": "2026-09-27T14:36:36+00:00",
-    "salary": "",
-    "stipend": "",
-    "employment_type": "Contractor",
-    "applicants": null,
-    "industry": "",
-    "function": "",
-    "experience": "mid",
-    "score": 13,
-    "reasons": [
-      "Design match",
-      "Remote"
-    ]
-  },
-  {
-    "type": "job",
-    "title": "Fractional CFO",
-    "company": "TechBiz Global",
-    "location": "Worldwide / Remote",
-    "location_key": "remote",
-    "mode": "Remote",
-    "url": "https://himalayas.app/companies/techbiz-global/jobs/fractional-cfo",
-    "source": "Himalayas",
-    "categories": [
-      "other"
-    ],
-    "posted_at": "2026-09-27T13:54:23+00:00",
-    "salary": "",
-    "stipend": "",
-    "employment_type": "Full Time",
-    "applicants": null,
-    "industry": "",
-    "function": "",
-    "experience": "unknown",
-    "score": 13,
-    "reasons": [
-      "Other match",
-      "Remote"
-    ]
-  },
-  {
-    "type": "job",
-    "title": "B2B Frontend & Backend Engineers*",
-    "company": "IWConnect",
-    "location": "Worldwide / Remote",
-    "location_key": "remote",
-    "mode": "Remote",
-    "url": "https://himalayas.app/companies/iwconnect/jobs/b2b-frontend-backend-engineers",
-    "source": "Himalayas",
-    "categories": [
-      "design"
-    ],
-    "posted_at": "2026-09-27T13:01:52+00:00",
-    "salary": "",
-    "stipend": "",
-    "employment_type": "Contractor",
-    "applicants": null,
-    "industry": "",
-    "function": "",
-    "experience": "unknown",
     "score": 13,
     "reasons": [
       "Design match",
@@ -14155,60 +10380,6 @@
     "industry": "",
     "function": "",
     "experience": "unknown",
-    "score": 10,
-    "reasons": [
-      "Design match"
-    ]
-  },
-  {
-    "type": "job",
-    "title": "Inside Sales (Home Consultant)",
-    "company": "HomeLight",
-    "location": "Mexico",
-    "location_key": "other",
-    "mode": "See listing",
-    "url": "https://jobicy.com/jobs/151655-inside-sales-home-consultant",
-    "source": "Jobicy",
-    "categories": [
-      "sales"
-    ],
-    "posted_at": "2026-09-27T07:20:20+00:00",
-    "salary": "",
-    "stipend": "",
-    "employment_type": [
-      "Full-Time"
-    ],
-    "applicants": null,
-    "industry": "",
-    "function": "",
-    "experience": "mid",
-    "score": 10,
-    "reasons": [
-      "Sales match"
-    ]
-  },
-  {
-    "type": "job",
-    "title": "Backend Engineer",
-    "company": "Dispatch",
-    "location": "USA",
-    "location_key": "other",
-    "mode": "See listing",
-    "url": "https://jobicy.com/jobs/151789-backend-engineer",
-    "source": "Jobicy",
-    "categories": [
-      "design"
-    ],
-    "posted_at": "2026-09-27T07:20:11+00:00",
-    "salary": "",
-    "stipend": "",
-    "employment_type": [
-      "Full-Time"
-    ],
-    "applicants": null,
-    "industry": "",
-    "function": "",
-    "experience": "mid",
     "score": 10,
     "reasons": [
       "Design match"
