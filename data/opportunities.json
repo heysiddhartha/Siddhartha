@@ -193,22 +193,21 @@
   },
   {
     "type": "job",
-    "title": "Project Manager",
-    "company": "Alpaca",
-    "location": "Worldwide / Remote",
-    "location_key": "remote",
+    "title": "Senior Technical Writer",
+    "company": "Hitachi",
+    "location": "India",
+    "location_key": "india",
     "mode": "Remote",
-    "url": "https://himalayas.app/companies/alpaca/jobs/project-manager-8614005158",
+    "url": "https://himalayas.app/companies/hitachi/jobs/senior-technical-writer",
     "source": "Himalayas",
     "categories": [
       "marketing",
       "content",
-      "social",
+      "creator",
       "sales",
-      "operations",
       "design"
     ],
-    "posted_at": "2026-10-02T17:38:36+00:00",
+    "posted_at": "2026-10-03T11:55:51+00:00",
     "salary": "",
     "stipend": "",
     "employment_type": "Full Time",
@@ -216,11 +215,11 @@
     "industry": "",
     "function": "",
     "experience": "fresher",
-    "score": 73,
+    "score": 72,
     "reasons": [
       "Marketing match",
       "Fresher-friendly signal",
-      "Remote"
+      "India signal"
     ]
   },
   {
@@ -879,6 +878,37 @@
   },
   {
     "type": "job",
+    "title": "Graphic Designer",
+    "company": "NightOwl Consulting",
+    "location": "Worldwide / Remote",
+    "location_key": "remote",
+    "mode": "Remote",
+    "url": "https://himalayas.app/companies/nightowl-consulting/jobs/graphic-designer",
+    "source": "Himalayas",
+    "categories": [
+      "marketing",
+      "content",
+      "social",
+      "sales",
+      "design"
+    ],
+    "posted_at": "2026-10-03T12:32:56+00:00",
+    "salary": "30000–45000 PHP / monthly",
+    "stipend": "",
+    "employment_type": "Full Time",
+    "applicants": null,
+    "industry": "",
+    "function": "",
+    "experience": "fresher",
+    "score": 63,
+    "reasons": [
+      "Marketing match",
+      "Fresher-friendly signal",
+      "Remote"
+    ]
+  },
+  {
+    "type": "job",
     "title": "Content Creator",
     "company": "VaynerMedia",
     "location": "Worldwide / Remote",
@@ -928,68 +958,6 @@
     "salary": "",
     "stipend": "",
     "employment_type": "Intern",
-    "applicants": null,
-    "industry": "",
-    "function": "",
-    "experience": "fresher",
-    "score": 63,
-    "reasons": [
-      "Marketing match",
-      "Fresher-friendly signal",
-      "Remote"
-    ]
-  },
-  {
-    "type": "job",
-    "title": "Open application",
-    "company": "Luscii",
-    "location": "Worldwide / Remote",
-    "location_key": "remote",
-    "mode": "Remote",
-    "url": "https://himalayas.app/companies/luscii/jobs/open-application",
-    "source": "Himalayas",
-    "categories": [
-      "marketing",
-      "social",
-      "sales",
-      "operations",
-      "design"
-    ],
-    "posted_at": "2026-10-02T16:51:38+00:00",
-    "salary": "",
-    "stipend": "",
-    "employment_type": "Full Time",
-    "applicants": null,
-    "industry": "",
-    "function": "",
-    "experience": "fresher",
-    "score": 63,
-    "reasons": [
-      "Marketing match",
-      "Fresher-friendly signal",
-      "Remote"
-    ]
-  },
-  {
-    "type": "job",
-    "title": "Lead Instructor: Enterprise",
-    "company": "Correlation One",
-    "location": "Worldwide / Remote",
-    "location_key": "remote",
-    "mode": "Remote",
-    "url": "https://himalayas.app/companies/correlation-one/jobs/lead-instructor-enterprise",
-    "source": "Himalayas",
-    "categories": [
-      "marketing",
-      "content",
-      "sales",
-      "operations",
-      "design"
-    ],
-    "posted_at": "2026-10-02T16:11:50+00:00",
-    "salary": "",
-    "stipend": "",
-    "employment_type": "Full Time",
     "applicants": null,
     "industry": "",
     "function": "",
@@ -1784,6 +1752,36 @@
   },
   {
     "type": "job",
+    "title": "Senior Project Manager - Generative AI Data Operations",
+    "company": "Welo Global",
+    "location": "India",
+    "location_key": "india",
+    "mode": "Remote",
+    "url": "https://himalayas.app/companies/welo-global/jobs/senior-project-manager-generative-ai-data-operations",
+    "source": "Himalayas",
+    "categories": [
+      "marketing",
+      "content",
+      "operations",
+      "design"
+    ],
+    "posted_at": "2026-10-02T11:15:07+00:00",
+    "salary": "",
+    "stipend": "",
+    "employment_type": "Full Time",
+    "applicants": null,
+    "industry": "",
+    "function": "",
+    "experience": "fresher",
+    "score": 62,
+    "reasons": [
+      "Marketing match",
+      "Fresher-friendly signal",
+      "India signal"
+    ]
+  },
+  {
+    "type": "job",
     "title": "Director, Product Marketing, GTM Strategy",
     "company": "Fleetio",
     "location": "USA",
@@ -2284,66 +2282,6 @@
   },
   {
     "type": "job",
-    "title": "Senior Account Executive - AV Integration",
-    "company": "Diversified",
-    "location": "Worldwide / Remote",
-    "location_key": "remote",
-    "mode": "Remote",
-    "url": "https://himalayas.app/companies/diversified/jobs/senior-account-executive-av-integration",
-    "source": "Himalayas",
-    "categories": [
-      "marketing",
-      "content",
-      "sales",
-      "design"
-    ],
-    "posted_at": "2026-10-02T17:59:35+00:00",
-    "salary": "100000–150000 USD / annual",
-    "stipend": "",
-    "employment_type": "Full Time",
-    "applicants": null,
-    "industry": "",
-    "function": "",
-    "experience": "fresher",
-    "score": 57,
-    "reasons": [
-      "Marketing match",
-      "Fresher-friendly signal",
-      "Remote"
-    ]
-  },
-  {
-    "type": "job",
-    "title": "Senior Associate, Investment Accounting",
-    "company": "Fortitude Re",
-    "location": "Worldwide / Remote",
-    "location_key": "remote",
-    "mode": "Remote",
-    "url": "https://himalayas.app/companies/fortitude-re/jobs/senior-associate-investment-accounting",
-    "source": "Himalayas",
-    "categories": [
-      "marketing",
-      "content",
-      "operations",
-      "design"
-    ],
-    "posted_at": "2026-10-02T16:43:03+00:00",
-    "salary": "100000–120000 USD / annual",
-    "stipend": "",
-    "employment_type": "Full Time",
-    "applicants": null,
-    "industry": "",
-    "function": "",
-    "experience": "fresher",
-    "score": 57,
-    "reasons": [
-      "Marketing match",
-      "Fresher-friendly signal",
-      "Remote"
-    ]
-  },
-  {
-    "type": "job",
     "title": "HR Operations Specialist",
     "company": "Law Offices of Sabrina Li",
     "location": "Remote",
@@ -2370,6 +2308,35 @@
       "Marketing match",
       "Fresher-friendly signal",
       "Remote"
+    ]
+  },
+  {
+    "type": "job",
+    "title": "Sales Executive: TT -Surat-Adajan",
+    "company": "Mondelēz International",
+    "location": "India",
+    "location_key": "india",
+    "mode": "Remote",
+    "url": "https://himalayas.app/companies/mondelez-international/jobs/sales-executive-tt-surat-adajan",
+    "source": "Himalayas",
+    "categories": [
+      "marketing",
+      "sales",
+      "design"
+    ],
+    "posted_at": "2026-10-03T15:24:40+00:00",
+    "salary": "",
+    "stipend": "",
+    "employment_type": "Full Time",
+    "applicants": null,
+    "industry": "",
+    "function": "",
+    "experience": "fresher",
+    "score": 56,
+    "reasons": [
+      "Marketing match",
+      "Fresher-friendly signal",
+      "India signal"
     ]
   },
   {
@@ -2831,6 +2798,36 @@
   },
   {
     "type": "job",
+    "title": "Marketing Copywriter",
+    "company": "NightOwl Consulting",
+    "location": "Worldwide / Remote",
+    "location_key": "remote",
+    "mode": "Remote",
+    "url": "https://himalayas.app/companies/nightowl-consulting/jobs/marketing-copywriter",
+    "source": "Himalayas",
+    "categories": [
+      "marketing",
+      "content",
+      "social",
+      "creator",
+      "design"
+    ],
+    "posted_at": "2026-10-03T13:39:07+00:00",
+    "salary": "30000–40000 PHP / monthly",
+    "stipend": "",
+    "employment_type": "Full Time",
+    "applicants": null,
+    "industry": "",
+    "function": "",
+    "experience": "mid",
+    "score": 53,
+    "reasons": [
+      "Marketing match",
+      "Remote"
+    ]
+  },
+  {
+    "type": "job",
     "title": "Data Collection Operations Specialist – AI Training Data (Contract)",
     "company": "Your Personal AI",
     "location": "Worldwide / Remote",
@@ -3131,246 +3128,6 @@
   },
   {
     "type": "job",
-    "title": "Group Product Manager",
-    "company": "Digible",
-    "location": "Worldwide / Remote",
-    "location_key": "remote",
-    "mode": "Remote",
-    "url": "https://himalayas.app/companies/digible/jobs/group-product-manager",
-    "source": "Himalayas",
-    "categories": [
-      "marketing",
-      "content",
-      "operations",
-      "design"
-    ],
-    "posted_at": "2026-10-02T21:27:58+00:00",
-    "salary": "170000–200000 USD / annual",
-    "stipend": "",
-    "employment_type": "Full Time",
-    "applicants": null,
-    "industry": "",
-    "function": "",
-    "experience": "fresher",
-    "score": 53,
-    "reasons": [
-      "Marketing match",
-      "Fresher-friendly signal",
-      "Remote"
-    ]
-  },
-  {
-    "type": "job",
-    "title": "Editorial Project Manager",
-    "company": "Revpanda",
-    "location": "Worldwide / Remote",
-    "location_key": "remote",
-    "mode": "Remote",
-    "url": "https://himalayas.app/companies/revpanda/jobs/editorial-project-manager",
-    "source": "Himalayas",
-    "categories": [
-      "marketing",
-      "content",
-      "creator",
-      "operations"
-    ],
-    "posted_at": "2026-10-02T18:55:11+00:00",
-    "salary": "",
-    "stipend": "",
-    "employment_type": "Full Time",
-    "applicants": null,
-    "industry": "",
-    "function": "",
-    "experience": "fresher",
-    "score": 53,
-    "reasons": [
-      "Marketing match",
-      "Fresher-friendly signal",
-      "Remote"
-    ]
-  },
-  {
-    "type": "job",
-    "title": "Social Media Content Creator & Video Editor",
-    "company": "Conexwest",
-    "location": "Worldwide / Remote",
-    "location_key": "remote",
-    "mode": "Remote",
-    "url": "https://himalayas.app/companies/conexwest/jobs/social-media-content-creator-video-editor-3685653955",
-    "source": "Himalayas",
-    "categories": [
-      "marketing",
-      "content",
-      "social",
-      "creator",
-      "design"
-    ],
-    "posted_at": "2026-10-02T18:26:03+00:00",
-    "salary": "1500–2000 USD / monthly",
-    "stipend": "",
-    "employment_type": "Contractor",
-    "applicants": null,
-    "industry": "",
-    "function": "",
-    "experience": "unknown",
-    "score": 53,
-    "reasons": [
-      "Marketing match",
-      "Remote"
-    ]
-  },
-  {
-    "type": "job",
-    "title": "Head of AI Expansion",
-    "company": "Tether Operations Limited",
-    "location": "Worldwide / Remote",
-    "location_key": "remote",
-    "mode": "Remote",
-    "url": "https://himalayas.app/companies/tether-operations-limited/jobs/head-of-ai-expansion",
-    "source": "Himalayas",
-    "categories": [
-      "marketing",
-      "social",
-      "sales",
-      "design"
-    ],
-    "posted_at": "2026-10-02T18:18:10+00:00",
-    "salary": "",
-    "stipend": "",
-    "employment_type": "Full Time",
-    "applicants": null,
-    "industry": "",
-    "function": "",
-    "experience": "fresher",
-    "score": 53,
-    "reasons": [
-      "Marketing match",
-      "Fresher-friendly signal",
-      "Remote"
-    ]
-  },
-  {
-    "type": "job",
-    "title": "Senior Site Reliability Engineer",
-    "company": "N-iX",
-    "location": "Worldwide / Remote",
-    "location_key": "remote",
-    "mode": "Remote",
-    "url": "https://himalayas.app/companies/n-ix/jobs/senior-site-reliability-engineer-1982529608",
-    "source": "Himalayas",
-    "categories": [
-      "marketing",
-      "content",
-      "operations",
-      "design"
-    ],
-    "posted_at": "2026-10-02T16:31:50+00:00",
-    "salary": "",
-    "stipend": "",
-    "employment_type": "Full Time",
-    "applicants": null,
-    "industry": "",
-    "function": "",
-    "experience": "fresher",
-    "score": 53,
-    "reasons": [
-      "Marketing match",
-      "Fresher-friendly signal",
-      "Remote"
-    ]
-  },
-  {
-    "type": "job",
-    "title": "Financial Planning & Analysis Manager",
-    "company": "Lexitas",
-    "location": "Worldwide / Remote",
-    "location_key": "remote",
-    "mode": "Remote",
-    "url": "https://himalayas.app/companies/lexitas/jobs/financial-planning-analysis-manager",
-    "source": "Himalayas",
-    "categories": [
-      "marketing",
-      "sales",
-      "operations",
-      "design"
-    ],
-    "posted_at": "2026-10-02T15:03:39+00:00",
-    "salary": "",
-    "stipend": "",
-    "employment_type": "Full Time",
-    "applicants": null,
-    "industry": "",
-    "function": "",
-    "experience": "fresher",
-    "score": 53,
-    "reasons": [
-      "Marketing match",
-      "Fresher-friendly signal",
-      "Remote"
-    ]
-  },
-  {
-    "type": "job",
-    "title": "Head of Marketing",
-    "company": "Revpanda",
-    "location": "Worldwide / Remote",
-    "location_key": "remote",
-    "mode": "Remote",
-    "url": "https://himalayas.app/companies/revpanda/jobs/head-of-marketing",
-    "source": "Himalayas",
-    "categories": [
-      "marketing",
-      "content",
-      "social",
-      "sales",
-      "operations"
-    ],
-    "posted_at": "2026-10-02T15:03:28+00:00",
-    "salary": "",
-    "stipend": "",
-    "employment_type": "Full Time",
-    "applicants": null,
-    "industry": "",
-    "function": "",
-    "experience": "mid",
-    "score": 53,
-    "reasons": [
-      "Marketing match",
-      "Remote"
-    ]
-  },
-  {
-    "type": "job",
-    "title": "Account Manager Assistant",
-    "company": "CIO Landing",
-    "location": "Worldwide / Remote",
-    "location_key": "remote",
-    "mode": "Remote",
-    "url": "https://himalayas.app/companies/cio-landing/jobs/account-manager-assistant",
-    "source": "Himalayas",
-    "categories": [
-      "marketing",
-      "content",
-      "sales",
-      "operations"
-    ],
-    "posted_at": "2026-10-02T13:42:09+00:00",
-    "salary": "",
-    "stipend": "",
-    "employment_type": "Part Time",
-    "applicants": null,
-    "industry": "",
-    "function": "",
-    "experience": "fresher",
-    "score": 53,
-    "reasons": [
-      "Marketing match",
-      "Fresher-friendly signal",
-      "Remote"
-    ]
-  },
-  {
-    "type": "job",
     "title": "Enterprise Sales Development Representative",
     "company": "Toptal",
     "location": "Remote",
@@ -3457,6 +3214,93 @@
       "Marketing match",
       "Fresher-friendly signal",
       "Remote"
+    ]
+  },
+  {
+    "type": "job",
+    "title": "Sales Development Representative",
+    "company": "Agara",
+    "location": "India",
+    "location_key": "india",
+    "mode": "Remote",
+    "url": "https://himalayas.app/companies/agara/jobs/sales-development-representative",
+    "source": "Himalayas",
+    "categories": [
+      "marketing",
+      "social",
+      "sales"
+    ],
+    "posted_at": "2026-10-03T15:40:13+00:00",
+    "salary": "",
+    "stipend": "",
+    "employment_type": "Full Time",
+    "applicants": null,
+    "industry": "",
+    "function": "",
+    "experience": "fresher",
+    "score": 52,
+    "reasons": [
+      "Marketing match",
+      "Fresher-friendly signal",
+      "India signal"
+    ]
+  },
+  {
+    "type": "job",
+    "title": "Senior Product Manager",
+    "company": "Agara",
+    "location": "India",
+    "location_key": "india",
+    "mode": "Remote",
+    "url": "https://himalayas.app/companies/agara/jobs/senior-product-manager",
+    "source": "Himalayas",
+    "categories": [
+      "marketing",
+      "sales",
+      "operations"
+    ],
+    "posted_at": "2026-10-03T15:09:38+00:00",
+    "salary": "",
+    "stipend": "",
+    "employment_type": "Full Time",
+    "applicants": null,
+    "industry": "",
+    "function": "",
+    "experience": "fresher",
+    "score": 52,
+    "reasons": [
+      "Marketing match",
+      "Fresher-friendly signal",
+      "India signal"
+    ]
+  },
+  {
+    "type": "job",
+    "title": "Manager, Treasury Governance & Strategies",
+    "company": "Mashreq",
+    "location": "India",
+    "location_key": "india",
+    "mode": "Remote",
+    "url": "https://himalayas.app/companies/mashreq/jobs/manager-treasury-governance-strategies",
+    "source": "Himalayas",
+    "categories": [
+      "sales",
+      "operations",
+      "design"
+    ],
+    "posted_at": "2026-10-03T12:40:03+00:00",
+    "salary": "",
+    "stipend": "",
+    "employment_type": "Full Time",
+    "applicants": null,
+    "industry": "",
+    "function": "",
+    "experience": "fresher",
+    "score": 52,
+    "reasons": [
+      "Sales match",
+      "Fresher-friendly signal",
+      "India signal"
     ]
   },
   {
@@ -5866,60 +5710,30 @@
   },
   {
     "type": "job",
-    "title": "AI Finance/Accounting Specialist",
-    "company": "TabAI",
-    "location": "Worldwide / Remote",
-    "location_key": "remote",
+    "title": "Data Center Operations Specialist( Offshore)",
+    "company": "Dautom",
+    "location": "India",
+    "location_key": "india",
     "mode": "Remote",
-    "url": "https://himalayas.app/companies/tabai/jobs/ai-finance-accounting-specialist",
+    "url": "https://himalayas.app/companies/dautom/jobs/data-center-operations-specialist-offshore",
     "source": "Himalayas",
     "categories": [
       "marketing",
-      "content",
       "operations"
     ],
-    "posted_at": "2026-10-02T14:17:51+00:00",
-    "salary": "4–8 USD / hourly",
+    "posted_at": "2026-10-03T14:25:55+00:00",
+    "salary": "",
     "stipend": "",
     "employment_type": "Full Time",
     "applicants": null,
     "industry": "",
     "function": "",
     "experience": "fresher",
-    "score": 47,
+    "score": 46,
     "reasons": [
       "Marketing match",
       "Fresher-friendly signal",
-      "Remote"
-    ]
-  },
-  {
-    "type": "job",
-    "title": "Digital Workplace & Automation Specialist",
-    "company": "Dreem Health",
-    "location": "United States",
-    "location_key": "remote",
-    "mode": "Remote",
-    "url": "https://remoteOK.com/remote-jobs/remote-digital-workplace-automation-specialist-dreem-health-1136948",
-    "source": "Remote OK",
-    "categories": [
-      "marketing",
-      "sales",
-      "operations",
-      "design"
-    ],
-    "posted_at": "2026-08-18T16:00:22+00:00",
-    "salary": "",
-    "stipend": "",
-    "employment_type": "",
-    "applicants": null,
-    "industry": "",
-    "function": "",
-    "experience": "mid",
-    "score": 47,
-    "reasons": [
-      "Marketing match",
-      "Remote"
+      "India signal"
     ]
   },
   {
@@ -6447,6 +6261,93 @@
   },
   {
     "type": "job",
+    "title": "Marketing Assistant",
+    "company": "NightOwl Consulting",
+    "location": "Worldwide / Remote",
+    "location_key": "remote",
+    "mode": "Remote",
+    "url": "https://himalayas.app/companies/nightowl-consulting/jobs/marketing-assistant",
+    "source": "Himalayas",
+    "categories": [
+      "marketing",
+      "content",
+      "social",
+      "design"
+    ],
+    "posted_at": "2026-10-03T12:26:20+00:00",
+    "salary": "40000–55000 PHP / monthly",
+    "stipend": "",
+    "employment_type": "Full Time",
+    "applicants": null,
+    "industry": "",
+    "function": "",
+    "experience": "unknown",
+    "score": 43,
+    "reasons": [
+      "Marketing match",
+      "Remote"
+    ]
+  },
+  {
+    "type": "job",
+    "title": "Media Buyer",
+    "company": "Growe Talents",
+    "location": "Worldwide / Remote",
+    "location_key": "remote",
+    "mode": "Remote",
+    "url": "https://himalayas.app/companies/growe-talents/jobs/media-buyer",
+    "source": "Himalayas",
+    "categories": [
+      "marketing",
+      "content",
+      "social",
+      "design"
+    ],
+    "posted_at": "2026-10-03T12:22:18+00:00",
+    "salary": "",
+    "stipend": "",
+    "employment_type": "Full Time",
+    "applicants": null,
+    "industry": "",
+    "function": "",
+    "experience": "mid",
+    "score": 43,
+    "reasons": [
+      "Marketing match",
+      "Remote"
+    ]
+  },
+  {
+    "type": "job",
+    "title": "Developer Advocate",
+    "company": "Tarteel AI",
+    "location": "Worldwide / Remote",
+    "location_key": "remote",
+    "mode": "Remote",
+    "url": "https://himalayas.app/companies/tarteel-ai/jobs/developer-advocate",
+    "source": "Himalayas",
+    "categories": [
+      "content",
+      "social",
+      "design"
+    ],
+    "posted_at": "2026-10-03T12:00:02+00:00",
+    "salary": "70000–80000 USD / annual",
+    "stipend": "",
+    "employment_type": "Full Time",
+    "applicants": null,
+    "industry": "",
+    "function": "",
+    "experience": "fresher",
+    "score": 43,
+    "reasons": [
+      "Content match",
+      "Fresher-friendly signal",
+      "Remote"
+    ]
+  },
+  {
+    "type": "job",
     "title": "Software Engineer/C Developer-PGD",
     "company": "enterprisedb",
     "location": "Worldwide / Remote",
@@ -6470,6 +6371,35 @@
     "score": 43,
     "reasons": [
       "Content match",
+      "Fresher-friendly signal",
+      "Remote"
+    ]
+  },
+  {
+    "type": "job",
+    "title": "Estimator/ Engineer",
+    "company": "NightOwl Consulting",
+    "location": "Worldwide / Remote",
+    "location_key": "remote",
+    "mode": "Remote",
+    "url": "https://himalayas.app/companies/nightowl-consulting/jobs/estimator-engineer",
+    "source": "Himalayas",
+    "categories": [
+      "sales",
+      "operations",
+      "design"
+    ],
+    "posted_at": "2026-10-03T09:06:27+00:00",
+    "salary": "80000–100000 PHP / monthly",
+    "stipend": "",
+    "employment_type": "Full Time",
+    "applicants": null,
+    "industry": "",
+    "function": "",
+    "experience": "fresher",
+    "score": 43,
+    "reasons": [
+      "Sales match",
       "Fresher-friendly signal",
       "Remote"
     ]
@@ -7056,35 +6986,6 @@
   },
   {
     "type": "job",
-    "title": "Videoproducer & Content Creator (m/w/d)",
-    "company": "Life Trust GmbH & Co. KG",
-    "location": "Worldwide / Remote",
-    "location_key": "remote",
-    "mode": "Remote",
-    "url": "https://himalayas.app/companies/life-trust-gmbh-co-kg/jobs/videoproducer-content-creator-m-w-d",
-    "source": "Himalayas",
-    "categories": [
-      "content",
-      "social",
-      "creator",
-      "design"
-    ],
-    "posted_at": "2026-10-02T21:13:50+00:00",
-    "salary": "",
-    "stipend": "",
-    "employment_type": "Part Time",
-    "applicants": null,
-    "industry": "",
-    "function": "",
-    "experience": "unknown",
-    "score": 43,
-    "reasons": [
-      "Content match",
-      "Remote"
-    ]
-  },
-  {
-    "type": "job",
     "title": "Affiliate Marketer & Promo Partner (Remote, Commission-Based)",
     "company": "WESTMEDIA AGENCY",
     "location": "Worldwide / Remote",
@@ -7138,296 +7039,6 @@
     "score": 43,
     "reasons": [
       "Marketing match",
-      "Remote"
-    ]
-  },
-  {
-    "type": "job",
-    "title": "Business Development Manager Metalworking Fluids",
-    "company": "Q8",
-    "location": "Worldwide / Remote",
-    "location_key": "remote",
-    "mode": "Remote",
-    "url": "https://himalayas.app/companies/q8/jobs/business-development-manager-metalworking-fluids",
-    "source": "Himalayas",
-    "categories": [
-      "marketing",
-      "sales",
-      "operations"
-    ],
-    "posted_at": "2026-10-02T18:43:15+00:00",
-    "salary": "",
-    "stipend": "",
-    "employment_type": "Full Time",
-    "applicants": null,
-    "industry": "",
-    "function": "",
-    "experience": "fresher",
-    "score": 43,
-    "reasons": [
-      "Marketing match",
-      "Fresher-friendly signal",
-      "Remote"
-    ]
-  },
-  {
-    "type": "job",
-    "title": "Online English Lesson Content Developer",
-    "company": "Novakid School",
-    "location": "Worldwide / Remote",
-    "location_key": "remote",
-    "mode": "Remote",
-    "url": "https://himalayas.app/companies/novakid-school/jobs/online-english-lesson-content-developer",
-    "source": "Himalayas",
-    "categories": [
-      "content",
-      "creator",
-      "design"
-    ],
-    "posted_at": "2026-10-02T18:41:01+00:00",
-    "salary": "",
-    "stipend": "",
-    "employment_type": "Full Time",
-    "applicants": null,
-    "industry": "",
-    "function": "",
-    "experience": "fresher",
-    "score": 43,
-    "reasons": [
-      "Content match",
-      "Fresher-friendly signal",
-      "Remote"
-    ]
-  },
-  {
-    "type": "job",
-    "title": "2D Animator",
-    "company": "TransPerfect",
-    "location": "Worldwide / Remote",
-    "location_key": "remote",
-    "mode": "Remote",
-    "url": "https://himalayas.app/companies/transperfect/jobs/2d-animator",
-    "source": "Himalayas",
-    "categories": [
-      "marketing",
-      "content",
-      "creator",
-      "design"
-    ],
-    "posted_at": "2026-10-02T17:42:22+00:00",
-    "salary": "",
-    "stipend": "",
-    "employment_type": "Contractor",
-    "applicants": null,
-    "industry": "",
-    "function": "",
-    "experience": "mid",
-    "score": 43,
-    "reasons": [
-      "Marketing match",
-      "Remote"
-    ]
-  },
-  {
-    "type": "job",
-    "title": "Senior Software Engineer (Rust)",
-    "company": "Nodeworthy",
-    "location": "Worldwide / Remote",
-    "location_key": "remote",
-    "mode": "Remote",
-    "url": "https://himalayas.app/companies/nodeworthy/jobs/senior-software-engineer-rust",
-    "source": "Himalayas",
-    "categories": [
-      "marketing",
-      "sales",
-      "design"
-    ],
-    "posted_at": "2026-10-02T15:58:35+00:00",
-    "salary": "",
-    "stipend": "",
-    "employment_type": "Full Time",
-    "applicants": null,
-    "industry": "",
-    "function": "",
-    "experience": "fresher",
-    "score": 43,
-    "reasons": [
-      "Marketing match",
-      "Fresher-friendly signal",
-      "Remote"
-    ]
-  },
-  {
-    "type": "job",
-    "title": "FP&A Manager",
-    "company": "Mighty Networks",
-    "location": "Worldwide / Remote",
-    "location_key": "remote",
-    "mode": "Remote",
-    "url": "https://himalayas.app/companies/mighty-networks/jobs/fp-a-manager",
-    "source": "Himalayas",
-    "categories": [
-      "marketing",
-      "social",
-      "creator",
-      "sales"
-    ],
-    "posted_at": "2026-10-02T15:50:58+00:00",
-    "salary": "130000–160000 USD / annual",
-    "stipend": "",
-    "employment_type": "Full Time",
-    "applicants": null,
-    "industry": "",
-    "function": "",
-    "experience": "mid",
-    "score": 43,
-    "reasons": [
-      "Marketing match",
-      "Remote"
-    ]
-  },
-  {
-    "type": "job",
-    "title": "Sales / Revenue / CS Operations Expert - Remote",
-    "company": "Xperteez Technology",
-    "location": "Worldwide / Remote",
-    "location_key": "remote",
-    "mode": "Remote",
-    "url": "https://himalayas.app/companies/xperteez-technology/jobs/sales-revenue-cs-operations-expert-remote",
-    "source": "Himalayas",
-    "categories": [
-      "marketing",
-      "sales",
-      "operations",
-      "design"
-    ],
-    "posted_at": "2026-10-02T15:25:28+00:00",
-    "salary": "",
-    "stipend": "",
-    "employment_type": "Contractor",
-    "applicants": null,
-    "industry": "",
-    "function": "",
-    "experience": "unknown",
-    "score": 43,
-    "reasons": [
-      "Marketing match",
-      "Remote"
-    ]
-  },
-  {
-    "type": "job",
-    "title": "Technical Delivery & Operations Lead - Sportsbook Engineering",
-    "company": "Hard Rock Digital",
-    "location": "Worldwide / Remote",
-    "location_key": "remote",
-    "mode": "Remote",
-    "url": "https://himalayas.app/companies/hard-rock-digital/jobs/technical-delivery-operations-lead-sportsbook-engineering",
-    "source": "Himalayas",
-    "categories": [
-      "marketing",
-      "sales",
-      "operations"
-    ],
-    "posted_at": "2026-10-02T15:07:56+00:00",
-    "salary": "",
-    "stipend": "",
-    "employment_type": "Full Time",
-    "applicants": null,
-    "industry": "",
-    "function": "",
-    "experience": "fresher",
-    "score": 43,
-    "reasons": [
-      "Marketing match",
-      "Fresher-friendly signal",
-      "Remote"
-    ]
-  },
-  {
-    "type": "job",
-    "title": "3D Generalist",
-    "company": "Zack D. Films LLC",
-    "location": "Worldwide / Remote",
-    "location_key": "remote",
-    "mode": "Remote",
-    "url": "https://himalayas.app/companies/zack-d-films-llc/jobs/3d-generalist",
-    "source": "Himalayas",
-    "categories": [
-      "content",
-      "social",
-      "design"
-    ],
-    "posted_at": "2026-10-02T15:04:33+00:00",
-    "salary": "",
-    "stipend": "",
-    "employment_type": "Contractor",
-    "applicants": null,
-    "industry": "",
-    "function": "",
-    "experience": "fresher",
-    "score": 43,
-    "reasons": [
-      "Content match",
-      "Fresher-friendly signal",
-      "Remote"
-    ]
-  },
-  {
-    "type": "job",
-    "title": "Digital Analytics Engineer",
-    "company": "TransPerfect",
-    "location": "Worldwide / Remote",
-    "location_key": "remote",
-    "mode": "Remote",
-    "url": "https://himalayas.app/companies/transperfect/jobs/digital-analytics-engineer",
-    "source": "Himalayas",
-    "categories": [
-      "marketing",
-      "content",
-      "sales",
-      "design"
-    ],
-    "posted_at": "2026-10-02T14:58:34+00:00",
-    "salary": "",
-    "stipend": "",
-    "employment_type": "Contractor",
-    "applicants": null,
-    "industry": "",
-    "function": "",
-    "experience": "unknown",
-    "score": 43,
-    "reasons": [
-      "Marketing match",
-      "Remote"
-    ]
-  },
-  {
-    "type": "job",
-    "title": "Manager, VSL Customer Success",
-    "company": "Cambium Learning Group",
-    "location": "Worldwide / Remote",
-    "location_key": "remote",
-    "mode": "Remote",
-    "url": "https://himalayas.app/companies/cambium-learning-group/jobs/manager-vsl-customer-success",
-    "source": "Himalayas",
-    "categories": [
-      "marketing",
-      "sales",
-      "operations"
-    ],
-    "posted_at": "2026-10-02T14:19:53+00:00",
-    "salary": "",
-    "stipend": "",
-    "employment_type": "Full Time",
-    "applicants": null,
-    "industry": "",
-    "function": "",
-    "experience": "fresher",
-    "score": 43,
-    "reasons": [
-      "Marketing match",
-      "Fresher-friendly signal",
       "Remote"
     ]
   },
@@ -7578,31 +7189,58 @@
   },
   {
     "type": "job",
-    "title": "Team Lead Education",
-    "company": "Chaos",
-    "location": "Remote",
-    "location_key": "remote",
+    "title": "Jira Engineer(Senior) | Offshore",
+    "company": "Photon",
+    "location": "India",
+    "location_key": "india",
     "mode": "Remote",
-    "url": "https://remoteOK.com/remote-jobs/remote-team-lead-education-chaos-1136949",
-    "source": "Remote OK",
+    "url": "https://himalayas.app/companies/photon/jobs/jira-engineer-senior-offshore",
+    "source": "Himalayas",
+    "categories": [
+      "operations",
+      "design"
+    ],
+    "posted_at": "2026-10-03T13:48:57+00:00",
+    "salary": "",
+    "stipend": "",
+    "employment_type": "Full Time",
+    "applicants": null,
+    "industry": "",
+    "function": "",
+    "experience": "fresher",
+    "score": 42,
+    "reasons": [
+      "Operations match",
+      "Fresher-friendly signal",
+      "India signal"
+    ]
+  },
+  {
+    "type": "job",
+    "title": "Tech Lead Front End | Offshore | Columbia",
+    "company": "Photon",
+    "location": "India",
+    "location_key": "india",
+    "mode": "Remote",
+    "url": "https://himalayas.app/companies/photon/jobs/tech-lead-front-end-offshore-columbia",
+    "source": "Himalayas",
     "categories": [
       "marketing",
-      "content",
       "sales",
       "design"
     ],
-    "posted_at": "2026-08-18T16:00:30+00:00",
+    "posted_at": "2026-10-03T13:13:05+00:00",
     "salary": "",
     "stipend": "",
-    "employment_type": "",
+    "employment_type": "Full Time",
     "applicants": null,
     "industry": "",
     "function": "",
     "experience": "mid",
-    "score": 43,
+    "score": 42,
     "reasons": [
       "Marketing match",
-      "Remote"
+      "India signal"
     ]
   },
   {
@@ -10085,35 +9723,6 @@
   },
   {
     "type": "job",
-    "title": "AVP, Investment Operations",
-    "company": "Fortitude Re",
-    "location": "Worldwide / Remote",
-    "location_key": "remote",
-    "mode": "Remote",
-    "url": "https://himalayas.app/companies/fortitude-re/jobs/avp-investment-operations",
-    "source": "Himalayas",
-    "categories": [
-      "marketing",
-      "content",
-      "operations"
-    ],
-    "posted_at": "2026-10-02T15:31:22+00:00",
-    "salary": "145000–165000 USD / annual",
-    "stipend": "",
-    "employment_type": "Full Time",
-    "applicants": null,
-    "industry": "",
-    "function": "",
-    "experience": "junior",
-    "score": 39,
-    "reasons": [
-      "Marketing match",
-      "Early-career signal",
-      "Remote"
-    ]
-  },
-  {
-    "type": "job",
     "title": "Principal Central Monitor-India",
     "company": "Indero",
     "location": "India",
@@ -10278,6 +9887,62 @@
       "Operations match",
       "Early-career signal",
       "India signal"
+    ]
+  },
+  {
+    "type": "job",
+    "title": "🌎 Associate Data Partnerships Manager",
+    "company": "Xperteez Technology",
+    "location": "Worldwide / Remote",
+    "location_key": "remote",
+    "mode": "Remote",
+    "url": "https://himalayas.app/companies/xperteez-technology/jobs/associate-data-partnerships-manager",
+    "source": "Himalayas",
+    "categories": [
+      "marketing",
+      "sales"
+    ],
+    "posted_at": "2026-10-03T12:02:49+00:00",
+    "salary": "50–70 USD / hourly",
+    "stipend": "",
+    "employment_type": "Full Time",
+    "applicants": null,
+    "industry": "",
+    "function": "",
+    "experience": "fresher",
+    "score": 37,
+    "reasons": [
+      "Marketing match",
+      "Fresher-friendly signal",
+      "Remote"
+    ]
+  },
+  {
+    "type": "job",
+    "title": "Merchandising Coordinator",
+    "company": "NightOwl Consulting",
+    "location": "Worldwide / Remote",
+    "location_key": "remote",
+    "mode": "Remote",
+    "url": "https://himalayas.app/companies/nightowl-consulting/jobs/merchandising-coordinator",
+    "source": "Himalayas",
+    "categories": [
+      "marketing",
+      "sales",
+      "design"
+    ],
+    "posted_at": "2026-10-03T11:17:59+00:00",
+    "salary": "40000–50000 PHP / monthly",
+    "stipend": "",
+    "employment_type": "Full Time",
+    "applicants": null,
+    "industry": "",
+    "function": "",
+    "experience": "unknown",
+    "score": 37,
+    "reasons": [
+      "Marketing match",
+      "Remote"
     ]
   },
   {
@@ -10529,90 +10194,6 @@
     "reasons": [
       "Marketing match",
       "Fresher-friendly signal",
-      "Remote"
-    ]
-  },
-  {
-    "type": "job",
-    "title": "Customer Operations Specialist",
-    "company": "Clario",
-    "location": "Worldwide / Remote",
-    "location_key": "remote",
-    "mode": "Remote",
-    "url": "https://himalayas.app/companies/clario/jobs/customer-operations-specialist",
-    "source": "Himalayas",
-    "categories": [
-      "social",
-      "operations"
-    ],
-    "posted_at": "2026-10-02T15:22:26+00:00",
-    "salary": "",
-    "stipend": "",
-    "employment_type": "Contractor",
-    "applicants": null,
-    "industry": "",
-    "function": "",
-    "experience": "fresher",
-    "score": 37,
-    "reasons": [
-      "Social match",
-      "Fresher-friendly signal",
-      "Remote"
-    ]
-  },
-  {
-    "type": "job",
-    "title": "Customer Support Specialist",
-    "company": "Cargomatic",
-    "location": "Worldwide / Remote",
-    "location_key": "remote",
-    "mode": "Remote",
-    "url": "https://himalayas.app/companies/cargomatic/jobs/customer-support-specialist",
-    "source": "Himalayas",
-    "categories": [
-      "operations",
-      "design"
-    ],
-    "posted_at": "2026-10-02T14:15:51+00:00",
-    "salary": "",
-    "stipend": "",
-    "employment_type": "Full Time",
-    "applicants": null,
-    "industry": "",
-    "function": "",
-    "experience": "fresher",
-    "score": 37,
-    "reasons": [
-      "Operations match",
-      "Fresher-friendly signal",
-      "Remote"
-    ]
-  },
-  {
-    "type": "job",
-    "title": "Marketing Operations Specialist",
-    "company": "Engine",
-    "location": "Remote - US",
-    "location_key": "remote",
-    "mode": "Remote",
-    "url": "https://remoteOK.com/remote-jobs/remote-marketing-operations-specialist-engine-1136950",
-    "source": "Remote OK",
-    "categories": [
-      "marketing",
-      "sales",
-      "operations"
-    ],
-    "posted_at": "2026-08-18T16:00:57+00:00",
-    "salary": "",
-    "stipend": "",
-    "employment_type": "",
-    "applicants": null,
-    "industry": "",
-    "function": "",
-    "experience": "mid",
-    "score": 37,
-    "reasons": [
-      "Marketing match",
       "Remote"
     ]
   },
@@ -11096,6 +10677,62 @@
     "reasons": [
       "Marketing match",
       "Fresher-friendly signal"
+    ]
+  },
+  {
+    "type": "job",
+    "title": "Junior Commissions Specialist",
+    "company": "NightOwl Consulting",
+    "location": "Worldwide / Remote",
+    "location_key": "remote",
+    "mode": "Remote",
+    "url": "https://himalayas.app/companies/nightowl-consulting/jobs/junior-commissions-specialist",
+    "source": "Himalayas",
+    "categories": [
+      "sales",
+      "design"
+    ],
+    "posted_at": "2026-10-03T14:59:42+00:00",
+    "salary": "35000–55000 PHP / monthly",
+    "stipend": "",
+    "employment_type": "Full Time",
+    "applicants": null,
+    "industry": "",
+    "function": "",
+    "experience": "junior",
+    "score": 33,
+    "reasons": [
+      "Sales match",
+      "Early-career signal",
+      "Remote"
+    ]
+  },
+  {
+    "type": "job",
+    "title": "Senior Sales Engineer",
+    "company": "Nebius",
+    "location": "Worldwide / Remote",
+    "location_key": "remote",
+    "mode": "Remote",
+    "url": "https://himalayas.app/companies/nebius/jobs/senior-sales-engineer",
+    "source": "Himalayas",
+    "categories": [
+      "marketing",
+      "content",
+      "sales"
+    ],
+    "posted_at": "2026-10-03T11:36:49+00:00",
+    "salary": "",
+    "stipend": "",
+    "employment_type": "Full Time",
+    "applicants": null,
+    "industry": "",
+    "function": "",
+    "experience": "mid",
+    "score": 33,
+    "reasons": [
+      "Marketing match",
+      "Remote"
     ]
   },
   {
@@ -12164,217 +11801,21 @@
   },
   {
     "type": "job",
-    "title": "Grants Lead",
-    "company": "YLabs",
-    "location": "Worldwide / Remote",
+    "title": "Junior Crypto Analyst & Trader",
+    "company": "Empire Assets",
+    "location": "Remote",
     "location_key": "remote",
     "mode": "Remote",
-    "url": "https://himalayas.app/companies/ylabs/jobs/grants-lead",
-    "source": "Himalayas",
-    "categories": [
-      "operations",
-      "design"
-    ],
-    "posted_at": "2026-10-02T18:25:11+00:00",
-    "salary": "38181–55909.09 USD / annual",
-    "stipend": "",
-    "employment_type": "Full Time",
-    "applicants": null,
-    "industry": "",
-    "function": "",
-    "experience": "fresher",
-    "score": 33,
-    "reasons": [
-      "Operations match",
-      "Fresher-friendly signal",
-      "Remote"
-    ]
-  },
-  {
-    "type": "job",
-    "title": "Senior ERP Product Owner and Customer Support - Orion",
-    "company": "Orion Group",
-    "location": "Worldwide / Remote",
-    "location_key": "remote",
-    "mode": "Remote",
-    "url": "https://himalayas.app/companies/orion-group/jobs/senior-erp-product-owner-and-customer-support-orion",
-    "source": "Himalayas",
-    "categories": [
-      "operations",
-      "design"
-    ],
-    "posted_at": "2026-10-02T17:37:25+00:00",
-    "salary": "155000–155000 USD / annual",
-    "stipend": "",
-    "employment_type": "Full Time",
-    "applicants": null,
-    "industry": "",
-    "function": "",
-    "experience": "fresher",
-    "score": 33,
-    "reasons": [
-      "Operations match",
-      "Fresher-friendly signal",
-      "Remote"
-    ]
-  },
-  {
-    "type": "job",
-    "title": "Senior Ecommerce Manager, Post-Purchase",
-    "company": "Grüns",
-    "location": "Worldwide / Remote",
-    "location_key": "remote",
-    "mode": "Remote",
-    "url": "https://himalayas.app/companies/gruns/jobs/senior-ecommerce-manager-post-purchase",
-    "source": "Himalayas",
-    "categories": [
-      "marketing",
-      "content",
-      "design"
-    ],
-    "posted_at": "2026-10-02T17:27:33+00:00",
-    "salary": "140000–160000 USD / annual",
-    "stipend": "",
-    "employment_type": "Full Time",
-    "applicants": null,
-    "industry": "",
-    "function": "",
-    "experience": "mid",
-    "score": 33,
-    "reasons": [
-      "Marketing match",
-      "Remote"
-    ]
-  },
-  {
-    "type": "job",
-    "title": "Data Analyst",
-    "company": "Tripledot Studios",
-    "location": "Worldwide / Remote",
-    "location_key": "remote",
-    "mode": "Remote",
-    "url": "https://himalayas.app/companies/tripledot-studios/jobs/data-analyst",
-    "source": "Himalayas",
-    "categories": [
-      "marketing",
-      "content",
-      "design"
-    ],
-    "posted_at": "2026-10-02T17:00:58+00:00",
-    "salary": "",
-    "stipend": "",
-    "employment_type": "Full Time",
-    "applicants": null,
-    "industry": "",
-    "function": "",
-    "experience": "unknown",
-    "score": 33,
-    "reasons": [
-      "Marketing match",
-      "Remote"
-    ]
-  },
-  {
-    "type": "job",
-    "title": "Senior Product Data Analyst",
-    "company": "Infomediji",
-    "location": "Worldwide / Remote",
-    "location_key": "remote",
-    "mode": "Remote",
-    "url": "https://himalayas.app/companies/infomediji/jobs/senior-product-data-analyst",
-    "source": "Himalayas",
-    "categories": [
-      "marketing",
-      "social",
-      "design"
-    ],
-    "posted_at": "2026-10-02T16:21:07+00:00",
-    "salary": "",
-    "stipend": "",
-    "employment_type": "Contractor",
-    "applicants": null,
-    "industry": "",
-    "function": "",
-    "experience": "mid",
-    "score": 33,
-    "reasons": [
-      "Marketing match",
-      "Remote"
-    ]
-  },
-  {
-    "type": "job",
-    "title": "Eightfold Consultant, Talent Management",
-    "company": "Groove Global LLC",
-    "location": "Worldwide / Remote",
-    "location_key": "remote",
-    "mode": "Remote",
-    "url": "https://himalayas.app/companies/groove-global-llc/jobs/eightfold-consultant-talent-management",
-    "source": "Himalayas",
-    "categories": [
-      "marketing",
-      "design"
-    ],
-    "posted_at": "2026-10-02T16:03:44+00:00",
-    "salary": "",
-    "stipend": "",
-    "employment_type": "Full Time",
-    "applicants": null,
-    "industry": "",
-    "function": "",
-    "experience": "fresher",
-    "score": 33,
-    "reasons": [
-      "Marketing match",
-      "Fresher-friendly signal",
-      "Remote"
-    ]
-  },
-  {
-    "type": "job",
-    "title": "Senior Account Director Digital Solutions / Client Partner (m/f/x)",
-    "company": "Virtual Identity",
-    "location": "Worldwide / Remote",
-    "location_key": "remote",
-    "mode": "Remote",
-    "url": "https://himalayas.app/companies/virtual-identity/jobs/senior-account-director-digital-solutions-client-partner-m-f-x",
-    "source": "Himalayas",
-    "categories": [
-      "marketing",
-      "sales",
-      "operations"
-    ],
-    "posted_at": "2026-10-02T15:49:31+00:00",
-    "salary": "",
-    "stipend": "",
-    "employment_type": "Full Time",
-    "applicants": null,
-    "industry": "",
-    "function": "",
-    "experience": "mid",
-    "score": 33,
-    "reasons": [
-      "Marketing match",
-      "Remote"
-    ]
-  },
-  {
-    "type": "job",
-    "title": "Product Manager — Data & Analytics",
-    "company": "Nodeworthy",
-    "location": "Worldwide / Remote",
-    "location_key": "remote",
-    "mode": "Remote",
-    "url": "https://himalayas.app/companies/nodeworthy/jobs/product-manager-data-analytics",
-    "source": "Himalayas",
+    "url": "https://remoteOK.com/remote-jobs/remote-junior-crypto-analyst-trader-empire-assets-1137460",
+    "source": "Remote OK",
     "categories": [
       "marketing",
       "operations"
     ],
-    "posted_at": "2026-10-02T15:48:00+00:00",
+    "posted_at": "2026-10-02T12:53:01+00:00",
     "salary": "",
     "stipend": "",
-    "employment_type": "Full Time",
+    "employment_type": "",
     "applicants": null,
     "industry": "",
     "function": "",
@@ -12382,174 +11823,6 @@
     "score": 33,
     "reasons": [
       "Marketing match",
-      "Fresher-friendly signal",
-      "Remote"
-    ]
-  },
-  {
-    "type": "job",
-    "title": "1150 - Senior Data Platform Architect - Palantir Foundry & Databricks Integratio",
-    "company": "GoFasti",
-    "location": "Worldwide / Remote",
-    "location_key": "remote",
-    "mode": "Remote",
-    "url": "https://himalayas.app/companies/gofasti/jobs/1150-senior-data-platform-architect-palantir-foundry-databricks-integratio",
-    "source": "Himalayas",
-    "categories": [
-      "marketing",
-      "content",
-      "design"
-    ],
-    "posted_at": "2026-10-02T15:42:13+00:00",
-    "salary": "6000–7000 USD / monthly",
-    "stipend": "",
-    "employment_type": "Contractor",
-    "applicants": null,
-    "industry": "",
-    "function": "",
-    "experience": "mid",
-    "score": 33,
-    "reasons": [
-      "Marketing match",
-      "Remote"
-    ]
-  },
-  {
-    "type": "job",
-    "title": "Lead of Product Analytics",
-    "company": "Infomediji",
-    "location": "Worldwide / Remote",
-    "location_key": "remote",
-    "mode": "Remote",
-    "url": "https://himalayas.app/companies/infomediji/jobs/lead-of-product-analytics",
-    "source": "Himalayas",
-    "categories": [
-      "marketing",
-      "social",
-      "design"
-    ],
-    "posted_at": "2026-10-02T15:26:39+00:00",
-    "salary": "",
-    "stipend": "",
-    "employment_type": "Contractor",
-    "applicants": null,
-    "industry": "",
-    "function": "",
-    "experience": "mid",
-    "score": 33,
-    "reasons": [
-      "Marketing match",
-      "Remote"
-    ]
-  },
-  {
-    "type": "job",
-    "title": "Inbound Sales Manager B2B Software (m/w/d) (100% Remote)",
-    "company": "uptain",
-    "location": "Worldwide / Remote",
-    "location_key": "remote",
-    "mode": "Remote",
-    "url": "https://himalayas.app/companies/uptain-de/jobs/inbound-sales-manager-b2b-software-m-w-d-100-remote",
-    "source": "Himalayas",
-    "categories": [
-      "marketing",
-      "sales"
-    ],
-    "posted_at": "2026-10-02T15:21:52+00:00",
-    "salary": "",
-    "stipend": "",
-    "employment_type": "Full Time",
-    "applicants": null,
-    "industry": "",
-    "function": "",
-    "experience": "fresher",
-    "score": 33,
-    "reasons": [
-      "Marketing match",
-      "Fresher-friendly signal",
-      "Remote"
-    ]
-  },
-  {
-    "type": "job",
-    "title": "Prior Authorization Pharmacy Technician",
-    "company": "Shields Health Solutions",
-    "location": "Worldwide / Remote",
-    "location_key": "remote",
-    "mode": "Remote",
-    "url": "https://himalayas.app/companies/shields-health-solutions/jobs/prior-authorization-pharmacy-technician-9483599236",
-    "source": "Himalayas",
-    "categories": [
-      "content",
-      "operations"
-    ],
-    "posted_at": "2026-10-02T15:03:16+00:00",
-    "salary": "20–22 USD / hourly",
-    "stipend": "",
-    "employment_type": "Full Time",
-    "applicants": null,
-    "industry": "",
-    "function": "",
-    "experience": "fresher",
-    "score": 33,
-    "reasons": [
-      "Content match",
-      "Fresher-friendly signal",
-      "Remote"
-    ]
-  },
-  {
-    "type": "job",
-    "title": "Senior Frontend Engineer",
-    "company": "Unifonic",
-    "location": "Worldwide / Remote",
-    "location_key": "remote",
-    "mode": "Remote",
-    "url": "https://himalayas.app/companies/unifonic/jobs/senior-frontend-engineer",
-    "source": "Himalayas",
-    "categories": [
-      "marketing",
-      "social",
-      "design"
-    ],
-    "posted_at": "2026-10-02T14:40:15+00:00",
-    "salary": "",
-    "stipend": "",
-    "employment_type": "Full Time",
-    "applicants": null,
-    "industry": "",
-    "function": "",
-    "experience": "mid",
-    "score": 33,
-    "reasons": [
-      "Marketing match",
-      "Remote"
-    ]
-  },
-  {
-    "type": "job",
-    "title": "Software Engineer - Secure Container Images",
-    "company": "Canonical",
-    "location": "Worldwide / Remote",
-    "location_key": "remote",
-    "mode": "Remote",
-    "url": "https://himalayas.app/companies/canonical/jobs/software-engineer-secure-container-images",
-    "source": "Himalayas",
-    "categories": [
-      "social",
-      "design"
-    ],
-    "posted_at": "2026-10-02T13:43:24+00:00",
-    "salary": "",
-    "stipend": "",
-    "employment_type": "Full Time",
-    "applicants": null,
-    "industry": "",
-    "function": "",
-    "experience": "fresher",
-    "score": 33,
-    "reasons": [
-      "Social match",
       "Fresher-friendly signal",
       "Remote"
     ]
@@ -12804,6 +12077,384 @@
       "Marketing match",
       "Fresher-friendly signal",
       "Remote"
+    ]
+  },
+  {
+    "type": "job",
+    "title": "DevOps & SRE Platform Engineers | Offshore",
+    "company": "Photon",
+    "location": "India",
+    "location_key": "india",
+    "mode": "Remote",
+    "url": "https://himalayas.app/companies/photon/jobs/devops-sre-platform-engineers-offshore",
+    "source": "Himalayas",
+    "categories": [
+      "operations",
+      "design"
+    ],
+    "posted_at": "2026-10-03T16:05:01+00:00",
+    "salary": "",
+    "stipend": "",
+    "employment_type": "Full Time",
+    "applicants": null,
+    "industry": "",
+    "function": "",
+    "experience": "unknown",
+    "score": 32,
+    "reasons": [
+      "Operations match",
+      "India signal"
+    ]
+  },
+  {
+    "type": "job",
+    "title": "Associate.CA-CAD Centralized Payments",
+    "company": "Mashreq",
+    "location": "India",
+    "location_key": "india",
+    "mode": "Remote",
+    "url": "https://himalayas.app/companies/mashreq/jobs/associate-ca-cad-centralized-payments",
+    "source": "Himalayas",
+    "categories": [
+      "other"
+    ],
+    "posted_at": "2026-10-03T16:01:30+00:00",
+    "salary": "",
+    "stipend": "",
+    "employment_type": "Full Time",
+    "applicants": null,
+    "industry": "",
+    "function": "",
+    "experience": "junior",
+    "score": 32,
+    "reasons": [
+      "Other match",
+      "Early-career signal",
+      "India signal"
+    ]
+  },
+  {
+    "type": "job",
+    "title": "Staff Software Engineer",
+    "company": "Agara",
+    "location": "India",
+    "location_key": "india",
+    "mode": "Remote",
+    "url": "https://himalayas.app/companies/agara/jobs/staff-software-engineer",
+    "source": "Himalayas",
+    "categories": [
+      "other"
+    ],
+    "posted_at": "2026-10-03T15:43:06+00:00",
+    "salary": "",
+    "stipend": "",
+    "employment_type": "Full Time",
+    "applicants": null,
+    "industry": "",
+    "function": "",
+    "experience": "fresher",
+    "score": 32,
+    "reasons": [
+      "Other match",
+      "Fresher-friendly signal",
+      "India signal"
+    ]
+  },
+  {
+    "type": "job",
+    "title": "Assistant Manager–QA & Proofing Unit",
+    "company": "Mashreq",
+    "location": "India",
+    "location_key": "india",
+    "mode": "Remote",
+    "url": "https://himalayas.app/companies/mashreq/jobs/assistant-manager-qa-proofing-unit",
+    "source": "Himalayas",
+    "categories": [
+      "operations"
+    ],
+    "posted_at": "2026-10-03T15:30:52+00:00",
+    "salary": "",
+    "stipend": "",
+    "employment_type": "Full Time",
+    "applicants": null,
+    "industry": "",
+    "function": "",
+    "experience": "fresher",
+    "score": 32,
+    "reasons": [
+      "Operations match",
+      "Fresher-friendly signal",
+      "India signal"
+    ]
+  },
+  {
+    "type": "job",
+    "title": "Software Development Engineer _R&D",
+    "company": "Agara",
+    "location": "India",
+    "location_key": "india",
+    "mode": "Remote",
+    "url": "https://himalayas.app/companies/agara/jobs/software-development-engineer-_r-d",
+    "source": "Himalayas",
+    "categories": [
+      "design"
+    ],
+    "posted_at": "2026-10-03T14:58:56+00:00",
+    "salary": "",
+    "stipend": "",
+    "employment_type": "Full Time",
+    "applicants": null,
+    "industry": "",
+    "function": "",
+    "experience": "fresher",
+    "score": 32,
+    "reasons": [
+      "Design match",
+      "Fresher-friendly signal",
+      "India signal"
+    ]
+  },
+  {
+    "type": "job",
+    "title": "Manager- Superannuation Administration",
+    "company": "SS&C Technologies",
+    "location": "India",
+    "location_key": "india",
+    "mode": "Remote",
+    "url": "https://himalayas.app/companies/ss-c-technologies/jobs/manager-superannuation-administration",
+    "source": "Himalayas",
+    "categories": [
+      "operations"
+    ],
+    "posted_at": "2026-10-03T14:44:29+00:00",
+    "salary": "",
+    "stipend": "",
+    "employment_type": "Full Time",
+    "applicants": null,
+    "industry": "",
+    "function": "",
+    "experience": "fresher",
+    "score": 32,
+    "reasons": [
+      "Operations match",
+      "Fresher-friendly signal",
+      "India signal"
+    ]
+  },
+  {
+    "type": "job",
+    "title": "Security and Compliance Engineer_Offshore",
+    "company": "Photon",
+    "location": "India",
+    "location_key": "india",
+    "mode": "Remote",
+    "url": "https://himalayas.app/companies/photon/jobs/security-and-compliance-engineer_offshore",
+    "source": "Himalayas",
+    "categories": [
+      "marketing",
+      "design"
+    ],
+    "posted_at": "2026-10-03T14:02:19+00:00",
+    "salary": "",
+    "stipend": "",
+    "employment_type": "Full Time",
+    "applicants": null,
+    "industry": "",
+    "function": "",
+    "experience": "mid",
+    "score": 32,
+    "reasons": [
+      "Marketing match",
+      "India signal"
+    ]
+  },
+  {
+    "type": "job",
+    "title": "QA and DevOps Engineer",
+    "company": "KloudMate",
+    "location": "India",
+    "location_key": "india",
+    "mode": "Remote",
+    "url": "https://himalayas.app/companies/kloudmate/jobs/qa-and-devops-engineer",
+    "source": "Himalayas",
+    "categories": [
+      "marketing",
+      "design"
+    ],
+    "posted_at": "2026-10-03T13:59:06+00:00",
+    "salary": "200000–400000 INR / annual",
+    "stipend": "",
+    "employment_type": "Full Time",
+    "applicants": null,
+    "industry": "",
+    "function": "",
+    "experience": "mid",
+    "score": 32,
+    "reasons": [
+      "Marketing match",
+      "India signal"
+    ]
+  },
+  {
+    "type": "job",
+    "title": "Senior Data Analyst",
+    "company": "Certify",
+    "location": "India",
+    "location_key": "india",
+    "mode": "Remote",
+    "url": "https://himalayas.app/companies/certify/jobs/senior-data-analyst",
+    "source": "Himalayas",
+    "categories": [
+      "social",
+      "operations"
+    ],
+    "posted_at": "2026-10-03T13:46:05+00:00",
+    "salary": "",
+    "stipend": "",
+    "employment_type": "Full Time",
+    "applicants": null,
+    "industry": "",
+    "function": "",
+    "experience": "mid",
+    "score": 32,
+    "reasons": [
+      "Social match",
+      "India signal"
+    ]
+  },
+  {
+    "type": "job",
+    "title": "Senior Backend Developer/Lead – Notification Hub (Offshore) | India",
+    "company": "Photon",
+    "location": "India",
+    "location_key": "india",
+    "mode": "Remote",
+    "url": "https://himalayas.app/companies/photon/jobs/senior-backend-developer-lead-notification-hub-offshore-india",
+    "source": "Himalayas",
+    "categories": [
+      "design"
+    ],
+    "posted_at": "2026-10-03T13:36:41+00:00",
+    "salary": "",
+    "stipend": "",
+    "employment_type": "Full Time",
+    "applicants": null,
+    "industry": "",
+    "function": "",
+    "experience": "fresher",
+    "score": 32,
+    "reasons": [
+      "Design match",
+      "Fresher-friendly signal",
+      "India signal"
+    ]
+  },
+  {
+    "type": "job",
+    "title": "Assistant Manager-Regulatory Reporting.CAD-Regulatory Reporting",
+    "company": "Mashreq",
+    "location": "India",
+    "location_key": "india",
+    "mode": "Remote",
+    "url": "https://himalayas.app/companies/mashreq/jobs/assistant-manager-regulatory-reporting-cad-regulatory-reporting",
+    "source": "Himalayas",
+    "categories": [
+      "operations"
+    ],
+    "posted_at": "2026-10-03T12:49:13+00:00",
+    "salary": "",
+    "stipend": "",
+    "employment_type": "Full Time",
+    "applicants": null,
+    "industry": "",
+    "function": "",
+    "experience": "fresher",
+    "score": 32,
+    "reasons": [
+      "Operations match",
+      "Fresher-friendly signal",
+      "India signal"
+    ]
+  },
+  {
+    "type": "job",
+    "title": "Project Engineer Level II - Remote ( Nearshore / Offshore Preferred )",
+    "company": "GSD Staffing",
+    "location": "India",
+    "location_key": "india",
+    "mode": "Remote",
+    "url": "https://himalayas.app/companies/gsd-staffing/jobs/project-engineer-level-ii-remote-nearshore-offshore-preferred",
+    "source": "Himalayas",
+    "categories": [
+      "operations"
+    ],
+    "posted_at": "2026-10-03T12:02:29+00:00",
+    "salary": "2300–2500 USD / monthly",
+    "stipend": "",
+    "employment_type": "Full Time",
+    "applicants": null,
+    "industry": "",
+    "function": "",
+    "experience": "fresher",
+    "score": 32,
+    "reasons": [
+      "Operations match",
+      "Fresher-friendly signal",
+      "India signal"
+    ]
+  },
+  {
+    "type": "job",
+    "title": "Lead Jira Admin | Offshore",
+    "company": "Photon",
+    "location": "India",
+    "location_key": "india",
+    "mode": "Remote",
+    "url": "https://himalayas.app/companies/photon/jobs/lead-jira-admin-offshore",
+    "source": "Himalayas",
+    "categories": [
+      "operations",
+      "design"
+    ],
+    "posted_at": "2026-10-03T11:58:26+00:00",
+    "salary": "",
+    "stipend": "",
+    "employment_type": "Full Time",
+    "applicants": null,
+    "industry": "",
+    "function": "",
+    "experience": "mid",
+    "score": 32,
+    "reasons": [
+      "Operations match",
+      "India signal"
+    ]
+  },
+  {
+    "type": "job",
+    "title": "Senior Virtual Relationship Manager.Business Banking-VRM SME",
+    "company": "Mashreq",
+    "location": "India",
+    "location_key": "india",
+    "mode": "Remote",
+    "url": "https://himalayas.app/companies/mashreq/jobs/senior-virtual-relationship-manager-business-banking-vrm-sme",
+    "source": "Himalayas",
+    "categories": [
+      "sales"
+    ],
+    "posted_at": "2026-10-03T11:39:15+00:00",
+    "salary": "",
+    "stipend": "",
+    "employment_type": "Full Time",
+    "applicants": null,
+    "industry": "",
+    "function": "",
+    "experience": "fresher",
+    "score": 32,
+    "reasons": [
+      "Sales match",
+      "Fresher-friendly signal",
+      "India signal"
     ]
   },
   {
@@ -14995,6 +14646,60 @@
   },
   {
     "type": "job",
+    "title": "Senior Software Engineer - Angular & Next.js Developer",
+    "company": "XTRM",
+    "location": "India",
+    "location_key": "india",
+    "mode": "Remote",
+    "url": "https://himalayas.app/companies/xtrm/jobs/senior-software-engineer-angular-next-js-developer",
+    "source": "Himalayas",
+    "categories": [
+      "marketing",
+      "design"
+    ],
+    "posted_at": "2026-10-02T11:15:41+00:00",
+    "salary": "",
+    "stipend": "",
+    "employment_type": "Full Time",
+    "applicants": null,
+    "industry": "",
+    "function": "",
+    "experience": "mid",
+    "score": 32,
+    "reasons": [
+      "Marketing match",
+      "India signal"
+    ]
+  },
+  {
+    "type": "job",
+    "title": "BIM / Production",
+    "company": "TEECOM",
+    "location": "India",
+    "location_key": "india",
+    "mode": "Remote",
+    "url": "https://himalayas.app/companies/teecom/jobs/bim-production",
+    "source": "Himalayas",
+    "categories": [
+      "design"
+    ],
+    "posted_at": "2026-10-02T11:15:37+00:00",
+    "salary": "75000–165000 USD / annual",
+    "stipend": "",
+    "employment_type": "Full Time",
+    "applicants": null,
+    "industry": "",
+    "function": "",
+    "experience": "fresher",
+    "score": 32,
+    "reasons": [
+      "Design match",
+      "Fresher-friendly signal",
+      "India signal"
+    ]
+  },
+  {
+    "type": "job",
     "title": "Onboarding Project Manager",
     "company": "Cloudbeds",
     "location": "Europe",
@@ -15368,35 +15073,6 @@
     "reasons": [
       "Marketing match",
       "Fresher-friendly signal"
-    ]
-  },
-  {
-    "type": "job",
-    "title": "Sales Development Representative - Upsell",
-    "company": "Employment Hero",
-    "location": "Australia",
-    "location_key": "other",
-    "mode": "See listing",
-    "url": "https://jobicy.com/jobs/150000-sales-development-representative-upsell",
-    "source": "Jobicy",
-    "categories": [
-      "marketing",
-      "social",
-      "sales"
-    ],
-    "posted_at": "2026-10-03T02:40:12+00:00",
-    "salary": "72000–72000 AUD / yearly",
-    "stipend": "",
-    "employment_type": [
-      "Full-Time"
-    ],
-    "applicants": null,
-    "industry": "",
-    "function": "",
-    "experience": "mid",
-    "score": 30,
-    "reasons": [
-      "Marketing match"
     ]
   },
   {
@@ -16445,6 +16121,33 @@
   },
   {
     "type": "job",
+    "title": "Assistant Manager - Operations -Remittance Enquiries",
+    "company": "Mashreq",
+    "location": "India",
+    "location_key": "india",
+    "mode": "Remote",
+    "url": "https://himalayas.app/companies/mashreq/jobs/assistant-manager-operations-remittance-enquiries",
+    "source": "Himalayas",
+    "categories": [
+      "operations"
+    ],
+    "posted_at": "2026-10-03T14:10:39+00:00",
+    "salary": "",
+    "stipend": "",
+    "employment_type": "Full Time",
+    "applicants": null,
+    "industry": "",
+    "function": "",
+    "experience": "junior",
+    "score": 28,
+    "reasons": [
+      "Operations match",
+      "Early-career signal",
+      "India signal"
+    ]
+  },
+  {
+    "type": "job",
     "title": "QA Lead_Offshore",
     "company": "Photon",
     "location": "India",
@@ -16823,141 +16526,6 @@
   },
   {
     "type": "job",
-    "title": "Freelancer Support Specialist",
-    "company": "Your Personal AI",
-    "location": "Worldwide / Remote",
-    "location_key": "remote",
-    "mode": "Remote",
-    "url": "https://himalayas.app/companies/your-personal-ai/jobs/freelancer-support-specialist",
-    "source": "Himalayas",
-    "categories": [
-      "operations"
-    ],
-    "posted_at": "2026-10-02T19:27:25+00:00",
-    "salary": "",
-    "stipend": "",
-    "employment_type": "Contractor",
-    "applicants": null,
-    "industry": "",
-    "function": "",
-    "experience": "fresher",
-    "score": 27,
-    "reasons": [
-      "Operations match",
-      "Fresher-friendly signal",
-      "Remote"
-    ]
-  },
-  {
-    "type": "job",
-    "title": "V107C Bilingual Billing Specialist",
-    "company": "Job Duck",
-    "location": "Worldwide / Remote",
-    "location_key": "remote",
-    "mode": "Remote",
-    "url": "https://himalayas.app/companies/job-duck/jobs/v107c-bilingual-billing-specialist",
-    "source": "Himalayas",
-    "categories": [
-      "other"
-    ],
-    "posted_at": "2026-10-02T17:38:41+00:00",
-    "salary": "1015–1100 USD / weekly",
-    "stipend": "",
-    "employment_type": "Full Time",
-    "applicants": null,
-    "industry": "",
-    "function": "",
-    "experience": "fresher",
-    "score": 27,
-    "reasons": [
-      "Other match",
-      "Fresher-friendly signal",
-      "Remote"
-    ]
-  },
-  {
-    "type": "job",
-    "title": "🌍 Salesforce Specialist, Remote- Contract",
-    "company": "Xperteez Technology",
-    "location": "Worldwide / Remote",
-    "location_key": "remote",
-    "mode": "Remote",
-    "url": "https://himalayas.app/companies/xperteez-technology/jobs/salesforce-specialist-remote-contract",
-    "source": "Himalayas",
-    "categories": [
-      "sales",
-      "operations"
-    ],
-    "posted_at": "2026-10-02T15:03:02+00:00",
-    "salary": "28–92 USD / hourly",
-    "stipend": "",
-    "employment_type": "Contractor",
-    "applicants": null,
-    "industry": "",
-    "function": "",
-    "experience": "mid",
-    "score": 27,
-    "reasons": [
-      "Sales match",
-      "Remote"
-    ]
-  },
-  {
-    "type": "job",
-    "title": "AI Transformation Coordinator",
-    "company": "E&C",
-    "location": "Worldwide / Remote",
-    "location_key": "remote",
-    "mode": "Remote",
-    "url": "https://himalayas.app/companies/e-c/jobs/ai-transformation-coordinator",
-    "source": "Himalayas",
-    "categories": [
-      "marketing",
-      "design"
-    ],
-    "posted_at": "2026-10-02T14:32:00+00:00",
-    "salary": "",
-    "stipend": "",
-    "employment_type": "Full Time",
-    "applicants": null,
-    "industry": "",
-    "function": "",
-    "experience": "unknown",
-    "score": 27,
-    "reasons": [
-      "Marketing match",
-      "Remote"
-    ]
-  },
-  {
-    "type": "job",
-    "title": "🌍 Airtable Specialist, Remote- Contract",
-    "company": "Xperteez Technology",
-    "location": "Worldwide / Remote",
-    "location_key": "remote",
-    "mode": "Remote",
-    "url": "https://himalayas.app/companies/xperteez-technology/jobs/airtable-specialist-remote-contract",
-    "source": "Himalayas",
-    "categories": [
-      "operations",
-      "design"
-    ],
-    "posted_at": "2026-10-02T13:49:11+00:00",
-    "salary": "30–100 USD / hourly",
-    "stipend": "",
-    "employment_type": "Contractor",
-    "applicants": null,
-    "industry": "",
-    "function": "",
-    "experience": "unknown",
-    "score": 27,
-    "reasons": [
-      "Operations match",
-      "Remote"
-    ]
-  },
-  {
-    "type": "job",
     "title": "People Operations Coordinator",
     "company": "Ashby",
     "location": "Remote",
@@ -17008,6 +16576,32 @@
       "Marketing match",
       "Fresher-friendly signal",
       "Remote"
+    ]
+  },
+  {
+    "type": "job",
+    "title": "Microsoft Dynamics Licensing Specialist",
+    "company": "Lucy Electric",
+    "location": "India",
+    "location_key": "india",
+    "mode": "Remote",
+    "url": "https://himalayas.app/companies/lucy-electric/jobs/microsoft-dynamics-licensing-specialist",
+    "source": "Himalayas",
+    "categories": [
+      "operations"
+    ],
+    "posted_at": "2026-10-03T11:09:41+00:00",
+    "salary": "",
+    "stipend": "",
+    "employment_type": "Full Time",
+    "applicants": null,
+    "industry": "",
+    "function": "",
+    "experience": "unknown",
+    "score": 26,
+    "reasons": [
+      "Operations match",
+      "India signal"
     ]
   },
   {
@@ -17256,6 +16850,114 @@
   },
   {
     "type": "job",
+    "title": "AI Security Research Participant: Stop Deepfakes",
+    "company": "Your Personal AI",
+    "location": "Worldwide / Remote",
+    "location_key": "remote",
+    "mode": "Remote",
+    "url": "https://himalayas.app/companies/your-personal-ai/jobs/ai-security-research-participant-stop-deepfakes",
+    "source": "Himalayas",
+    "categories": [
+      "design"
+    ],
+    "posted_at": "2026-10-03T13:29:47+00:00",
+    "salary": "25–25 USD / hourly",
+    "stipend": "",
+    "employment_type": "Contractor",
+    "applicants": null,
+    "industry": "",
+    "function": "",
+    "experience": "fresher",
+    "score": 23,
+    "reasons": [
+      "Design match",
+      "Fresher-friendly signal",
+      "Remote"
+    ]
+  },
+  {
+    "type": "job",
+    "title": "Investment Banking Associate",
+    "company": "micro1",
+    "location": "Worldwide / Remote",
+    "location_key": "remote",
+    "mode": "Remote",
+    "url": "https://himalayas.app/companies/micro1/jobs/investment-banking-associate",
+    "source": "Himalayas",
+    "categories": [
+      "other"
+    ],
+    "posted_at": "2026-10-03T12:41:45+00:00",
+    "salary": "150–220 USD / hourly",
+    "stipend": "",
+    "employment_type": "Contractor",
+    "applicants": null,
+    "industry": "",
+    "function": "",
+    "experience": "junior",
+    "score": 23,
+    "reasons": [
+      "Other match",
+      "Early-career signal",
+      "Remote"
+    ]
+  },
+  {
+    "type": "job",
+    "title": "Loan Opener",
+    "company": "NightOwl Consulting",
+    "location": "Worldwide / Remote",
+    "location_key": "remote",
+    "mode": "Remote",
+    "url": "https://himalayas.app/companies/nightowl-consulting/jobs/loan-opener",
+    "source": "Himalayas",
+    "categories": [
+      "marketing",
+      "operations"
+    ],
+    "posted_at": "2026-10-03T11:32:12+00:00",
+    "salary": "25000–35000 PHP / monthly",
+    "stipend": "",
+    "employment_type": "Full Time",
+    "applicants": null,
+    "industry": "",
+    "function": "",
+    "experience": "unknown",
+    "score": 23,
+    "reasons": [
+      "Marketing match",
+      "Remote"
+    ]
+  },
+  {
+    "type": "job",
+    "title": "Appraisal Assistant",
+    "company": "NightOwl Consulting",
+    "location": "Worldwide / Remote",
+    "location_key": "remote",
+    "mode": "Remote",
+    "url": "https://himalayas.app/companies/nightowl-consulting/jobs/appraisal-assistant",
+    "source": "Himalayas",
+    "categories": [
+      "sales",
+      "operations"
+    ],
+    "posted_at": "2026-10-03T11:22:53+00:00",
+    "salary": "35000–50000 PHP / monthly",
+    "stipend": "",
+    "employment_type": "Full Time",
+    "applicants": null,
+    "industry": "",
+    "function": "",
+    "experience": "unknown",
+    "score": 23,
+    "reasons": [
+      "Sales match",
+      "Remote"
+    ]
+  },
+  {
+    "type": "job",
     "title": "LANGUAGE INTERPRETER",
     "company": "Global Bilingual Source",
     "location": "Worldwide / Remote",
@@ -17304,6 +17006,60 @@
     "score": 23,
     "reasons": [
       "Marketing match",
+      "Fresher-friendly signal",
+      "Remote"
+    ]
+  },
+  {
+    "type": "job",
+    "title": "🌍 Virtual Assistant, Remote- Full Time",
+    "company": "Xperteez Technology",
+    "location": "Worldwide / Remote",
+    "location_key": "remote",
+    "mode": "Remote",
+    "url": "https://himalayas.app/companies/xperteez-technology/jobs/virtual-assistant-remote-full-time",
+    "source": "Himalayas",
+    "categories": [
+      "operations"
+    ],
+    "posted_at": "2026-10-03T09:29:12+00:00",
+    "salary": "15–30 USD / hourly",
+    "stipend": "",
+    "employment_type": "Full Time",
+    "applicants": null,
+    "industry": "",
+    "function": "",
+    "experience": "fresher",
+    "score": 23,
+    "reasons": [
+      "Operations match",
+      "Fresher-friendly signal",
+      "Remote"
+    ]
+  },
+  {
+    "type": "job",
+    "title": "Participate in Video Research Project / €23 for 45 Minutes / Support Cybersecuri",
+    "company": "Your Personal AI",
+    "location": "Worldwide / Remote",
+    "location_key": "remote",
+    "mode": "Remote",
+    "url": "https://himalayas.app/companies/your-personal-ai/jobs/participate-in-video-research-project-23-for-45-minutes-support-cybersecuri",
+    "source": "Himalayas",
+    "categories": [
+      "other"
+    ],
+    "posted_at": "2026-10-03T09:12:51+00:00",
+    "salary": "25–25 USD / hourly",
+    "stipend": "",
+    "employment_type": "Contractor",
+    "applicants": null,
+    "industry": "",
+    "function": "",
+    "experience": "fresher",
+    "score": 23,
+    "reasons": [
+      "Other match",
       "Fresher-friendly signal",
       "Remote"
     ]
@@ -18795,573 +18551,6 @@
   },
   {
     "type": "job",
-    "title": "Senior Infrastructure Engineer",
-    "company": "Unifonic",
-    "location": "Worldwide / Remote",
-    "location_key": "remote",
-    "mode": "Remote",
-    "url": "https://himalayas.app/companies/unifonic/jobs/senior-infrastructure-engineer",
-    "source": "Himalayas",
-    "categories": [
-      "operations",
-      "design"
-    ],
-    "posted_at": "2026-10-02T18:47:33+00:00",
-    "salary": "",
-    "stipend": "",
-    "employment_type": "Full Time",
-    "applicants": null,
-    "industry": "",
-    "function": "",
-    "experience": "mid",
-    "score": 23,
-    "reasons": [
-      "Operations match",
-      "Remote"
-    ]
-  },
-  {
-    "type": "job",
-    "title": "Don’t see the right seat listed below but have a passion for what we’re doing? L",
-    "company": "Knocking",
-    "location": "Worldwide / Remote",
-    "location_key": "remote",
-    "mode": "Remote",
-    "url": "https://himalayas.app/companies/knocking/jobs/don-t-see-the-right-seat-listed-below-but-have-a-passion-for-what-we-re-doing-l",
-    "source": "Himalayas",
-    "categories": [
-      "marketing",
-      "content"
-    ],
-    "posted_at": "2026-10-02T18:39:06+00:00",
-    "salary": "",
-    "stipend": "",
-    "employment_type": "Contractor",
-    "applicants": null,
-    "industry": "",
-    "function": "",
-    "experience": "mid",
-    "score": 23,
-    "reasons": [
-      "Marketing match",
-      "Remote"
-    ]
-  },
-  {
-    "type": "job",
-    "title": "Senior Design Researcher - User Science",
-    "company": "Canonical",
-    "location": "Worldwide / Remote",
-    "location_key": "remote",
-    "mode": "Remote",
-    "url": "https://himalayas.app/companies/canonical/jobs/senior-design-researcher-user-science",
-    "source": "Himalayas",
-    "categories": [
-      "sales",
-      "design"
-    ],
-    "posted_at": "2026-10-02T18:19:00+00:00",
-    "salary": "",
-    "stipend": "",
-    "employment_type": "Full Time",
-    "applicants": null,
-    "industry": "",
-    "function": "",
-    "experience": "mid",
-    "score": 23,
-    "reasons": [
-      "Sales match",
-      "Remote"
-    ]
-  },
-  {
-    "type": "job",
-    "title": "Senior DevOps Engineer",
-    "company": "Aubrant Digital",
-    "location": "Worldwide / Remote",
-    "location_key": "remote",
-    "mode": "Remote",
-    "url": "https://himalayas.app/companies/aubrant-digital/jobs/senior-devops-engineer",
-    "source": "Himalayas",
-    "categories": [
-      "operations",
-      "design"
-    ],
-    "posted_at": "2026-10-02T17:32:41+00:00",
-    "salary": "",
-    "stipend": "",
-    "employment_type": "Contractor",
-    "applicants": null,
-    "industry": "",
-    "function": "",
-    "experience": "mid",
-    "score": 23,
-    "reasons": [
-      "Operations match",
-      "Remote"
-    ]
-  },
-  {
-    "type": "job",
-    "title": "Principal Streaming Technology Expert",
-    "company": "Mayflower",
-    "location": "Worldwide / Remote",
-    "location_key": "remote",
-    "mode": "Remote",
-    "url": "https://himalayas.app/companies/mayflower/jobs/principal-streaming-technology-expert",
-    "source": "Himalayas",
-    "categories": [
-      "marketing"
-    ],
-    "posted_at": "2026-10-02T17:28:21+00:00",
-    "salary": "",
-    "stipend": "",
-    "employment_type": "Full Time",
-    "applicants": null,
-    "industry": "",
-    "function": "",
-    "experience": "fresher",
-    "score": 23,
-    "reasons": [
-      "Marketing match",
-      "Fresher-friendly signal",
-      "Remote"
-    ]
-  },
-  {
-    "type": "job",
-    "title": "SAP ABAP Developer (m/f/d)",
-    "company": "SWAN",
-    "location": "Worldwide / Remote",
-    "location_key": "remote",
-    "mode": "Remote",
-    "url": "https://himalayas.app/companies/swan/jobs/sap-abap-developer-m-f-d",
-    "source": "Himalayas",
-    "categories": [
-      "marketing"
-    ],
-    "posted_at": "2026-10-02T17:25:04+00:00",
-    "salary": "",
-    "stipend": "",
-    "employment_type": "Full Time",
-    "applicants": null,
-    "industry": "",
-    "function": "",
-    "experience": "fresher",
-    "score": 23,
-    "reasons": [
-      "Marketing match",
-      "Fresher-friendly signal",
-      "Remote"
-    ]
-  },
-  {
-    "type": "job",
-    "title": "Unsolicited Application",
-    "company": "SOFTGAMES",
-    "location": "Worldwide / Remote",
-    "location_key": "remote",
-    "mode": "Remote",
-    "url": "https://himalayas.app/companies/softgames/jobs/unsolicited-application",
-    "source": "Himalayas",
-    "categories": [
-      "sales",
-      "design"
-    ],
-    "posted_at": "2026-10-02T17:05:52+00:00",
-    "salary": "",
-    "stipend": "",
-    "employment_type": "Full Time",
-    "applicants": null,
-    "industry": "",
-    "function": "",
-    "experience": "mid",
-    "score": 23,
-    "reasons": [
-      "Sales match",
-      "Remote"
-    ]
-  },
-  {
-    "type": "job",
-    "title": "MOBILE DEVELOPER - ANDROID",
-    "company": "XKTalent Inc. - Rimutee",
-    "location": "Worldwide / Remote",
-    "location_key": "remote",
-    "mode": "Remote",
-    "url": "https://himalayas.app/companies/rekluti/jobs/mobile-developer-android",
-    "source": "Himalayas",
-    "categories": [
-      "other"
-    ],
-    "posted_at": "2026-10-02T17:05:09+00:00",
-    "salary": "",
-    "stipend": "",
-    "employment_type": "Contractor",
-    "applicants": null,
-    "industry": "",
-    "function": "",
-    "experience": "fresher",
-    "score": 23,
-    "reasons": [
-      "Other match",
-      "Fresher-friendly signal",
-      "Remote"
-    ]
-  },
-  {
-    "type": "job",
-    "title": "Workday Principal Consultant, Payroll",
-    "company": "Groove Global LLC",
-    "location": "Worldwide / Remote",
-    "location_key": "remote",
-    "mode": "Remote",
-    "url": "https://himalayas.app/companies/groove-global-llc/jobs/workday-principal-consultant-payroll",
-    "source": "Himalayas",
-    "categories": [
-      "marketing",
-      "sales"
-    ],
-    "posted_at": "2026-10-02T16:40:16+00:00",
-    "salary": "",
-    "stipend": "",
-    "employment_type": "Full Time",
-    "applicants": null,
-    "industry": "",
-    "function": "",
-    "experience": "mid",
-    "score": 23,
-    "reasons": [
-      "Marketing match",
-      "Remote"
-    ]
-  },
-  {
-    "type": "job",
-    "title": "Biologist | Remote - Contract",
-    "company": "Xperteez Technology",
-    "location": "Worldwide / Remote",
-    "location_key": "remote",
-    "mode": "Remote",
-    "url": "https://himalayas.app/companies/xperteez-technology/jobs/biologist-remote-contract",
-    "source": "Himalayas",
-    "categories": [
-      "content",
-      "design"
-    ],
-    "posted_at": "2026-10-02T16:16:35+00:00",
-    "salary": "",
-    "stipend": "",
-    "employment_type": "Contractor",
-    "applicants": null,
-    "industry": "",
-    "function": "",
-    "experience": "mid",
-    "score": 23,
-    "reasons": [
-      "Content match",
-      "Remote"
-    ]
-  },
-  {
-    "type": "job",
-    "title": "Technical Artist",
-    "company": "Companion Group Ltd",
-    "location": "Worldwide / Remote",
-    "location_key": "remote",
-    "mode": "Remote",
-    "url": "https://himalayas.app/companies/companion-group-ltd/jobs/technical-artist",
-    "source": "Himalayas",
-    "categories": [
-      "marketing",
-      "design"
-    ],
-    "posted_at": "2026-10-02T16:04:32+00:00",
-    "salary": "45000–60000 GBP / annual",
-    "stipend": "",
-    "employment_type": "Full Time",
-    "applicants": null,
-    "industry": "",
-    "function": "",
-    "experience": "mid",
-    "score": 23,
-    "reasons": [
-      "Marketing match",
-      "Remote"
-    ]
-  },
-  {
-    "type": "job",
-    "title": "Offensive Security Engineer",
-    "company": "Sporty Group",
-    "location": "Worldwide / Remote",
-    "location_key": "remote",
-    "mode": "Remote",
-    "url": "https://himalayas.app/companies/sporty-group/jobs/offensive-security-engineer",
-    "source": "Himalayas",
-    "categories": [
-      "other"
-    ],
-    "posted_at": "2026-10-02T16:02:11+00:00",
-    "salary": "",
-    "stipend": "",
-    "employment_type": "Full Time",
-    "applicants": null,
-    "industry": "",
-    "function": "",
-    "experience": "fresher",
-    "score": 23,
-    "reasons": [
-      "Other match",
-      "Fresher-friendly signal",
-      "Remote"
-    ]
-  },
-  {
-    "type": "job",
-    "title": "V105C - Personal Injury Litigation Assistant",
-    "company": "Job Duck",
-    "location": "Worldwide / Remote",
-    "location_key": "remote",
-    "mode": "Remote",
-    "url": "https://himalayas.app/companies/job-duck/jobs/v105c-personal-injury-litigation-assistant",
-    "source": "Himalayas",
-    "categories": [
-      "operations",
-      "design"
-    ],
-    "posted_at": "2026-10-02T15:57:27+00:00",
-    "salary": "1150–1220 USD / monthly",
-    "stipend": "",
-    "employment_type": "Full Time",
-    "applicants": null,
-    "industry": "",
-    "function": "",
-    "experience": "mid",
-    "score": 23,
-    "reasons": [
-      "Operations match",
-      "Remote"
-    ]
-  },
-  {
-    "type": "job",
-    "title": "Machine Learning Engineer (Governance ML Platform)",
-    "company": "enterprisedb",
-    "location": "Worldwide / Remote",
-    "location_key": "remote",
-    "mode": "Remote",
-    "url": "https://himalayas.app/companies/enterprisedb/jobs/machine-learning-engineer-governance-ml-platform",
-    "source": "Himalayas",
-    "categories": [
-      "content",
-      "social"
-    ],
-    "posted_at": "2026-10-02T15:54:55+00:00",
-    "salary": "",
-    "stipend": "",
-    "employment_type": "Full Time",
-    "applicants": null,
-    "industry": "",
-    "function": "",
-    "experience": "mid",
-    "score": 23,
-    "reasons": [
-      "Content match",
-      "Remote"
-    ]
-  },
-  {
-    "type": "job",
-    "title": "Consultant Customer Care – Microsoft Dynamics 365 FSCM/ F&O / AX (m/w/d)",
-    "company": "xalution",
-    "location": "Worldwide / Remote",
-    "location_key": "remote",
-    "mode": "Remote",
-    "url": "https://himalayas.app/companies/xalution/jobs/consultant-customer-care-microsoft-dynamics-365-fscm-f-o-ax-m-w-d",
-    "source": "Himalayas",
-    "categories": [
-      "other"
-    ],
-    "posted_at": "2026-10-02T15:46:12+00:00",
-    "salary": "",
-    "stipend": "",
-    "employment_type": "Full Time",
-    "applicants": null,
-    "industry": "",
-    "function": "",
-    "experience": "fresher",
-    "score": 23,
-    "reasons": [
-      "Other match",
-      "Fresher-friendly signal",
-      "Remote"
-    ]
-  },
-  {
-    "type": "job",
-    "title": "V107 - Law Firm Billing Assistant",
-    "company": "Job Duck",
-    "location": "Worldwide / Remote",
-    "location_key": "remote",
-    "mode": "Remote",
-    "url": "https://himalayas.app/companies/job-duck/jobs/v107-law-firm-billing-assistant",
-    "source": "Himalayas",
-    "categories": [
-      "other"
-    ],
-    "posted_at": "2026-10-02T15:27:16+00:00",
-    "salary": "1015–1100 USD / monthly",
-    "stipend": "",
-    "employment_type": "Full Time",
-    "applicants": null,
-    "industry": "",
-    "function": "",
-    "experience": "fresher",
-    "score": 23,
-    "reasons": [
-      "Other match",
-      "Fresher-friendly signal",
-      "Remote"
-    ]
-  },
-  {
-    "type": "job",
-    "title": "Hospitalist Reviewer",
-    "company": "micro1",
-    "location": "Worldwide / Remote",
-    "location_key": "remote",
-    "mode": "Remote",
-    "url": "https://himalayas.app/companies/micro1/jobs/hospitalist-reviewer",
-    "source": "Himalayas",
-    "categories": [
-      "other"
-    ],
-    "posted_at": "2026-10-02T15:22:42+00:00",
-    "salary": "100–150 USD / hourly",
-    "stipend": "",
-    "employment_type": "Contractor",
-    "applicants": null,
-    "industry": "",
-    "function": "",
-    "experience": "fresher",
-    "score": 23,
-    "reasons": [
-      "Other match",
-      "Fresher-friendly signal",
-      "Remote"
-    ]
-  },
-  {
-    "type": "job",
-    "title": "Product Designer Team Lead",
-    "company": "African Institute for Artificial Intelligence",
-    "location": "Worldwide / Remote",
-    "location_key": "remote",
-    "mode": "Remote",
-    "url": "https://himalayas.app/companies/african-institute-for-artificial-intelligence/jobs/product-designer-team-lead",
-    "source": "Himalayas",
-    "categories": [
-      "content",
-      "design"
-    ],
-    "posted_at": "2026-10-02T15:09:02+00:00",
-    "salary": "",
-    "stipend": "",
-    "employment_type": "Volunteer",
-    "applicants": null,
-    "industry": "",
-    "function": "",
-    "experience": "mid",
-    "score": 23,
-    "reasons": [
-      "Content match",
-      "Remote"
-    ]
-  },
-  {
-    "type": "job",
-    "title": "Data Scientist",
-    "company": "Newel Health",
-    "location": "Worldwide / Remote",
-    "location_key": "remote",
-    "mode": "Remote",
-    "url": "https://himalayas.app/companies/newel-health/jobs/data-scientist",
-    "source": "Himalayas",
-    "categories": [
-      "other"
-    ],
-    "posted_at": "2026-10-02T15:03:28+00:00",
-    "salary": "",
-    "stipend": "",
-    "employment_type": "Full Time",
-    "applicants": null,
-    "industry": "",
-    "function": "",
-    "experience": "fresher",
-    "score": 23,
-    "reasons": [
-      "Other match",
-      "Fresher-friendly signal",
-      "Remote"
-    ]
-  },
-  {
-    "type": "job",
-    "title": "Track & Trace Representative",
-    "company": "Zelh",
-    "location": "Worldwide / Remote",
-    "location_key": "remote",
-    "mode": "Remote",
-    "url": "https://himalayas.app/companies/zelh/jobs/track-trace-representative-7049364696",
-    "source": "Himalayas",
-    "categories": [
-      "other"
-    ],
-    "posted_at": "2026-10-02T14:24:55+00:00",
-    "salary": "",
-    "stipend": "",
-    "employment_type": "Full Time",
-    "applicants": null,
-    "industry": "",
-    "function": "",
-    "experience": "fresher",
-    "score": 23,
-    "reasons": [
-      "Other match",
-      "Fresher-friendly signal",
-      "Remote"
-    ]
-  },
-  {
-    "type": "job",
-    "title": "Senior .NET Integration Engineer",
-    "company": "DistantJob",
-    "location": "Worldwide / Remote",
-    "location_key": "remote",
-    "mode": "Remote",
-    "url": "https://himalayas.app/companies/distantjob/jobs/senior-net-integration-engineer",
-    "source": "Himalayas",
-    "categories": [
-      "operations",
-      "design"
-    ],
-    "posted_at": "2026-10-02T13:41:27+00:00",
-    "salary": "",
-    "stipend": "",
-    "employment_type": "Full Time",
-    "applicants": null,
-    "industry": "",
-    "function": "",
-    "experience": "mid",
-    "score": 23,
-    "reasons": [
-      "Operations match",
-      "Remote"
-    ]
-  },
-  {
-    "type": "job",
     "title": "Freelance grabaciÃ³n de tareas cotidianas para proyecto de IA",
     "company": "Mindrift - Data annotation",
     "location": "Remote",
@@ -19655,6 +18844,422 @@
       "Other match",
       "Fresher-friendly signal",
       "Remote"
+    ]
+  },
+  {
+    "type": "job",
+    "title": "API Developer| Offshore",
+    "company": "Photon",
+    "location": "India",
+    "location_key": "india",
+    "mode": "Remote",
+    "url": "https://himalayas.app/companies/photon/jobs/api-developer-offshore-227495091",
+    "source": "Himalayas",
+    "categories": [
+      "design"
+    ],
+    "posted_at": "2026-10-03T15:59:18+00:00",
+    "salary": "",
+    "stipend": "",
+    "employment_type": "Full Time",
+    "applicants": null,
+    "industry": "",
+    "function": "",
+    "experience": "unknown",
+    "score": 22,
+    "reasons": [
+      "Design match",
+      "India signal"
+    ]
+  },
+  {
+    "type": "job",
+    "title": "Behavioral Health, Maternity RN - Care Manager",
+    "company": "Centene Corporation",
+    "location": "India",
+    "location_key": "india",
+    "mode": "Remote",
+    "url": "https://himalayas.app/companies/centene-corporation/jobs/behavioral-health-maternity-rn-care-manager",
+    "source": "Himalayas",
+    "categories": [
+      "social"
+    ],
+    "posted_at": "2026-10-03T15:55:34+00:00",
+    "salary": "55100–99000 USD / annual",
+    "stipend": "",
+    "employment_type": "Full Time",
+    "applicants": null,
+    "industry": "",
+    "function": "",
+    "experience": "mid",
+    "score": 22,
+    "reasons": [
+      "Social match",
+      "India signal"
+    ]
+  },
+  {
+    "type": "job",
+    "title": "Scrum Master | Offshore",
+    "company": "Photon",
+    "location": "India",
+    "location_key": "india",
+    "mode": "Remote",
+    "url": "https://himalayas.app/companies/photon/jobs/scrum-master-offshore",
+    "source": "Himalayas",
+    "categories": [
+      "operations"
+    ],
+    "posted_at": "2026-10-03T15:46:18+00:00",
+    "salary": "",
+    "stipend": "",
+    "employment_type": "Full Time",
+    "applicants": null,
+    "industry": "",
+    "function": "",
+    "experience": "mid",
+    "score": 22,
+    "reasons": [
+      "Operations match",
+      "India signal"
+    ]
+  },
+  {
+    "type": "job",
+    "title": "Lead / Staff ML Scientist - Speech",
+    "company": "Agara",
+    "location": "India",
+    "location_key": "india",
+    "mode": "Remote",
+    "url": "https://himalayas.app/companies/agara/jobs/lead-staff-ml-scientist-speech",
+    "source": "Himalayas",
+    "categories": [
+      "design"
+    ],
+    "posted_at": "2026-10-03T15:36:18+00:00",
+    "salary": "",
+    "stipend": "",
+    "employment_type": "Full Time",
+    "applicants": null,
+    "industry": "",
+    "function": "",
+    "experience": "mid",
+    "score": 22,
+    "reasons": [
+      "Design match",
+      "India signal"
+    ]
+  },
+  {
+    "type": "job",
+    "title": "Principal Data Scientist",
+    "company": "Cytel",
+    "location": "India",
+    "location_key": "india",
+    "mode": "Remote",
+    "url": "https://himalayas.app/companies/cytel/jobs/principal-data-scientist",
+    "source": "Himalayas",
+    "categories": [
+      "other"
+    ],
+    "posted_at": "2026-10-03T15:01:06+00:00",
+    "salary": "",
+    "stipend": "",
+    "employment_type": "Full Time",
+    "applicants": null,
+    "industry": "",
+    "function": "",
+    "experience": "unknown",
+    "score": 22,
+    "reasons": [
+      "Other match",
+      "India signal"
+    ]
+  },
+  {
+    "type": "job",
+    "title": "Sr. Fullstack Engineer | Offshore | AD Investor Features",
+    "company": "Photon",
+    "location": "India",
+    "location_key": "india",
+    "mode": "Remote",
+    "url": "https://himalayas.app/companies/photon/jobs/sr-fullstack-engineer-offshore-ad-investor-features",
+    "source": "Himalayas",
+    "categories": [
+      "design"
+    ],
+    "posted_at": "2026-10-03T14:12:18+00:00",
+    "salary": "",
+    "stipend": "",
+    "employment_type": "Full Time",
+    "applicants": null,
+    "industry": "",
+    "function": "",
+    "experience": "mid",
+    "score": 22,
+    "reasons": [
+      "Design match",
+      "India signal"
+    ]
+  },
+  {
+    "type": "job",
+    "title": "Next.js Developer | Offshore",
+    "company": "Photon",
+    "location": "India",
+    "location_key": "india",
+    "mode": "Remote",
+    "url": "https://himalayas.app/companies/photon/jobs/next-js-developer-offshore",
+    "source": "Himalayas",
+    "categories": [
+      "design"
+    ],
+    "posted_at": "2026-10-03T14:09:38+00:00",
+    "salary": "",
+    "stipend": "",
+    "employment_type": "Full Time",
+    "applicants": null,
+    "industry": "",
+    "function": "",
+    "experience": "unknown",
+    "score": 22,
+    "reasons": [
+      "Design match",
+      "India signal"
+    ]
+  },
+  {
+    "type": "job",
+    "title": "Assistant Vice President - Technology (Platform Lead)",
+    "company": "Mashreq",
+    "location": "India",
+    "location_key": "india",
+    "mode": "Remote",
+    "url": "https://himalayas.app/companies/mashreq/jobs/assistant-vice-president-technology-platform-lead",
+    "source": "Himalayas",
+    "categories": [
+      "other"
+    ],
+    "posted_at": "2026-10-03T14:04:27+00:00",
+    "salary": "",
+    "stipend": "",
+    "employment_type": "Full Time",
+    "applicants": null,
+    "industry": "",
+    "function": "",
+    "experience": "mid",
+    "score": 22,
+    "reasons": [
+      "Other match",
+      "India signal"
+    ]
+  },
+  {
+    "type": "job",
+    "title": "QA Engineer| Offshore | Chennai",
+    "company": "Photon",
+    "location": "India",
+    "location_key": "india",
+    "mode": "Remote",
+    "url": "https://himalayas.app/companies/photon/jobs/qa-engineer-offshore-chennai",
+    "source": "Himalayas",
+    "categories": [
+      "other"
+    ],
+    "posted_at": "2026-10-03T13:27:33+00:00",
+    "salary": "",
+    "stipend": "",
+    "employment_type": "Full Time",
+    "applicants": null,
+    "industry": "",
+    "function": "",
+    "experience": "mid",
+    "score": 22,
+    "reasons": [
+      "Other match",
+      "India signal"
+    ]
+  },
+  {
+    "type": "job",
+    "title": "Developer Automation Anywhere - Chennai",
+    "company": "Photon",
+    "location": "India",
+    "location_key": "india",
+    "mode": "Remote",
+    "url": "https://himalayas.app/companies/photon/jobs/developer-automation-anywhere-chennai",
+    "source": "Himalayas",
+    "categories": [
+      "design"
+    ],
+    "posted_at": "2026-10-03T12:41:19+00:00",
+    "salary": "",
+    "stipend": "",
+    "employment_type": "Full Time",
+    "applicants": null,
+    "industry": "",
+    "function": "",
+    "experience": "unknown",
+    "score": 22,
+    "reasons": [
+      "Design match",
+      "India signal"
+    ]
+  },
+  {
+    "type": "job",
+    "title": "Senior Backend Engineer (Python)",
+    "company": "Astreya",
+    "location": "India",
+    "location_key": "india",
+    "mode": "Remote",
+    "url": "https://himalayas.app/companies/astreya/jobs/senior-backend-engineer-python",
+    "source": "Himalayas",
+    "categories": [
+      "design"
+    ],
+    "posted_at": "2026-10-03T12:26:20+00:00",
+    "salary": "",
+    "stipend": "",
+    "employment_type": "Full Time",
+    "applicants": null,
+    "industry": "",
+    "function": "",
+    "experience": "mid",
+    "score": 22,
+    "reasons": [
+      "Design match",
+      "India signal"
+    ]
+  },
+  {
+    "type": "job",
+    "title": "RPA Developer - RPA - Offshore - India",
+    "company": "Photon",
+    "location": "India",
+    "location_key": "india",
+    "mode": "Remote",
+    "url": "https://himalayas.app/companies/photon/jobs/rpa-developer-rpa-offshore-india",
+    "source": "Himalayas",
+    "categories": [
+      "design"
+    ],
+    "posted_at": "2026-10-03T12:13:30+00:00",
+    "salary": "",
+    "stipend": "",
+    "employment_type": "Full Time",
+    "applicants": null,
+    "industry": "",
+    "function": "",
+    "experience": "mid",
+    "score": 22,
+    "reasons": [
+      "Design match",
+      "India signal"
+    ]
+  },
+  {
+    "type": "job",
+    "title": "Data Scientist | Offshore",
+    "company": "Photon",
+    "location": "India",
+    "location_key": "india",
+    "mode": "Remote",
+    "url": "https://himalayas.app/companies/photon/jobs/data-scientist-offshore",
+    "source": "Himalayas",
+    "categories": [
+      "design"
+    ],
+    "posted_at": "2026-10-03T12:06:49+00:00",
+    "salary": "",
+    "stipend": "",
+    "employment_type": "Full Time",
+    "applicants": null,
+    "industry": "",
+    "function": "",
+    "experience": "mid",
+    "score": 22,
+    "reasons": [
+      "Design match",
+      "India signal"
+    ]
+  },
+  {
+    "type": "job",
+    "title": "Assistant Vice President – Technology (Data Solution Architect)",
+    "company": "Mashreq",
+    "location": "India",
+    "location_key": "india",
+    "mode": "Remote",
+    "url": "https://himalayas.app/companies/mashreq/jobs/assistant-vice-president-technology-data-solution-architect",
+    "source": "Himalayas",
+    "categories": [
+      "other"
+    ],
+    "posted_at": "2026-10-03T11:40:30+00:00",
+    "salary": "",
+    "stipend": "",
+    "employment_type": "Full Time",
+    "applicants": null,
+    "industry": "",
+    "function": "",
+    "experience": "unknown",
+    "score": 22,
+    "reasons": [
+      "Other match",
+      "India signal"
+    ]
+  },
+  {
+    "type": "job",
+    "title": "Gujarati-Speaking Annotator – Remote (Freelance/Part-Time)",
+    "company": "Your Personal AI",
+    "location": "India",
+    "location_key": "india",
+    "mode": "Remote",
+    "url": "https://himalayas.app/companies/your-personal-ai/jobs/gujarati-speaking-annotator-remote-freelance-part-time",
+    "source": "Himalayas",
+    "categories": [
+      "other"
+    ],
+    "posted_at": "2026-10-03T11:07:40+00:00",
+    "salary": "",
+    "stipend": "",
+    "employment_type": "Contractor",
+    "applicants": null,
+    "industry": "",
+    "function": "",
+    "experience": "unknown",
+    "score": 22,
+    "reasons": [
+      "Other match",
+      "India signal"
+    ]
+  },
+  {
+    "type": "job",
+    "title": "Data Analyst | Offshore",
+    "company": "Photon",
+    "location": "India",
+    "location_key": "india",
+    "mode": "Remote",
+    "url": "https://himalayas.app/companies/photon/jobs/data-analyst-offshore",
+    "source": "Himalayas",
+    "categories": [
+      "other"
+    ],
+    "posted_at": "2026-10-03T11:02:19+00:00",
+    "salary": "",
+    "stipend": "",
+    "employment_type": "Full Time",
+    "applicants": null,
+    "industry": "",
+    "function": "",
+    "experience": "mid",
+    "score": 22,
+    "reasons": [
+      "Other match",
+      "India signal"
     ]
   },
   {
@@ -21453,6 +21058,32 @@
   },
   {
     "type": "job",
+    "title": "Engineer, .Net Web",
+    "company": "Nagarro",
+    "location": "India",
+    "location_key": "india",
+    "mode": "Remote",
+    "url": "https://himalayas.app/companies/nagarro/jobs/engineer-net-web",
+    "source": "Himalayas",
+    "categories": [
+      "other"
+    ],
+    "posted_at": "2026-10-02T11:15:47+00:00",
+    "salary": "",
+    "stipend": "",
+    "employment_type": "Full Time",
+    "applicants": null,
+    "industry": "",
+    "function": "",
+    "experience": "unknown",
+    "score": 22,
+    "reasons": [
+      "Other match",
+      "India signal"
+    ]
+  },
+  {
+    "type": "job",
     "title": "Accounts Receivable Clerk",
     "company": "Canonical",
     "location": "EMEA",
@@ -22321,6 +21952,88 @@
   },
   {
     "type": "job",
+    "title": "Senior Clinical Product Lead | 100% Remote within Europe",
+    "company": "Docplanner",
+    "location": "Europe",
+    "location_key": "other",
+    "mode": "See listing",
+    "url": "https://jobicy.com/jobs/154341-senior-clinical-product-lead-100-remote-within-europe",
+    "source": "Jobicy",
+    "categories": [
+      "design"
+    ],
+    "posted_at": "2026-10-01T05:31:57+00:00",
+    "salary": "",
+    "stipend": "",
+    "employment_type": [
+      "Full-Time"
+    ],
+    "applicants": null,
+    "industry": "",
+    "function": "",
+    "experience": "fresher",
+    "score": 20,
+    "reasons": [
+      "Design match",
+      "Fresher-friendly signal"
+    ]
+  },
+  {
+    "type": "job",
+    "title": "Investment Banking Expert",
+    "company": "Xperteez Technology",
+    "location": "Worldwide / Remote",
+    "location_key": "remote",
+    "mode": "Remote",
+    "url": "https://himalayas.app/companies/xperteez-technology/jobs/investment-banking-expert",
+    "source": "Himalayas",
+    "categories": [
+      "other"
+    ],
+    "posted_at": "2026-10-03T11:29:59+00:00",
+    "salary": "175–300 USD / hourly",
+    "stipend": "",
+    "employment_type": "Contractor",
+    "applicants": null,
+    "industry": "",
+    "function": "",
+    "experience": "junior",
+    "score": 19,
+    "reasons": [
+      "Other match",
+      "Early-career signal",
+      "Remote"
+    ]
+  },
+  {
+    "type": "job",
+    "title": "Senior Mechanical Design Engineer",
+    "company": "micro1",
+    "location": "Worldwide / Remote",
+    "location_key": "remote",
+    "mode": "Remote",
+    "url": "https://himalayas.app/companies/micro1/jobs/senior-mechanical-design-engineer",
+    "source": "Himalayas",
+    "categories": [
+      "design"
+    ],
+    "posted_at": "2026-10-03T09:16:27+00:00",
+    "salary": "40–90 USD / hourly",
+    "stipend": "",
+    "employment_type": "Contractor",
+    "applicants": null,
+    "industry": "",
+    "function": "",
+    "experience": "junior",
+    "score": 19,
+    "reasons": [
+      "Design match",
+      "Early-career signal",
+      "Remote"
+    ]
+  },
+  {
+    "type": "job",
     "title": "Systems Administrator II",
     "company": "NightOwl Consulting",
     "location": "Worldwide / Remote",
@@ -22375,55 +22088,53 @@
   },
   {
     "type": "job",
-    "title": "Senior Solution Big Data Architect",
-    "company": "Jimmy Technologies",
+    "title": "Toast POS Specialist",
+    "company": "micro1",
     "location": "Worldwide / Remote",
     "location_key": "remote",
     "mode": "Remote",
-    "url": "https://himalayas.app/companies/jimmy-technologies/jobs/senior-solution-big-data-architect",
+    "url": "https://himalayas.app/companies/micro1/jobs/toast-pos-specialist",
     "source": "Himalayas",
     "categories": [
-      "design"
+      "operations"
     ],
-    "posted_at": "2026-10-02T17:54:25+00:00",
-    "salary": "38–43 EUR / hourly",
+    "posted_at": "2026-10-03T14:00:09+00:00",
+    "salary": "",
     "stipend": "",
     "employment_type": "Contractor",
     "applicants": null,
     "industry": "",
     "function": "",
-    "experience": "junior",
-    "score": 19,
+    "experience": "unknown",
+    "score": 17,
     "reasons": [
-      "Design match",
-      "Early-career signal",
+      "Operations match",
       "Remote"
     ]
   },
   {
     "type": "job",
-    "title": "Senior Software Developer (Backend)",
-    "company": "CloudCops GmbH",
+    "title": "Stripe Specialist | Remote - Contract",
+    "company": "Xperteez Technology",
     "location": "Worldwide / Remote",
     "location_key": "remote",
     "mode": "Remote",
-    "url": "https://himalayas.app/companies/cloudcops-gmbh/jobs/senior-software-developer-backend",
+    "url": "https://himalayas.app/companies/xperteez-technology/jobs/stripe-specialist-remote-contract",
     "source": "Himalayas",
     "categories": [
-      "other"
+      "operations"
     ],
-    "posted_at": "2026-10-02T17:07:31+00:00",
+    "posted_at": "2026-10-03T11:59:33+00:00",
     "salary": "",
     "stipend": "",
-    "employment_type": "Full Time",
+    "employment_type": "Contractor",
     "applicants": null,
     "industry": "",
     "function": "",
-    "experience": "junior",
-    "score": 19,
+    "experience": "unknown",
+    "score": 17,
     "reasons": [
-      "Other match",
-      "Early-career signal",
+      "Operations match",
       "Remote"
     ]
   },
@@ -22637,32 +22348,6 @@
   },
   {
     "type": "job",
-    "title": "Loan Servicing Support Specialist",
-    "company": "NightOwl Consulting",
-    "location": "Worldwide / Remote",
-    "location_key": "remote",
-    "mode": "Remote",
-    "url": "https://himalayas.app/companies/nightowl-consulting/jobs/loan-servicing-support-specialist",
-    "source": "Himalayas",
-    "categories": [
-      "marketing"
-    ],
-    "posted_at": "2026-10-02T21:03:38+00:00",
-    "salary": "30000–60000 PHP / monthly",
-    "stipend": "",
-    "employment_type": "Full Time",
-    "applicants": null,
-    "industry": "",
-    "function": "",
-    "experience": "unknown",
-    "score": 17,
-    "reasons": [
-      "Marketing match",
-      "Remote"
-    ]
-  },
-  {
-    "type": "job",
     "title": "Executive Assistant to C-Suite Executive",
     "company": "NightOwl Consulting",
     "location": "Worldwide / Remote",
@@ -22689,32 +22374,6 @@
   },
   {
     "type": "job",
-    "title": "Toast POS Specialist",
-    "company": "micro1",
-    "location": "Worldwide / Remote",
-    "location_key": "remote",
-    "mode": "Remote",
-    "url": "https://himalayas.app/companies/micro1/jobs/toast-pos-specialist",
-    "source": "Himalayas",
-    "categories": [
-      "operations"
-    ],
-    "posted_at": "2026-10-02T20:30:12+00:00",
-    "salary": "",
-    "stipend": "",
-    "employment_type": "Contractor",
-    "applicants": null,
-    "industry": "",
-    "function": "",
-    "experience": "unknown",
-    "score": 17,
-    "reasons": [
-      "Operations match",
-      "Remote"
-    ]
-  },
-  {
-    "type": "job",
     "title": "AI Healthcare Specialist",
     "company": "Your Personal AI",
     "location": "Worldwide / Remote",
@@ -22736,32 +22395,6 @@
     "score": 17,
     "reasons": [
       "Other match",
-      "Remote"
-    ]
-  },
-  {
-    "type": "job",
-    "title": "Shopify Specialist, Remote - Contract",
-    "company": "Xperteez Technology",
-    "location": "Worldwide / Remote",
-    "location_key": "remote",
-    "mode": "Remote",
-    "url": "https://himalayas.app/companies/xperteez-technology/jobs/shopify-specialist-remote-contract",
-    "source": "Himalayas",
-    "categories": [
-      "operations"
-    ],
-    "posted_at": "2026-10-02T16:21:19+00:00",
-    "salary": "60–100 USD / hourly",
-    "stipend": "",
-    "employment_type": "Contractor",
-    "applicants": null,
-    "industry": "",
-    "function": "",
-    "experience": "mid",
-    "score": 17,
-    "reasons": [
-      "Operations match",
       "Remote"
     ]
   },
@@ -22817,6 +22450,110 @@
     "reasons": [
       "Design match",
       "Early-career signal"
+    ]
+  },
+  {
+    "type": "job",
+    "title": "Quality Control Underwriter",
+    "company": "NightOwl Consulting",
+    "location": "Worldwide / Remote",
+    "location_key": "remote",
+    "mode": "Remote",
+    "url": "https://himalayas.app/companies/nightowl-consulting/jobs/quality-control-underwriter",
+    "source": "Himalayas",
+    "categories": [
+      "marketing"
+    ],
+    "posted_at": "2026-10-03T14:50:42+00:00",
+    "salary": "70000–100000 PHP / monthly",
+    "stipend": "",
+    "employment_type": "Full Time",
+    "applicants": null,
+    "industry": "",
+    "function": "",
+    "experience": "mid",
+    "score": 13,
+    "reasons": [
+      "Marketing match",
+      "Remote"
+    ]
+  },
+  {
+    "type": "job",
+    "title": "Research Engineer - Code Generation & Model Evaluation",
+    "company": "Xperteez Technology",
+    "location": "Worldwide / Remote",
+    "location_key": "remote",
+    "mode": "Remote",
+    "url": "https://himalayas.app/companies/xperteez-technology/jobs/research-engineer-code-generation-model-evaluation",
+    "source": "Himalayas",
+    "categories": [
+      "design"
+    ],
+    "posted_at": "2026-10-03T14:01:59+00:00",
+    "salary": "50–100 USD / hourly",
+    "stipend": "",
+    "employment_type": "Contractor",
+    "applicants": null,
+    "industry": "",
+    "function": "",
+    "experience": "unknown",
+    "score": 13,
+    "reasons": [
+      "Design match",
+      "Remote"
+    ]
+  },
+  {
+    "type": "job",
+    "title": "Open Source GitHub Maintainer",
+    "company": "micro1",
+    "location": "Worldwide / Remote",
+    "location_key": "remote",
+    "mode": "Remote",
+    "url": "https://himalayas.app/companies/micro1/jobs/open-source-github-maintainer",
+    "source": "Himalayas",
+    "categories": [
+      "other"
+    ],
+    "posted_at": "2026-10-03T14:00:09+00:00",
+    "salary": "",
+    "stipend": "",
+    "employment_type": "Full Time",
+    "applicants": null,
+    "industry": "",
+    "function": "",
+    "experience": "mid",
+    "score": 13,
+    "reasons": [
+      "Other match",
+      "Remote"
+    ]
+  },
+  {
+    "type": "job",
+    "title": "AI Product Manager",
+    "company": "Your Personal AI",
+    "location": "Worldwide / Remote",
+    "location_key": "remote",
+    "mode": "Remote",
+    "url": "https://himalayas.app/companies/your-personal-ai/jobs/ai-product-manager",
+    "source": "Himalayas",
+    "categories": [
+      "design"
+    ],
+    "posted_at": "2026-10-03T11:55:51+00:00",
+    "salary": "",
+    "stipend": "",
+    "employment_type": "Contractor",
+    "applicants": null,
+    "industry": "",
+    "function": "",
+    "experience": "mid",
+    "score": 13,
+    "reasons": [
+      "Design match",
+      "Remote"
     ]
   },
   {
@@ -23913,318 +23650,6 @@
   },
   {
     "type": "job",
-    "title": "Technical Project Manager I",
-    "company": "Cambium Learning Group",
-    "location": "Worldwide / Remote",
-    "location_key": "remote",
-    "mode": "Remote",
-    "url": "https://himalayas.app/companies/cambium-learning-group/jobs/technical-project-manager-i",
-    "source": "Himalayas",
-    "categories": [
-      "operations"
-    ],
-    "posted_at": "2026-10-02T17:47:49+00:00",
-    "salary": "",
-    "stipend": "",
-    "employment_type": "Full Time",
-    "applicants": null,
-    "industry": "",
-    "function": "",
-    "experience": "mid",
-    "score": 13,
-    "reasons": [
-      "Operations match",
-      "Remote"
-    ]
-  },
-  {
-    "type": "job",
-    "title": "ESL and Education Development Impact Zone Leader",
-    "company": "Greater Europe Mission",
-    "location": "Worldwide / Remote",
-    "location_key": "remote",
-    "mode": "Remote",
-    "url": "https://himalayas.app/companies/greater-europe-mission/jobs/esl-and-education-development-impact-zone-leader",
-    "source": "Himalayas",
-    "categories": [
-      "other"
-    ],
-    "posted_at": "2026-10-02T17:28:38+00:00",
-    "salary": "",
-    "stipend": "",
-    "employment_type": "Part Time",
-    "applicants": null,
-    "industry": "",
-    "function": "",
-    "experience": "mid",
-    "score": 13,
-    "reasons": [
-      "Other match",
-      "Remote"
-    ]
-  },
-  {
-    "type": "job",
-    "title": "Theological Educators Impact Zone Leader",
-    "company": "Greater Europe Mission",
-    "location": "Worldwide / Remote",
-    "location_key": "remote",
-    "mode": "Remote",
-    "url": "https://himalayas.app/companies/greater-europe-mission/jobs/theological-educators-impact-zone-leader",
-    "source": "Himalayas",
-    "categories": [
-      "other"
-    ],
-    "posted_at": "2026-10-02T17:10:47+00:00",
-    "salary": "",
-    "stipend": "",
-    "employment_type": "Part Time",
-    "applicants": null,
-    "industry": "",
-    "function": "",
-    "experience": "mid",
-    "score": 13,
-    "reasons": [
-      "Other match",
-      "Remote"
-    ]
-  },
-  {
-    "type": "job",
-    "title": "Infrastructure Engineer III",
-    "company": "Project Management Institute, Inc.",
-    "location": "Worldwide / Remote",
-    "location_key": "remote",
-    "mode": "Remote",
-    "url": "https://himalayas.app/companies/project-management-institute-inc/jobs/infrastructure-engineer-iii",
-    "source": "Himalayas",
-    "categories": [
-      "design"
-    ],
-    "posted_at": "2026-10-02T17:04:24+00:00",
-    "salary": "135600–165700 USD / annual",
-    "stipend": "",
-    "employment_type": "Full Time",
-    "applicants": null,
-    "industry": "",
-    "function": "",
-    "experience": "mid",
-    "score": 13,
-    "reasons": [
-      "Design match",
-      "Remote"
-    ]
-  },
-  {
-    "type": "job",
-    "title": "🌎 Full Stack Developer, Remote - Contract",
-    "company": "Xperteez Technology",
-    "location": "Worldwide / Remote",
-    "location_key": "remote",
-    "mode": "Remote",
-    "url": "https://himalayas.app/companies/xperteez-technology/jobs/full-stack-developer-remote-contract",
-    "source": "Himalayas",
-    "categories": [
-      "other"
-    ],
-    "posted_at": "2026-10-02T17:00:24+00:00",
-    "salary": "65–120 USD / hourly",
-    "stipend": "",
-    "employment_type": "Contractor",
-    "applicants": null,
-    "industry": "",
-    "function": "",
-    "experience": "unknown",
-    "score": 13,
-    "reasons": [
-      "Other match",
-      "Remote"
-    ]
-  },
-  {
-    "type": "job",
-    "title": "🌍 Backend Security Engineer, Remote - Contract",
-    "company": "Xperteez Technology",
-    "location": "Worldwide / Remote",
-    "location_key": "remote",
-    "mode": "Remote",
-    "url": "https://himalayas.app/companies/xperteez-technology/jobs/backend-security-engineer-remote-contract",
-    "source": "Himalayas",
-    "categories": [
-      "other"
-    ],
-    "posted_at": "2026-10-02T16:35:04+00:00",
-    "salary": "30–100 USD / hourly",
-    "stipend": "",
-    "employment_type": "Contractor",
-    "applicants": null,
-    "industry": "",
-    "function": "",
-    "experience": "unknown",
-    "score": 13,
-    "reasons": [
-      "Other match",
-      "Remote"
-    ]
-  },
-  {
-    "type": "job",
-    "title": "CUDA Engineering Expert | Remote - Contract",
-    "company": "Xperteez Technology",
-    "location": "Worldwide / Remote",
-    "location_key": "remote",
-    "mode": "Remote",
-    "url": "https://himalayas.app/companies/xperteez-technology/jobs/cuda-engineering-expert-remote-contract",
-    "source": "Himalayas",
-    "categories": [
-      "design"
-    ],
-    "posted_at": "2026-10-02T15:34:08+00:00",
-    "salary": "",
-    "stipend": "",
-    "employment_type": "Contractor",
-    "applicants": null,
-    "industry": "",
-    "function": "",
-    "experience": "mid",
-    "score": 13,
-    "reasons": [
-      "Design match",
-      "Remote"
-    ]
-  },
-  {
-    "type": "job",
-    "title": "SAP BTP Consultant (m/w/d)",
-    "company": "Clients & Experts Consulting",
-    "location": "Worldwide / Remote",
-    "location_key": "remote",
-    "mode": "Remote",
-    "url": "https://himalayas.app/companies/clients-experts-consulting/jobs/sap-btp-consultant-m-w-d",
-    "source": "Himalayas",
-    "categories": [
-      "sales"
-    ],
-    "posted_at": "2026-10-02T15:14:50+00:00",
-    "salary": "",
-    "stipend": "",
-    "employment_type": "Full Time",
-    "applicants": null,
-    "industry": "",
-    "function": "",
-    "experience": "unknown",
-    "score": 13,
-    "reasons": [
-      "Sales match",
-      "Remote"
-    ]
-  },
-  {
-    "type": "job",
-    "title": "Talent Pool - Tech",
-    "company": "Vaultree",
-    "location": "Worldwide / Remote",
-    "location_key": "remote",
-    "mode": "Remote",
-    "url": "https://himalayas.app/companies/vaultree/jobs/talent-pool-tech",
-    "source": "Himalayas",
-    "categories": [
-      "marketing"
-    ],
-    "posted_at": "2026-10-02T14:08:16+00:00",
-    "salary": "",
-    "stipend": "",
-    "employment_type": "Full Time",
-    "applicants": null,
-    "industry": "",
-    "function": "",
-    "experience": "mid",
-    "score": 13,
-    "reasons": [
-      "Marketing match",
-      "Remote"
-    ]
-  },
-  {
-    "type": "job",
-    "title": "Open Source GitHub Maintainer",
-    "company": "micro1",
-    "location": "Worldwide / Remote",
-    "location_key": "remote",
-    "mode": "Remote",
-    "url": "https://himalayas.app/companies/micro1/jobs/open-source-github-maintainer",
-    "source": "Himalayas",
-    "categories": [
-      "other"
-    ],
-    "posted_at": "2026-10-02T14:00:11+00:00",
-    "salary": "",
-    "stipend": "",
-    "employment_type": "Full Time",
-    "applicants": null,
-    "industry": "",
-    "function": "",
-    "experience": "mid",
-    "score": 13,
-    "reasons": [
-      "Other match",
-      "Remote"
-    ]
-  },
-  {
-    "type": "job",
-    "title": "KI Consultant im Manufacturing & Engineering (w/m/d)",
-    "company": "Aonic",
-    "location": "Worldwide / Remote",
-    "location_key": "remote",
-    "mode": "Remote",
-    "url": "https://himalayas.app/companies/aonic-de/jobs/ki-consultant-im-manufacturing-engineering-w-m-d",
-    "source": "Himalayas",
-    "categories": [
-      "other"
-    ],
-    "posted_at": "2026-10-02T13:51:56+00:00",
-    "salary": "",
-    "stipend": "",
-    "employment_type": "Full Time",
-    "applicants": null,
-    "industry": "",
-    "function": "",
-    "experience": "unknown",
-    "score": 13,
-    "reasons": [
-      "Other match",
-      "Remote"
-    ]
-  },
-  {
-    "type": "job",
-    "title": "DevOps Engineer",
-    "company": "Newel Health",
-    "location": "Worldwide / Remote",
-    "location_key": "remote",
-    "mode": "Remote",
-    "url": "https://himalayas.app/companies/newel-health/jobs/devops-engineer",
-    "source": "Himalayas",
-    "categories": [
-      "design"
-    ],
-    "posted_at": "2026-10-02T13:40:39+00:00",
-    "salary": "",
-    "stipend": "",
-    "employment_type": "Full Time",
-    "applicants": null,
-    "industry": "",
-    "function": "",
-    "experience": "mid",
-    "score": 13,
-    "reasons": [
-      "Design match",
-      "Remote"
-    ]
-  },
-  {
-    "type": "job",
     "title": "Director Payment Integrity",
     "company": "SIHO Insurance Services ",
     "location": "SIHO - Columbus, IN",
@@ -24402,32 +23827,6 @@
     "score": 13,
     "reasons": [
       "Design match",
-      "Remote"
-    ]
-  },
-  {
-    "type": "job",
-    "title": "Backend Software Engineer",
-    "company": "Airspace Link",
-    "location": "Remote",
-    "location_key": "remote",
-    "mode": "Remote",
-    "url": "https://remoteOK.com/remote-jobs/remote-backend-software-engineer-airspace-link-1137409",
-    "source": "Remote OK",
-    "categories": [
-      "other"
-    ],
-    "posted_at": "2026-09-19T20:00:01+00:00",
-    "salary": "",
-    "stipend": "",
-    "employment_type": "",
-    "applicants": null,
-    "industry": "",
-    "function": "",
-    "experience": "unknown",
-    "score": 13,
-    "reasons": [
-      "Other match",
       "Remote"
     ]
   },
