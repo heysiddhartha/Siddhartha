@@ -33028,6 +33028,32 @@
   },
   {
     "type": "job",
+    "title": "Head of Operations",
+    "company": "Leverage Live Local",
+    "location": "Remote",
+    "location_key": "remote",
+    "mode": "Remote",
+    "url": "https://remoteOK.com/remote-jobs/remote-head-of-operations-leverage-live-local-1137461",
+    "source": "Remote OK",
+    "categories": [
+      "operations"
+    ],
+    "posted_at": "2026-10-03T20:20:32+00:00",
+    "salary": "",
+    "stipend": "",
+    "employment_type": "",
+    "applicants": null,
+    "industry": "",
+    "function": "",
+    "experience": "unknown",
+    "score": 13,
+    "reasons": [
+      "Operations match",
+      "Remote"
+    ]
+  },
+  {
+    "type": "job",
     "title": "Biostatistician",
     "company": "micro1",
     "location": "Worldwide / Remote",

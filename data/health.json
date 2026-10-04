@@ -1,8 +1,8 @@
 {
-  "updated_at": "2026-10-04T12:22:19.275655+00:00",
+  "updated_at": "2026-10-04T21:25:19.367696+00:00",
   "total_fetched": 1316,
-  "total_clean": 1263,
-  "published": 1263,
+  "total_clean": 1264,
+  "published": 1264,
   "sources": {
     "Remote OK": {
       "status": "ok",
@@ -25,8 +25,9 @@
       "items": 0
     },
     "Jobisite India": {
-      "status": "ok",
-      "items": 0
+      "status": "error",
+      "items": 0,
+      "error": "HTTP Error 503: Service Unavailable"
     },
     "Jobvetta India": {
       "status": "error",
