@@ -1,8 +1,8 @@
 {
-  "updated_at": "2026-10-10T21:44:26.958831+00:00",
-  "total_fetched": 555,
-  "total_clean": 501,
-  "published": 501,
+  "updated_at": "2026-10-11T05:47:05.326151+00:00",
+  "total_fetched": 529,
+  "total_clean": 478,
+  "published": 478,
   "sources": {
     "Remote OK": {
       "status": "ok",
@@ -14,7 +14,7 @@
     },
     "Himalayas India": {
       "status": "ok",
-      "items": 256
+      "items": 230
     },
     "Hopin": {
       "status": "ok",
@@ -25,9 +25,8 @@
       "items": 0
     },
     "Jobisite India": {
-      "status": "error",
-      "items": 0,
-      "error": "HTTP Error 503: Service Unavailable"
+      "status": "ok",
+      "items": 0
     },
     "Jobvetta India": {
       "status": "error",
