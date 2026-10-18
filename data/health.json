@@ -1,8 +1,8 @@
 {
-  "updated_at": "2026-10-18T04:37:29.000914+00:00",
-  "total_fetched": 4079,
-  "total_clean": 4045,
-  "published": 4045,
+  "updated_at": "2026-10-18T11:06:25.867095+00:00",
+  "total_fetched": 2292,
+  "total_clean": 2262,
+  "published": 2262,
   "sources": {
     "Remote OK": {
       "status": "ok",
@@ -13,8 +13,9 @@
       "items": 200
     },
     "Himalayas India": {
-      "status": "ok",
-      "items": 3780
+      "status": "error",
+      "items": 0,
+      "error": "HTTP Error 429: Too Many Requests"
     },
     "Hopin": {
       "status": "ok",
