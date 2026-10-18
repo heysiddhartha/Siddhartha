@@ -1,8 +1,8 @@
 {
-  "updated_at": "2026-10-18T15:53:22.656425+00:00",
-  "total_fetched": 2292,
-  "total_clean": 2262,
-  "published": 2262,
+  "updated_at": "2026-10-18T20:44:48.475008+00:00",
+  "total_fetched": 2626,
+  "total_clean": 2596,
+  "published": 2596,
   "sources": {
     "Remote OK": {
       "status": "ok",
