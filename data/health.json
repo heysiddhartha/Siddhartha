@@ -1,8 +1,8 @@
 {
-  "updated_at": "2026-10-18T20:44:48.475008+00:00",
-  "total_fetched": 2626,
-  "total_clean": 2596,
-  "published": 2596,
+  "updated_at": "2026-10-19T04:42:00.134400+00:00",
+  "total_fetched": 2479,
+  "total_clean": 2449,
+  "published": 2449,
   "sources": {
     "Remote OK": {
       "status": "ok",
@@ -28,7 +28,7 @@
     "Jobisite India": {
       "status": "error",
       "items": 0,
-      "error": "HTTP Error 522: <none>"
+      "error": "HTTP Error 521: <none>"
     },
     "Jobvetta India": {
       "status": "error",
