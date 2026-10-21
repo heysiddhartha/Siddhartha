@@ -1,8 +1,8 @@
 {
-  "updated_at": "2026-10-21T11:49:50.695626+00:00",
-  "total_fetched": 2297,
-  "total_clean": 2267,
-  "published": 2267,
+  "updated_at": "2026-10-21T17:14:39.743426+00:00",
+  "total_fetched": 4218,
+  "total_clean": 4188,
+  "published": 4188,
   "sources": {
     "Remote OK": {
       "status": "ok",
@@ -13,9 +13,8 @@
       "items": 200
     },
     "Himalayas India": {
-      "status": "error",
-      "items": 0,
-      "error": "HTTP Error 429: Too Many Requests"
+      "status": "ok",
+      "items": 3919
     },
     "Hopin": {
       "status": "ok",
@@ -28,7 +27,7 @@
     "Jobisite India": {
       "status": "error",
       "items": 0,
-      "error": "HTTP Error 522: <none>"
+      "error": "HTTP Error 301: The HTTP server returned a redirect error that would lead to an infinite loop.\nThe last 30x error message was:\nMoved Permanently"
     },
     "Jobvetta India": {
       "status": "error",
