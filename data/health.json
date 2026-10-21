@@ -1,8 +1,8 @@
 {
-  "updated_at": "2026-10-21T17:14:39.743426+00:00",
-  "total_fetched": 4218,
-  "total_clean": 4188,
-  "published": 4188,
+  "updated_at": "2026-10-21T21:46:03.333827+00:00",
+  "total_fetched": 4269,
+  "total_clean": 4239,
+  "published": 4239,
   "sources": {
     "Remote OK": {
       "status": "ok",
@@ -14,7 +14,7 @@
     },
     "Himalayas India": {
       "status": "ok",
-      "items": 3919
+      "items": 3970
     },
     "Hopin": {
       "status": "ok",
@@ -27,7 +27,7 @@
     "Jobisite India": {
       "status": "error",
       "items": 0,
-      "error": "HTTP Error 301: The HTTP server returned a redirect error that would lead to an infinite loop.\nThe last 30x error message was:\nMoved Permanently"
+      "error": "HTTP Error 522: <none>"
     },
     "Jobvetta India": {
       "status": "error",
