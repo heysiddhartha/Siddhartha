@@ -1,8 +1,8 @@
 {
-  "updated_at": "2026-10-23T17:07:45.992847+00:00",
-  "total_fetched": 2283,
-  "total_clean": 2258,
-  "published": 2258,
+  "updated_at": "2026-10-23T21:26:07.548001+00:00",
+  "total_fetched": 2946,
+  "total_clean": 2921,
+  "published": 2921,
   "sources": {
     "Remote OK": {
       "status": "ok",
@@ -18,8 +18,9 @@
       "error": "HTTP Error 429: Too Many Requests"
     },
     "Hopin": {
-      "status": "ok",
-      "items": 0
+      "status": "error",
+      "items": 0,
+      "error": "The read operation timed out"
     },
     "YubHub": {
       "status": "ok",
@@ -28,7 +29,7 @@
     "Jobisite India": {
       "status": "error",
       "items": 0,
-      "error": "HTTP Error 522: <none>"
+      "error": "HTTP Error 521: <none>"
     },
     "Jobvetta India": {
       "status": "error",
