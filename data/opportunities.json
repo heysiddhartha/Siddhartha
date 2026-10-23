@@ -982,37 +982,6 @@
   },
   {
     "type": "job",
-    "title": "Lead Data Analyst",
-    "company": "Integrate",
-    "location": "India",
-    "location_key": "india",
-    "mode": "Remote",
-    "url": "https://himalayas.app/companies/integrate/jobs/lead-data-analyst?utm_source=api",
-    "source": "Himalayas",
-    "categories": [
-      "marketing",
-      "social",
-      "sales",
-      "operations",
-      "design"
-    ],
-    "posted_at": "2026-10-22T18:29:17+00:00",
-    "salary": "",
-    "stipend": "",
-    "employment_type": "Full Time",
-    "applicants": null,
-    "industry": "",
-    "function": "",
-    "experience": "fresher",
-    "score": 72,
-    "reasons": [
-      "Marketing match",
-      "Fresher-friendly signal",
-      "India signal"
-    ]
-  },
-  {
-    "type": "job",
     "title": "Senior Shopify Developer (Contract Role)",
     "company": "Horizontal Digital",
     "location": "India",
@@ -1186,99 +1155,6 @@
     "salary": "",
     "stipend": "",
     "employment_type": "Intern",
-    "applicants": null,
-    "industry": "",
-    "function": "",
-    "experience": "fresher",
-    "score": 72,
-    "reasons": [
-      "Marketing match",
-      "Fresher-friendly signal",
-      "India signal"
-    ]
-  },
-  {
-    "type": "job",
-    "title": "Marketing & Business Development Intern",
-    "company": "Makerble",
-    "location": "India",
-    "location_key": "india",
-    "mode": "Remote",
-    "url": "https://himalayas.app/companies/makerble/jobs/marketing-business-development-intern?utm_source=api",
-    "source": "Himalayas",
-    "categories": [
-      "marketing",
-      "content",
-      "social",
-      "sales",
-      "design"
-    ],
-    "posted_at": "2026-10-17T12:40:38+00:00",
-    "salary": "",
-    "stipend": "",
-    "employment_type": "Intern",
-    "applicants": null,
-    "industry": "",
-    "function": "",
-    "experience": "fresher",
-    "score": 72,
-    "reasons": [
-      "Marketing match",
-      "Fresher-friendly signal",
-      "India signal"
-    ]
-  },
-  {
-    "type": "job",
-    "title": "Content Creator - Assistant Manager",
-    "company": "Cloud Counselage Pvt Ltd",
-    "location": "India",
-    "location_key": "india",
-    "mode": "Remote",
-    "url": "https://himalayas.app/companies/cloud-counselage-pvt-ltd/jobs/content-creator-assistant-manager?utm_source=api",
-    "source": "Himalayas",
-    "categories": [
-      "marketing",
-      "content",
-      "social",
-      "creator",
-      "design"
-    ],
-    "posted_at": "2026-10-17T12:19:39+00:00",
-    "salary": "",
-    "stipend": "",
-    "employment_type": "Full Time",
-    "applicants": null,
-    "industry": "",
-    "function": "",
-    "experience": "fresher",
-    "score": 72,
-    "reasons": [
-      "Marketing match",
-      "Fresher-friendly signal",
-      "India signal"
-    ]
-  },
-  {
-    "type": "job",
-    "title": "Social Media Content Creator & Ads Manager",
-    "company": "Cloud Counselage Pvt Ltd",
-    "location": "India",
-    "location_key": "india",
-    "mode": "Remote",
-    "url": "https://himalayas.app/companies/cloud-counselage-pvt-ltd/jobs/social-media-content-creator-ads-manager?utm_source=api",
-    "source": "Himalayas",
-    "categories": [
-      "marketing",
-      "content",
-      "social",
-      "creator",
-      "design"
-    ],
-    "posted_at": "2026-10-17T10:21:01+00:00",
-    "salary": "",
-    "stipend": "",
-    "employment_type": "Full Time",
     "applicants": null,
     "industry": "",
     "function": "",
@@ -1930,37 +1806,6 @@
     "salary": "",
     "stipend": "",
     "employment_type": "Intern",
-    "applicants": null,
-    "industry": "",
-    "function": "",
-    "experience": "fresher",
-    "score": 72,
-    "reasons": [
-      "Marketing match",
-      "Fresher-friendly signal",
-      "India signal"
-    ]
-  },
-  {
-    "type": "job",
-    "title": "Principal Consultant - Oracle",
-    "company": "Apex IT",
-    "location": "India",
-    "location_key": "india",
-    "mode": "Remote",
-    "url": "https://himalayas.app/companies/apex-it/jobs/principal-consultant-oracle?utm_source=api",
-    "source": "Himalayas",
-    "categories": [
-      "marketing",
-      "content",
-      "social",
-      "sales",
-      "design"
-    ],
-    "posted_at": "2026-10-12T00:17:30+00:00",
-    "salary": "",
-    "stipend": "",
-    "employment_type": "Full Time",
     "applicants": null,
     "industry": "",
     "function": "",
@@ -2749,6 +2594,39 @@
   },
   {
     "type": "job",
+    "title": "Senior Manager, Marketing Strategy & Operations",
+    "company": "GiveDirectly",
+    "location": "Canada,  Germany,  Netherlands,  Poland,  Portugal,  Spain,  Türkiye,  UK,  USA",
+    "location_key": "other",
+    "mode": "See listing",
+    "url": "https://jobicy.com/jobs/156454-senior-manager-marketing-strategy-operations",
+    "source": "Jobicy",
+    "categories": [
+      "marketing",
+      "content",
+      "creator",
+      "sales",
+      "operations",
+      "design"
+    ],
+    "posted_at": "2026-10-22T18:57:18+00:00",
+    "salary": "120750–120750 USD / yearly",
+    "stipend": "",
+    "employment_type": [
+      "Full-Time"
+    ],
+    "applicants": null,
+    "industry": "",
+    "function": "",
+    "experience": "fresher",
+    "score": 70,
+    "reasons": [
+      "Marketing match",
+      "Fresher-friendly signal"
+    ]
+  },
+  {
+    "type": "job",
     "title": "Director, Partner Programs, Enablement, and Operations",
     "company": "Ping Identity",
     "location": "USA",
@@ -2937,66 +2815,6 @@
   },
   {
     "type": "job",
-    "title": "Product Support Specialist",
-    "company": "Writesonic",
-    "location": "India",
-    "location_key": "india",
-    "mode": "Remote",
-    "url": "https://himalayas.app/companies/writesonic/jobs/product-support-specialist?utm_source=api",
-    "source": "Himalayas",
-    "categories": [
-      "marketing",
-      "social",
-      "operations",
-      "design"
-    ],
-    "posted_at": "2026-10-22T19:47:08+00:00",
-    "salary": "",
-    "stipend": "",
-    "employment_type": "Full Time",
-    "applicants": null,
-    "industry": "",
-    "function": "",
-    "experience": "fresher",
-    "score": 66,
-    "reasons": [
-      "Marketing match",
-      "Fresher-friendly signal",
-      "India signal"
-    ]
-  },
-  {
-    "type": "job",
-    "title": "Executive Director - International Centre for Research on Women (ICRW) ASIA",
-    "company": "Arthan",
-    "location": "India",
-    "location_key": "india",
-    "mode": "Remote",
-    "url": "https://himalayas.app/companies/arthan/jobs/executive-director-international-centre-for-research-on-women-icrw-asia?utm_source=api",
-    "source": "Himalayas",
-    "categories": [
-      "social",
-      "sales",
-      "operations",
-      "design"
-    ],
-    "posted_at": "2026-10-22T07:21:10+00:00",
-    "salary": "",
-    "stipend": "",
-    "employment_type": "Full Time",
-    "applicants": null,
-    "industry": "",
-    "function": "",
-    "experience": "fresher",
-    "score": 66,
-    "reasons": [
-      "Social match",
-      "Fresher-friendly signal",
-      "India signal"
-    ]
-  },
-  {
-    "type": "job",
     "title": "Revenue Operations Specialist",
     "company": "Termgrid Inc.",
     "location": "India",
@@ -3161,36 +2979,6 @@
       "design"
     ],
     "posted_at": "2026-10-12T12:46:57+00:00",
-    "salary": "",
-    "stipend": "",
-    "employment_type": "Full Time",
-    "applicants": null,
-    "industry": "",
-    "function": "",
-    "experience": "fresher",
-    "score": 66,
-    "reasons": [
-      "Marketing match",
-      "Fresher-friendly signal",
-      "India signal"
-    ]
-  },
-  {
-    "type": "job",
-    "title": "Lead Generation Specialist (India)",
-    "company": "Wing Assistant",
-    "location": "India",
-    "location_key": "india",
-    "mode": "Remote",
-    "url": "https://himalayas.app/companies/wing-assistant/jobs/lead-generation-specialist-india?utm_source=api",
-    "source": "Himalayas",
-    "categories": [
-      "marketing",
-      "social",
-      "sales",
-      "operations"
-    ],
-    "posted_at": "2026-10-12T08:28:02+00:00",
     "salary": "",
     "stipend": "",
     "employment_type": "Full Time",
@@ -3537,36 +3325,6 @@
   },
   {
     "type": "job",
-    "title": "Specialist, Channel Sales - APAC",
-    "company": "Pearson",
-    "location": "India",
-    "location_key": "india",
-    "mode": "Remote",
-    "url": "https://himalayas.app/companies/pearson/jobs/specialist-channel-sales-apac?utm_source=api",
-    "source": "Himalayas",
-    "categories": [
-      "marketing",
-      "social",
-      "sales",
-      "design"
-    ],
-    "posted_at": "2026-10-03T00:39:01+00:00",
-    "salary": "",
-    "stipend": "",
-    "employment_type": "Full Time",
-    "applicants": null,
-    "industry": "",
-    "function": "",
-    "experience": "fresher",
-    "score": 66,
-    "reasons": [
-      "Marketing match",
-      "Fresher-friendly signal",
-      "India signal"
-    ]
-  },
-  {
-    "type": "job",
     "title": "Executive Sales BD/Assistant Manager Sales & BD",
     "company": "ALS Global HR",
     "location": "India",
@@ -3777,36 +3535,6 @@
   },
   {
     "type": "job",
-    "title": "Sr Human Resources Associate, Shared Service Centre ( 9 month fixed term contrac",
-    "company": "Globalization Partners",
-    "location": "India",
-    "location_key": "india",
-    "mode": "Remote",
-    "url": "https://himalayas.app/companies/globalization-partners/jobs/sr-human-resources-associate-shared-service-centre-9-month-fixed-term-contrac?utm_source=api",
-    "source": "Himalayas",
-    "categories": [
-      "marketing",
-      "content",
-      "sales",
-      "operations"
-    ],
-    "posted_at": "2026-10-02T03:29:11+00:00",
-    "salary": "",
-    "stipend": "",
-    "employment_type": "Contractor",
-    "applicants": null,
-    "industry": "",
-    "function": "",
-    "experience": "fresher",
-    "score": 66,
-    "reasons": [
-      "Marketing match",
-      "Fresher-friendly signal",
-      "India signal"
-    ]
-  },
-  {
-    "type": "job",
     "title": "Senior Software Engineer II Applied AI",
     "company": "Wrapbook",
     "location": "Remote",
@@ -3900,21 +3628,21 @@
   },
   {
     "type": "job",
-    "title": "Account Director - SLED (Great Lakes: IL, MN, WI)",
-    "company": "Zayo Group",
+    "title": "Senior Solutions Architect – AI Infrastructure Networking (remote in India)",
+    "company": "Mirantis",
     "location": "India",
     "location_key": "india",
     "mode": "Remote",
-    "url": "https://himalayas.app/companies/zayo-group/jobs/account-director-sled-great-lakes-il-mn-wi?utm_source=api",
+    "url": "https://himalayas.app/companies/mirantis/jobs/senior-solutions-architect-ai-infrastructure-networking-remote-in-india?utm_source=api",
     "source": "Himalayas",
     "categories": [
-      "marketing",
       "content",
+      "social",
       "sales",
       "design"
     ],
-    "posted_at": "2026-10-22T20:41:16+00:00",
-    "salary": "100000–140000 USD / annual",
+    "posted_at": "2026-10-22T03:36:46+00:00",
+    "salary": "",
     "stipend": "",
     "employment_type": "Full Time",
     "applicants": null,
@@ -3923,49 +3651,19 @@
     "experience": "fresher",
     "score": 62,
     "reasons": [
-      "Marketing match",
+      "Content match",
       "Fresher-friendly signal",
       "India signal"
     ]
   },
   {
     "type": "job",
-    "title": "Partnerships Manager (US & EMEA)",
-    "company": "Loop Subscriptions",
-    "location": "India",
-    "location_key": "india",
-    "mode": "Remote",
-    "url": "https://himalayas.app/companies/loop-subscriptions/jobs/partnerships-manager-us-emea?utm_source=api",
-    "source": "Himalayas",
-    "categories": [
-      "marketing",
-      "content",
-      "social",
-      "creator",
-      "sales"
-    ],
-    "posted_at": "2026-10-22T13:01:25+00:00",
-    "salary": "",
-    "stipend": "",
-    "employment_type": "Full Time",
-    "applicants": null,
-    "industry": "",
-    "function": "",
-    "experience": "mid",
-    "score": 62,
-    "reasons": [
-      "Marketing match",
-      "India signal"
-    ]
-  },
-  {
-    "type": "job",
-    "title": "Technical project manager - Network infrastructure - APAC",
+    "title": "Staff Site Reliability engineer - Network infrastructure - APAC",
     "company": "Nebius",
     "location": "India",
     "location_key": "india",
     "mode": "Remote",
-    "url": "https://himalayas.app/companies/nebius/jobs/technical-project-manager-network-infrastructure-apac?utm_source=api",
+    "url": "https://himalayas.app/companies/nebius/jobs/staff-site-reliability-engineer-network-infrastructure-apac?utm_source=api",
     "source": "Himalayas",
     "categories": [
       "marketing",
@@ -3973,38 +3671,8 @@
       "operations",
       "design"
     ],
-    "posted_at": "2026-10-22T07:13:43+00:00",
+    "posted_at": "2026-10-22T02:54:32+00:00",
     "salary": "",
-    "stipend": "",
-    "employment_type": "Full Time",
-    "applicants": null,
-    "industry": "",
-    "function": "",
-    "experience": "fresher",
-    "score": 62,
-    "reasons": [
-      "Marketing match",
-      "Fresher-friendly signal",
-      "India signal"
-    ]
-  },
-  {
-    "type": "job",
-    "title": "Korean Language Interpreter",
-    "company": "Datamark, Inc.",
-    "location": "India",
-    "location_key": "india",
-    "mode": "Remote",
-    "url": "https://himalayas.app/companies/datamark-inc/jobs/korean-language-interpreter?utm_source=api",
-    "source": "Himalayas",
-    "categories": [
-      "marketing",
-      "content",
-      "sales",
-      "design"
-    ],
-    "posted_at": "2026-10-22T05:35:37+00:00",
-    "salary": "793000–793000 INR / annual",
     "stipend": "",
     "employment_type": "Full Time",
     "applicants": null,
@@ -4584,66 +4252,6 @@
     "score": 62,
     "reasons": [
       "Marketing match",
-      "Fresher-friendly signal",
-      "India signal"
-    ]
-  },
-  {
-    "type": "job",
-    "title": "AWS Manager",
-    "company": "Cloud Counselage Pvt Ltd",
-    "location": "India",
-    "location_key": "india",
-    "mode": "Remote",
-    "url": "https://himalayas.app/companies/cloud-counselage-pvt-ltd/jobs/aws-manager?utm_source=api",
-    "source": "Himalayas",
-    "categories": [
-      "marketing",
-      "social",
-      "operations",
-      "design"
-    ],
-    "posted_at": "2026-10-17T10:47:11+00:00",
-    "salary": "",
-    "stipend": "",
-    "employment_type": "Full Time",
-    "applicants": null,
-    "industry": "",
-    "function": "",
-    "experience": "fresher",
-    "score": 62,
-    "reasons": [
-      "Marketing match",
-      "Fresher-friendly signal",
-      "India signal"
-    ]
-  },
-  {
-    "type": "job",
-    "title": "Forward Deployed Engineer",
-    "company": "Databricks",
-    "location": "India",
-    "location_key": "india",
-    "mode": "Remote",
-    "url": "https://himalayas.app/companies/databricks/jobs/forward-deployed-engineer?utm_source=api",
-    "source": "Himalayas",
-    "categories": [
-      "content",
-      "social",
-      "operations",
-      "design"
-    ],
-    "posted_at": "2026-10-17T09:27:22+00:00",
-    "salary": "",
-    "stipend": "",
-    "employment_type": "Full Time",
-    "applicants": null,
-    "industry": "",
-    "function": "",
-    "experience": "fresher",
-    "score": 62,
-    "reasons": [
-      "Content match",
       "Fresher-friendly signal",
       "India signal"
     ]
@@ -8340,6 +7948,70 @@
   },
   {
     "type": "job",
+    "title": "Senior IT Operations Engineer",
+    "company": "BigID",
+    "location": "USA",
+    "location_key": "other",
+    "mode": "See listing",
+    "url": "https://jobicy.com/jobs/156467-senior-it-operations-engineer-2",
+    "source": "Jobicy",
+    "categories": [
+      "marketing",
+      "social",
+      "sales",
+      "operations",
+      "design"
+    ],
+    "posted_at": "2026-10-22T20:38:09+00:00",
+    "salary": "145000–165000 USD / yearly",
+    "stipend": "",
+    "employment_type": [
+      "Full-Time"
+    ],
+    "applicants": null,
+    "industry": "",
+    "function": "",
+    "experience": "fresher",
+    "score": 60,
+    "reasons": [
+      "Marketing match",
+      "Fresher-friendly signal"
+    ]
+  },
+  {
+    "type": "job",
+    "title": "Senior Director, Agentic Engineering",
+    "company": "Lightspeed Commerce",
+    "location": "USA",
+    "location_key": "other",
+    "mode": "See listing",
+    "url": "https://jobicy.com/jobs/156460-senior-director-agentic-engineering",
+    "source": "Jobicy",
+    "categories": [
+      "marketing",
+      "social",
+      "sales",
+      "operations",
+      "design"
+    ],
+    "posted_at": "2026-10-22T18:57:14+00:00",
+    "salary": "300000–360000 USD / yearly",
+    "stipend": "",
+    "employment_type": [
+      "Full-Time"
+    ],
+    "applicants": null,
+    "industry": "",
+    "function": "",
+    "experience": "fresher",
+    "score": 60,
+    "reasons": [
+      "Marketing match",
+      "Fresher-friendly signal"
+    ]
+  },
+  {
+    "type": "job",
     "title": "Sr. Marketing Designer",
     "company": "Imprint",
     "location": "USA",
@@ -9034,35 +8706,6 @@
     "score": 56,
     "reasons": [
       "Social match",
-      "Fresher-friendly signal",
-      "India signal"
-    ]
-  },
-  {
-    "type": "job",
-    "title": "Marketing & Sales (Sponsorships) Executive",
-    "company": "Cloud Counselage Pvt Ltd",
-    "location": "India",
-    "location_key": "india",
-    "mode": "Remote",
-    "url": "https://himalayas.app/companies/cloud-counselage-pvt-ltd/jobs/marketing-sales-sponsorships-executive?utm_source=api",
-    "source": "Himalayas",
-    "categories": [
-      "marketing",
-      "social",
-      "sales"
-    ],
-    "posted_at": "2026-10-17T10:46:54+00:00",
-    "salary": "",
-    "stipend": "",
-    "employment_type": "Full Time",
-    "applicants": null,
-    "industry": "",
-    "function": "",
-    "experience": "fresher",
-    "score": 56,
-    "reasons": [
-      "Marketing match",
       "Fresher-friendly signal",
       "India signal"
     ]
@@ -10059,33 +9702,32 @@
   },
   {
     "type": "job",
-    "title": "Account Executive",
-    "company": "Zone &#038; Co",
-    "location": "Australia",
-    "location_key": "other",
-    "mode": "See listing",
-    "url": "https://jobicy.com/jobs/153816-account-executive-22",
-    "source": "Jobicy",
+    "title": "Accounting & Finance Manager",
+    "company": "Political Asylum Lawyers",
+    "location": "Remote",
+    "location_key": "remote",
+    "mode": "Remote",
+    "url": "https://remoteOK.com/remote-jobs/remote-accounting-finance-manager-political-asylum-lawyers-1137555",
+    "source": "Remote OK",
     "categories": [
       "marketing",
       "content",
-      "social",
-      "sales",
-      "operations"
+      "operations",
+      "design"
     ],
-    "posted_at": "2026-10-22T04:40:15+00:00",
+    "posted_at": "2026-10-22T00:00:21+00:00",
     "salary": "",
     "stipend": "",
-    "employment_type": [
-      "Full-Time"
-    ],
+    "employment_type": "",
     "applicants": null,
     "industry": "",
     "function": "",
-    "experience": "mid",
-    "score": 54,
+    "experience": "fresher",
+    "score": 53,
     "reasons": [
-      "Marketing match"
+      "Marketing match",
+      "Fresher-friendly signal",
+      "Remote"
     ]
   },
   {
@@ -10240,164 +9882,19 @@
   },
   {
     "type": "job",
-    "title": "Solution Engineer, Principal",
-    "company": "Epicor",
+    "title": "Remote SEO Content Editor – AI Search & AEO",
+    "company": "Study.com",
     "location": "India",
     "location_key": "india",
     "mode": "Remote",
-    "url": "https://himalayas.app/companies/epicor/jobs/solution-engineer-principal?utm_source=api",
-    "source": "Himalayas",
-    "categories": [
-      "social",
-      "sales",
-      "design"
-    ],
-    "posted_at": "2026-10-22T16:33:49+00:00",
-    "salary": "",
-    "stipend": "",
-    "employment_type": "Full Time",
-    "applicants": null,
-    "industry": "",
-    "function": "",
-    "experience": "fresher",
-    "score": 52,
-    "reasons": [
-      "Social match",
-      "Fresher-friendly signal",
-      "India signal"
-    ]
-  },
-  {
-    "type": "job",
-    "title": "Salesforce Service Cloud Administrator",
-    "company": "Safeguard Global",
-    "location": "India",
-    "location_key": "india",
-    "mode": "Remote",
-    "url": "https://himalayas.app/companies/safeguard-global/jobs/salesforce-service-cloud-administrator-3579211337?utm_source=api",
-    "source": "Himalayas",
-    "categories": [
-      "marketing",
-      "sales",
-      "operations"
-    ],
-    "posted_at": "2026-10-22T16:15:19+00:00",
-    "salary": "",
-    "stipend": "",
-    "employment_type": "Full Time",
-    "applicants": null,
-    "industry": "",
-    "function": "",
-    "experience": "fresher",
-    "score": 52,
-    "reasons": [
-      "Marketing match",
-      "Fresher-friendly signal",
-      "India signal"
-    ]
-  },
-  {
-    "type": "job",
-    "title": "Senior Front End Developer (3 months contract)",
-    "company": "Horizontal Digital",
-    "location": "India",
-    "location_key": "india",
-    "mode": "Remote",
-    "url": "https://himalayas.app/companies/horizontal-digital/jobs/senior-front-end-developer-3-months-contract?utm_source=api",
+    "url": "https://himalayas.app/companies/study-com/jobs/remote-seo-content-editor-ai-search-aeo-2352754948?utm_source=api",
     "source": "Himalayas",
     "categories": [
       "marketing",
       "content",
-      "social",
-      "design"
+      "creator"
     ],
-    "posted_at": "2026-10-22T15:52:06+00:00",
-    "salary": "",
-    "stipend": "",
-    "employment_type": "Contractor",
-    "applicants": null,
-    "industry": "",
-    "function": "",
-    "experience": "mid",
-    "score": 52,
-    "reasons": [
-      "Marketing match",
-      "India signal"
-    ]
-  },
-  {
-    "type": "job",
-    "title": "Machine Learning Engineer - IV (Computer Vision)",
-    "company": "Jumio",
-    "location": "India",
-    "location_key": "india",
-    "mode": "Remote",
-    "url": "https://himalayas.app/companies/jumio/jobs/machine-learning-engineer-iv-computer-vision?utm_source=api",
-    "source": "Himalayas",
-    "categories": [
-      "marketing",
-      "content",
-      "design"
-    ],
-    "posted_at": "2026-10-22T13:36:12+00:00",
-    "salary": "",
-    "stipend": "",
-    "employment_type": "Full Time",
-    "applicants": null,
-    "industry": "",
-    "function": "",
-    "experience": "fresher",
-    "score": 52,
-    "reasons": [
-      "Marketing match",
-      "Fresher-friendly signal",
-      "India signal"
-    ]
-  },
-  {
-    "type": "job",
-    "title": "Manager, Internal Controls",
-    "company": "Nextpower",
-    "location": "India",
-    "location_key": "india",
-    "mode": "Remote",
-    "url": "https://himalayas.app/companies/nextpower/jobs/manager-internal-controls?utm_source=api",
-    "source": "Himalayas",
-    "categories": [
-      "marketing",
-      "operations",
-      "design"
-    ],
-    "posted_at": "2026-10-22T11:00:49+00:00",
-    "salary": "",
-    "stipend": "",
-    "employment_type": "Full Time",
-    "applicants": null,
-    "industry": "",
-    "function": "",
-    "experience": "fresher",
-    "score": 52,
-    "reasons": [
-      "Marketing match",
-      "Fresher-friendly signal",
-      "India signal"
-    ]
-  },
-  {
-    "type": "job",
-    "title": "Malayalam & English Linguistic Projects | Sigma AI",
-    "company": "Sigma",
-    "location": "India",
-    "location_key": "india",
-    "mode": "Remote",
-    "url": "https://himalayas.app/companies/sigma/jobs/malayalam-english-linguistic-projects-sigma-ai?utm_source=api",
-    "source": "Himalayas",
-    "categories": [
-      "content",
-      "creator",
-      "operations"
-    ],
-    "posted_at": "2026-10-22T10:55:01+00:00",
+    "posted_at": "2026-10-22T03:52:32+00:00",
     "salary": "",
     "stipend": "",
     "employment_type": "Contractor",
@@ -10407,29 +9904,29 @@
     "experience": "fresher",
     "score": 52,
     "reasons": [
-      "Content match",
+      "Marketing match",
       "Fresher-friendly signal",
       "India signal"
     ]
   },
   {
     "type": "job",
-    "title": "Quality & Enablement Lead, US Tax Operations",
-    "company": "Rippling",
+    "title": "Language Data Quality Reviewer - Entry Level (Foundational / L1) | (Hindi)",
+    "company": "Volga Partners",
     "location": "India",
     "location_key": "india",
     "mode": "Remote",
-    "url": "https://himalayas.app/companies/rippling/jobs/quality-enablement-lead-us-tax-operations?utm_source=api",
+    "url": "https://himalayas.app/companies/volga-partners/jobs/language-data-quality-reviewer-entry-level-foundational-l1-hindi-8713391947?utm_source=api",
     "source": "Himalayas",
     "categories": [
       "content",
       "operations",
       "design"
     ],
-    "posted_at": "2026-10-22T06:45:21+00:00",
-    "salary": "",
+    "posted_at": "2026-10-22T03:11:00+00:00",
+    "salary": "3–4 USD / hourly",
     "stipend": "",
-    "employment_type": "Full Time",
+    "employment_type": "Temporary",
     "applicants": null,
     "industry": "",
     "function": "",
@@ -10438,122 +9935,6 @@
     "reasons": [
       "Content match",
       "Fresher-friendly signal",
-      "India signal"
-    ]
-  },
-  {
-    "type": "job",
-    "title": "Manager, Marketing Analytics (Multi-Touch Attribution)",
-    "company": "KMK Consulting, Inc.",
-    "location": "India",
-    "location_key": "india",
-    "mode": "Remote",
-    "url": "https://himalayas.app/companies/kmk-consulting-inc/jobs/manager-marketing-analytics-multi-touch-attribution?utm_source=api",
-    "source": "Himalayas",
-    "categories": [
-      "marketing",
-      "operations",
-      "design"
-    ],
-    "posted_at": "2026-10-22T06:05:46+00:00",
-    "salary": "",
-    "stipend": "",
-    "employment_type": "Full Time",
-    "applicants": null,
-    "industry": "",
-    "function": "",
-    "experience": "fresher",
-    "score": 52,
-    "reasons": [
-      "Marketing match",
-      "Fresher-friendly signal",
-      "India signal"
-    ]
-  },
-  {
-    "type": "job",
-    "title": "Area Business Manager | Diabetes Quantus | Bardhaman",
-    "company": "Abbott",
-    "location": "India",
-    "location_key": "india",
-    "mode": "Remote",
-    "url": "https://himalayas.app/companies/abbott/jobs/area-business-manager-diabetes-quantus-bardhaman?utm_source=api",
-    "source": "Himalayas",
-    "categories": [
-      "marketing",
-      "sales",
-      "design"
-    ],
-    "posted_at": "2026-10-22T06:00:45+00:00",
-    "salary": "",
-    "stipend": "",
-    "employment_type": "Full Time",
-    "applicants": null,
-    "industry": "",
-    "function": "",
-    "experience": "fresher",
-    "score": 52,
-    "reasons": [
-      "Marketing match",
-      "Fresher-friendly signal",
-      "India signal"
-    ]
-  },
-  {
-    "type": "job",
-    "title": "Senior Project Manager, India Lead - Airport Solutions",
-    "company": "Amadeus",
-    "location": "India",
-    "location_key": "india",
-    "mode": "Remote",
-    "url": "https://himalayas.app/companies/amadeus/jobs/senior-project-manager-india-lead-airport-solutions?utm_source=api",
-    "source": "Himalayas",
-    "categories": [
-      "marketing",
-      "social",
-      "operations"
-    ],
-    "posted_at": "2026-10-22T04:23:48+00:00",
-    "salary": "",
-    "stipend": "",
-    "employment_type": "Full Time",
-    "applicants": null,
-    "industry": "",
-    "function": "",
-    "experience": "fresher",
-    "score": 52,
-    "reasons": [
-      "Marketing match",
-      "Fresher-friendly signal",
-      "India signal"
-    ]
-  },
-  {
-    "type": "job",
-    "title": "Sales & Marketing Operations Manager",
-    "company": "Firework",
-    "location": "India",
-    "location_key": "india",
-    "mode": "Remote",
-    "url": "https://himalayas.app/companies/firework/jobs/sales-marketing-operations-manager?utm_source=api",
-    "source": "Himalayas",
-    "categories": [
-      "marketing",
-      "sales",
-      "operations",
-      "design"
-    ],
-    "posted_at": "2026-10-22T04:03:24+00:00",
-    "salary": "",
-    "stipend": "",
-    "employment_type": "Full Time",
-    "applicants": null,
-    "industry": "",
-    "function": "",
-    "experience": "mid",
-    "score": 52,
-    "reasons": [
-      "Marketing match",
       "India signal"
     ]
   },
@@ -11278,151 +10659,6 @@
     "score": 52,
     "reasons": [
       "Content match",
-      "Fresher-friendly signal",
-      "India signal"
-    ]
-  },
-  {
-    "type": "job",
-    "title": "Community Success Intern",
-    "company": "Cloud Counselage Pvt Ltd",
-    "location": "India",
-    "location_key": "india",
-    "mode": "Remote",
-    "url": "https://himalayas.app/companies/cloud-counselage-pvt-ltd/jobs/community-success-intern?utm_source=api",
-    "source": "Himalayas",
-    "categories": [
-      "marketing",
-      "social",
-      "design"
-    ],
-    "posted_at": "2026-10-17T12:47:35+00:00",
-    "salary": "",
-    "stipend": "",
-    "employment_type": "Intern",
-    "applicants": null,
-    "industry": "",
-    "function": "",
-    "experience": "fresher",
-    "score": 52,
-    "reasons": [
-      "Marketing match",
-      "Fresher-friendly signal",
-      "India signal"
-    ]
-  },
-  {
-    "type": "job",
-    "title": "Graduate Programme - India",
-    "company": "PriceLabs",
-    "location": "India",
-    "location_key": "india",
-    "mode": "Remote",
-    "url": "https://himalayas.app/companies/pricelabs-co/jobs/graduate-programme-india?utm_source=api",
-    "source": "Himalayas",
-    "categories": [
-      "marketing",
-      "sales",
-      "operations"
-    ],
-    "posted_at": "2026-10-17T12:37:14+00:00",
-    "salary": "",
-    "stipend": "",
-    "employment_type": "Full Time",
-    "applicants": null,
-    "industry": "",
-    "function": "",
-    "experience": "fresher",
-    "score": 52,
-    "reasons": [
-      "Marketing match",
-      "Fresher-friendly signal",
-      "India signal"
-    ]
-  },
-  {
-    "type": "job",
-    "title": "Office 365 Engineer",
-    "company": "Cloud Counselage Pvt Ltd",
-    "location": "India",
-    "location_key": "india",
-    "mode": "Remote",
-    "url": "https://himalayas.app/companies/cloud-counselage-pvt-ltd/jobs/office-365-engineer?utm_source=api",
-    "source": "Himalayas",
-    "categories": [
-      "social",
-      "operations",
-      "design"
-    ],
-    "posted_at": "2026-10-17T12:19:24+00:00",
-    "salary": "",
-    "stipend": "",
-    "employment_type": "Full Time",
-    "applicants": null,
-    "industry": "",
-    "function": "",
-    "experience": "fresher",
-    "score": 52,
-    "reasons": [
-      "Social match",
-      "Fresher-friendly signal",
-      "India signal"
-    ]
-  },
-  {
-    "type": "job",
-    "title": "Software Developer in Test (SDET)",
-    "company": "AKKO",
-    "location": "India",
-    "location_key": "india",
-    "mode": "Remote",
-    "url": "https://himalayas.app/companies/akko/jobs/software-developer-in-test-sdet?utm_source=api",
-    "source": "Himalayas",
-    "categories": [
-      "marketing",
-      "content",
-      "design"
-    ],
-    "posted_at": "2026-10-17T11:18:20+00:00",
-    "salary": "",
-    "stipend": "",
-    "employment_type": "Contractor",
-    "applicants": null,
-    "industry": "",
-    "function": "",
-    "experience": "fresher",
-    "score": 52,
-    "reasons": [
-      "Marketing match",
-      "Fresher-friendly signal",
-      "India signal"
-    ]
-  },
-  {
-    "type": "job",
-    "title": "Global Supply Planning Data Science Manager",
-    "company": "Mondelēz International",
-    "location": "India",
-    "location_key": "india",
-    "mode": "Remote",
-    "url": "https://himalayas.app/companies/mondelez-international/jobs/global-supply-planning-data-science-manager?utm_source=api",
-    "source": "Himalayas",
-    "categories": [
-      "marketing",
-      "social",
-      "operations"
-    ],
-    "posted_at": "2026-10-17T10:38:53+00:00",
-    "salary": "",
-    "stipend": "",
-    "employment_type": "Full Time",
-    "applicants": null,
-    "industry": "",
-    "function": "",
-    "experience": "fresher",
-    "score": 52,
-    "reasons": [
-      "Marketing match",
       "Fresher-friendly signal",
       "India signal"
     ]
@@ -13343,6 +12579,35 @@
   },
   {
     "type": "job",
+    "title": "Quality & Enablement Lead, US Tax Operations",
+    "company": "Rippling",
+    "location": "India",
+    "location_key": "india",
+    "mode": "Remote",
+    "url": "https://himalayas.app/companies/rippling-com/jobs/quality-enablement-lead-us-tax-operations?utm_source=api",
+    "source": "Himalayas",
+    "categories": [
+      "content",
+      "operations",
+      "design"
+    ],
+    "posted_at": "2026-10-14T00:45:00+00:00",
+    "salary": "",
+    "stipend": "",
+    "employment_type": "Full Time",
+    "applicants": null,
+    "industry": "",
+    "function": "",
+    "experience": "fresher",
+    "score": 52,
+    "reasons": [
+      "Content match",
+      "Fresher-friendly signal",
+      "India signal"
+    ]
+  },
+  {
+    "type": "job",
     "title": "Enterprise Client Sales Consultant",
     "company": "Revinate",
     "location": "India",
@@ -13831,35 +13096,6 @@
     "reasons": [
       "Marketing match",
       "Fresher-friendly signal",
-      "India signal"
-    ]
-  },
-  {
-    "type": "job",
-    "title": "Fusion Data Intelligence (FDI) - Consultant",
-    "company": "Apex IT",
-    "location": "India",
-    "location_key": "india",
-    "mode": "Remote",
-    "url": "https://himalayas.app/companies/apex-it/jobs/fusion-data-intelligence-fdi-consultant?utm_source=api",
-    "source": "Himalayas",
-    "categories": [
-      "marketing",
-      "content",
-      "sales",
-      "design"
-    ],
-    "posted_at": "2026-10-11T23:31:06+00:00",
-    "salary": "",
-    "stipend": "",
-    "employment_type": "Full Time",
-    "applicants": null,
-    "industry": "",
-    "function": "",
-    "experience": "unknown",
-    "score": 52,
-    "reasons": [
-      "Marketing match",
       "India signal"
     ]
   },
@@ -14787,6 +14023,35 @@
     "score": 52,
     "reasons": [
       "Content match",
+      "Fresher-friendly signal",
+      "India signal"
+    ]
+  },
+  {
+    "type": "job",
+    "title": "Senior Consultant - Veeva Safety Project Management",
+    "company": "Veeva Systems",
+    "location": "India",
+    "location_key": "india",
+    "mode": "Remote",
+    "url": "https://himalayas.app/companies/veeva-systems/jobs/senior-consultant-veeva-safety-project-management?utm_source=api",
+    "source": "Himalayas",
+    "categories": [
+      "marketing",
+      "operations",
+      "design"
+    ],
+    "posted_at": "2026-10-08T12:30:43+00:00",
+    "salary": "",
+    "stipend": "",
+    "employment_type": "Full Time",
+    "applicants": null,
+    "industry": "",
+    "function": "",
+    "experience": "fresher",
+    "score": 52,
+    "reasons": [
+      "Marketing match",
       "Fresher-friendly signal",
       "India signal"
     ]
@@ -15940,64 +15205,6 @@
     "salary": "",
     "stipend": "",
     "employment_type": "Contractor",
-    "applicants": null,
-    "industry": "",
-    "function": "",
-    "experience": "fresher",
-    "score": 52,
-    "reasons": [
-      "Content match",
-      "Fresher-friendly signal",
-      "India signal"
-    ]
-  },
-  {
-    "type": "job",
-    "title": "Marathi Translator | Sigma AI",
-    "company": "Sigma",
-    "location": "India",
-    "location_key": "india",
-    "mode": "Remote",
-    "url": "https://himalayas.app/companies/sigma/jobs/marathi-translator-sigma-ai?utm_source=api",
-    "source": "Himalayas",
-    "categories": [
-      "content",
-      "creator",
-      "operations"
-    ],
-    "posted_at": "2026-10-03T01:02:15+00:00",
-    "salary": "",
-    "stipend": "",
-    "employment_type": "Contractor",
-    "applicants": null,
-    "industry": "",
-    "function": "",
-    "experience": "fresher",
-    "score": 52,
-    "reasons": [
-      "Content match",
-      "Fresher-friendly signal",
-      "India signal"
-    ]
-  },
-  {
-    "type": "job",
-    "title": "Analyst - Journal Operations",
-    "company": "Sage",
-    "location": "India",
-    "location_key": "india",
-    "mode": "Remote",
-    "url": "https://himalayas.app/companies/sage/jobs/analyst-journal-operations?utm_source=api",
-    "source": "Himalayas",
-    "categories": [
-      "content",
-      "sales",
-      "operations"
-    ],
-    "posted_at": "2026-10-03T00:32:29+00:00",
-    "salary": "",
-    "stipend": "",
-    "employment_type": "Full Time",
     "applicants": null,
     "industry": "",
     "function": "",
@@ -17345,64 +16552,6 @@
   },
   {
     "type": "job",
-    "title": "Senior Frontend Developer",
-    "company": "PradeepIT Consulting Services Pvt Ltd",
-    "location": "India",
-    "location_key": "india",
-    "mode": "Remote",
-    "url": "https://himalayas.app/companies/pradeepit-consulting-services-pvt-ltd/jobs/senior-frontend-developer-3306099953?utm_source=api",
-    "source": "Himalayas",
-    "categories": [
-      "marketing",
-      "sales",
-      "design"
-    ],
-    "posted_at": "2026-10-02T03:15:18+00:00",
-    "salary": "",
-    "stipend": "",
-    "employment_type": "Full Time",
-    "applicants": null,
-    "industry": "",
-    "function": "",
-    "experience": "fresher",
-    "score": 52,
-    "reasons": [
-      "Marketing match",
-      "Fresher-friendly signal",
-      "India signal"
-    ]
-  },
-  {
-    "type": "job",
-    "title": "Product Analyst",
-    "company": "Precision Medicine Group",
-    "location": "India",
-    "location_key": "india",
-    "mode": "Remote",
-    "url": "https://himalayas.app/companies/precision-medicine-group/jobs/product-analyst?utm_source=api",
-    "source": "Himalayas",
-    "categories": [
-      "content",
-      "social",
-      "operations"
-    ],
-    "posted_at": "2026-10-02T03:13:42+00:00",
-    "salary": "",
-    "stipend": "",
-    "employment_type": "Full Time",
-    "applicants": null,
-    "industry": "",
-    "function": "",
-    "experience": "fresher",
-    "score": 52,
-    "reasons": [
-      "Content match",
-      "Fresher-friendly signal",
-      "India signal"
-    ]
-  },
-  {
-    "type": "job",
     "title": "Software Engineer (Java & C++)",
     "company": "Miratech",
     "location": "India",
@@ -17834,6 +16983,128 @@
     "reasons": [
       "Marketing match",
       "India signal"
+    ]
+  },
+  {
+    "type": "job",
+    "title": "Manager - Accounts Receivable",
+    "company": "PradeepIT Consulting Services Pvt Ltd",
+    "location": "India",
+    "location_key": "india",
+    "mode": "Remote",
+    "url": "https://himalayas.app/companies/pradeepit-consulting-services-pvt-ltd/jobs/manager-accounts-receivable-765343565?utm_source=api",
+    "source": "Himalayas",
+    "categories": [
+      "marketing",
+      "sales",
+      "operations"
+    ],
+    "posted_at": "2026-10-01T15:12:14+00:00",
+    "salary": "",
+    "stipend": "",
+    "employment_type": "Full Time",
+    "applicants": null,
+    "industry": "",
+    "function": "",
+    "experience": "fresher",
+    "score": 52,
+    "reasons": [
+      "Marketing match",
+      "Fresher-friendly signal",
+      "India signal"
+    ]
+  },
+  {
+    "type": "job",
+    "title": "Medical Science Liaison",
+    "company": "Veracyte",
+    "location": "USA",
+    "location_key": "other",
+    "mode": "See listing",
+    "url": "https://jobicy.com/jobs/156472-medical-science-liaison",
+    "source": "Jobicy",
+    "categories": [
+      "marketing",
+      "content",
+      "social",
+      "sales"
+    ],
+    "posted_at": "2026-10-22T20:38:11+00:00",
+    "salary": "162000–196000 USD / yearly",
+    "stipend": "",
+    "employment_type": [
+      "Full-Time"
+    ],
+    "applicants": null,
+    "industry": "",
+    "function": "",
+    "experience": "fresher",
+    "score": 50,
+    "reasons": [
+      "Marketing match",
+      "Fresher-friendly signal"
+    ]
+  },
+  {
+    "type": "job",
+    "title": "Customer Success Manager II - EMEA",
+    "company": "Tines",
+    "location": "Ireland",
+    "location_key": "other",
+    "mode": "See listing",
+    "url": "https://jobicy.com/jobs/156468-customer-success-manager-ii-emea",
+    "source": "Jobicy",
+    "categories": [
+      "marketing",
+      "sales",
+      "operations",
+      "design"
+    ],
+    "posted_at": "2026-10-22T20:38:08+00:00",
+    "salary": "",
+    "stipend": "",
+    "employment_type": [
+      "Full-Time"
+    ],
+    "applicants": null,
+    "industry": "",
+    "function": "",
+    "experience": "fresher",
+    "score": 50,
+    "reasons": [
+      "Marketing match",
+      "Fresher-friendly signal"
+    ]
+  },
+  {
+    "type": "job",
+    "title": "Software Development Manager",
+    "company": "Lightspeed Commerce",
+    "location": "Canada",
+    "location_key": "other",
+    "mode": "See listing",
+    "url": "https://jobicy.com/jobs/156457-software-development-manager",
+    "source": "Jobicy",
+    "categories": [
+      "marketing",
+      "social",
+      "sales",
+      "operations",
+      "design"
+    ],
+    "posted_at": "2026-10-22T18:57:15+00:00",
+    "salary": "170000–180000 CAD / yearly",
+    "stipend": "",
+    "employment_type": [
+      "Full-Time"
+    ],
+    "applicants": null,
+    "industry": "",
+    "function": "",
+    "experience": "mid",
+    "score": 50,
+    "reasons": [
+      "Marketing match"
     ]
   },
   {
@@ -18830,68 +18101,6 @@
   },
   {
     "type": "job",
-    "title": "Support Engineer (AMER)",
-    "company": "Supabase",
-    "location": "Canada,  USA",
-    "location_key": "other",
-    "mode": "See listing",
-    "url": "https://jobicy.com/jobs/151300-support-engineer-amer",
-    "source": "Jobicy",
-    "categories": [
-      "marketing",
-      "social",
-      "sales",
-      "design"
-    ],
-    "posted_at": "2026-10-22T04:40:08+00:00",
-    "salary": "",
-    "stipend": "",
-    "employment_type": [
-      "Full-Time"
-    ],
-    "applicants": null,
-    "industry": "",
-    "function": "",
-    "experience": "fresher",
-    "score": 50,
-    "reasons": [
-      "Marketing match",
-      "Fresher-friendly signal"
-    ]
-  },
-  {
-    "type": "job",
-    "title": "Director of Engineering, Data",
-    "company": "Boulevard",
-    "location": "USA",
-    "location_key": "other",
-    "mode": "See listing",
-    "url": "https://jobicy.com/jobs/151326-director-of-engineering-data",
-    "source": "Jobicy",
-    "categories": [
-      "marketing",
-      "social",
-      "operations",
-      "design"
-    ],
-    "posted_at": "2026-10-22T04:35:20+00:00",
-    "salary": "220000–270000 USD / yearly",
-    "stipend": "",
-    "employment_type": [
-      "Full-Time"
-    ],
-    "applicants": null,
-    "industry": "",
-    "function": "",
-    "experience": "fresher",
-    "score": 50,
-    "reasons": [
-      "Marketing match",
-      "Fresher-friendly signal"
-    ]
-  },
-  {
-    "type": "job",
     "title": "Junior Sales Development Representative IT Industry",
     "company": "Huzzle",
     "location": "Remote",
@@ -19032,35 +18241,6 @@
     "score": 48,
     "reasons": [
       "Content match",
-      "Early-career signal",
-      "India signal"
-    ]
-  },
-  {
-    "type": "job",
-    "title": "Sales Incentive Plan Analyst",
-    "company": "Danaher",
-    "location": "India",
-    "location_key": "india",
-    "mode": "Remote",
-    "url": "https://himalayas.app/companies/danaher/jobs/sales-incentive-plan-analyst?utm_source=api",
-    "source": "Himalayas",
-    "categories": [
-      "sales",
-      "operations",
-      "design"
-    ],
-    "posted_at": "2026-10-17T11:19:04+00:00",
-    "salary": "",
-    "stipend": "",
-    "employment_type": "Full Time",
-    "applicants": null,
-    "industry": "",
-    "function": "",
-    "experience": "junior",
-    "score": 48,
-    "reasons": [
-      "Sales match",
       "Early-career signal",
       "India signal"
     ]
@@ -19235,35 +18415,6 @@
     "score": 48,
     "reasons": [
       "Marketing match",
-      "Early-career signal",
-      "India signal"
-    ]
-  },
-  {
-    "type": "job",
-    "title": "Freelance Video Producer cum Editor",
-    "company": "Council on Energy, Environment and Water",
-    "location": "India",
-    "location_key": "india",
-    "mode": "Remote",
-    "url": "https://himalayas.app/companies/council-on-energy-environment-and-water/jobs/freelance-video-producer-cum-editor?utm_source=api",
-    "source": "Himalayas",
-    "categories": [
-      "content",
-      "creator",
-      "design"
-    ],
-    "posted_at": "2026-10-12T00:39:55+00:00",
-    "salary": "",
-    "stipend": "",
-    "employment_type": "Contractor",
-    "applicants": null,
-    "industry": "",
-    "function": "",
-    "experience": "junior",
-    "score": 48,
-    "reasons": [
-      "Content match",
       "Early-career signal",
       "India signal"
     ]
@@ -19850,47 +19001,19 @@
   },
   {
     "type": "job",
-    "title": "Campaign Specialist - CRM",
-    "company": "Publicis Groupe",
+    "title": "Senior FP&A Associate",
+    "company": "Sanctuary",
     "location": "India",
     "location_key": "india",
     "mode": "Remote",
-    "url": "https://himalayas.app/companies/publicis-groupe/jobs/campaign-specialist-crm?utm_source=api",
+    "url": "https://himalayas.app/companies/sanctuary-co/jobs/senior-fp-a-associate?utm_source=api",
     "source": "Himalayas",
     "categories": [
       "marketing",
-      "content",
       "design"
     ],
-    "posted_at": "2026-10-22T19:25:53+00:00",
-    "salary": "",
-    "stipend": "",
-    "employment_type": "Full Time",
-    "applicants": null,
-    "industry": "",
-    "function": "",
-    "experience": "mid",
-    "score": 46,
-    "reasons": [
-      "Marketing match",
-      "India signal"
-    ]
-  },
-  {
-    "type": "job",
-    "title": "Operations and Expense Coordinator",
-    "company": "Global University Systems (GUS)",
-    "location": "India",
-    "location_key": "india",
-    "mode": "Remote",
-    "url": "https://himalayas.app/companies/lccm-org/jobs/operations-and-expense-coordinator-3032139768?utm_source=api",
-    "source": "Himalayas",
-    "categories": [
-      "marketing",
-      "operations"
-    ],
-    "posted_at": "2026-10-22T10:41:24+00:00",
-    "salary": "800–1000 USD / monthly",
+    "posted_at": "2026-10-22T03:07:18+00:00",
+    "salary": "2000–4000 USD / monthly",
     "stipend": "",
     "employment_type": "Full Time",
     "applicants": null,
@@ -20068,34 +19191,6 @@
     "score": 46,
     "reasons": [
       "Marketing match",
-      "Fresher-friendly signal",
-      "India signal"
-    ]
-  },
-  {
-    "type": "job",
-    "title": "GCP Executive",
-    "company": "Cloud Counselage Pvt Ltd",
-    "location": "India",
-    "location_key": "india",
-    "mode": "Remote",
-    "url": "https://himalayas.app/companies/cloud-counselage-pvt-ltd/jobs/gcp-executive?utm_source=api",
-    "source": "Himalayas",
-    "categories": [
-      "social",
-      "design"
-    ],
-    "posted_at": "2026-10-17T12:22:17+00:00",
-    "salary": "",
-    "stipend": "",
-    "employment_type": "Full Time",
-    "applicants": null,
-    "industry": "",
-    "function": "",
-    "experience": "fresher",
-    "score": 46,
-    "reasons": [
-      "Social match",
       "Fresher-friendly signal",
       "India signal"
     ]
@@ -20453,34 +19548,6 @@
     "salary": "",
     "stipend": "",
     "employment_type": "Contractor",
-    "applicants": null,
-    "industry": "",
-    "function": "",
-    "experience": "fresher",
-    "score": 46,
-    "reasons": [
-      "Content match",
-      "Fresher-friendly signal",
-      "India signal"
-    ]
-  },
-  {
-    "type": "job",
-    "title": "Contract Compliance Subject Matter Expert | AI Evaluation Specialist (On-Call)",
-    "company": "Volga Partners",
-    "location": "India",
-    "location_key": "india",
-    "mode": "Remote",
-    "url": "https://himalayas.app/companies/volga-partners/jobs/contract-compliance-subject-matter-expert-ai-evaluation-specialist-on-call?utm_source=api",
-    "source": "Himalayas",
-    "categories": [
-      "content",
-      "design"
-    ],
-    "posted_at": "2026-10-13T10:28:06+00:00",
-    "salary": "",
-    "stipend": "",
-    "employment_type": "Temporary",
     "applicants": null,
     "industry": "",
     "function": "",
@@ -21668,19 +20735,19 @@
   },
   {
     "type": "job",
-    "title": "Software Engineer, AI Data - Hyderabad, India",
-    "company": "Speechify",
+    "title": "Staff Software Engineer - Sync CRM (Backend - 5 to 9 years)",
+    "company": "Outreach.io",
     "location": "India",
     "location_key": "india",
     "mode": "Remote",
-    "url": "https://himalayas.app/companies/speechify/jobs/software-engineer-ai-data-hyderabad-india?utm_source=api",
+    "url": "https://himalayas.app/companies/outreach-io/jobs/staff-software-engineer-sync-crm-backend-5-to-9-years?utm_source=api",
     "source": "Himalayas",
     "categories": [
-      "marketing",
       "social",
+      "sales",
       "design"
     ],
-    "posted_at": "2026-10-22T19:59:17+00:00",
+    "posted_at": "2026-10-22T03:42:22+00:00",
     "salary": "",
     "stipend": "",
     "employment_type": "Full Time",
@@ -21688,278 +20755,26 @@
     "industry": "",
     "function": "",
     "experience": "mid",
-    "score": 42,
-    "reasons": [
-      "Marketing match",
-      "India signal"
-    ]
-  },
-  {
-    "type": "job",
-    "title": "Full Stack Developer- Temporary ML replacment",
-    "company": "Elementor",
-    "location": "India",
-    "location_key": "india",
-    "mode": "Remote",
-    "url": "https://himalayas.app/companies/elementor/jobs/full-stack-developer-temporary-ml-replacment?utm_source=api",
-    "source": "Himalayas",
-    "categories": [
-      "creator",
-      "design"
-    ],
-    "posted_at": "2026-10-22T19:50:39+00:00",
-    "salary": "",
-    "stipend": "",
-    "employment_type": "Full Time",
-    "applicants": null,
-    "industry": "",
-    "function": "",
-    "experience": "fresher",
-    "score": 42,
-    "reasons": [
-      "Creator match",
-      "Fresher-friendly signal",
-      "India signal"
-    ]
-  },
-  {
-    "type": "job",
-    "title": "Senior Cloud System Administrator",
-    "company": "Harris Global Business Services Inc.",
-    "location": "India",
-    "location_key": "india",
-    "mode": "Remote",
-    "url": "https://himalayas.app/companies/harris-global-business-services-inc/jobs/senior-cloud-system-administrator?utm_source=api",
-    "source": "Himalayas",
-    "categories": [
-      "operations",
-      "design"
-    ],
-    "posted_at": "2026-10-22T17:42:03+00:00",
-    "salary": "",
-    "stipend": "",
-    "employment_type": "Full Time",
-    "applicants": null,
-    "industry": "",
-    "function": "",
-    "experience": "fresher",
-    "score": 42,
-    "reasons": [
-      "Operations match",
-      "Fresher-friendly signal",
-      "India signal"
-    ]
-  },
-  {
-    "type": "job",
-    "title": "Construction Specialist ( Arch )",
-    "company": "Mekdam Technical Services",
-    "location": "India",
-    "location_key": "india",
-    "mode": "Remote",
-    "url": "https://himalayas.app/companies/mekdam-technical-services/jobs/construction-specialist-arch?utm_source=api",
-    "source": "Himalayas",
-    "categories": [
-      "operations",
-      "design"
-    ],
-    "posted_at": "2026-10-22T17:18:21+00:00",
-    "salary": "",
-    "stipend": "",
-    "employment_type": "Full Time",
-    "applicants": null,
-    "industry": "",
-    "function": "",
-    "experience": "junior",
-    "score": 42,
-    "reasons": [
-      "Operations match",
-      "Early-career signal",
-      "India signal"
-    ]
-  },
-  {
-    "type": "job",
-    "title": "Senior Animator",
-    "company": "Outpost VFX",
-    "location": "India",
-    "location_key": "india",
-    "mode": "Remote",
-    "url": "https://himalayas.app/companies/outpost-vfx-com/jobs/senior-animator?utm_source=api",
-    "source": "Himalayas",
-    "categories": [
-      "social",
-      "design"
-    ],
-    "posted_at": "2026-10-22T12:28:09+00:00",
-    "salary": "",
-    "stipend": "",
-    "employment_type": "Full Time",
-    "applicants": null,
-    "industry": "",
-    "function": "",
-    "experience": "fresher",
     "score": 42,
     "reasons": [
       "Social match",
-      "Fresher-friendly signal",
       "India signal"
     ]
   },
   {
     "type": "job",
-    "title": "Sales Engineer - Fire Protection",
-    "company": "Victaulic",
+    "title": "Senior Technical Consultant SDN",
+    "company": "AHEAD",
     "location": "India",
     "location_key": "india",
     "mode": "Remote",
-    "url": "https://himalayas.app/companies/victaulic/jobs/sales-engineer-fire-protection?utm_source=api",
-    "source": "Himalayas",
-    "categories": [
-      "marketing",
-      "sales",
-      "design"
-    ],
-    "posted_at": "2026-10-22T10:32:25+00:00",
-    "salary": "",
-    "stipend": "",
-    "employment_type": "Full Time",
-    "applicants": null,
-    "industry": "",
-    "function": "",
-    "experience": "mid",
-    "score": 42,
-    "reasons": [
-      "Marketing match",
-      "India signal"
-    ]
-  },
-  {
-    "type": "job",
-    "title": "Revit Templates & Families Creator",
-    "company": "Minutes to Seconds Pty Ltd",
-    "location": "India",
-    "location_key": "india",
-    "mode": "Remote",
-    "url": "https://himalayas.app/companies/minutes-to-seconds-pty-ltd/jobs/revit-templates-families-creator?utm_source=api",
-    "source": "Himalayas",
-    "categories": [
-      "content",
-      "creator",
-      "design"
-    ],
-    "posted_at": "2026-10-22T06:12:19+00:00",
-    "salary": "",
-    "stipend": "",
-    "employment_type": "Full Time",
-    "applicants": null,
-    "industry": "",
-    "function": "",
-    "experience": "mid",
-    "score": 42,
-    "reasons": [
-      "Content match",
-      "India signal"
-    ]
-  },
-  {
-    "type": "job",
-    "title": "Senior Cloud System Administrator",
-    "company": "Harris",
-    "location": "India",
-    "location_key": "india",
-    "mode": "Remote",
-    "url": "https://himalayas.app/companies/harris/jobs/senior-cloud-system-administrator?utm_source=api",
-    "source": "Himalayas",
-    "categories": [
-      "operations",
-      "design"
-    ],
-    "posted_at": "2026-10-22T06:04:10+00:00",
-    "salary": "",
-    "stipend": "",
-    "employment_type": "Full Time",
-    "applicants": null,
-    "industry": "",
-    "function": "",
-    "experience": "fresher",
-    "score": 42,
-    "reasons": [
-      "Operations match",
-      "Fresher-friendly signal",
-      "India signal"
-    ]
-  },
-  {
-    "type": "job",
-    "title": "Hospital Business Head",
-    "company": "Glocal Healthcare Systems Pvt. Ltd.",
-    "location": "India",
-    "location_key": "india",
-    "mode": "Remote",
-    "url": "https://himalayas.app/companies/glocal-healthcare-systems-pvt-ltd/jobs/hospital-business-head?utm_source=api",
-    "source": "Himalayas",
-    "categories": [
-      "marketing",
-      "sales",
-      "operations"
-    ],
-    "posted_at": "2026-10-22T05:35:40+00:00",
-    "salary": "75000–75000 INR / monthly",
-    "stipend": "",
-    "employment_type": "Full Time",
-    "applicants": null,
-    "industry": "",
-    "function": "",
-    "experience": "unknown",
-    "score": 42,
-    "reasons": [
-      "Marketing match",
-      "India signal"
-    ]
-  },
-  {
-    "type": "job",
-    "title": "Cloud System Administrator",
-    "company": "Harris",
-    "location": "India",
-    "location_key": "india",
-    "mode": "Remote",
-    "url": "https://himalayas.app/companies/harris/jobs/cloud-system-administrator?utm_source=api",
-    "source": "Himalayas",
-    "categories": [
-      "operations",
-      "design"
-    ],
-    "posted_at": "2026-10-22T04:48:31+00:00",
-    "salary": "",
-    "stipend": "",
-    "employment_type": "Full Time",
-    "applicants": null,
-    "industry": "",
-    "function": "",
-    "experience": "fresher",
-    "score": 42,
-    "reasons": [
-      "Operations match",
-      "Fresher-friendly signal",
-      "India signal"
-    ]
-  },
-  {
-    "type": "job",
-    "title": "Sr. Data Engineer - Data Analytics",
-    "company": "R.S.Consultants",
-    "location": "India",
-    "location_key": "india",
-    "mode": "Remote",
-    "url": "https://himalayas.app/companies/r-s-consultants/jobs/sr-data-engineer-data-analytics?utm_source=api",
+    "url": "https://himalayas.app/companies/ahead/jobs/senior-technical-consultant-sdn?utm_source=api",
     "source": "Himalayas",
     "categories": [
       "marketing",
       "design"
     ],
-    "posted_at": "2026-10-22T04:41:55+00:00",
+    "posted_at": "2026-10-22T02:48:46+00:00",
     "salary": "",
     "stipend": "",
     "employment_type": "Full Time",
@@ -22222,6 +21037,62 @@
     "score": 42,
     "reasons": [
       "Sales match",
+      "Fresher-friendly signal",
+      "India signal"
+    ]
+  },
+  {
+    "type": "job",
+    "title": "Area Business Manager - Ahmedabad",
+    "company": "Abbott",
+    "location": "India",
+    "location_key": "india",
+    "mode": "Remote",
+    "url": "https://himalayas.app/companies/abbott/jobs/area-business-manager-ahmedabad?utm_source=api",
+    "source": "Himalayas",
+    "categories": [
+      "marketing",
+      "sales"
+    ],
+    "posted_at": "2026-10-21T14:39:53+00:00",
+    "salary": "",
+    "stipend": "",
+    "employment_type": "Full Time",
+    "applicants": null,
+    "industry": "",
+    "function": "",
+    "experience": "fresher",
+    "score": 42,
+    "reasons": [
+      "Marketing match",
+      "Fresher-friendly signal",
+      "India signal"
+    ]
+  },
+  {
+    "type": "job",
+    "title": "NICE CXOne Support Engineer",
+    "company": "Miratech",
+    "location": "India",
+    "location_key": "india",
+    "mode": "Remote",
+    "url": "https://himalayas.app/companies/miratech/jobs/nice-cxone-support-engineer?utm_source=api",
+    "source": "Himalayas",
+    "categories": [
+      "marketing",
+      "social"
+    ],
+    "posted_at": "2026-10-21T11:30:27+00:00",
+    "salary": "",
+    "stipend": "",
+    "employment_type": "Full Time",
+    "applicants": null,
+    "industry": "",
+    "function": "",
+    "experience": "fresher",
+    "score": 42,
+    "reasons": [
+      "Marketing match",
       "Fresher-friendly signal",
       "India signal"
     ]
@@ -23203,118 +22074,6 @@
     "score": 42,
     "reasons": [
       "Marketing match",
-      "India signal"
-    ]
-  },
-  {
-    "type": "job",
-    "title": "UX Designer & Researcher",
-    "company": "Cloud Counselage Pvt Ltd",
-    "location": "India",
-    "location_key": "india",
-    "mode": "Remote",
-    "url": "https://himalayas.app/companies/cloud-counselage-pvt-ltd/jobs/ux-designer-researcher?utm_source=api",
-    "source": "Himalayas",
-    "categories": [
-      "social",
-      "design"
-    ],
-    "posted_at": "2026-10-17T12:38:48+00:00",
-    "salary": "",
-    "stipend": "",
-    "employment_type": "Full Time",
-    "applicants": null,
-    "industry": "",
-    "function": "",
-    "experience": "fresher",
-    "score": 42,
-    "reasons": [
-      "Social match",
-      "Fresher-friendly signal",
-      "India signal"
-    ]
-  },
-  {
-    "type": "job",
-    "title": "Web Development Intern",
-    "company": "Cloud Counselage Pvt Ltd",
-    "location": "India",
-    "location_key": "india",
-    "mode": "Remote",
-    "url": "https://himalayas.app/companies/cloud-counselage-pvt-ltd/jobs/web-development-intern?utm_source=api",
-    "source": "Himalayas",
-    "categories": [
-      "social",
-      "design"
-    ],
-    "posted_at": "2026-10-17T12:05:46+00:00",
-    "salary": "",
-    "stipend": "",
-    "employment_type": "Intern",
-    "applicants": null,
-    "industry": "",
-    "function": "",
-    "experience": "fresher",
-    "score": 42,
-    "reasons": [
-      "Social match",
-      "Fresher-friendly signal",
-      "India signal"
-    ]
-  },
-  {
-    "type": "job",
-    "title": "Java Intern",
-    "company": "Cloud Counselage Pvt Ltd",
-    "location": "India",
-    "location_key": "india",
-    "mode": "Remote",
-    "url": "https://himalayas.app/companies/cloud-counselage-pvt-ltd/jobs/java-intern?utm_source=api",
-    "source": "Himalayas",
-    "categories": [
-      "social",
-      "design"
-    ],
-    "posted_at": "2026-10-17T11:16:01+00:00",
-    "salary": "",
-    "stipend": "",
-    "employment_type": "Intern",
-    "applicants": null,
-    "industry": "",
-    "function": "",
-    "experience": "fresher",
-    "score": 42,
-    "reasons": [
-      "Social match",
-      "Fresher-friendly signal",
-      "India signal"
-    ]
-  },
-  {
-    "type": "job",
-    "title": "Cloud Computing Team Lead",
-    "company": "Cloud Counselage Pvt Ltd",
-    "location": "India",
-    "location_key": "india",
-    "mode": "Remote",
-    "url": "https://himalayas.app/companies/cloud-counselage-pvt-ltd/jobs/cloud-computing-team-lead?utm_source=api",
-    "source": "Himalayas",
-    "categories": [
-      "social",
-      "design"
-    ],
-    "posted_at": "2026-10-17T10:45:00+00:00",
-    "salary": "",
-    "stipend": "",
-    "employment_type": "Full Time",
-    "applicants": null,
-    "industry": "",
-    "function": "",
-    "experience": "fresher",
-    "score": 42,
-    "reasons": [
-      "Social match",
-      "Fresher-friendly signal",
       "India signal"
     ]
   },
@@ -25975,62 +24734,6 @@
     "score": 42,
     "reasons": [
       "Marketing match",
-      "India signal"
-    ]
-  },
-  {
-    "type": "job",
-    "title": "Director, Product Strategy and Operations -India",
-    "company": "JumpCloud",
-    "location": "India",
-    "location_key": "india",
-    "mode": "Remote",
-    "url": "https://himalayas.app/companies/jumpcloud/jobs/director-product-strategy-and-operations-india?utm_source=api",
-    "source": "Himalayas",
-    "categories": [
-      "operations",
-      "design"
-    ],
-    "posted_at": "2026-10-12T00:25:40+00:00",
-    "salary": "",
-    "stipend": "",
-    "employment_type": "Full Time",
-    "applicants": null,
-    "industry": "",
-    "function": "",
-    "experience": "fresher",
-    "score": 42,
-    "reasons": [
-      "Operations match",
-      "Fresher-friendly signal",
-      "India signal"
-    ]
-  },
-  {
-    "type": "job",
-    "title": "SRE (Site Reliability Engineer)",
-    "company": "Supersourcing",
-    "location": "India",
-    "location_key": "india",
-    "mode": "Remote",
-    "url": "https://himalayas.app/companies/supersourcing/jobs/sre-site-reliability-engineer?utm_source=api",
-    "source": "Himalayas",
-    "categories": [
-      "operations",
-      "design"
-    ],
-    "posted_at": "2026-10-11T23:34:08+00:00",
-    "salary": "",
-    "stipend": "",
-    "employment_type": "Full Time",
-    "applicants": null,
-    "industry": "",
-    "function": "",
-    "experience": "fresher",
-    "score": 42,
-    "reasons": [
-      "Operations match",
-      "Fresher-friendly signal",
       "India signal"
     ]
   },
@@ -29508,90 +28211,6 @@
   },
   {
     "type": "job",
-    "title": "Prompt Engineer, Multi-Agent Systems",
-    "company": "Fello",
-    "location": "India",
-    "location_key": "india",
-    "mode": "Remote",
-    "url": "https://himalayas.app/companies/fello/jobs/prompt-engineer-multi-agent-systems?utm_source=api",
-    "source": "Himalayas",
-    "categories": [
-      "marketing",
-      "sales",
-      "design"
-    ],
-    "posted_at": "2026-10-03T00:57:49+00:00",
-    "salary": "",
-    "stipend": "",
-    "employment_type": "Full Time",
-    "applicants": null,
-    "industry": "",
-    "function": "",
-    "experience": "unknown",
-    "score": 42,
-    "reasons": [
-      "Marketing match",
-      "India signal"
-    ]
-  },
-  {
-    "type": "job",
-    "title": "Business Development Manager for Internation Student Recruitment: GUS France",
-    "company": "Global University Systems (GUS)",
-    "location": "India",
-    "location_key": "india",
-    "mode": "Remote",
-    "url": "https://himalayas.app/companies/global-university-systems-gus/jobs/business-development-manager-for-internation-student-recruitment-gus-france?utm_source=api",
-    "source": "Himalayas",
-    "categories": [
-      "marketing",
-      "sales"
-    ],
-    "posted_at": "2026-10-03T00:37:27+00:00",
-    "salary": "",
-    "stipend": "",
-    "employment_type": "Contractor",
-    "applicants": null,
-    "industry": "",
-    "function": "",
-    "experience": "fresher",
-    "score": 42,
-    "reasons": [
-      "Marketing match",
-      "Fresher-friendly signal",
-      "India signal"
-    ]
-  },
-  {
-    "type": "job",
-    "title": "Manager, Software Engineering (Pune, All locations, IN)",
-    "company": "The Hershey Company",
-    "location": "India",
-    "location_key": "india",
-    "mode": "Remote",
-    "url": "https://himalayas.app/companies/the-hershey-company/jobs/manager-software-engineering-pune-all-locations-in?utm_source=api",
-    "source": "Himalayas",
-    "categories": [
-      "marketing",
-      "operations",
-      "design"
-    ],
-    "posted_at": "2026-10-03T00:24:46+00:00",
-    "salary": "",
-    "stipend": "",
-    "employment_type": "Full Time",
-    "applicants": null,
-    "industry": "",
-    "function": "",
-    "experience": "mid",
-    "score": 42,
-    "reasons": [
-      "Marketing match",
-      "India signal"
-    ]
-  },
-  {
-    "type": "job",
     "title": "Assistant Vice President–Lead QA & Proofing Unit",
     "company": "Mashreq",
     "location": "India",
@@ -30572,6 +29191,34 @@
   },
   {
     "type": "job",
+    "title": "Independent Sales Consultant/Freelancer - India",
+    "company": "FudMe",
+    "location": "India",
+    "location_key": "india",
+    "mode": "Remote",
+    "url": "https://himalayas.app/companies/fudme/jobs/independent-sales-consultant-freelancer-india?utm_source=api",
+    "source": "Himalayas",
+    "categories": [
+      "marketing",
+      "sales"
+    ],
+    "posted_at": "2026-10-02T07:49:30+00:00",
+    "salary": "",
+    "stipend": "",
+    "employment_type": "Contractor",
+    "applicants": null,
+    "industry": "",
+    "function": "",
+    "experience": "fresher",
+    "score": 42,
+    "reasons": [
+      "Marketing match",
+      "Fresher-friendly signal",
+      "India signal"
+    ]
+  },
+  {
+    "type": "job",
     "title": "Director, Product Design",
     "company": "ServiceNow",
     "location": "India",
@@ -30949,174 +29596,6 @@
       "design"
     ],
     "posted_at": "2026-10-02T04:05:31+00:00",
-    "salary": "",
-    "stipend": "",
-    "employment_type": "Full Time",
-    "applicants": null,
-    "industry": "",
-    "function": "",
-    "experience": "mid",
-    "score": 42,
-    "reasons": [
-      "Marketing match",
-      "India signal"
-    ]
-  },
-  {
-    "type": "job",
-    "title": "Cloud Operations WM Lead",
-    "company": "Infios",
-    "location": "India",
-    "location_key": "india",
-    "mode": "Remote",
-    "url": "https://himalayas.app/companies/infios/jobs/cloud-operations-wm-lead?utm_source=api",
-    "source": "Himalayas",
-    "categories": [
-      "marketing",
-      "operations",
-      "design"
-    ],
-    "posted_at": "2026-10-02T03:28:12+00:00",
-    "salary": "",
-    "stipend": "",
-    "employment_type": "Full Time",
-    "applicants": null,
-    "industry": "",
-    "function": "",
-    "experience": "mid",
-    "score": 42,
-    "reasons": [
-      "Marketing match",
-      "India signal"
-    ]
-  },
-  {
-    "type": "job",
-    "title": "Security",
-    "company": "TEECOM",
-    "location": "India",
-    "location_key": "india",
-    "mode": "Remote",
-    "url": "https://himalayas.app/companies/teecom/jobs/security?utm_source=api",
-    "source": "Himalayas",
-    "categories": [
-      "operations",
-      "design"
-    ],
-    "posted_at": "2026-10-02T03:24:11+00:00",
-    "salary": "85000–210000 USD / annual",
-    "stipend": "",
-    "employment_type": "Full Time",
-    "applicants": null,
-    "industry": "",
-    "function": "",
-    "experience": "fresher",
-    "score": 42,
-    "reasons": [
-      "Operations match",
-      "Fresher-friendly signal",
-      "India signal"
-    ]
-  },
-  {
-    "type": "job",
-    "title": "Platform Engineer - Internal Developer Platform",
-    "company": "Evolent",
-    "location": "India",
-    "location_key": "india",
-    "mode": "Remote",
-    "url": "https://himalayas.app/companies/evolent/jobs/platform-engineer-internal-developer-platform?utm_source=api",
-    "source": "Himalayas",
-    "categories": [
-      "operations",
-      "design"
-    ],
-    "posted_at": "2026-10-02T03:17:04+00:00",
-    "salary": "",
-    "stipend": "",
-    "employment_type": "Full Time",
-    "applicants": null,
-    "industry": "",
-    "function": "",
-    "experience": "fresher",
-    "score": 42,
-    "reasons": [
-      "Operations match",
-      "Fresher-friendly signal",
-      "India signal"
-    ]
-  },
-  {
-    "type": "job",
-    "title": "Full Stack Engineer",
-    "company": "PradeepIT Consulting Services Pvt Ltd",
-    "location": "India",
-    "location_key": "india",
-    "mode": "Remote",
-    "url": "https://himalayas.app/companies/pradeepit-consulting-services-pvt-ltd/jobs/full-stack-engineer-3124514318?utm_source=api",
-    "source": "Himalayas",
-    "categories": [
-      "marketing",
-      "sales"
-    ],
-    "posted_at": "2026-10-02T03:15:49+00:00",
-    "salary": "",
-    "stipend": "",
-    "employment_type": "Full Time",
-    "applicants": null,
-    "industry": "",
-    "function": "",
-    "experience": "fresher",
-    "score": 42,
-    "reasons": [
-      "Marketing match",
-      "Fresher-friendly signal",
-      "India signal"
-    ]
-  },
-  {
-    "type": "job",
-    "title": "Technical Project Management",
-    "company": "TEECOM",
-    "location": "India",
-    "location_key": "india",
-    "mode": "Remote",
-    "url": "https://himalayas.app/companies/teecom/jobs/technical-project-management?utm_source=api",
-    "source": "Himalayas",
-    "categories": [
-      "operations",
-      "design"
-    ],
-    "posted_at": "2026-10-02T03:01:22+00:00",
-    "salary": "85000–210000 USD / annual",
-    "stipend": "",
-    "employment_type": "Full Time",
-    "applicants": null,
-    "industry": "",
-    "function": "",
-    "experience": "fresher",
-    "score": 42,
-    "reasons": [
-      "Operations match",
-      "Fresher-friendly signal",
-      "India signal"
-    ]
-  },
-  {
-    "type": "job",
-    "title": "Director of Sales - APAC",
-    "company": "ScaleOps",
-    "location": "India",
-    "location_key": "india",
-    "mode": "Remote",
-    "url": "https://himalayas.app/companies/scaleops/jobs/director-of-sales-apac?utm_source=api",
-    "source": "Himalayas",
-    "categories": [
-      "marketing",
-      "sales",
-      "design"
-    ],
-    "posted_at": "2026-10-02T02:58:54+00:00",
     "salary": "",
     "stipend": "",
     "employment_type": "Full Time",
@@ -31744,6 +30223,292 @@
       "Sales match",
       "Fresher-friendly signal",
       "India signal"
+    ]
+  },
+  {
+    "type": "job",
+    "title": "Team Lead Java Developer",
+    "company": "PradeepIT Consulting Services Pvt Ltd",
+    "location": "India",
+    "location_key": "india",
+    "mode": "Remote",
+    "url": "https://himalayas.app/companies/pradeepit-consulting-services-pvt-ltd/jobs/team-lead-java-developer?utm_source=api",
+    "source": "Himalayas",
+    "categories": [
+      "marketing",
+      "sales",
+      "design"
+    ],
+    "posted_at": "2026-10-01T15:15:26+00:00",
+    "salary": "",
+    "stipend": "",
+    "employment_type": "Full Time",
+    "applicants": null,
+    "industry": "",
+    "function": "",
+    "experience": "mid",
+    "score": 42,
+    "reasons": [
+      "Marketing match",
+      "India signal"
+    ]
+  },
+  {
+    "type": "job",
+    "title": "Frontend Software Engineer",
+    "company": "PradeepIT Consulting Services Pvt Ltd",
+    "location": "India",
+    "location_key": "india",
+    "mode": "Remote",
+    "url": "https://himalayas.app/companies/pradeepit-consulting-services-pvt-ltd/jobs/frontend-software-engineer?utm_source=api",
+    "source": "Himalayas",
+    "categories": [
+      "marketing",
+      "sales",
+      "operations"
+    ],
+    "posted_at": "2026-10-01T15:14:44+00:00",
+    "salary": "",
+    "stipend": "",
+    "employment_type": "Full Time",
+    "applicants": null,
+    "industry": "",
+    "function": "",
+    "experience": "mid",
+    "score": 42,
+    "reasons": [
+      "Marketing match",
+      "India signal"
+    ]
+  },
+  {
+    "type": "job",
+    "title": "Sr. Hybris Developer",
+    "company": "PradeepIT Consulting Services Pvt Ltd",
+    "location": "India",
+    "location_key": "india",
+    "mode": "Remote",
+    "url": "https://himalayas.app/companies/pradeepit-consulting-services-pvt-ltd/jobs/sr-hybris-developer?utm_source=api",
+    "source": "Himalayas",
+    "categories": [
+      "marketing",
+      "sales",
+      "operations"
+    ],
+    "posted_at": "2026-10-01T15:14:36+00:00",
+    "salary": "",
+    "stipend": "",
+    "employment_type": "Full Time",
+    "applicants": null,
+    "industry": "",
+    "function": "",
+    "experience": "mid",
+    "score": 42,
+    "reasons": [
+      "Marketing match",
+      "India signal"
+    ]
+  },
+  {
+    "type": "job",
+    "title": "Lead Product Analyst - AI Products",
+    "company": "HighLevel",
+    "location": "India",
+    "location_key": "india",
+    "mode": "Remote",
+    "url": "https://himalayas.app/companies/highlevel/jobs/lead-product-analyst-ai-products?utm_source=api",
+    "source": "Himalayas",
+    "categories": [
+      "marketing",
+      "social",
+      "design"
+    ],
+    "posted_at": "2026-10-01T15:10:35+00:00",
+    "salary": "",
+    "stipend": "",
+    "employment_type": "Full Time",
+    "applicants": null,
+    "industry": "",
+    "function": "",
+    "experience": "mid",
+    "score": 42,
+    "reasons": [
+      "Marketing match",
+      "India signal"
+    ]
+  },
+  {
+    "type": "job",
+    "title": "IOS Mobile Engineer",
+    "company": "PradeepIT Consulting Services Pvt Ltd",
+    "location": "India",
+    "location_key": "india",
+    "mode": "Remote",
+    "url": "https://himalayas.app/companies/pradeepit-consulting-services-pvt-ltd/jobs/ios-mobile-engineer?utm_source=api",
+    "source": "Himalayas",
+    "categories": [
+      "marketing",
+      "sales",
+      "design"
+    ],
+    "posted_at": "2026-10-01T15:02:31+00:00",
+    "salary": "",
+    "stipend": "",
+    "employment_type": "Full Time",
+    "applicants": null,
+    "industry": "",
+    "function": "",
+    "experience": "mid",
+    "score": 42,
+    "reasons": [
+      "Marketing match",
+      "India signal"
+    ]
+  },
+  {
+    "type": "job",
+    "title": "Art Director",
+    "company": "GMR Marketing",
+    "location": "India",
+    "location_key": "india",
+    "mode": "Remote",
+    "url": "https://himalayas.app/companies/gmr-marketing/jobs/art-director?utm_source=api",
+    "source": "Himalayas",
+    "categories": [
+      "marketing",
+      "content",
+      "design"
+    ],
+    "posted_at": "2026-10-01T14:57:23+00:00",
+    "salary": "80000–95000 USD / annual",
+    "stipend": "",
+    "employment_type": "Full Time",
+    "applicants": null,
+    "industry": "",
+    "function": "",
+    "experience": "mid",
+    "score": 42,
+    "reasons": [
+      "Marketing match",
+      "India signal"
+    ]
+  },
+  {
+    "type": "job",
+    "title": "Senior Engineer (Hybris)",
+    "company": "PradeepIT Consulting Services Pvt Ltd",
+    "location": "India",
+    "location_key": "india",
+    "mode": "Remote",
+    "url": "https://himalayas.app/companies/pradeepit-consulting-services-pvt-ltd/jobs/senior-engineer-hybris?utm_source=api",
+    "source": "Himalayas",
+    "categories": [
+      "marketing",
+      "sales",
+      "design"
+    ],
+    "posted_at": "2026-10-01T14:11:24+00:00",
+    "salary": "",
+    "stipend": "",
+    "employment_type": "Full Time",
+    "applicants": null,
+    "industry": "",
+    "function": "",
+    "experience": "mid",
+    "score": 42,
+    "reasons": [
+      "Marketing match",
+      "India signal"
+    ]
+  },
+  {
+    "type": "job",
+    "title": "Technical Account Manager",
+    "company": "Spreedly",
+    "location": "USA",
+    "location_key": "other",
+    "mode": "See listing",
+    "url": "https://jobicy.com/jobs/156464-technical-account-manager-9",
+    "source": "Jobicy",
+    "categories": [
+      "marketing",
+      "sales",
+      "design"
+    ],
+    "posted_at": "2026-10-22T20:38:10+00:00",
+    "salary": "",
+    "stipend": "",
+    "employment_type": [
+      "Full-Time"
+    ],
+    "applicants": null,
+    "industry": "",
+    "function": "",
+    "experience": "fresher",
+    "score": 40,
+    "reasons": [
+      "Marketing match",
+      "Fresher-friendly signal"
+    ]
+  },
+  {
+    "type": "job",
+    "title": "Manager Software Test Automation",
+    "company": "Veracyte",
+    "location": "USA",
+    "location_key": "other",
+    "mode": "See listing",
+    "url": "https://jobicy.com/jobs/156466-manager-software-test-automation",
+    "source": "Jobicy",
+    "categories": [
+      "marketing",
+      "social",
+      "operations"
+    ],
+    "posted_at": "2026-10-22T20:38:09+00:00",
+    "salary": "147000–163000 USD / yearly",
+    "stipend": "",
+    "employment_type": [
+      "Full-Time"
+    ],
+    "applicants": null,
+    "industry": "",
+    "function": "",
+    "experience": "fresher",
+    "score": 40,
+    "reasons": [
+      "Marketing match",
+      "Fresher-friendly signal"
+    ]
+  },
+  {
+    "type": "job",
+    "title": "Senior Software Engineer (PHP)",
+    "company": "NFQ",
+    "location": "Poland",
+    "location_key": "other",
+    "mode": "See listing",
+    "url": "https://jobicy.com/jobs/156456-senior-software-engineer-php",
+    "source": "Jobicy",
+    "categories": [
+      "marketing",
+      "social",
+      "design"
+    ],
+    "posted_at": "2026-10-22T18:57:15+00:00",
+    "salary": "18260–24900 PLN / monthly",
+    "stipend": "",
+    "employment_type": [
+      "Full-Time"
+    ],
+    "applicants": null,
+    "industry": "",
+    "function": "",
+    "experience": "fresher",
+    "score": 40,
+    "reasons": [
+      "Marketing match",
+      "Fresher-friendly signal"
     ]
   },
   {
@@ -33398,302 +32163,6 @@
   },
   {
     "type": "job",
-    "title": "Enterprise Solution Engineer (Pre-Sales)",
-    "company": "Zip",
-    "location": "USA",
-    "location_key": "other",
-    "mode": "See listing",
-    "url": "https://jobicy.com/jobs/153786-enterprise-solution-engineer-pre-sales",
-    "source": "Jobicy",
-    "categories": [
-      "marketing",
-      "social",
-      "sales",
-      "design"
-    ],
-    "posted_at": "2026-10-22T04:40:13+00:00",
-    "salary": "180000–265000 USD / yearly",
-    "stipend": "",
-    "employment_type": [
-      "Full-Time"
-    ],
-    "applicants": null,
-    "industry": "",
-    "function": "",
-    "experience": "mid",
-    "score": 40,
-    "reasons": [
-      "Marketing match"
-    ]
-  },
-  {
-    "type": "job",
-    "title": "Director of Business Development",
-    "company": "Hello Alice",
-    "location": "USA",
-    "location_key": "other",
-    "mode": "See listing",
-    "url": "https://jobicy.com/jobs/151336-director-of-business-development",
-    "source": "Jobicy",
-    "categories": [
-      "marketing",
-      "social",
-      "sales"
-    ],
-    "posted_at": "2026-10-22T04:40:12+00:00",
-    "salary": "",
-    "stipend": "",
-    "employment_type": [
-      "Full-Time"
-    ],
-    "applicants": null,
-    "industry": "",
-    "function": "",
-    "experience": "fresher",
-    "score": 40,
-    "reasons": [
-      "Marketing match",
-      "Fresher-friendly signal"
-    ]
-  },
-  {
-    "type": "job",
-    "title": "Engineering Manager, Product Engineering",
-    "company": "Boulevard",
-    "location": "USA",
-    "location_key": "other",
-    "mode": "See listing",
-    "url": "https://jobicy.com/jobs/151329-engineering-manager-product-engineering",
-    "source": "Jobicy",
-    "categories": [
-      "marketing",
-      "social",
-      "design"
-    ],
-    "posted_at": "2026-10-22T04:40:10+00:00",
-    "salary": "153500–216500 USD / yearly",
-    "stipend": "",
-    "employment_type": [
-      "Full-Time"
-    ],
-    "applicants": null,
-    "industry": "",
-    "function": "",
-    "experience": "fresher",
-    "score": 40,
-    "reasons": [
-      "Marketing match",
-      "Fresher-friendly signal"
-    ]
-  },
-  {
-    "type": "job",
-    "title": "Partner Business Manager",
-    "company": "DeleteMe",
-    "location": "USA",
-    "location_key": "other",
-    "mode": "See listing",
-    "url": "https://jobicy.com/jobs/153790-partner-business-manager",
-    "source": "Jobicy",
-    "categories": [
-      "marketing",
-      "sales",
-      "design"
-    ],
-    "posted_at": "2026-10-22T04:35:30+00:00",
-    "salary": "",
-    "stipend": "",
-    "employment_type": [
-      "Full-Time"
-    ],
-    "applicants": null,
-    "industry": "",
-    "function": "",
-    "experience": "fresher",
-    "score": 40,
-    "reasons": [
-      "Marketing match",
-      "Fresher-friendly signal"
-    ]
-  },
-  {
-    "type": "job",
-    "title": "Lead Revenue Operations Analyst",
-    "company": "Spreedly",
-    "location": "USA",
-    "location_key": "other",
-    "mode": "See listing",
-    "url": "https://jobicy.com/jobs/153789-lead-revenue-operations-analyst",
-    "source": "Jobicy",
-    "categories": [
-      "marketing",
-      "sales",
-      "operations",
-      "design"
-    ],
-    "posted_at": "2026-10-22T04:35:26+00:00",
-    "salary": "",
-    "stipend": "",
-    "employment_type": [
-      "Full-Time"
-    ],
-    "applicants": null,
-    "industry": "",
-    "function": "",
-    "experience": "mid",
-    "score": 40,
-    "reasons": [
-      "Marketing match"
-    ]
-  },
-  {
-    "type": "job",
-    "title": "Technical Lead Manager",
-    "company": "Homebound",
-    "location": "USA",
-    "location_key": "other",
-    "mode": "See listing",
-    "url": "https://jobicy.com/jobs/151337-technical-lead-manager",
-    "source": "Jobicy",
-    "categories": [
-      "marketing",
-      "operations",
-      "design"
-    ],
-    "posted_at": "2026-10-22T04:35:21+00:00",
-    "salary": "150000–200000 USD / yearly",
-    "stipend": "",
-    "employment_type": [
-      "Full-Time"
-    ],
-    "applicants": null,
-    "industry": "",
-    "function": "",
-    "experience": "fresher",
-    "score": 40,
-    "reasons": [
-      "Marketing match",
-      "Fresher-friendly signal"
-    ]
-  },
-  {
-    "type": "job",
-    "title": "International Tax Manager",
-    "company": "Liftoff",
-    "location": "USA",
-    "location_key": "other",
-    "mode": "See listing",
-    "url": "https://jobicy.com/jobs/151323-international-tax-manager",
-    "source": "Jobicy",
-    "categories": [
-      "marketing",
-      "operations",
-      "design"
-    ],
-    "posted_at": "2026-10-22T04:35:17+00:00",
-    "salary": "113000–159000 USD / yearly",
-    "stipend": "",
-    "employment_type": [
-      "Full-Time"
-    ],
-    "applicants": null,
-    "industry": "",
-    "function": "",
-    "experience": "fresher",
-    "score": 40,
-    "reasons": [
-      "Marketing match",
-      "Fresher-friendly signal"
-    ]
-  },
-  {
-    "type": "job",
-    "title": "Senior Software Engineer – Backend (USA Only - 100% Remote)",
-    "company": "Close",
-    "location": "USA",
-    "location_key": "other",
-    "mode": "See listing",
-    "url": "https://jobicy.com/jobs/151308-senior-software-engineer-backend-usa-only-100-remote",
-    "source": "Jobicy",
-    "categories": [
-      "marketing",
-      "sales",
-      "design"
-    ],
-    "posted_at": "2026-10-22T04:35:16+00:00",
-    "salary": "",
-    "stipend": "",
-    "employment_type": [
-      "Full-Time"
-    ],
-    "applicants": null,
-    "industry": "",
-    "function": "",
-    "experience": "fresher",
-    "score": 40,
-    "reasons": [
-      "Marketing match",
-      "Fresher-friendly signal"
-    ]
-  },
-  {
-    "type": "job",
-    "title": "Tech Lead (C++) - 2269",
-    "company": "Swan Global WLL",
-    "location": "India",
-    "location_key": "india",
-    "mode": "Remote",
-    "url": "https://himalayas.app/companies/swan-global-wll/jobs/tech-lead-c-2269?utm_source=api",
-    "source": "Himalayas",
-    "categories": [
-      "sales",
-      "design"
-    ],
-    "posted_at": "2026-10-22T20:48:04+00:00",
-    "salary": "",
-    "stipend": "",
-    "employment_type": "Full Time",
-    "applicants": null,
-    "industry": "",
-    "function": "",
-    "experience": "junior",
-    "score": 38,
-    "reasons": [
-      "Sales match",
-      "Early-career signal",
-      "India signal"
-    ]
-  },
-  {
-    "type": "job",
-    "title": "Sr. Integration Engineer",
-    "company": "Anaconda",
-    "location": "India",
-    "location_key": "india",
-    "mode": "Remote",
-    "url": "https://himalayas.app/companies/anaconda/jobs/sr-integration-engineer?utm_source=api",
-    "source": "Himalayas",
-    "categories": [
-      "marketing",
-      "operations"
-    ],
-    "posted_at": "2026-10-22T19:28:25+00:00",
-    "salary": "",
-    "stipend": "",
-    "employment_type": "Full Time",
-    "applicants": null,
-    "industry": "",
-    "function": "",
-    "experience": "junior",
-    "score": 38,
-    "reasons": [
-      "Marketing match",
-      "Early-career signal",
-      "India signal"
-    ]
-  },
-  {
-    "type": "job",
     "title": "Senior clinical programmer (Rave)",
     "company": "Syneos Health India Private Limited",
     "location": "India",
@@ -35066,28 +33535,111 @@
   },
   {
     "type": "job",
-    "title": "APAC Customer Support Specialist",
-    "company": "Kodland",
+    "title": "SAP ABAP Lead Global AMS",
+    "company": "PradeepIT Consulting Services Pvt Ltd",
     "location": "India",
     "location_key": "india",
     "mode": "Remote",
-    "url": "https://himalayas.app/companies/kodland/jobs/apac-customer-support-specialist?utm_source=api",
+    "url": "https://himalayas.app/companies/pradeepit-consulting-services-pvt-ltd/jobs/sap-abap-lead-global-ams?utm_source=api",
     "source": "Himalayas",
     "categories": [
-      "other"
+      "operations",
+      "design"
     ],
-    "posted_at": "2026-10-22T09:38:56+00:00",
-    "salary": "900–900 USD / monthly",
+    "posted_at": "2026-10-01T15:02:17+00:00",
+    "salary": "",
     "stipend": "",
     "employment_type": "Full Time",
     "applicants": null,
     "industry": "",
     "function": "",
-    "experience": "fresher",
+    "experience": "junior",
+    "score": 38,
+    "reasons": [
+      "Operations match",
+      "Early-career signal",
+      "India signal"
+    ]
+  },
+  {
+    "type": "job",
+    "title": "Network Security Advisor (Remote, KA, IN)",
+    "company": "NTT DATA",
+    "location": "India",
+    "location_key": "india",
+    "mode": "Remote",
+    "url": "https://himalayas.app/companies/nttdata/jobs/network-security-advisor-remote-ka-in?utm_source=api",
+    "source": "Himalayas",
+    "categories": [
+      "operations",
+      "design"
+    ],
+    "posted_at": "2026-10-01T14:48:12+00:00",
+    "salary": "",
+    "stipend": "",
+    "employment_type": "Full Time",
+    "applicants": null,
+    "industry": "",
+    "function": "",
+    "experience": "junior",
+    "score": 38,
+    "reasons": [
+      "Operations match",
+      "Early-career signal",
+      "India signal"
+    ]
+  },
+  {
+    "type": "job",
+    "title": "Specialized Talent Administrator & Coordinator",
+    "company": "Cielo",
+    "location": "India",
+    "location_key": "india",
+    "mode": "Remote",
+    "url": "https://himalayas.app/companies/cielo/jobs/specialized-talent-administrator-coordinator-5483206996?utm_source=api",
+    "source": "Himalayas",
+    "categories": [
+      "marketing",
+      "design"
+    ],
+    "posted_at": "2026-10-22T01:15:53+00:00",
+    "salary": "",
+    "stipend": "",
+    "employment_type": "Full Time",
+    "applicants": null,
+    "industry": "",
+    "function": "",
+    "experience": "mid",
     "score": 36,
     "reasons": [
-      "Other match",
-      "Fresher-friendly signal",
+      "Marketing match",
+      "India signal"
+    ]
+  },
+  {
+    "type": "job",
+    "title": "Account Executive (5+ years, B2B SaaS, Enterprise sales)",
+    "company": "Docsumo",
+    "location": "India",
+    "location_key": "india",
+    "mode": "Remote",
+    "url": "https://himalayas.app/companies/docsumo/jobs/account-executive-5-years-b2b-saas-enterprise-sales-4222429042?utm_source=api",
+    "source": "Himalayas",
+    "categories": [
+      "marketing",
+      "sales"
+    ],
+    "posted_at": "2026-10-21T05:29:27+00:00",
+    "salary": "",
+    "stipend": "",
+    "employment_type": "Full Time",
+    "applicants": null,
+    "industry": "",
+    "function": "",
+    "experience": "mid",
+    "score": 36,
+    "reasons": [
+      "Marketing match",
       "India signal"
     ]
   },
@@ -35822,33 +34374,6 @@
   },
   {
     "type": "job",
-    "title": "Amazon PPC Specialist",
-    "company": "ScaleJet",
-    "location": "India",
-    "location_key": "india",
-    "mode": "Remote",
-    "url": "https://himalayas.app/companies/scalejet/jobs/amazon-ppc-specialist?utm_source=api",
-    "source": "Himalayas",
-    "categories": [
-      "marketing",
-      "content"
-    ],
-    "posted_at": "2026-10-12T01:25:25+00:00",
-    "salary": "",
-    "stipend": "",
-    "employment_type": "Full Time",
-    "applicants": null,
-    "industry": "",
-    "function": "",
-    "experience": "mid",
-    "score": 36,
-    "reasons": [
-      "Marketing match",
-      "India signal"
-    ]
-  },
-  {
-    "type": "job",
     "title": "AI Governance Program Director (The Strategist)",
     "company": "Technopals Pte.Ltd.",
     "location": "India",
@@ -36470,33 +34995,6 @@
   },
   {
     "type": "job",
-    "title": "Growth Sales Executive - Snapsight",
-    "company": "GEVME",
-    "location": "India",
-    "location_key": "india",
-    "mode": "Remote",
-    "url": "https://himalayas.app/companies/gevme/jobs/growth-sales-executive-snapsight?utm_source=api",
-    "source": "Himalayas",
-    "categories": [
-      "marketing",
-      "sales"
-    ],
-    "posted_at": "2026-10-02T03:19:47+00:00",
-    "salary": "",
-    "stipend": "",
-    "employment_type": "Full Time",
-    "applicants": null,
-    "industry": "",
-    "function": "",
-    "experience": "mid",
-    "score": 36,
-    "reasons": [
-      "Marketing match",
-      "India signal"
-    ]
-  },
-  {
-    "type": "job",
     "title": "Sales Executive",
     "company": "Speedlabs",
     "location": "India",
@@ -36573,6 +35071,60 @@
     "score": 36,
     "reasons": [
       "Sales match",
+      "India signal"
+    ]
+  },
+  {
+    "type": "job",
+    "title": "Senior Sales executive",
+    "company": "PradeepIT Consulting Services Pvt Ltd",
+    "location": "India",
+    "location_key": "india",
+    "mode": "Remote",
+    "url": "https://himalayas.app/companies/pradeepit-consulting-services-pvt-ltd/jobs/senior-sales-executive?utm_source=api",
+    "source": "Himalayas",
+    "categories": [
+      "marketing",
+      "sales"
+    ],
+    "posted_at": "2026-10-01T15:06:55+00:00",
+    "salary": "",
+    "stipend": "",
+    "employment_type": "Full Time",
+    "applicants": null,
+    "industry": "",
+    "function": "",
+    "experience": "mid",
+    "score": 36,
+    "reasons": [
+      "Marketing match",
+      "India signal"
+    ]
+  },
+  {
+    "type": "job",
+    "title": "Specialist Engineering, Testing",
+    "company": "PradeepIT Consulting Services Pvt Ltd",
+    "location": "India",
+    "location_key": "india",
+    "mode": "Remote",
+    "url": "https://himalayas.app/companies/pradeepit-consulting-services-pvt-ltd/jobs/specialist-engineering-testing?utm_source=api",
+    "source": "Himalayas",
+    "categories": [
+      "marketing",
+      "sales"
+    ],
+    "posted_at": "2026-10-01T14:48:26+00:00",
+    "salary": "",
+    "stipend": "",
+    "employment_type": "Full Time",
+    "applicants": null,
+    "industry": "",
+    "function": "",
+    "experience": "mid",
+    "score": 36,
+    "reasons": [
+      "Marketing match",
       "India signal"
     ]
   },
@@ -36748,64 +35300,6 @@
     "reasons": [
       "Marketing match",
       "Fresher-friendly signal"
-    ]
-  },
-  {
-    "type": "job",
-    "title": "Strategic Enterprise Account Executive",
-    "company": "Proof",
-    "location": "USA",
-    "location_key": "other",
-    "mode": "See listing",
-    "url": "https://jobicy.com/jobs/151325-strategic-enterprise-account-executive",
-    "source": "Jobicy",
-    "categories": [
-      "marketing",
-      "sales",
-      "design"
-    ],
-    "posted_at": "2026-10-22T04:35:24+00:00",
-    "salary": "250000–350000 USD / yearly",
-    "stipend": "",
-    "employment_type": [
-      "Full-Time"
-    ],
-    "applicants": null,
-    "industry": "",
-    "function": "",
-    "experience": "mid",
-    "score": 34,
-    "reasons": [
-      "Marketing match"
-    ]
-  },
-  {
-    "type": "job",
-    "title": "Enterprise Account Executive - Central",
-    "company": "Zip",
-    "location": "USA",
-    "location_key": "other",
-    "mode": "See listing",
-    "url": "https://jobicy.com/jobs/153791-enterprise-account-executive-central-3",
-    "source": "Jobicy",
-    "categories": [
-      "marketing",
-      "social",
-      "sales"
-    ],
-    "posted_at": "2026-10-22T04:35:23+00:00",
-    "salary": "250000–315000 USD / yearly",
-    "stipend": "",
-    "employment_type": [
-      "Full-Time"
-    ],
-    "applicants": null,
-    "industry": "",
-    "function": "",
-    "experience": "mid",
-    "score": 34,
-    "reasons": [
-      "Marketing match"
     ]
   },
   {
@@ -37202,209 +35696,20 @@
   },
   {
     "type": "job",
-    "title": "Management Accountant (CERES GROUP)",
-    "company": "Vesta Software Group",
+    "title": "I-CPT-0033: AI & ML Developer",
+    "company": "20four7VA",
     "location": "India",
     "location_key": "india",
     "mode": "Remote",
-    "url": "https://himalayas.app/companies/vesta-software-group/jobs/management-accountant-ceres-group?utm_source=api",
-    "source": "Himalayas",
-    "categories": [
-      "marketing"
-    ],
-    "posted_at": "2026-10-22T20:35:12+00:00",
-    "salary": "",
-    "stipend": "",
-    "employment_type": "Full Time",
-    "applicants": null,
-    "industry": "",
-    "function": "",
-    "experience": "fresher",
-    "score": 32,
-    "reasons": [
-      "Marketing match",
-      "Fresher-friendly signal",
-      "India signal"
-    ]
-  },
-  {
-    "type": "job",
-    "title": "Sr. Microsoft Engineer",
-    "company": "Corpay",
-    "location": "India",
-    "location_key": "india",
-    "mode": "Remote",
-    "url": "https://himalayas.app/companies/corpay/jobs/sr-microsoft-engineer?utm_source=api",
-    "source": "Himalayas",
-    "categories": [
-      "operations",
-      "design"
-    ],
-    "posted_at": "2026-10-22T19:45:20+00:00",
-    "salary": "",
-    "stipend": "",
-    "employment_type": "Full Time",
-    "applicants": null,
-    "industry": "",
-    "function": "",
-    "experience": "mid",
-    "score": 32,
-    "reasons": [
-      "Operations match",
-      "India signal"
-    ]
-  },
-  {
-    "type": "job",
-    "title": "Staff Engineer (Platform)",
-    "company": "BukuWarung",
-    "location": "India",
-    "location_key": "india",
-    "mode": "Remote",
-    "url": "https://himalayas.app/companies/bukuwarung/jobs/staff-engineer-platform?utm_source=api",
-    "source": "Himalayas",
-    "categories": [
-      "marketing",
-      "design"
-    ],
-    "posted_at": "2026-10-22T19:34:07+00:00",
-    "salary": "",
-    "stipend": "",
-    "employment_type": "Full Time",
-    "applicants": null,
-    "industry": "",
-    "function": "",
-    "experience": "mid",
-    "score": 32,
-    "reasons": [
-      "Marketing match",
-      "India signal"
-    ]
-  },
-  {
-    "type": "job",
-    "title": "Remote IT Service Desk Analyst - India (6 month contract)",
-    "company": "AmbaFlex",
-    "location": "India",
-    "location_key": "india",
-    "mode": "Remote",
-    "url": "https://himalayas.app/companies/ambaflex/jobs/remote-it-service-desk-analyst-india-6-month-contract?utm_source=api",
-    "source": "Himalayas",
-    "categories": [
-      "operations"
-    ],
-    "posted_at": "2026-10-22T19:30:18+00:00",
-    "salary": "",
-    "stipend": "",
-    "employment_type": "Contractor",
-    "applicants": null,
-    "industry": "",
-    "function": "",
-    "experience": "fresher",
-    "score": 32,
-    "reasons": [
-      "Operations match",
-      "Fresher-friendly signal",
-      "India signal"
-    ]
-  },
-  {
-    "type": "job",
-    "title": "Freelance Tech Agent - APAC",
-    "company": "TransPerfect",
-    "location": "India",
-    "location_key": "india",
-    "mode": "Remote",
-    "url": "https://himalayas.app/companies/transperfect/jobs/freelance-tech-agent-apac?utm_source=api",
-    "source": "Himalayas",
-    "categories": [
-      "marketing"
-    ],
-    "posted_at": "2026-10-22T17:45:47+00:00",
-    "salary": "",
-    "stipend": "",
-    "employment_type": "Contractor",
-    "applicants": null,
-    "industry": "",
-    "function": "",
-    "experience": "fresher",
-    "score": 32,
-    "reasons": [
-      "Marketing match",
-      "Fresher-friendly signal",
-      "India signal"
-    ]
-  },
-  {
-    "type": "job",
-    "title": "Cyber Security Lead",
-    "company": "The Customization Group",
-    "location": "India",
-    "location_key": "india",
-    "mode": "Remote",
-    "url": "https://himalayas.app/companies/the-customization-group/jobs/cyber-security-lead?utm_source=api",
-    "source": "Himalayas",
-    "categories": [
-      "operations"
-    ],
-    "posted_at": "2026-10-22T17:22:29+00:00",
-    "salary": "",
-    "stipend": "",
-    "employment_type": "Full Time",
-    "applicants": null,
-    "industry": "",
-    "function": "",
-    "experience": "fresher",
-    "score": 32,
-    "reasons": [
-      "Operations match",
-      "Fresher-friendly signal",
-      "India signal"
-    ]
-  },
-  {
-    "type": "job",
-    "title": "Senior React Native Engineer",
-    "company": "Zeller",
-    "location": "India",
-    "location_key": "india",
-    "mode": "Remote",
-    "url": "https://himalayas.app/companies/zeller/jobs/senior-react-native-engineer?utm_source=api",
-    "source": "Himalayas",
-    "categories": [
-      "marketing",
-      "design"
-    ],
-    "posted_at": "2026-10-22T16:58:06+00:00",
-    "salary": "",
-    "stipend": "",
-    "employment_type": "Full Time",
-    "applicants": null,
-    "industry": "",
-    "function": "",
-    "experience": "mid",
-    "score": 32,
-    "reasons": [
-      "Marketing match",
-      "India signal"
-    ]
-  },
-  {
-    "type": "job",
-    "title": "CAD Engineer - AI Trainer",
-    "company": "Mindrift",
-    "location": "India",
-    "location_key": "india",
-    "mode": "Remote",
-    "url": "https://himalayas.app/companies/mindrift/jobs/cad-engineer-ai-trainer-7147298001?utm_source=api",
+    "url": "https://himalayas.app/companies/20four7va/jobs/i-cpt-0033-ai-ml-developer?utm_source=api",
     "source": "Himalayas",
     "categories": [
       "design"
     ],
-    "posted_at": "2026-10-22T15:36:40+00:00",
-    "salary": "9–9 USD / hourly",
+    "posted_at": "2026-10-22T03:56:30+00:00",
+    "salary": "",
     "stipend": "",
-    "employment_type": "Contractor",
+    "employment_type": "Part Time",
     "applicants": null,
     "industry": "",
     "function": "",
@@ -37418,190 +35723,28 @@
   },
   {
     "type": "job",
-    "title": "Hindi - AI Product Evaluator",
-    "company": "Productive Playhouse",
+    "title": "Freelance Malayalam Translator",
+    "company": "TransPerfect",
     "location": "India",
     "location_key": "india",
     "mode": "Remote",
-    "url": "https://himalayas.app/companies/productive-playhouse/jobs/hindi-ai-product-evaluator-9283708763?utm_source=api",
+    "url": "https://himalayas.app/companies/transperfect/jobs/freelance-malayalam-translator?utm_source=api",
     "source": "Himalayas",
     "categories": [
-      "other"
+      "content",
+      "creator"
     ],
-    "posted_at": "2026-10-22T14:48:24+00:00",
-    "salary": "8–8 USD / hourly",
+    "posted_at": "2026-10-22T02:22:45+00:00",
+    "salary": "",
     "stipend": "",
     "employment_type": "Contractor",
     "applicants": null,
     "industry": "",
     "function": "",
-    "experience": "fresher",
-    "score": 32,
-    "reasons": [
-      "Other match",
-      "Fresher-friendly signal",
-      "India signal"
-    ]
-  },
-  {
-    "type": "job",
-    "title": "Adobe Journey Optimizer (AJO) Developer",
-    "company": "Vrinda International",
-    "location": "India",
-    "location_key": "india",
-    "mode": "Remote",
-    "url": "https://himalayas.app/companies/vrinda-international/jobs/adobe-journey-optimizer-ajo-developer?utm_source=api",
-    "source": "Himalayas",
-    "categories": [
-      "marketing",
-      "design"
-    ],
-    "posted_at": "2026-10-22T14:04:22+00:00",
-    "salary": "",
-    "stipend": "",
-    "employment_type": "Full Time",
-    "applicants": null,
-    "industry": "",
-    "function": "",
-    "experience": "mid",
-    "score": 32,
-    "reasons": [
-      "Marketing match",
-      "India signal"
-    ]
-  },
-  {
-    "type": "job",
-    "title": "Website Designer and Developer",
-    "company": "Raks IT Solutions Pvt Ltd",
-    "location": "India",
-    "location_key": "india",
-    "mode": "Remote",
-    "url": "https://himalayas.app/companies/raks-it-solutions-pvt-ltd/jobs/website-designer-and-developer?utm_source=api",
-    "source": "Himalayas",
-    "categories": [
-      "marketing",
-      "design"
-    ],
-    "posted_at": "2026-10-22T13:56:38+00:00",
-    "salary": "",
-    "stipend": "",
-    "employment_type": "Full Time",
-    "applicants": null,
-    "industry": "",
-    "function": "",
     "experience": "unknown",
-    "score": 32,
-    "reasons": [
-      "Marketing match",
-      "India signal"
-    ]
-  },
-  {
-    "type": "job",
-    "title": "Security Architect – CSPM / Wiz.io",
-    "company": "Vrinda International",
-    "location": "India",
-    "location_key": "india",
-    "mode": "Remote",
-    "url": "https://himalayas.app/companies/vrinda-international/jobs/security-architect-cspm-wiz-io?utm_source=api",
-    "source": "Himalayas",
-    "categories": [
-      "content",
-      "design"
-    ],
-    "posted_at": "2026-10-22T11:41:51+00:00",
-    "salary": "",
-    "stipend": "",
-    "employment_type": "Full Time",
-    "applicants": null,
-    "industry": "",
-    "function": "",
-    "experience": "mid",
     "score": 32,
     "reasons": [
       "Content match",
-      "India signal"
-    ]
-  },
-  {
-    "type": "job",
-    "title": "Freelance Mechanical CFD Engineer - AI Trainer",
-    "company": "Mindrift",
-    "location": "India",
-    "location_key": "india",
-    "mode": "Remote",
-    "url": "https://himalayas.app/companies/mindrift/jobs/freelance-mechanical-cfd-engineer-ai-trainer-9498840626?utm_source=api",
-    "source": "Himalayas",
-    "categories": [
-      "other"
-    ],
-    "posted_at": "2026-10-22T08:59:40+00:00",
-    "salary": "9–9 USD / hourly",
-    "stipend": "",
-    "employment_type": "Part Time",
-    "applicants": null,
-    "industry": "",
-    "function": "",
-    "experience": "fresher",
-    "score": 32,
-    "reasons": [
-      "Other match",
-      "Fresher-friendly signal",
-      "India signal"
-    ]
-  },
-  {
-    "type": "job",
-    "title": "SOC Detection and Response - Engineer Cyber Security Engineer",
-    "company": "Unisys",
-    "location": "India",
-    "location_key": "india",
-    "mode": "Remote",
-    "url": "https://himalayas.app/companies/unisys/jobs/soc-detection-and-response-engineer-cyber-security-engineer?utm_source=api",
-    "source": "Himalayas",
-    "categories": [
-      "operations"
-    ],
-    "posted_at": "2026-10-22T05:27:33+00:00",
-    "salary": "",
-    "stipend": "",
-    "employment_type": "Full Time",
-    "applicants": null,
-    "industry": "",
-    "function": "",
-    "experience": "fresher",
-    "score": 32,
-    "reasons": [
-      "Operations match",
-      "Fresher-friendly signal",
-      "India signal"
-    ]
-  },
-  {
-    "type": "job",
-    "title": "Planning & Billing Engineer",
-    "company": "GVPR",
-    "location": "India",
-    "location_key": "india",
-    "mode": "Remote",
-    "url": "https://himalayas.app/companies/gvpr/jobs/planning-billing-engineer?utm_source=api",
-    "source": "Himalayas",
-    "categories": [
-      "marketing",
-      "operations"
-    ],
-    "posted_at": "2026-10-22T04:49:27+00:00",
-    "salary": "",
-    "stipend": "",
-    "employment_type": "Full Time",
-    "applicants": null,
-    "industry": "",
-    "function": "",
-    "experience": "unknown",
-    "score": 32,
-    "reasons": [
-      "Marketing match",
       "India signal"
     ]
   },
@@ -39173,33 +37316,6 @@
   },
   {
     "type": "job",
-    "title": "Member of Technical Staff, Android Platform (AOSP)",
-    "company": "logcat.ai",
-    "location": "India",
-    "location_key": "india",
-    "mode": "Remote",
-    "url": "https://himalayas.app/companies/logcat-ai/jobs/member-of-technical-staff-android-platform-aosp?utm_source=api",
-    "source": "Himalayas",
-    "categories": [
-      "operations"
-    ],
-    "posted_at": "2026-10-17T12:13:18+00:00",
-    "salary": "",
-    "stipend": "",
-    "employment_type": "Full Time",
-    "applicants": null,
-    "industry": "",
-    "function": "",
-    "experience": "fresher",
-    "score": 32,
-    "reasons": [
-      "Operations match",
-      "Fresher-friendly signal",
-      "India signal"
-    ]
-  },
-  {
-    "type": "job",
     "title": "Frontend Engineer",
     "company": "ArangoDB",
     "location": "India",
@@ -39249,6 +37365,60 @@
     "reasons": [
       "Design match",
       "Fresher-friendly signal",
+      "India signal"
+    ]
+  },
+  {
+    "type": "job",
+    "title": "Associate Staff Consultant, Business Analyst",
+    "company": "Nagarro",
+    "location": "India",
+    "location_key": "india",
+    "mode": "Remote",
+    "url": "https://himalayas.app/companies/nagarro/jobs/associate-staff-consultant-business-analyst-6784624550?utm_source=api",
+    "source": "Himalayas",
+    "categories": [
+      "design"
+    ],
+    "posted_at": "2026-10-17T09:30:47+00:00",
+    "salary": "",
+    "stipend": "",
+    "employment_type": "Full Time",
+    "applicants": null,
+    "industry": "",
+    "function": "",
+    "experience": "junior",
+    "score": 32,
+    "reasons": [
+      "Design match",
+      "Early-career signal",
+      "India signal"
+    ]
+  },
+  {
+    "type": "job",
+    "title": "Associate Staff Engineer, NodeJS",
+    "company": "Nagarro",
+    "location": "India",
+    "location_key": "india",
+    "mode": "Remote",
+    "url": "https://himalayas.app/companies/nagarro/jobs/associate-staff-engineer-nodejs?utm_source=api",
+    "source": "Himalayas",
+    "categories": [
+      "other"
+    ],
+    "posted_at": "2026-10-17T09:30:31+00:00",
+    "salary": "",
+    "stipend": "",
+    "employment_type": "Full Time",
+    "applicants": null,
+    "industry": "",
+    "function": "",
+    "experience": "junior",
+    "score": 32,
+    "reasons": [
+      "Other match",
+      "Early-career signal",
       "India signal"
     ]
   },
@@ -41711,249 +39881,6 @@
   },
   {
     "type": "job",
-    "title": "Construction Schedule Analyst",
-    "company": "Doxel",
-    "location": "India",
-    "location_key": "india",
-    "mode": "Remote",
-    "url": "https://himalayas.app/companies/doxel/jobs/construction-schedule-analyst?utm_source=api",
-    "source": "Himalayas",
-    "categories": [
-      "operations"
-    ],
-    "posted_at": "2026-10-12T01:50:30+00:00",
-    "salary": "",
-    "stipend": "",
-    "employment_type": "Full Time",
-    "applicants": null,
-    "industry": "",
-    "function": "",
-    "experience": "fresher",
-    "score": 32,
-    "reasons": [
-      "Operations match",
-      "Fresher-friendly signal",
-      "India signal"
-    ]
-  },
-  {
-    "type": "job",
-    "title": "Telemarketing Representative (French Support) - Work From Home",
-    "company": "SummitNext Technologies Sdn Bhd",
-    "location": "India",
-    "location_key": "india",
-    "mode": "Remote",
-    "url": "https://himalayas.app/companies/summitnext-technologies-sdn-bhd/jobs/telemarketing-representative-french-support-work-from-home?utm_source=api",
-    "source": "Himalayas",
-    "categories": [
-      "marketing",
-      "sales"
-    ],
-    "posted_at": "2026-10-12T01:17:57+00:00",
-    "salary": "",
-    "stipend": "",
-    "employment_type": "Full Time",
-    "applicants": null,
-    "industry": "",
-    "function": "",
-    "experience": "mid",
-    "score": 32,
-    "reasons": [
-      "Marketing match",
-      "India signal"
-    ]
-  },
-  {
-    "type": "job",
-    "title": "SecurityBoat RedOps Member (Freelance Pentester)",
-    "company": "SecurityBoat",
-    "location": "India",
-    "location_key": "india",
-    "mode": "Remote",
-    "url": "https://himalayas.app/companies/securityboat/jobs/securityboat-redops-member-freelance-pentester?utm_source=api",
-    "source": "Himalayas",
-    "categories": [
-      "social"
-    ],
-    "posted_at": "2026-10-12T01:13:47+00:00",
-    "salary": "",
-    "stipend": "",
-    "employment_type": "Contractor",
-    "applicants": null,
-    "industry": "",
-    "function": "",
-    "experience": "fresher",
-    "score": 32,
-    "reasons": [
-      "Social match",
-      "Fresher-friendly signal",
-      "India signal"
-    ]
-  },
-  {
-    "type": "job",
-    "title": "Senior Associate Business Analyst, Distributed Systems",
-    "company": "National Payments Corporation of India (NPCI)",
-    "location": "India",
-    "location_key": "india",
-    "mode": "Remote",
-    "url": "https://himalayas.app/companies/national-payments-corporation-of-india-npci/jobs/senior-associate-business-analyst-distributed-systems?utm_source=api",
-    "source": "Himalayas",
-    "categories": [
-      "other"
-    ],
-    "posted_at": "2026-10-12T00:48:34+00:00",
-    "salary": "",
-    "stipend": "",
-    "employment_type": "Full Time",
-    "applicants": null,
-    "industry": "",
-    "function": "",
-    "experience": "junior",
-    "score": 32,
-    "reasons": [
-      "Other match",
-      "Early-career signal",
-      "India signal"
-    ]
-  },
-  {
-    "type": "job",
-    "title": "Frontend Web Development Senior Engineer",
-    "company": "BuildBear Labs",
-    "location": "India",
-    "location_key": "india",
-    "mode": "Remote",
-    "url": "https://himalayas.app/companies/buildbear-labs/jobs/frontend-web-development-senior-engineer?utm_source=api",
-    "source": "Himalayas",
-    "categories": [
-      "marketing",
-      "design"
-    ],
-    "posted_at": "2026-10-12T00:43:09+00:00",
-    "salary": "",
-    "stipend": "",
-    "employment_type": "Full Time",
-    "applicants": null,
-    "industry": "",
-    "function": "",
-    "experience": "mid",
-    "score": 32,
-    "reasons": [
-      "Marketing match",
-      "India signal"
-    ]
-  },
-  {
-    "type": "job",
-    "title": "Business Analyst + Data Scientist",
-    "company": "Vrinda International",
-    "location": "India",
-    "location_key": "india",
-    "mode": "Remote",
-    "url": "https://himalayas.app/companies/vrinda-international/jobs/business-analyst-data-scientist?utm_source=api",
-    "source": "Himalayas",
-    "categories": [
-      "sales",
-      "design"
-    ],
-    "posted_at": "2026-10-12T00:23:43+00:00",
-    "salary": "",
-    "stipend": "",
-    "employment_type": "Full Time",
-    "applicants": null,
-    "industry": "",
-    "function": "",
-    "experience": "mid",
-    "score": 32,
-    "reasons": [
-      "Sales match",
-      "India signal"
-    ]
-  },
-  {
-    "type": "job",
-    "title": "Virtual Wealth Manager",
-    "company": "PEOPLEOCITY LLP",
-    "location": "India",
-    "location_key": "india",
-    "mode": "Remote",
-    "url": "https://himalayas.app/companies/peopleocity-llp/jobs/virtual-wealth-manager?utm_source=api",
-    "source": "Himalayas",
-    "categories": [
-      "marketing"
-    ],
-    "posted_at": "2026-10-12T00:08:34+00:00",
-    "salary": "",
-    "stipend": "",
-    "employment_type": "Full Time",
-    "applicants": null,
-    "industry": "",
-    "function": "",
-    "experience": "fresher",
-    "score": 32,
-    "reasons": [
-      "Marketing match",
-      "Fresher-friendly signal",
-      "India signal"
-    ]
-  },
-  {
-    "type": "job",
-    "title": "Punjabi Interpreter",
-    "company": "One World Global Services",
-    "location": "India",
-    "location_key": "india",
-    "mode": "Remote",
-    "url": "https://himalayas.app/companies/one-world-global-services/jobs/punjabi-interpreter?utm_source=api",
-    "source": "Himalayas",
-    "categories": [
-      "design"
-    ],
-    "posted_at": "2026-10-11T23:46:25+00:00",
-    "salary": "",
-    "stipend": "",
-    "employment_type": "Full Time",
-    "applicants": null,
-    "industry": "",
-    "function": "",
-    "experience": "fresher",
-    "score": 32,
-    "reasons": [
-      "Design match",
-      "Fresher-friendly signal",
-      "India signal"
-    ]
-  },
-  {
-    "type": "job",
-    "title": "US Healthcare Accountant",
-    "company": "Limitlessli",
-    "location": "India",
-    "location_key": "india",
-    "mode": "Remote",
-    "url": "https://himalayas.app/companies/limitlessli/jobs/us-healthcare-accountant?utm_source=api",
-    "source": "Himalayas",
-    "categories": [
-      "other"
-    ],
-    "posted_at": "2026-10-11T23:18:23+00:00",
-    "salary": "",
-    "stipend": "",
-    "employment_type": "Full Time",
-    "applicants": null,
-    "industry": "",
-    "function": "",
-    "experience": "fresher",
-    "score": 32,
-    "reasons": [
-      "Other match",
-      "Fresher-friendly signal",
-      "India signal"
-    ]
-  },
-  {
-    "type": "job",
     "title": "Sr Python Backend Engineer",
     "company": "Lumiq",
     "location": "India",
@@ -42867,6 +40794,33 @@
     "score": 32,
     "reasons": [
       "Sales match",
+      "India signal"
+    ]
+  },
+  {
+    "type": "job",
+    "title": "Advanced Associate, Test Center Support",
+    "company": "Pearson",
+    "location": "India",
+    "location_key": "india",
+    "mode": "Remote",
+    "url": "https://himalayas.app/companies/pearson/jobs/advanced-associate-test-center-support?utm_source=api",
+    "source": "Himalayas",
+    "categories": [
+      "operations"
+    ],
+    "posted_at": "2026-10-10T23:20:29+00:00",
+    "salary": "",
+    "stipend": "",
+    "employment_type": "Full Time",
+    "applicants": null,
+    "industry": "",
+    "function": "",
+    "experience": "junior",
+    "score": 32,
+    "reasons": [
+      "Operations match",
+      "Early-career signal",
       "India signal"
     ]
   },
@@ -46544,60 +44498,6 @@
   },
   {
     "type": "job",
-    "title": "Lead React & NextUI Developer | Offshore |",
-    "company": "Photon",
-    "location": "India",
-    "location_key": "india",
-    "mode": "Remote",
-    "url": "https://himalayas.app/companies/photon/jobs/lead-react-nextui-developer-offshore?utm_source=api",
-    "source": "Himalayas",
-    "categories": [
-      "other"
-    ],
-    "posted_at": "2026-10-03T01:11:53+00:00",
-    "salary": "",
-    "stipend": "",
-    "employment_type": "Full Time",
-    "applicants": null,
-    "industry": "",
-    "function": "",
-    "experience": "fresher",
-    "score": 32,
-    "reasons": [
-      "Other match",
-      "Fresher-friendly signal",
-      "India signal"
-    ]
-  },
-  {
-    "type": "job",
-    "title": "Shape the Future of AI - Tamil Talent Hub",
-    "company": "Welocalize",
-    "location": "India",
-    "location_key": "india",
-    "mode": "Remote",
-    "url": "https://himalayas.app/companies/welocalize/jobs/shape-the-future-of-ai-tamil-talent-hub?utm_source=api",
-    "source": "Himalayas",
-    "categories": [
-      "content",
-      "social"
-    ],
-    "posted_at": "2026-10-03T00:55:03+00:00",
-    "salary": "",
-    "stipend": "",
-    "employment_type": "Contractor",
-    "applicants": null,
-    "industry": "",
-    "function": "",
-    "experience": "unknown",
-    "score": 32,
-    "reasons": [
-      "Content match",
-      "India signal"
-    ]
-  },
-  {
-    "type": "job",
     "title": "Technical Support Engineering",
     "company": "GEVME",
     "location": "India",
@@ -47462,6 +45362,33 @@
   },
   {
     "type": "job",
+    "title": "Associate Principal Engineer, DevOps",
+    "company": "Nagarro",
+    "location": "India",
+    "location_key": "india",
+    "mode": "Remote",
+    "url": "https://himalayas.app/companies/nagarro/jobs/associate-principal-engineer-devops?utm_source=api",
+    "source": "Himalayas",
+    "categories": [
+      "other"
+    ],
+    "posted_at": "2026-10-02T12:18:37+00:00",
+    "salary": "",
+    "stipend": "",
+    "employment_type": "Full Time",
+    "applicants": null,
+    "industry": "",
+    "function": "",
+    "experience": "junior",
+    "score": 32,
+    "reasons": [
+      "Other match",
+      "Early-career signal",
+      "India signal"
+    ]
+  },
+  {
+    "type": "job",
     "title": "Customer Support Associate",
     "company": "JLL",
     "location": "India",
@@ -47867,6 +45794,33 @@
   },
   {
     "type": "job",
+    "title": "Associate Staff Engineer, .Net Fullstack",
+    "company": "Nagarro",
+    "location": "India",
+    "location_key": "india",
+    "mode": "Remote",
+    "url": "https://himalayas.app/companies/nagarro/jobs/associate-staff-engineer-net-fullstack-4420821413?utm_source=api",
+    "source": "Himalayas",
+    "categories": [
+      "other"
+    ],
+    "posted_at": "2026-10-02T08:56:01+00:00",
+    "salary": "",
+    "stipend": "",
+    "employment_type": "Full Time",
+    "applicants": null,
+    "industry": "",
+    "function": "",
+    "experience": "junior",
+    "score": 32,
+    "reasons": [
+      "Other match",
+      "Early-career signal",
+      "India signal"
+    ]
+  },
+  {
+    "type": "job",
     "title": "Principal Software Engineer (React)",
     "company": "Newfold Digital",
     "location": "India",
@@ -47916,6 +45870,33 @@
     "reasons": [
       "Design match",
       "Fresher-friendly signal",
+      "India signal"
+    ]
+  },
+  {
+    "type": "job",
+    "title": "Associate Staff Engineer, Cloud",
+    "company": "Nagarro",
+    "location": "India",
+    "location_key": "india",
+    "mode": "Remote",
+    "url": "https://himalayas.app/companies/nagarro/jobs/associate-staff-engineer-cloud?utm_source=api",
+    "source": "Himalayas",
+    "categories": [
+      "other"
+    ],
+    "posted_at": "2026-10-02T08:37:40+00:00",
+    "salary": "",
+    "stipend": "",
+    "employment_type": "Full Time",
+    "applicants": null,
+    "industry": "",
+    "function": "",
+    "experience": "junior",
+    "score": 32,
+    "reasons": [
+      "Other match",
+      "Early-career signal",
       "India signal"
     ]
   },
@@ -48051,6 +46032,33 @@
     "reasons": [
       "Design match",
       "Fresher-friendly signal",
+      "India signal"
+    ]
+  },
+  {
+    "type": "job",
+    "title": "Associate Staff Consultant ,Search Engine Marketing",
+    "company": "Nagarro",
+    "location": "India",
+    "location_key": "india",
+    "mode": "Remote",
+    "url": "https://himalayas.app/companies/nagarro/jobs/associate-staff-consultant-search-engine-marketing?utm_source=api",
+    "source": "Himalayas",
+    "categories": [
+      "marketing"
+    ],
+    "posted_at": "2026-10-02T07:42:57+00:00",
+    "salary": "",
+    "stipend": "",
+    "employment_type": "Full Time",
+    "applicants": null,
+    "industry": "",
+    "function": "",
+    "experience": "junior",
+    "score": 32,
+    "reasons": [
+      "Marketing match",
+      "Early-career signal",
       "India signal"
     ]
   },
@@ -48407,6 +46415,33 @@
   },
   {
     "type": "job",
+    "title": "Associate Staff Engineer, Tech support",
+    "company": "Nagarro",
+    "location": "India",
+    "location_key": "india",
+    "mode": "Remote",
+    "url": "https://himalayas.app/companies/nagarro/jobs/associate-staff-engineer-tech-support?utm_source=api",
+    "source": "Himalayas",
+    "categories": [
+      "other"
+    ],
+    "posted_at": "2026-10-02T06:10:04+00:00",
+    "salary": "",
+    "stipend": "",
+    "employment_type": "Full Time",
+    "applicants": null,
+    "industry": "",
+    "function": "",
+    "experience": "junior",
+    "score": 32,
+    "reasons": [
+      "Other match",
+      "Early-career signal",
+      "India signal"
+    ]
+  },
+  {
+    "type": "job",
     "title": "Project Management",
     "company": "TEECOM",
     "location": "India",
@@ -48515,6 +46550,33 @@
   },
   {
     "type": "job",
+    "title": "Associate Staff Engineer Kore.ai Conversational AI Developer",
+    "company": "Nagarro",
+    "location": "India",
+    "location_key": "india",
+    "mode": "Remote",
+    "url": "https://himalayas.app/companies/nagarro/jobs/associate-staff-engineer-kore-ai-conversational-ai-developer?utm_source=api",
+    "source": "Himalayas",
+    "categories": [
+      "design"
+    ],
+    "posted_at": "2026-10-02T04:33:00+00:00",
+    "salary": "",
+    "stipend": "",
+    "employment_type": "Full Time",
+    "applicants": null,
+    "industry": "",
+    "function": "",
+    "experience": "junior",
+    "score": 32,
+    "reasons": [
+      "Design match",
+      "Early-career signal",
+      "India signal"
+    ]
+  },
+  {
+    "type": "job",
     "title": "Ads Quality Rater - Telugu (India)",
     "company": "Welo Global",
     "location": "India",
@@ -48564,195 +46626,6 @@
     "score": 32,
     "reasons": [
       "Social match",
-      "India signal"
-    ]
-  },
-  {
-    "type": "job",
-    "title": "Shape the Future of AI - Gujarati Talent Hub",
-    "company": "Welo Global",
-    "location": "India",
-    "location_key": "india",
-    "mode": "Remote",
-    "url": "https://himalayas.app/companies/welo-global/jobs/shape-the-future-of-ai-gujarati-talent-hub?utm_source=api",
-    "source": "Himalayas",
-    "categories": [
-      "content",
-      "social"
-    ],
-    "posted_at": "2026-10-02T03:40:24+00:00",
-    "salary": "",
-    "stipend": "",
-    "employment_type": "Contractor",
-    "applicants": null,
-    "industry": "",
-    "function": "",
-    "experience": "unknown",
-    "score": 32,
-    "reasons": [
-      "Content match",
-      "India signal"
-    ]
-  },
-  {
-    "type": "job",
-    "title": "Shape the Future of AI — Hindi Talent Hub",
-    "company": "Welo Global",
-    "location": "India",
-    "location_key": "india",
-    "mode": "Remote",
-    "url": "https://himalayas.app/companies/welo-global/jobs/shape-the-future-of-ai-hindi-talent-hub?utm_source=api",
-    "source": "Himalayas",
-    "categories": [
-      "content",
-      "social"
-    ],
-    "posted_at": "2026-10-02T03:31:43+00:00",
-    "salary": "",
-    "stipend": "",
-    "employment_type": "Contractor",
-    "applicants": null,
-    "industry": "",
-    "function": "",
-    "experience": "unknown",
-    "score": 32,
-    "reasons": [
-      "Content match",
-      "India signal"
-    ]
-  },
-  {
-    "type": "job",
-    "title": "Data Engineer",
-    "company": "Delphic Global",
-    "location": "India",
-    "location_key": "india",
-    "mode": "Remote",
-    "url": "https://himalayas.app/companies/delphic-global/jobs/data-engineer?utm_source=api",
-    "source": "Himalayas",
-    "categories": [
-      "marketing",
-      "design"
-    ],
-    "posted_at": "2026-10-02T03:20:50+00:00",
-    "salary": "1000000–1500000 INR / annual",
-    "stipend": "",
-    "employment_type": "Full Time",
-    "applicants": null,
-    "industry": "",
-    "function": "",
-    "experience": "unknown",
-    "score": 32,
-    "reasons": [
-      "Marketing match",
-      "India signal"
-    ]
-  },
-  {
-    "type": "job",
-    "title": "Associate Principal Engineer, PHP",
-    "company": "Nagarro",
-    "location": "India",
-    "location_key": "india",
-    "mode": "Remote",
-    "url": "https://himalayas.app/companies/nagarro/jobs/associate-principal-engineer-php?utm_source=api",
-    "source": "Himalayas",
-    "categories": [
-      "other"
-    ],
-    "posted_at": "2026-10-02T03:18:54+00:00",
-    "salary": "",
-    "stipend": "",
-    "employment_type": "Full Time",
-    "applicants": null,
-    "industry": "",
-    "function": "",
-    "experience": "junior",
-    "score": 32,
-    "reasons": [
-      "Other match",
-      "Early-career signal",
-      "India signal"
-    ]
-  },
-  {
-    "type": "job",
-    "title": "Software Engineer (Cloud)",
-    "company": "Britive",
-    "location": "India",
-    "location_key": "india",
-    "mode": "Remote",
-    "url": "https://himalayas.app/companies/britive/jobs/software-engineer-cloud?utm_source=api",
-    "source": "Himalayas",
-    "categories": [
-      "content",
-      "design"
-    ],
-    "posted_at": "2026-10-02T03:18:54+00:00",
-    "salary": "",
-    "stipend": "",
-    "employment_type": "Full Time",
-    "applicants": null,
-    "industry": "",
-    "function": "",
-    "experience": "unknown",
-    "score": 32,
-    "reasons": [
-      "Content match",
-      "India signal"
-    ]
-  },
-  {
-    "type": "job",
-    "title": "Computational Biologist - Fully Remote | Upto $100/hr",
-    "company": "mercor",
-    "location": "India",
-    "location_key": "india",
-    "mode": "Remote",
-    "url": "https://himalayas.app/companies/mercor/jobs/computational-biologist-fully-remote-upto-100-hr-4404034439?utm_source=api",
-    "source": "Himalayas",
-    "categories": [
-      "design"
-    ],
-    "posted_at": "2026-10-02T02:58:25+00:00",
-    "salary": "",
-    "stipend": "",
-    "employment_type": "Contractor",
-    "applicants": null,
-    "industry": "",
-    "function": "",
-    "experience": "fresher",
-    "score": 32,
-    "reasons": [
-      "Design match",
-      "Fresher-friendly signal",
-      "India signal"
-    ]
-  },
-  {
-    "type": "job",
-    "title": "Cyber Security Analyst | Upto $2150 Part-time",
-    "company": "mercor",
-    "location": "India",
-    "location_key": "india",
-    "mode": "Remote",
-    "url": "https://himalayas.app/companies/mercor/jobs/cyber-security-analyst-upto-2150-part-time-5569508216?utm_source=api",
-    "source": "Himalayas",
-    "categories": [
-      "operations",
-      "design"
-    ],
-    "posted_at": "2026-10-02T02:54:19+00:00",
-    "salary": "1750–2150 USD / monthly",
-    "stipend": "",
-    "employment_type": "Contractor",
-    "applicants": null,
-    "industry": "",
-    "function": "",
-    "experience": "mid",
-    "score": 32,
-    "reasons": [
-      "Operations match",
       "India signal"
     ]
   },
@@ -49283,6 +47156,195 @@
       "sales"
     ],
     "posted_at": "2026-10-01T17:00:19+00:00",
+    "salary": "",
+    "stipend": "",
+    "employment_type": "Full Time",
+    "applicants": null,
+    "industry": "",
+    "function": "",
+    "experience": "mid",
+    "score": 32,
+    "reasons": [
+      "Marketing match",
+      "India signal"
+    ]
+  },
+  {
+    "type": "job",
+    "title": "Associate Staff Engineer, BI Reporting",
+    "company": "Nagarro",
+    "location": "India",
+    "location_key": "india",
+    "mode": "Remote",
+    "url": "https://himalayas.app/companies/nagarro/jobs/associate-staff-engineer-bi-reporting-8480145110?utm_source=api",
+    "source": "Himalayas",
+    "categories": [
+      "other"
+    ],
+    "posted_at": "2026-10-01T17:00:18+00:00",
+    "salary": "",
+    "stipend": "",
+    "employment_type": "Full Time",
+    "applicants": null,
+    "industry": "",
+    "function": "",
+    "experience": "junior",
+    "score": 32,
+    "reasons": [
+      "Other match",
+      "Early-career signal",
+      "India signal"
+    ]
+  },
+  {
+    "type": "job",
+    "title": "Java Developer",
+    "company": "PradeepIT Consulting Services Pvt Ltd",
+    "location": "India",
+    "location_key": "india",
+    "mode": "Remote",
+    "url": "https://himalayas.app/companies/pradeepit-consulting-services-pvt-ltd/jobs/java-developer-4872350693?utm_source=api",
+    "source": "Himalayas",
+    "categories": [
+      "marketing",
+      "sales"
+    ],
+    "posted_at": "2026-10-01T15:35:05+00:00",
+    "salary": "",
+    "stipend": "",
+    "employment_type": "Full Time",
+    "applicants": null,
+    "industry": "",
+    "function": "",
+    "experience": "mid",
+    "score": 32,
+    "reasons": [
+      "Marketing match",
+      "India signal"
+    ]
+  },
+  {
+    "type": "job",
+    "title": "Director - Customer Solutions - IIM/ISB/MDI/FMS",
+    "company": "PradeepIT Consulting Services Pvt Ltd",
+    "location": "India",
+    "location_key": "india",
+    "mode": "Remote",
+    "url": "https://himalayas.app/companies/pradeepit-consulting-services-pvt-ltd/jobs/director-customer-solutions-iim-isb-mdi-fms?utm_source=api",
+    "source": "Himalayas",
+    "categories": [
+      "marketing",
+      "sales"
+    ],
+    "posted_at": "2026-10-01T15:22:35+00:00",
+    "salary": "",
+    "stipend": "",
+    "employment_type": "Full Time",
+    "applicants": null,
+    "industry": "",
+    "function": "",
+    "experience": "mid",
+    "score": 32,
+    "reasons": [
+      "Marketing match",
+      "India signal"
+    ]
+  },
+  {
+    "type": "job",
+    "title": "Senior Hybris Software Developer",
+    "company": "PradeepIT Consulting Services Pvt Ltd",
+    "location": "India",
+    "location_key": "india",
+    "mode": "Remote",
+    "url": "https://himalayas.app/companies/pradeepit-consulting-services-pvt-ltd/jobs/senior-hybris-software-developer?utm_source=api",
+    "source": "Himalayas",
+    "categories": [
+      "marketing",
+      "sales"
+    ],
+    "posted_at": "2026-10-01T15:14:53+00:00",
+    "salary": "",
+    "stipend": "",
+    "employment_type": "Full Time",
+    "applicants": null,
+    "industry": "",
+    "function": "",
+    "experience": "mid",
+    "score": 32,
+    "reasons": [
+      "Marketing match",
+      "India signal"
+    ]
+  },
+  {
+    "type": "job",
+    "title": "Senior Salesforce CPQ Developer | 5-7 Years Exp | IST Time | Remote",
+    "company": "PradeepIT Consulting Services Pvt Ltd",
+    "location": "India",
+    "location_key": "india",
+    "mode": "Remote",
+    "url": "https://himalayas.app/companies/pradeepit-consulting-services-pvt-ltd/jobs/senior-salesforce-cpq-developer-5-7-years-exp-ist-time-remote?utm_source=api",
+    "source": "Himalayas",
+    "categories": [
+      "sales",
+      "design"
+    ],
+    "posted_at": "2026-10-01T14:57:01+00:00",
+    "salary": "",
+    "stipend": "",
+    "employment_type": "Full Time",
+    "applicants": null,
+    "industry": "",
+    "function": "",
+    "experience": "mid",
+    "score": 32,
+    "reasons": [
+      "Sales match",
+      "India signal"
+    ]
+  },
+  {
+    "type": "job",
+    "title": "Backend Developer",
+    "company": "PradeepIT Consulting Services Pvt Ltd",
+    "location": "India",
+    "location_key": "india",
+    "mode": "Remote",
+    "url": "https://himalayas.app/companies/pradeepit-consulting-services-pvt-ltd/jobs/backend-developer?utm_source=api",
+    "source": "Himalayas",
+    "categories": [
+      "marketing",
+      "sales"
+    ],
+    "posted_at": "2026-10-01T14:53:10+00:00",
+    "salary": "",
+    "stipend": "",
+    "employment_type": "Full Time",
+    "applicants": null,
+    "industry": "",
+    "function": "",
+    "experience": "mid",
+    "score": 32,
+    "reasons": [
+      "Marketing match",
+      "India signal"
+    ]
+  },
+  {
+    "type": "job",
+    "title": "Senior SAP ABAP Developer",
+    "company": "PradeepIT Consulting Services Pvt Ltd",
+    "location": "India",
+    "location_key": "india",
+    "mode": "Remote",
+    "url": "https://himalayas.app/companies/pradeepit-consulting-services-pvt-ltd/jobs/senior-sap-abap-developer-9595352383?utm_source=api",
+    "source": "Himalayas",
+    "categories": [
+      "marketing",
+      "sales"
+    ],
+    "posted_at": "2026-10-01T14:24:36+00:00",
     "salary": "",
     "stipend": "",
     "employment_type": "Full Time",
@@ -50487,62 +48549,6 @@
   },
   {
     "type": "job",
-    "title": "Privacy Advisor",
-    "company": "DeleteMe",
-    "location": "USA",
-    "location_key": "other",
-    "mode": "See listing",
-    "url": "https://jobicy.com/jobs/153793-privacy-advisor",
-    "source": "Jobicy",
-    "categories": [
-      "operations",
-      "design"
-    ],
-    "posted_at": "2026-10-22T04:35:29+00:00",
-    "salary": "20–21 USD",
-    "stipend": "",
-    "employment_type": [
-      "Full-Time"
-    ],
-    "applicants": null,
-    "industry": "",
-    "function": "",
-    "experience": "fresher",
-    "score": 30,
-    "reasons": [
-      "Operations match",
-      "Fresher-friendly signal"
-    ]
-  },
-  {
-    "type": "job",
-    "title": "Senior AI-Native Product Engineer - Senior | Zenara Health",
-    "company": "Zenara Health",
-    "location": "India",
-    "location_key": "india",
-    "mode": "Remote",
-    "url": "https://himalayas.app/companies/zenara-health/jobs/senior-ai-native-product-engineer-senior-zenara-health?utm_source=api",
-    "source": "Himalayas",
-    "categories": [
-      "design"
-    ],
-    "posted_at": "2026-10-22T19:13:30+00:00",
-    "salary": "",
-    "stipend": "",
-    "employment_type": "Full Time",
-    "applicants": null,
-    "industry": "",
-    "function": "",
-    "experience": "junior",
-    "score": 28,
-    "reasons": [
-      "Design match",
-      "Early-career signal",
-      "India signal"
-    ]
-  },
-  {
-    "type": "job",
     "title": "Consultant - Servicenow",
     "company": "Natlex Technologies",
     "location": "India",
@@ -50908,60 +48914,6 @@
     "salary": "",
     "stipend": "",
     "employment_type": "Contractor",
-    "applicants": null,
-    "industry": "",
-    "function": "",
-    "experience": "junior",
-    "score": 28,
-    "reasons": [
-      "Design match",
-      "Early-career signal",
-      "India signal"
-    ]
-  },
-  {
-    "type": "job",
-    "title": "ReactNative Developer",
-    "company": "Supersourcing",
-    "location": "India",
-    "location_key": "india",
-    "mode": "Remote",
-    "url": "https://himalayas.app/companies/supersourcing/jobs/reactnative-developer?utm_source=api",
-    "source": "Himalayas",
-    "categories": [
-      "design"
-    ],
-    "posted_at": "2026-10-12T01:09:56+00:00",
-    "salary": "",
-    "stipend": "",
-    "employment_type": "Full Time",
-    "applicants": null,
-    "industry": "",
-    "function": "",
-    "experience": "junior",
-    "score": 28,
-    "reasons": [
-      "Design match",
-      "Early-career signal",
-      "India signal"
-    ]
-  },
-  {
-    "type": "job",
-    "title": "QA Engineer",
-    "company": "Fusemachines",
-    "location": "India",
-    "location_key": "india",
-    "mode": "Remote",
-    "url": "https://himalayas.app/companies/fusemachines/jobs/qa-engineer?utm_source=api",
-    "source": "Himalayas",
-    "categories": [
-      "design"
-    ],
-    "posted_at": "2026-10-12T00:41:59+00:00",
-    "salary": "",
-    "stipend": "",
-    "employment_type": "Full Time",
     "applicants": null,
     "industry": "",
     "function": "",
@@ -51461,33 +49413,6 @@
   },
   {
     "type": "job",
-    "title": "Java Fullstack Developer | Offshore |",
-    "company": "Photon",
-    "location": "India",
-    "location_key": "india",
-    "mode": "Remote",
-    "url": "https://himalayas.app/companies/photon/jobs/java-fullstack-developer-offshore?utm_source=api",
-    "source": "Himalayas",
-    "categories": [
-      "design"
-    ],
-    "posted_at": "2026-10-03T01:01:17+00:00",
-    "salary": "",
-    "stipend": "",
-    "employment_type": "Full Time",
-    "applicants": null,
-    "industry": "",
-    "function": "",
-    "experience": "junior",
-    "score": 28,
-    "reasons": [
-      "Design match",
-      "Early-career signal",
-      "India signal"
-    ]
-  },
-  {
-    "type": "job",
     "title": "Golang Developer",
     "company": "Tietoevry",
     "location": "India",
@@ -51754,6 +49679,35 @@
       "Operations match",
       "Fresher-friendly signal",
       "Remote"
+    ]
+  },
+  {
+    "type": "job",
+    "title": "Senior Backend Engineer",
+    "company": "Tala",
+    "location": "APAC",
+    "location_key": "other",
+    "mode": "See listing",
+    "url": "https://jobicy.com/jobs/156465-senior-backend-engineer-11",
+    "source": "Jobicy",
+    "categories": [
+      "operations",
+      "design"
+    ],
+    "posted_at": "2026-10-22T20:38:14+00:00",
+    "salary": "",
+    "stipend": "",
+    "employment_type": [
+      "Full-Time"
+    ],
+    "applicants": null,
+    "industry": "",
+    "function": "",
+    "experience": "junior",
+    "score": 26,
+    "reasons": [
+      "Operations match",
+      "Early-career signal"
     ]
   },
   {
@@ -52070,32 +50024,6 @@
   },
   {
     "type": "job",
-    "title": "AI Adversarial Specialist - Fully Remote | Upto $22/hr",
-    "company": "mercor",
-    "location": "India",
-    "location_key": "india",
-    "mode": "Remote",
-    "url": "https://himalayas.app/companies/mercor/jobs/ai-adversarial-specialist-fully-remote-upto-22-hr-3353452004?utm_source=api",
-    "source": "Himalayas",
-    "categories": [
-      "design"
-    ],
-    "posted_at": "2026-10-03T00:52:34+00:00",
-    "salary": "",
-    "stipend": "",
-    "employment_type": "Contractor",
-    "applicants": null,
-    "industry": "",
-    "function": "",
-    "experience": "mid",
-    "score": 26,
-    "reasons": [
-      "Design match",
-      "India signal"
-    ]
-  },
-  {
-    "type": "job",
     "title": "Fundraising Specialist - Fully Remote | Upto $120/hr",
     "company": "mercor",
     "location": "India",
@@ -52312,6 +50240,33 @@
   },
   {
     "type": "job",
+    "title": "Accounting Operations",
+    "company": "Plaid",
+    "location": "Remote",
+    "location_key": "remote",
+    "mode": "Remote",
+    "url": "https://remoteOK.com/remote-jobs/remote-accounting-operations-plaid-1137554",
+    "source": "Remote OK",
+    "categories": [
+      "marketing",
+      "operations"
+    ],
+    "posted_at": "2026-10-22T00:00:15+00:00",
+    "salary": "",
+    "stipend": "",
+    "employment_type": "",
+    "applicants": null,
+    "industry": "",
+    "function": "",
+    "experience": "unknown",
+    "score": 23,
+    "reasons": [
+      "Marketing match",
+      "Remote"
+    ]
+  },
+  {
+    "type": "job",
     "title": "Senior Backend Engineer",
     "company": "DuckDuckGo",
     "location": "Remote",
@@ -52474,33 +50429,6 @@
   },
   {
     "type": "job",
-    "title": "Freelance grabaciÃ³n de tareas cotidianas para proyecto de IA",
-    "company": "Mindrift - Data annotation",
-    "location": "Remote",
-    "location_key": "remote",
-    "mode": "Remote",
-    "url": "https://remoteOK.com/remote-jobs/remote-freelance-grabacion-de-tareas-cotidianas-para-proyecto-de-ia-mindrift-data-annotation-1137415",
-    "source": "Remote OK",
-    "categories": [
-      "other"
-    ],
-    "posted_at": "2026-09-22T00:00:13+00:00",
-    "salary": "",
-    "stipend": "",
-    "employment_type": "",
-    "applicants": null,
-    "industry": "",
-    "function": "",
-    "experience": "fresher",
-    "score": 23,
-    "reasons": [
-      "Other match",
-      "Fresher-friendly signal",
-      "Remote"
-    ]
-  },
-  {
-    "type": "job",
     "title": "Senior Growth Product Manager AI Native",
     "company": "Magic Eden",
     "location": "Melbourne",
@@ -52555,232 +50483,24 @@
   },
   {
     "type": "job",
-    "title": "Data Analytics Expert",
-    "company": "SAPSOL Technologies Inc.",
+    "title": "DE&A - Network/ Graph Analysis (offshore)",
+    "company": "Zensar",
     "location": "India",
     "location_key": "india",
     "mode": "Remote",
-    "url": "https://himalayas.app/companies/sapsol-technologies-inc/jobs/data-analytics-expert?utm_source=api",
-    "source": "Himalayas",
-    "categories": [
-      "marketing"
-    ],
-    "posted_at": "2026-10-22T20:59:22+00:00",
-    "salary": "",
-    "stipend": "",
-    "employment_type": "Contractor",
-    "applicants": null,
-    "industry": "",
-    "function": "",
-    "experience": "mid",
-    "score": 22,
-    "reasons": [
-      "Marketing match",
-      "India signal"
-    ]
-  },
-  {
-    "type": "job",
-    "title": "Mid/Senior AI LLM Engineer",
-    "company": "David Kennedy Recruitment",
-    "location": "India",
-    "location_key": "india",
-    "mode": "Remote",
-    "url": "https://himalayas.app/companies/david-kennedy-recruitment/jobs/mid-senior-ai-llm-engineer?utm_source=api",
-    "source": "Himalayas",
-    "categories": [
-      "content"
-    ],
-    "posted_at": "2026-10-22T20:37:19+00:00",
-    "salary": "",
-    "stipend": "",
-    "employment_type": "Contractor",
-    "applicants": null,
-    "industry": "",
-    "function": "",
-    "experience": "mid",
-    "score": 22,
-    "reasons": [
-      "Content match",
-      "India signal"
-    ]
-  },
-  {
-    "type": "job",
-    "title": "React.JS - Mumbai",
-    "company": "Fastjobs.io",
-    "location": "India",
-    "location_key": "india",
-    "mode": "Remote",
-    "url": "https://himalayas.app/companies/fastjobs-io/jobs/react-js-mumbai?utm_source=api",
-    "source": "Himalayas",
-    "categories": [
-      "design"
-    ],
-    "posted_at": "2026-10-22T15:41:27+00:00",
-    "salary": "",
-    "stipend": "",
-    "employment_type": "Full Time",
-    "applicants": null,
-    "industry": "",
-    "function": "",
-    "experience": "mid",
-    "score": 22,
-    "reasons": [
-      "Design match",
-      "India signal"
-    ]
-  },
-  {
-    "type": "job",
-    "title": "AI-Native Platform Engineer - DevOps, Security & Compliance | Zenara Health",
-    "company": "Zenara Health",
-    "location": "India",
-    "location_key": "india",
-    "mode": "Remote",
-    "url": "https://himalayas.app/companies/zenara-health/jobs/ai-native-platform-engineer-devops-security-compliance-zenara-health?utm_source=api",
-    "source": "Himalayas",
-    "categories": [
-      "operations"
-    ],
-    "posted_at": "2026-10-22T15:00:50+00:00",
-    "salary": "",
-    "stipend": "",
-    "employment_type": "Full Time",
-    "applicants": null,
-    "industry": "",
-    "function": "",
-    "experience": "mid",
-    "score": 22,
-    "reasons": [
-      "Operations match",
-      "India signal"
-    ]
-  },
-  {
-    "type": "job",
-    "title": "Senior Security & Compliance - Healthcare | Zenara Health",
-    "company": "Zenara Health",
-    "location": "India",
-    "location_key": "india",
-    "mode": "Remote",
-    "url": "https://himalayas.app/companies/zenara-health/jobs/senior-security-compliance-healthcare-zenara-health?utm_source=api",
-    "source": "Himalayas",
-    "categories": [
-      "operations"
-    ],
-    "posted_at": "2026-10-22T08:38:56+00:00",
-    "salary": "",
-    "stipend": "",
-    "employment_type": "Full Time",
-    "applicants": null,
-    "industry": "",
-    "function": "",
-    "experience": "mid",
-    "score": 22,
-    "reasons": [
-      "Operations match",
-      "India signal"
-    ]
-  },
-  {
-    "type": "job",
-    "title": "Senior DevSecOps Engineer",
-    "company": "Harris Global Business Services Inc.",
-    "location": "India",
-    "location_key": "india",
-    "mode": "Remote",
-    "url": "https://himalayas.app/companies/harris-global-business-services-inc/jobs/senior-devsecops-engineer?utm_source=api",
-    "source": "Himalayas",
-    "categories": [
-      "design"
-    ],
-    "posted_at": "2026-10-22T07:03:50+00:00",
-    "salary": "",
-    "stipend": "",
-    "employment_type": "Full Time",
-    "applicants": null,
-    "industry": "",
-    "function": "",
-    "experience": "mid",
-    "score": 22,
-    "reasons": [
-      "Design match",
-      "India signal"
-    ]
-  },
-  {
-    "type": "job",
-    "title": "Systems Lead, US Tax Operations",
-    "company": "Rippling",
-    "location": "India",
-    "location_key": "india",
-    "mode": "Remote",
-    "url": "https://himalayas.app/companies/rippling/jobs/systems-lead-us-tax-operations?utm_source=api",
-    "source": "Himalayas",
-    "categories": [
-      "operations"
-    ],
-    "posted_at": "2026-10-22T06:45:21+00:00",
-    "salary": "",
-    "stipend": "",
-    "employment_type": "Full Time",
-    "applicants": null,
-    "industry": "",
-    "function": "",
-    "experience": "mid",
-    "score": 22,
-    "reasons": [
-      "Operations match",
-      "India signal"
-    ]
-  },
-  {
-    "type": "job",
-    "title": "Product & Delivery Lead - UI/UX | Zenara Health",
-    "company": "Zenara Health",
-    "location": "India",
-    "location_key": "india",
-    "mode": "Remote",
-    "url": "https://himalayas.app/companies/zenara-health/jobs/product-delivery-lead-ui-ux-zenara-health?utm_source=api",
-    "source": "Himalayas",
-    "categories": [
-      "design"
-    ],
-    "posted_at": "2026-10-22T05:55:02+00:00",
-    "salary": "",
-    "stipend": "",
-    "employment_type": "Full Time",
-    "applicants": null,
-    "industry": "",
-    "function": "",
-    "experience": "mid",
-    "score": 22,
-    "reasons": [
-      "Design match",
-      "India signal"
-    ]
-  },
-  {
-    "type": "job",
-    "title": "Chemistry Professionals (Master's or PhD): Ongoing Expert Contributions",
-    "company": "Terac",
-    "location": "India",
-    "location_key": "india",
-    "mode": "Remote",
-    "url": "https://himalayas.app/companies/terac/jobs/chemistry-professionals-master-s-or-phd-ongoing-expert-contributions?utm_source=api",
+    "url": "https://himalayas.app/companies/zensar/jobs/de-a-network-graph-analysis-offshore?utm_source=api",
     "source": "Himalayas",
     "categories": [
       "other"
     ],
-    "posted_at": "2026-10-22T04:59:24+00:00",
-    "salary": "70–70 USD / hourly",
+    "posted_at": "2026-10-22T03:39:18+00:00",
+    "salary": "",
     "stipend": "",
-    "employment_type": "Contractor",
+    "employment_type": "Full Time",
     "applicants": null,
     "industry": "",
     "function": "",
-    "experience": "unknown",
+    "experience": "mid",
     "score": 22,
     "reasons": [
       "Other match",
@@ -52789,17 +50509,17 @@
   },
   {
     "type": "job",
-    "title": "Adobe Data SME",
-    "company": "Vrinda International",
+    "title": "Software Engineer",
+    "company": "MEDFAR",
     "location": "India",
     "location_key": "india",
     "mode": "Remote",
-    "url": "https://himalayas.app/companies/vrinda-international/jobs/adobe-data-sme?utm_source=api",
+    "url": "https://himalayas.app/companies/medfar/jobs/software-engineer?utm_source=api",
     "source": "Himalayas",
     "categories": [
       "design"
     ],
-    "posted_at": "2026-10-22T04:02:17+00:00",
+    "posted_at": "2026-10-22T03:30:56+00:00",
     "salary": "",
     "stipend": "",
     "employment_type": "Full Time",
@@ -52807,6 +50527,32 @@
     "industry": "",
     "function": "",
     "experience": "mid",
+    "score": 22,
+    "reasons": [
+      "Design match",
+      "India signal"
+    ]
+  },
+  {
+    "type": "job",
+    "title": "Sr Software Engineer",
+    "company": "Altera Digital Health",
+    "location": "India",
+    "location_key": "india",
+    "mode": "Remote",
+    "url": "https://himalayas.app/companies/altera-digital-health/jobs/sr-software-engineer?utm_source=api",
+    "source": "Himalayas",
+    "categories": [
+      "design"
+    ],
+    "posted_at": "2026-10-22T03:09:25+00:00",
+    "salary": "",
+    "stipend": "",
+    "employment_type": "Full Time",
+    "applicants": null,
+    "industry": "",
+    "function": "",
+    "experience": "unknown",
     "score": 22,
     "reasons": [
       "Design match",
@@ -53226,6 +50972,32 @@
     "score": 22,
     "reasons": [
       "Design match",
+      "India signal"
+    ]
+  },
+  {
+    "type": "job",
+    "title": "Staff Engineer, NodeJS",
+    "company": "Nagarro",
+    "location": "India",
+    "location_key": "india",
+    "mode": "Remote",
+    "url": "https://himalayas.app/companies/nagarro/jobs/staff-engineer-nodejs?utm_source=api",
+    "source": "Himalayas",
+    "categories": [
+      "other"
+    ],
+    "posted_at": "2026-10-19T09:27:23+00:00",
+    "salary": "",
+    "stipend": "",
+    "employment_type": "Full Time",
+    "applicants": null,
+    "industry": "",
+    "function": "",
+    "experience": "mid",
+    "score": 22,
+    "reasons": [
+      "Other match",
       "India signal"
     ]
   },
@@ -53803,43 +51575,17 @@
   },
   {
     "type": "job",
-    "title": "Technical Lead – Microsoft Dynamics 365",
-    "company": "NorthBay Solutions",
+    "title": "Staff Engineer, Javascript Fullstack",
+    "company": "Nagarro",
     "location": "India",
     "location_key": "india",
     "mode": "Remote",
-    "url": "https://himalayas.app/companies/northbay-solutions/jobs/technical-lead-microsoft-dynamics-365-9611776267?utm_source=api",
-    "source": "Himalayas",
-    "categories": [
-      "design"
-    ],
-    "posted_at": "2026-10-17T12:03:55+00:00",
-    "salary": "",
-    "stipend": "",
-    "employment_type": "Full Time",
-    "applicants": null,
-    "industry": "",
-    "function": "",
-    "experience": "mid",
-    "score": 22,
-    "reasons": [
-      "Design match",
-      "India signal"
-    ]
-  },
-  {
-    "type": "job",
-    "title": "Gujarati AI Translation Trainer",
-    "company": "Welocalize",
-    "location": "India",
-    "location_key": "india",
-    "mode": "Remote",
-    "url": "https://himalayas.app/companies/welocalize/jobs/gujarati-ai-translation-trainer?utm_source=api",
+    "url": "https://himalayas.app/companies/nagarro/jobs/staff-engineer-javascript-fullstack?utm_source=api",
     "source": "Himalayas",
     "categories": [
       "other"
     ],
-    "posted_at": "2026-10-17T11:00:09+00:00",
+    "posted_at": "2026-10-17T09:30:47+00:00",
     "salary": "",
     "stipend": "",
     "employment_type": "Full Time",
@@ -53850,32 +51596,6 @@
     "score": 22,
     "reasons": [
       "Other match",
-      "India signal"
-    ]
-  },
-  {
-    "type": "job",
-    "title": "Sr. TA Manager (Data and Analytics)",
-    "company": "TAAS Partners",
-    "location": "India",
-    "location_key": "india",
-    "mode": "Remote",
-    "url": "https://himalayas.app/companies/taas-partners/jobs/sr-ta-manager-data-and-analytics?utm_source=api",
-    "source": "Himalayas",
-    "categories": [
-      "marketing"
-    ],
-    "posted_at": "2026-10-17T10:56:57+00:00",
-    "salary": "",
-    "stipend": "",
-    "employment_type": "Full Time",
-    "applicants": null,
-    "industry": "",
-    "function": "",
-    "experience": "mid",
-    "score": 22,
-    "reasons": [
-      "Marketing match",
       "India signal"
     ]
   },
@@ -54791,6 +52511,32 @@
   },
   {
     "type": "job",
+    "title": "Systems Lead, US Tax Operations",
+    "company": "Rippling",
+    "location": "India",
+    "location_key": "india",
+    "mode": "Remote",
+    "url": "https://himalayas.app/companies/rippling-com/jobs/systems-lead-us-tax-operations?utm_source=api",
+    "source": "Himalayas",
+    "categories": [
+      "operations"
+    ],
+    "posted_at": "2026-10-13T22:57:39+00:00",
+    "salary": "",
+    "stipend": "",
+    "employment_type": "Full Time",
+    "applicants": null,
+    "industry": "",
+    "function": "",
+    "experience": "mid",
+    "score": 22,
+    "reasons": [
+      "Operations match",
+      "India signal"
+    ]
+  },
+  {
+    "type": "job",
     "title": "Java Engineer – Application / Database Modernization (Freelancer)",
     "company": "Mactores",
     "location": "India",
@@ -55667,58 +53413,6 @@
     "industry": "",
     "function": "",
     "experience": "mid",
-    "score": 22,
-    "reasons": [
-      "Design match",
-      "India signal"
-    ]
-  },
-  {
-    "type": "job",
-    "title": "Staff/Senior Staff Physical Design Engineer (Technical Lead)",
-    "company": "EnCharge AI",
-    "location": "India",
-    "location_key": "india",
-    "mode": "Remote",
-    "url": "https://himalayas.app/companies/encharge-ai/jobs/staff-senior-staff-physical-design-engineer-technical-lead?utm_source=api",
-    "source": "Himalayas",
-    "categories": [
-      "design"
-    ],
-    "posted_at": "2026-10-12T01:48:09+00:00",
-    "salary": "",
-    "stipend": "",
-    "employment_type": "Full Time",
-    "applicants": null,
-    "industry": "",
-    "function": "",
-    "experience": "mid",
-    "score": 22,
-    "reasons": [
-      "Design match",
-      "India signal"
-    ]
-  },
-  {
-    "type": "job",
-    "title": "Title: Founding Engineer (Fullstack/Zoom App)",
-    "company": "Wise AI",
-    "location": "India",
-    "location_key": "india",
-    "mode": "Remote",
-    "url": "https://himalayas.app/companies/wise-ai/jobs/title-founding-engineer-fullstack-zoom-app?utm_source=api",
-    "source": "Himalayas",
-    "categories": [
-      "design"
-    ],
-    "posted_at": "2026-10-11T23:06:11+00:00",
-    "salary": "12000–24000 USD / annual",
-    "stipend": "",
-    "employment_type": "Full Time",
-    "applicants": null,
-    "industry": "",
-    "function": "",
-    "experience": "unknown",
     "score": 22,
     "reasons": [
       "Design match",
@@ -59835,136 +57529,6 @@
   },
   {
     "type": "job",
-    "title": "QA Engineer_Offshore",
-    "company": "Photon",
-    "location": "India",
-    "location_key": "india",
-    "mode": "Remote",
-    "url": "https://himalayas.app/companies/photon/jobs/qa-engineer_offshore?utm_source=api",
-    "source": "Himalayas",
-    "categories": [
-      "design"
-    ],
-    "posted_at": "2026-10-03T01:15:44+00:00",
-    "salary": "",
-    "stipend": "",
-    "employment_type": "Full Time",
-    "applicants": null,
-    "industry": "",
-    "function": "",
-    "experience": "mid",
-    "score": 22,
-    "reasons": [
-      "Design match",
-      "India signal"
-    ]
-  },
-  {
-    "type": "job",
-    "title": "Data Engineer - DPaaS Foundation POD - Offshore 4",
-    "company": "Ascendion",
-    "location": "India",
-    "location_key": "india",
-    "mode": "Remote",
-    "url": "https://himalayas.app/companies/ascendion/jobs/data-engineer-dpaas-foundation-pod-offshore-4?utm_source=api",
-    "source": "Himalayas",
-    "categories": [
-      "other"
-    ],
-    "posted_at": "2026-10-03T01:07:32+00:00",
-    "salary": "",
-    "stipend": "",
-    "employment_type": "Full Time",
-    "applicants": null,
-    "industry": "",
-    "function": "",
-    "experience": "unknown",
-    "score": 22,
-    "reasons": [
-      "Other match",
-      "India signal"
-    ]
-  },
-  {
-    "type": "job",
-    "title": "Indian Voice Recorders",
-    "company": "Your Personal AI",
-    "location": "India",
-    "location_key": "india",
-    "mode": "Remote",
-    "url": "https://himalayas.app/companies/your-personal-ai/jobs/indian-voice-recorders?utm_source=api",
-    "source": "Himalayas",
-    "categories": [
-      "other"
-    ],
-    "posted_at": "2026-10-03T00:55:02+00:00",
-    "salary": "",
-    "stipend": "",
-    "employment_type": "Contractor",
-    "applicants": null,
-    "industry": "",
-    "function": "",
-    "experience": "unknown",
-    "score": 22,
-    "reasons": [
-      "Other match",
-      "India signal"
-    ]
-  },
-  {
-    "type": "job",
-    "title": "QA Engineer | Offshore",
-    "company": "Photon",
-    "location": "India",
-    "location_key": "india",
-    "mode": "Remote",
-    "url": "https://himalayas.app/companies/photon/jobs/qa-engineer-offshore?utm_source=api",
-    "source": "Himalayas",
-    "categories": [
-      "design"
-    ],
-    "posted_at": "2026-10-03T00:51:28+00:00",
-    "salary": "",
-    "stipend": "",
-    "employment_type": "Full Time",
-    "applicants": null,
-    "industry": "",
-    "function": "",
-    "experience": "mid",
-    "score": 22,
-    "reasons": [
-      "Design match",
-      "India signal"
-    ]
-  },
-  {
-    "type": "job",
-    "title": "CyberArk PAM Analyst | Offshore",
-    "company": "Photon",
-    "location": "India",
-    "location_key": "india",
-    "mode": "Remote",
-    "url": "https://himalayas.app/companies/photon/jobs/cyberark-pam-analyst-offshore?utm_source=api",
-    "source": "Himalayas",
-    "categories": [
-      "operations"
-    ],
-    "posted_at": "2026-10-03T00:46:08+00:00",
-    "salary": "",
-    "stipend": "",
-    "employment_type": "Full Time",
-    "applicants": null,
-    "industry": "",
-    "function": "",
-    "experience": "unknown",
-    "score": 22,
-    "reasons": [
-      "Operations match",
-      "India signal"
-    ]
-  },
-  {
-    "type": "job",
     "title": "SAP IS-U ABAP Technical Consultant (Utilities)",
     "company": "3M Consultancy",
     "location": "India",
@@ -61057,6 +58621,32 @@
   },
   {
     "type": "job",
+    "title": "Principal Engineer, Cloud",
+    "company": "Nagarro",
+    "location": "India",
+    "location_key": "india",
+    "mode": "Remote",
+    "url": "https://himalayas.app/companies/nagarro/jobs/principal-engineer-cloud-7274111859?utm_source=api",
+    "source": "Himalayas",
+    "categories": [
+      "other"
+    ],
+    "posted_at": "2026-10-02T08:33:09+00:00",
+    "salary": "",
+    "stipend": "",
+    "employment_type": "Full Time",
+    "applicants": null,
+    "industry": "",
+    "function": "",
+    "experience": "unknown",
+    "score": 22,
+    "reasons": [
+      "Other match",
+      "India signal"
+    ]
+  },
+  {
+    "type": "job",
     "title": "Machine Learning Engineer with an Agentic Focus",
     "company": "High 5 Games",
     "location": "India",
@@ -61265,6 +58855,32 @@
   },
   {
     "type": "job",
+    "title": "Senior Staff Engineer, Sharepoint",
+    "company": "Nagarro",
+    "location": "India",
+    "location_key": "india",
+    "mode": "Remote",
+    "url": "https://himalayas.app/companies/nagarro/jobs/senior-staff-engineer-sharepoint?utm_source=api",
+    "source": "Himalayas",
+    "categories": [
+      "other"
+    ],
+    "posted_at": "2026-10-02T07:11:01+00:00",
+    "salary": "",
+    "stipend": "",
+    "employment_type": "Full Time",
+    "applicants": null,
+    "industry": "",
+    "function": "",
+    "experience": "mid",
+    "score": 22,
+    "reasons": [
+      "Other match",
+      "India signal"
+    ]
+  },
+  {
+    "type": "job",
     "title": "AI/ML Architect",
     "company": "NewRocket",
     "location": "India",
@@ -61421,6 +59037,32 @@
   },
   {
     "type": "job",
+    "title": "Principal Consultant, Agile",
+    "company": "Nagarro",
+    "location": "India",
+    "location_key": "india",
+    "mode": "Remote",
+    "url": "https://himalayas.app/companies/nagarro/jobs/principal-consultant-agile?utm_source=api",
+    "source": "Himalayas",
+    "categories": [
+      "operations"
+    ],
+    "posted_at": "2026-10-02T06:22:47+00:00",
+    "salary": "",
+    "stipend": "",
+    "employment_type": "Full Time",
+    "applicants": null,
+    "industry": "",
+    "function": "",
+    "experience": "unknown",
+    "score": 22,
+    "reasons": [
+      "Operations match",
+      "India signal"
+    ]
+  },
+  {
+    "type": "job",
     "title": "Technical Account Manager (India)",
     "company": "Island",
     "location": "India",
@@ -61551,32 +59193,6 @@
   },
   {
     "type": "job",
-    "title": "Senior Software Engineer",
-    "company": "Proofpoint",
-    "location": "India",
-    "location_key": "india",
-    "mode": "Remote",
-    "url": "https://himalayas.app/companies/proofpoint/jobs/senior-software-engineer?utm_source=api",
-    "source": "Himalayas",
-    "categories": [
-      "social"
-    ],
-    "posted_at": "2026-10-02T03:16:12+00:00",
-    "salary": "",
-    "stipend": "",
-    "employment_type": "Full Time",
-    "applicants": null,
-    "industry": "",
-    "function": "",
-    "experience": "mid",
-    "score": 22,
-    "reasons": [
-      "Social match",
-      "India signal"
-    ]
-  },
-  {
-    "type": "job",
     "title": "Appian Developer",
     "company": "RxCloud",
     "location": "India",
@@ -61699,6 +59315,84 @@
     "industry": "",
     "function": "",
     "experience": "mid",
+    "score": 22,
+    "reasons": [
+      "Design match",
+      "India signal"
+    ]
+  },
+  {
+    "type": "job",
+    "title": "Senior Engineer, Tech support",
+    "company": "Nagarro",
+    "location": "India",
+    "location_key": "india",
+    "mode": "Remote",
+    "url": "https://himalayas.app/companies/nagarro/jobs/senior-engineer-tech-support?utm_source=api",
+    "source": "Himalayas",
+    "categories": [
+      "other"
+    ],
+    "posted_at": "2026-10-01T22:59:38+00:00",
+    "salary": "",
+    "stipend": "",
+    "employment_type": "Full Time",
+    "applicants": null,
+    "industry": "",
+    "function": "",
+    "experience": "mid",
+    "score": 22,
+    "reasons": [
+      "Other match",
+      "India signal"
+    ]
+  },
+  {
+    "type": "job",
+    "title": "Engineer ,SAP Govern Risk Compliance",
+    "company": "Nagarro",
+    "location": "India",
+    "location_key": "india",
+    "mode": "Remote",
+    "url": "https://himalayas.app/companies/nagarro/jobs/engineer-sap-govern-risk-compliance?utm_source=api",
+    "source": "Himalayas",
+    "categories": [
+      "other"
+    ],
+    "posted_at": "2026-10-01T22:51:59+00:00",
+    "salary": "",
+    "stipend": "",
+    "employment_type": "Full Time",
+    "applicants": null,
+    "industry": "",
+    "function": "",
+    "experience": "unknown",
+    "score": 22,
+    "reasons": [
+      "Other match",
+      "India signal"
+    ]
+  },
+  {
+    "type": "job",
+    "title": "Principal Engineer, Java Fullstack",
+    "company": "Nagarro",
+    "location": "India",
+    "location_key": "india",
+    "mode": "Remote",
+    "url": "https://himalayas.app/companies/nagarro/jobs/principal-engineer-java-fullstack?utm_source=api",
+    "source": "Himalayas",
+    "categories": [
+      "design"
+    ],
+    "posted_at": "2026-10-01T19:59:53+00:00",
+    "salary": "",
+    "stipend": "",
+    "employment_type": "Full Time",
+    "applicants": null,
+    "industry": "",
+    "function": "",
+    "experience": "unknown",
     "score": 22,
     "reasons": [
       "Design match",
@@ -61889,6 +59583,32 @@
   },
   {
     "type": "job",
+    "title": "Principal Engineer, Java",
+    "company": "Nagarro",
+    "location": "India",
+    "location_key": "india",
+    "mode": "Remote",
+    "url": "https://himalayas.app/companies/nagarro/jobs/principal-engineer-java?utm_source=api",
+    "source": "Himalayas",
+    "categories": [
+      "design"
+    ],
+    "posted_at": "2026-10-01T16:29:02+00:00",
+    "salary": "",
+    "stipend": "",
+    "employment_type": "Full Time",
+    "applicants": null,
+    "industry": "",
+    "function": "",
+    "experience": "unknown",
+    "score": 22,
+    "reasons": [
+      "Design match",
+      "India signal"
+    ]
+  },
+  {
+    "type": "job",
     "title": "AWS Devops Engineer | 5-8 Years Exp| IST Time |Remote",
     "company": "PradeepIT Consulting Services Pvt Ltd",
     "location": "India",
@@ -61937,6 +59657,272 @@
     "reasons": [
       "Other match",
       "India signal"
+    ]
+  },
+  {
+    "type": "job",
+    "title": "SAP Application Lead Global AMS (SD,MM,FICO,PP,QM,EWM)",
+    "company": "PradeepIT Consulting Services Pvt Ltd",
+    "location": "India",
+    "location_key": "india",
+    "mode": "Remote",
+    "url": "https://himalayas.app/companies/pradeepit-consulting-services-pvt-ltd/jobs/sap-application-lead-global-ams-sd-mm-fico-pp-qm-ewm?utm_source=api",
+    "source": "Himalayas",
+    "categories": [
+      "operations"
+    ],
+    "posted_at": "2026-10-01T15:41:30+00:00",
+    "salary": "",
+    "stipend": "",
+    "employment_type": "Full Time",
+    "applicants": null,
+    "industry": "",
+    "function": "",
+    "experience": "mid",
+    "score": 22,
+    "reasons": [
+      "Operations match",
+      "India signal"
+    ]
+  },
+  {
+    "type": "job",
+    "title": "Remote Appian Developer (Freelance)",
+    "company": "PradeepIT Consulting Services Pvt Ltd",
+    "location": "India",
+    "location_key": "india",
+    "mode": "Remote",
+    "url": "https://himalayas.app/companies/pradeepit-consulting-services-pvt-ltd/jobs/remote-appian-developer-freelance?utm_source=api",
+    "source": "Himalayas",
+    "categories": [
+      "design"
+    ],
+    "posted_at": "2026-10-01T15:23:46+00:00",
+    "salary": "",
+    "stipend": "",
+    "employment_type": "Contractor",
+    "applicants": null,
+    "industry": "",
+    "function": "",
+    "experience": "unknown",
+    "score": 22,
+    "reasons": [
+      "Design match",
+      "India signal"
+    ]
+  },
+  {
+    "type": "job",
+    "title": "Senior Engineer, Frontend AngularJS",
+    "company": "Nagarro",
+    "location": "India",
+    "location_key": "india",
+    "mode": "Remote",
+    "url": "https://himalayas.app/companies/nagarro/jobs/senior-engineer-frontend-angularjs?utm_source=api",
+    "source": "Himalayas",
+    "categories": [
+      "other"
+    ],
+    "posted_at": "2026-10-01T15:03:34+00:00",
+    "salary": "",
+    "stipend": "",
+    "employment_type": "Full Time",
+    "applicants": null,
+    "industry": "",
+    "function": "",
+    "experience": "mid",
+    "score": 22,
+    "reasons": [
+      "Other match",
+      "India signal"
+    ]
+  },
+  {
+    "type": "job",
+    "title": "Data Migration Engineer (Fall 2026) (Remote, KA, IN)",
+    "company": "NTT DATA",
+    "location": "India",
+    "location_key": "india",
+    "mode": "Remote",
+    "url": "https://himalayas.app/companies/nttdata/jobs/data-migration-engineer-fall-2026-remote-ka-in-8930730993?utm_source=api",
+    "source": "Himalayas",
+    "categories": [
+      "design"
+    ],
+    "posted_at": "2026-10-01T15:02:25+00:00",
+    "salary": "",
+    "stipend": "",
+    "employment_type": "Full Time",
+    "applicants": null,
+    "industry": "",
+    "function": "",
+    "experience": "unknown",
+    "score": 22,
+    "reasons": [
+      "Design match",
+      "India signal"
+    ]
+  },
+  {
+    "type": "job",
+    "title": "Oracle Financials | Business Analyst | 6-8 Years Exp | Remote",
+    "company": "PradeepIT Consulting Services Pvt Ltd",
+    "location": "India",
+    "location_key": "india",
+    "mode": "Remote",
+    "url": "https://himalayas.app/companies/pradeepit-consulting-services-pvt-ltd/jobs/oracle-financials-business-analyst-6-8-years-exp-remote?utm_source=api",
+    "source": "Himalayas",
+    "categories": [
+      "other"
+    ],
+    "posted_at": "2026-10-01T15:02:17+00:00",
+    "salary": "",
+    "stipend": "",
+    "employment_type": "Full Time",
+    "applicants": null,
+    "industry": "",
+    "function": "",
+    "experience": "mid",
+    "score": 22,
+    "reasons": [
+      "Other match",
+      "India signal"
+    ]
+  },
+  {
+    "type": "job",
+    "title": "Engineer, InfraOps",
+    "company": "Nagarro",
+    "location": "India",
+    "location_key": "india",
+    "mode": "Remote",
+    "url": "https://himalayas.app/companies/nagarro/jobs/engineer-infraops?utm_source=api",
+    "source": "Himalayas",
+    "categories": [
+      "operations"
+    ],
+    "posted_at": "2026-10-01T14:53:12+00:00",
+    "salary": "",
+    "stipend": "",
+    "employment_type": "Full Time",
+    "applicants": null,
+    "industry": "",
+    "function": "",
+    "experience": "unknown",
+    "score": 22,
+    "reasons": [
+      "Operations match",
+      "India signal"
+    ]
+  },
+  {
+    "type": "job",
+    "title": "Staff Consultant ,SAP Analytics Data Manageme",
+    "company": "Nagarro",
+    "location": "India",
+    "location_key": "india",
+    "mode": "Remote",
+    "url": "https://himalayas.app/companies/nagarro/jobs/staff-consultant-sap-analytics-data-manageme?utm_source=api",
+    "source": "Himalayas",
+    "categories": [
+      "other"
+    ],
+    "posted_at": "2026-10-01T14:49:07+00:00",
+    "salary": "",
+    "stipend": "",
+    "employment_type": "Full Time",
+    "applicants": null,
+    "industry": "",
+    "function": "",
+    "experience": "unknown",
+    "score": 22,
+    "reasons": [
+      "Other match",
+      "India signal"
+    ]
+  },
+  {
+    "type": "job",
+    "title": "Senior Manager Expansion Risk",
+    "company": "Tala",
+    "location": "APAC",
+    "location_key": "other",
+    "mode": "See listing",
+    "url": "https://jobicy.com/jobs/156469-senior-manager-expansion-risk",
+    "source": "Jobicy",
+    "categories": [
+      "marketing",
+      "design"
+    ],
+    "posted_at": "2026-10-22T20:38:09+00:00",
+    "salary": "",
+    "stipend": "",
+    "employment_type": [
+      "Full-Time"
+    ],
+    "applicants": null,
+    "industry": "",
+    "function": "",
+    "experience": "mid",
+    "score": 20,
+    "reasons": [
+      "Marketing match"
+    ]
+  },
+  {
+    "type": "job",
+    "title": "Local Visibility Optimization",
+    "company": "SOCi",
+    "location": "Canada",
+    "location_key": "other",
+    "mode": "See listing",
+    "url": "https://jobicy.com/jobs/156461-local-visibility-optimization",
+    "source": "Jobicy",
+    "categories": [
+      "marketing"
+    ],
+    "posted_at": "2026-10-22T18:57:14+00:00",
+    "salary": "49500–54000 CAD / yearly",
+    "stipend": "",
+    "employment_type": [
+      "Full-Time"
+    ],
+    "applicants": null,
+    "industry": "",
+    "function": "",
+    "experience": "fresher",
+    "score": 20,
+    "reasons": [
+      "Marketing match",
+      "Fresher-friendly signal"
+    ]
+  },
+  {
+    "type": "job",
+    "title": "BS/MD Admissions Consultant",
+    "company": "Inspira Education",
+    "location": "Canada,  USA",
+    "location_key": "other",
+    "mode": "See listing",
+    "url": "https://jobicy.com/jobs/156455-bs-md-admissions-consultant-2",
+    "source": "Jobicy",
+    "categories": [
+      "other"
+    ],
+    "posted_at": "2026-10-22T18:57:14+00:00",
+    "salary": "",
+    "stipend": "",
+    "employment_type": [
+      "Contract"
+    ],
+    "applicants": null,
+    "industry": "",
+    "function": "",
+    "experience": "fresher",
+    "score": 20,
+    "reasons": [
+      "Other match",
+      "Fresher-friendly signal"
     ]
   },
   {
@@ -62557,34 +60543,6 @@
   },
   {
     "type": "job",
-    "title": "Licensed Psychiatric Nurse Practitioner",
-    "company": "Headway.co",
-    "location": "USA",
-    "location_key": "other",
-    "mode": "See listing",
-    "url": "https://jobicy.com/jobs/151292-licensed-psychiatric-nurse-practitioner",
-    "source": "Jobicy",
-    "categories": [
-      "marketing",
-      "social"
-    ],
-    "posted_at": "2026-10-22T04:40:07+00:00",
-    "salary": "",
-    "stipend": "",
-    "employment_type": [
-      "Full-Time"
-    ],
-    "applicants": null,
-    "industry": "",
-    "function": "",
-    "experience": "unknown",
-    "score": 20,
-    "reasons": [
-      "Marketing match"
-    ]
-  },
-  {
-    "type": "job",
     "title": "External Data Specialist",
     "company": "eClinical Solutions",
     "location": "Remote",
@@ -62606,6 +60564,32 @@
     "score": 17,
     "reasons": [
       "Other match",
+      "Remote"
+    ]
+  },
+  {
+    "type": "job",
+    "title": "lkjlkjxcv",
+    "company": "scvsdv",
+    "location": "Remote",
+    "location_key": "remote",
+    "mode": "Remote",
+    "url": "https://remoteOK.com/remote-jobs/remote-lkjlkjxcv-scvsdv-1137553",
+    "source": "Remote OK",
+    "categories": [
+      "marketing"
+    ],
+    "posted_at": "2026-10-21T23:33:07+00:00",
+    "salary": "",
+    "stipend": "",
+    "employment_type": "",
+    "applicants": null,
+    "industry": "",
+    "function": "",
+    "experience": "unknown",
+    "score": 13,
+    "reasons": [
+      "Marketing match",
       "Remote"
     ]
   },
@@ -63127,6 +61111,60 @@
     "reasons": [
       "Content match",
       "Remote"
+    ]
+  },
+  {
+    "type": "job",
+    "title": "Full-Time LSAT Tutor",
+    "company": "Inspira Education",
+    "location": "Canada,  USA",
+    "location_key": "other",
+    "mode": "See listing",
+    "url": "https://jobicy.com/jobs/156459-full-time-lsat-tutor",
+    "source": "Jobicy",
+    "categories": [
+      "other"
+    ],
+    "posted_at": "2026-10-22T18:57:16+00:00",
+    "salary": "",
+    "stipend": "",
+    "employment_type": [
+      "Full-Time"
+    ],
+    "applicants": null,
+    "industry": "",
+    "function": "",
+    "experience": "mid",
+    "score": 10,
+    "reasons": [
+      "Other match"
+    ]
+  },
+  {
+    "type": "job",
+    "title": "Full-Time MCAT Tutor",
+    "company": "Inspira Education",
+    "location": "Canada,  USA",
+    "location_key": "other",
+    "mode": "See listing",
+    "url": "https://jobicy.com/jobs/156463-full-time-mcat-tutor",
+    "source": "Jobicy",
+    "categories": [
+      "content"
+    ],
+    "posted_at": "2026-10-22T18:57:14+00:00",
+    "salary": "",
+    "stipend": "",
+    "employment_type": [
+      "Full-Time"
+    ],
+    "applicants": null,
+    "industry": "",
+    "function": "",
+    "experience": "mid",
+    "score": 10,
+    "reasons": [
+      "Content match"
     ]
   },
   {
