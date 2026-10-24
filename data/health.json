@@ -1,8 +1,8 @@
 {
-  "updated_at": "2026-10-23T21:26:07.548001+00:00",
-  "total_fetched": 2946,
-  "total_clean": 2921,
-  "published": 2921,
+  "updated_at": "2026-10-24T04:37:07.453098+00:00",
+  "total_fetched": 2321,
+  "total_clean": 2296,
+  "published": 2296,
   "sources": {
     "Remote OK": {
       "status": "ok",
@@ -18,9 +18,8 @@
       "error": "HTTP Error 429: Too Many Requests"
     },
     "Hopin": {
-      "status": "error",
-      "items": 0,
-      "error": "The read operation timed out"
+      "status": "ok",
+      "items": 0
     },
     "YubHub": {
       "status": "ok",
