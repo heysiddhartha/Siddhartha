@@ -1,8 +1,8 @@
 {
-  "updated_at": "2026-10-29T13:04:42.055322+00:00",
-  "total_fetched": 2386,
-  "total_clean": 2359,
-  "published": 2359,
+  "updated_at": "2026-10-29T22:47:17.860850+00:00",
+  "total_fetched": 2322,
+  "total_clean": 2299,
+  "published": 2299,
   "sources": {
     "Remote OK": {
       "status": "ok",
@@ -14,11 +14,12 @@
     },
     "Himalayas India": {
       "status": "ok",
-      "items": 2087
+      "items": 2023
     },
     "Hopin": {
-      "status": "ok",
-      "items": 0
+      "status": "error",
+      "items": 0,
+      "error": "The read operation timed out"
     },
     "YubHub": {
       "status": "ok",
