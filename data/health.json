@@ -1,8 +1,8 @@
 {
-  "updated_at": "2026-10-30T12:56:45.253547+00:00",
-  "total_fetched": 2328,
-  "total_clean": 2303,
-  "published": 2303,
+  "updated_at": "2026-10-30T22:21:32.014977+00:00",
+  "total_fetched": 1913,
+  "total_clean": 1886,
+  "published": 1886,
   "sources": {
     "Remote OK": {
       "status": "ok",
@@ -14,7 +14,7 @@
     },
     "Himalayas India": {
       "status": "ok",
-      "items": 2129
+      "items": 1714
     },
     "Hopin": {
       "status": "ok",
