@@ -1,8 +1,8 @@
 {
-  "updated_at": "2026-11-06T06:47:00.745166+00:00",
-  "total_fetched": 2332,
-  "total_clean": 2297,
-  "published": 2297,
+  "updated_at": "2026-11-06T19:24:39.110638+00:00",
+  "total_fetched": 2199,
+  "total_clean": 2167,
+  "published": 2167,
   "sources": {
     "Remote OK": {
       "status": "ok",
@@ -13,17 +13,17 @@
       "items": 100
     },
     "Himalayas India": {
-      "status": "ok",
-      "items": 2133
+      "status": "error",
+      "items": 0,
+      "error": "HTTP Error 429: Too Many Requests"
     },
     "Hopin": {
       "status": "ok",
       "items": 0
     },
     "YubHub": {
-      "status": "error",
-      "items": 0,
-      "error": "HTTP Error 500: Internal Server Error"
+      "status": "ok",
+      "items": 0
     },
     "Jobisite India": {
       "status": "error",
