@@ -1,6 +1,6 @@
 {
-  "updated_at": "2026-11-05T19:58:37.004878+00:00",
-  "total_fetched": 2334,
+  "updated_at": "2026-11-06T06:47:00.745166+00:00",
+  "total_fetched": 2332,
   "total_clean": 2297,
   "published": 2297,
   "sources": {
@@ -14,15 +14,16 @@
     },
     "Himalayas India": {
       "status": "ok",
-      "items": 2135
+      "items": 2133
     },
     "Hopin": {
       "status": "ok",
       "items": 0
     },
     "YubHub": {
-      "status": "ok",
-      "items": 0
+      "status": "error",
+      "items": 0,
+      "error": "HTTP Error 500: Internal Server Error"
     },
     "Jobisite India": {
       "status": "error",
