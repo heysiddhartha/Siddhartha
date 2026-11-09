@@ -1,8 +1,8 @@
 {
-  "updated_at": "2026-11-09T06:30:12.649873+00:00",
-  "total_fetched": 2393,
-  "total_clean": 2361,
-  "published": 2361,
+  "updated_at": "2026-11-09T22:23:05.559624+00:00",
+  "total_fetched": 2417,
+  "total_clean": 2387,
+  "published": 2387,
   "sources": {
     "Remote OK": {
       "status": "ok",
@@ -14,12 +14,12 @@
     },
     "Himalayas India": {
       "status": "ok",
-      "items": 2194
+      "items": 2218
     },
     "Hopin": {
       "status": "error",
       "items": 0,
-      "error": "HTTP Error 401: Unauthorized"
+      "error": "HTTP Error 522: <none>"
     },
     "YubHub": {
       "status": "ok",
