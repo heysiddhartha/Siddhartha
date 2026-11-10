@@ -1,8 +1,8 @@
 {
-  "updated_at": "2026-11-09T22:23:05.559624+00:00",
-  "total_fetched": 2417,
-  "total_clean": 2387,
-  "published": 2387,
+  "updated_at": "2026-11-10T07:18:09.000016+00:00",
+  "total_fetched": 2208,
+  "total_clean": 2177,
+  "published": 2177,
   "sources": {
     "Remote OK": {
       "status": "ok",
@@ -13,13 +13,14 @@
       "items": 100
     },
     "Himalayas India": {
-      "status": "ok",
-      "items": 2218
+      "status": "error",
+      "items": 0,
+      "error": "HTTP Error 429: Too Many Requests"
     },
     "Hopin": {
       "status": "error",
       "items": 0,
-      "error": "HTTP Error 522: <none>"
+      "error": "HTTP Error 401: Unauthorized"
     },
     "YubHub": {
       "status": "ok",
