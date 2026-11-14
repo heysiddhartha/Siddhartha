@@ -1,8 +1,8 @@
 {
-  "updated_at": "2026-11-14T06:23:29.105673+00:00",
+  "updated_at": "2026-11-14T18:01:50.959205+00:00",
   "total_fetched": 795,
-  "total_clean": 772,
-  "published": 772,
+  "total_clean": 773,
+  "published": 773,
   "sources": {
     "Remote OK": {
       "status": "ok",
@@ -20,7 +20,7 @@
     "Hopin": {
       "status": "error",
       "items": 0,
-      "error": "HTTP Error 401: Unauthorized"
+      "error": "The read operation timed out"
     },
     "YubHub": {
       "status": "ok",
