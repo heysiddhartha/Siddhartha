@@ -1,12 +1,12 @@
 {
-  "updated_at": "2026-11-20T07:16:10.637479+00:00",
-  "total_fetched": 737,
-  "total_clean": 715,
-  "published": 715,
+  "updated_at": "2026-11-20T20:19:31.840145+00:00",
+  "total_fetched": 642,
+  "total_clean": 642,
+  "published": 642,
   "sources": {
     "Remote OK": {
       "status": "ok",
-      "items": 97
+      "items": 98
     },
     "Jobicy": {
       "status": "ok",
