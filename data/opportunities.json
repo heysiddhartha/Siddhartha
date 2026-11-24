@@ -65,6 +65,40 @@
   },
   {
     "type": "job",
+    "title": "Community Engagement and Advocacy Manager",
+    "company": "Tailscale",
+    "location": "Canada",
+    "location_key": "other",
+    "mode": "See listing",
+    "url": "https://jobicy.com/jobs/164190-community-engagement-and-advocacy-manager",
+    "source": "Jobicy",
+    "categories": [
+      "marketing",
+      "content",
+      "social",
+      "creator",
+      "sales",
+      "operations",
+      "design"
+    ],
+    "posted_at": "2026-11-24T18:53:13+00:00",
+    "salary": "192960–237180 CAD / yearly",
+    "stipend": "",
+    "employment_type": [
+      "Full-Time"
+    ],
+    "applicants": null,
+    "industry": "",
+    "function": "",
+    "experience": "fresher",
+    "score": 80,
+    "reasons": [
+      "Marketing match",
+      "Fresher-friendly signal"
+    ]
+  },
+  {
+    "type": "job",
     "title": "Junior Video Editor & Graphic Designer",
     "company": "YRGCARE",
     "location": "India",
@@ -248,39 +282,6 @@
       "Marketing match",
       "Fresher-friendly signal",
       "India signal"
-    ]
-  },
-  {
-    "type": "job",
-    "title": "Digital Marketing Specialist",
-    "company": "Manay CPA Inc.",
-    "location": "Türkiye",
-    "location_key": "other",
-    "mode": "See listing",
-    "url": "https://jobicy.com/jobs/156715-digital-marketing-specialist",
-    "source": "Jobicy",
-    "categories": [
-      "marketing",
-      "content",
-      "social",
-      "sales",
-      "operations",
-      "design"
-    ],
-    "posted_at": "2026-11-24T04:25:23+00:00",
-    "salary": "",
-    "stipend": "",
-    "employment_type": [
-      "Full-Time"
-    ],
-    "applicants": null,
-    "industry": "",
-    "function": "",
-    "experience": "fresher",
-    "score": 74,
-    "reasons": [
-      "Marketing match",
-      "Fresher-friendly signal"
     ]
   },
   {
@@ -692,37 +693,6 @@
   },
   {
     "type": "job",
-    "title": "SEO Manager",
-    "company": "group.one",
-    "location": "India",
-    "location_key": "india",
-    "mode": "Remote",
-    "url": "https://himalayas.app/companies/group-one/jobs/seo-manager?utm_source=api",
-    "source": "Himalayas",
-    "categories": [
-      "marketing",
-      "content",
-      "social",
-      "creator",
-      "design"
-    ],
-    "posted_at": "2026-11-19T16:39:42+00:00",
-    "salary": "",
-    "stipend": "",
-    "employment_type": "Full Time",
-    "applicants": null,
-    "industry": "",
-    "function": "",
-    "experience": "fresher",
-    "score": 72,
-    "reasons": [
-      "Marketing match",
-      "Fresher-friendly signal",
-      "India signal"
-    ]
-  },
-  {
-    "type": "job",
     "title": "Digital Marketing & Organic Growth Intern",
     "company": "IIDE",
     "location": "India",
@@ -816,12 +786,12 @@
   },
   {
     "type": "job",
-    "title": "Senior Developer Marketing Manager, Social & Content",
-    "company": "1Password",
-    "location": "Canada,  USA",
+    "title": "Vice President, Storytelling & Communications",
+    "company": "6sense",
+    "location": "USA",
     "location_key": "other",
     "mode": "See listing",
-    "url": "https://jobicy.com/jobs/156806-senior-developer-marketing-manager-social-content",
+    "url": "https://jobicy.com/jobs/164111-vice-president-storytelling-communications",
     "source": "Jobicy",
     "categories": [
       "marketing",
@@ -831,8 +801,8 @@
       "sales",
       "design"
     ],
-    "posted_at": "2026-11-24T04:40:32+00:00",
-    "salary": "133000–186000 USD / yearly",
+    "posted_at": "2026-11-24T13:00:12+00:00",
+    "salary": "240000–280000 USD / yearly",
     "stipend": "",
     "employment_type": [
       "Full-Time"
@@ -845,6 +815,101 @@
     "reasons": [
       "Marketing match",
       "Fresher-friendly signal"
+    ]
+  },
+  {
+    "type": "job",
+    "title": "Analyst Relations Manager | United States | Remote",
+    "company": "Grafana Labs",
+    "location": "USA",
+    "location_key": "other",
+    "mode": "See listing",
+    "url": "https://jobicy.com/jobs/164105-analyst-relations-manager-united-states-remote",
+    "source": "Jobicy",
+    "categories": [
+      "marketing",
+      "content",
+      "social",
+      "sales",
+      "operations",
+      "design"
+    ],
+    "posted_at": "2026-11-24T12:58:26+00:00",
+    "salary": "132000–158000 USD / yearly",
+    "stipend": "",
+    "employment_type": [
+      "Full-Time"
+    ],
+    "applicants": null,
+    "industry": "",
+    "function": "",
+    "experience": "fresher",
+    "score": 70,
+    "reasons": [
+      "Marketing match",
+      "Fresher-friendly signal"
+    ]
+  },
+  {
+    "type": "job",
+    "title": "People Manager - Sales Development",
+    "company": "BrowserStack",
+    "location": "India",
+    "location_key": "india",
+    "mode": "Remote",
+    "url": "https://himalayas.app/companies/browserstack/jobs/people-manager-sales-development?utm_source=api",
+    "source": "Himalayas",
+    "categories": [
+      "marketing",
+      "social",
+      "sales",
+      "operations",
+      "design"
+    ],
+    "posted_at": "2026-11-24T16:34:57+00:00",
+    "salary": "",
+    "stipend": "",
+    "employment_type": "Full Time",
+    "applicants": null,
+    "industry": "",
+    "function": "",
+    "experience": "junior",
+    "score": 68,
+    "reasons": [
+      "Marketing match",
+      "Early-career signal",
+      "India signal"
+    ]
+  },
+  {
+    "type": "job",
+    "title": "Growth & Lifecycle Marketing Manager",
+    "company": "Blink Health",
+    "location": "India",
+    "location_key": "india",
+    "mode": "Remote",
+    "url": "https://himalayas.app/companies/blink-health/jobs/growth-lifecycle-marketing-manager?utm_source=api",
+    "source": "Himalayas",
+    "categories": [
+      "marketing",
+      "content",
+      "sales",
+      "operations",
+      "design"
+    ],
+    "posted_at": "2026-11-24T10:49:05+00:00",
+    "salary": "",
+    "stipend": "",
+    "employment_type": "Full Time",
+    "applicants": null,
+    "industry": "",
+    "function": "",
+    "experience": "junior",
+    "score": 68,
+    "reasons": [
+      "Marketing match",
+      "Early-career signal",
+      "India signal"
     ]
   },
   {
@@ -875,6 +940,66 @@
     "reasons": [
       "Marketing match",
       "Early-career signal",
+      "India signal"
+    ]
+  },
+  {
+    "type": "job",
+    "title": "Account Executive, Mid Market",
+    "company": "Atlassian",
+    "location": "India",
+    "location_key": "india",
+    "mode": "Remote",
+    "url": "https://himalayas.app/companies/atlassian/jobs/account-executive-mid-market?utm_source=api",
+    "source": "Himalayas",
+    "categories": [
+      "marketing",
+      "social",
+      "sales",
+      "design"
+    ],
+    "posted_at": "2026-11-24T19:31:27+00:00",
+    "salary": "",
+    "stipend": "",
+    "employment_type": "Full Time",
+    "applicants": null,
+    "industry": "",
+    "function": "",
+    "experience": "fresher",
+    "score": 66,
+    "reasons": [
+      "Marketing match",
+      "Fresher-friendly signal",
+      "India signal"
+    ]
+  },
+  {
+    "type": "job",
+    "title": "SEO Specialist - Hindi",
+    "company": "MarketFully",
+    "location": "India",
+    "location_key": "india",
+    "mode": "Remote",
+    "url": "https://himalayas.app/companies/marketfully/jobs/seo-specialist-hindi-1827970612?utm_source=api",
+    "source": "Himalayas",
+    "categories": [
+      "marketing",
+      "content",
+      "social",
+      "design"
+    ],
+    "posted_at": "2026-11-24T09:49:15+00:00",
+    "salary": "",
+    "stipend": "",
+    "employment_type": "Contractor",
+    "applicants": null,
+    "industry": "",
+    "function": "",
+    "experience": "fresher",
+    "score": 66,
+    "reasons": [
+      "Marketing match",
+      "Fresher-friendly signal",
       "India signal"
     ]
   },
@@ -1210,6 +1335,70 @@
   },
   {
     "type": "job",
+    "title": "Account Executive - US, Remote",
+    "company": "Eleos Health",
+    "location": "USA",
+    "location_key": "other",
+    "mode": "See listing",
+    "url": "https://jobicy.com/jobs/164129-account-executive-us-remote",
+    "source": "Jobicy",
+    "categories": [
+      "marketing",
+      "social",
+      "creator",
+      "sales",
+      "design"
+    ],
+    "posted_at": "2026-11-24T14:39:24+00:00",
+    "salary": "150000–170000 USD / yearly",
+    "stipend": "",
+    "employment_type": [
+      "Full-Time"
+    ],
+    "applicants": null,
+    "industry": "",
+    "function": "",
+    "experience": "fresher",
+    "score": 64,
+    "reasons": [
+      "Marketing match",
+      "Fresher-friendly signal"
+    ]
+  },
+  {
+    "type": "job",
+    "title": "Account Executive - Home Health/Hospice (US, Remote)",
+    "company": "Eleos Health",
+    "location": "USA",
+    "location_key": "other",
+    "mode": "See listing",
+    "url": "https://jobicy.com/jobs/164121-account-executive-home-health-hospice-us-remote",
+    "source": "Jobicy",
+    "categories": [
+      "marketing",
+      "social",
+      "creator",
+      "sales",
+      "design"
+    ],
+    "posted_at": "2026-11-24T14:39:11+00:00",
+    "salary": "150000–170000 USD / yearly",
+    "stipend": "",
+    "employment_type": [
+      "Full-Time"
+    ],
+    "applicants": null,
+    "industry": "",
+    "function": "",
+    "experience": "fresher",
+    "score": 64,
+    "reasons": [
+      "Marketing match",
+      "Fresher-friendly signal"
+    ]
+  },
+  {
+    "type": "job",
     "title": "Senior Staff SRE, Site Experience",
     "company": "Reddit",
     "location": "US Only",
@@ -1423,6 +1612,156 @@
       "Marketing match",
       "Fresher-friendly signal",
       "Remote"
+    ]
+  },
+  {
+    "type": "job",
+    "title": "Customer Success Manager",
+    "company": "Fresh Prints",
+    "location": "India",
+    "location_key": "india",
+    "mode": "Remote",
+    "url": "https://himalayas.app/companies/freshprintsshop/jobs/customer-success-manager-9907636555?utm_source=api",
+    "source": "Himalayas",
+    "categories": [
+      "marketing",
+      "sales",
+      "operations",
+      "design"
+    ],
+    "posted_at": "2026-11-24T20:03:33+00:00",
+    "salary": "",
+    "stipend": "",
+    "employment_type": "Full Time",
+    "applicants": null,
+    "industry": "",
+    "function": "",
+    "experience": "fresher",
+    "score": 62,
+    "reasons": [
+      "Marketing match",
+      "Fresher-friendly signal",
+      "India signal"
+    ]
+  },
+  {
+    "type": "job",
+    "title": "Salesforce Administrator",
+    "company": "First Advantage",
+    "location": "India",
+    "location_key": "india",
+    "mode": "Remote",
+    "url": "https://himalayas.app/companies/first-advantage/jobs/salesforce-administrator?utm_source=api",
+    "source": "Himalayas",
+    "categories": [
+      "marketing",
+      "social",
+      "sales",
+      "operations",
+      "design"
+    ],
+    "posted_at": "2026-11-24T18:49:48+00:00",
+    "salary": "",
+    "stipend": "",
+    "employment_type": "Full Time",
+    "applicants": null,
+    "industry": "",
+    "function": "",
+    "experience": "mid",
+    "score": 62,
+    "reasons": [
+      "Marketing match",
+      "India signal"
+    ]
+  },
+  {
+    "type": "job",
+    "title": "Lead Delivery Manager",
+    "company": "Description Ciklum",
+    "location": "India",
+    "location_key": "india",
+    "mode": "Remote",
+    "url": "https://himalayas.app/companies/description-ciklum/jobs/lead-delivery-manager?utm_source=api",
+    "source": "Himalayas",
+    "categories": [
+      "marketing",
+      "social",
+      "sales",
+      "operations"
+    ],
+    "posted_at": "2026-11-24T14:08:42+00:00",
+    "salary": "",
+    "stipend": "",
+    "employment_type": "Full Time",
+    "applicants": null,
+    "industry": "",
+    "function": "",
+    "experience": "fresher",
+    "score": 62,
+    "reasons": [
+      "Marketing match",
+      "Fresher-friendly signal",
+      "India signal"
+    ]
+  },
+  {
+    "type": "job",
+    "title": "Senior Proposals and Contracts Manager",
+    "company": "Parexel",
+    "location": "India",
+    "location_key": "india",
+    "mode": "Remote",
+    "url": "https://himalayas.app/companies/parexel/jobs/senior-proposals-and-contracts-manager?utm_source=api",
+    "source": "Himalayas",
+    "categories": [
+      "marketing",
+      "sales",
+      "operations",
+      "design"
+    ],
+    "posted_at": "2026-11-24T11:43:11+00:00",
+    "salary": "",
+    "stipend": "",
+    "employment_type": "Full Time",
+    "applicants": null,
+    "industry": "",
+    "function": "",
+    "experience": "fresher",
+    "score": 62,
+    "reasons": [
+      "Marketing match",
+      "Fresher-friendly signal",
+      "India signal"
+    ]
+  },
+  {
+    "type": "job",
+    "title": "Manager – Mainframe Systems & Database Engineering",
+    "company": "CSG",
+    "location": "India",
+    "location_key": "india",
+    "mode": "Remote",
+    "url": "https://himalayas.app/companies/csg/jobs/manager-mainframe-systems-database-engineering?utm_source=api",
+    "source": "Himalayas",
+    "categories": [
+      "marketing",
+      "content",
+      "sales",
+      "operations"
+    ],
+    "posted_at": "2026-11-24T10:44:06+00:00",
+    "salary": "",
+    "stipend": "",
+    "employment_type": "Full Time",
+    "applicants": null,
+    "industry": "",
+    "function": "",
+    "experience": "fresher",
+    "score": 62,
+    "reasons": [
+      "Marketing match",
+      "Fresher-friendly signal",
+      "India signal"
     ]
   },
   {
@@ -2297,126 +2636,6 @@
   },
   {
     "type": "job",
-    "title": "MDM Analyst",
-    "company": "Trellis IT Inc",
-    "location": "India",
-    "location_key": "india",
-    "mode": "Remote",
-    "url": "https://himalayas.app/companies/trellis-it-inc/jobs/mdm-analyst?utm_source=api",
-    "source": "Himalayas",
-    "categories": [
-      "marketing",
-      "sales",
-      "operations",
-      "design"
-    ],
-    "posted_at": "2026-11-19T16:40:25+00:00",
-    "salary": "",
-    "stipend": "",
-    "employment_type": "Full Time",
-    "applicants": null,
-    "industry": "",
-    "function": "",
-    "experience": "fresher",
-    "score": 62,
-    "reasons": [
-      "Marketing match",
-      "Fresher-friendly signal",
-      "India signal"
-    ]
-  },
-  {
-    "type": "job",
-    "title": "Customer Success Engineer, India",
-    "company": "GitLab",
-    "location": "India",
-    "location_key": "india",
-    "mode": "Remote",
-    "url": "https://himalayas.app/companies/gitlab-com/jobs/customer-success-engineer-india?utm_source=api",
-    "source": "Himalayas",
-    "categories": [
-      "marketing",
-      "content",
-      "sales",
-      "design"
-    ],
-    "posted_at": "2026-11-19T16:40:25+00:00",
-    "salary": "",
-    "stipend": "",
-    "employment_type": "Full Time",
-    "applicants": null,
-    "industry": "",
-    "function": "",
-    "experience": "fresher",
-    "score": 62,
-    "reasons": [
-      "Marketing match",
-      "Fresher-friendly signal",
-      "India signal"
-    ]
-  },
-  {
-    "type": "job",
-    "title": "Healthcare Call Centre Advocate",
-    "company": "XO Health",
-    "location": "India",
-    "location_key": "india",
-    "mode": "Remote",
-    "url": "https://himalayas.app/companies/xo-health/jobs/healthcare-call-centre-advocate?utm_source=api",
-    "source": "Himalayas",
-    "categories": [
-      "content",
-      "social",
-      "operations",
-      "design"
-    ],
-    "posted_at": "2026-11-19T16:40:25+00:00",
-    "salary": "500000–1500000 INR / annual",
-    "stipend": "",
-    "employment_type": "Full Time",
-    "applicants": null,
-    "industry": "",
-    "function": "",
-    "experience": "fresher",
-    "score": 62,
-    "reasons": [
-      "Content match",
-      "Fresher-friendly signal",
-      "India signal"
-    ]
-  },
-  {
-    "type": "job",
-    "title": "International Ambassador",
-    "company": "Fora",
-    "location": "India",
-    "location_key": "india",
-    "mode": "Remote",
-    "url": "https://himalayas.app/companies/fora/jobs/international-ambassador?utm_source=api",
-    "source": "Himalayas",
-    "categories": [
-      "marketing",
-      "content",
-      "social",
-      "design"
-    ],
-    "posted_at": "2026-11-19T16:40:17+00:00",
-    "salary": "",
-    "stipend": "",
-    "employment_type": "Contractor",
-    "applicants": null,
-    "industry": "",
-    "function": "",
-    "experience": "fresher",
-    "score": 62,
-    "reasons": [
-      "Marketing match",
-      "Fresher-friendly signal",
-      "India signal"
-    ]
-  },
-  {
-    "type": "job",
     "title": "Product Manager II",
     "company": "Trellix Software India Private Limited",
     "location": "India",
@@ -2432,36 +2651,6 @@
       "design"
     ],
     "posted_at": "2026-11-19T16:39:42+00:00",
-    "salary": "",
-    "stipend": "",
-    "employment_type": "Full Time",
-    "applicants": null,
-    "industry": "",
-    "function": "",
-    "experience": "mid",
-    "score": 62,
-    "reasons": [
-      "Marketing match",
-      "India signal"
-    ]
-  },
-  {
-    "type": "job",
-    "title": "Senior Security Operations Analyst",
-    "company": "Worldwide Clinical Trials",
-    "location": "India",
-    "location_key": "india",
-    "mode": "Remote",
-    "url": "https://himalayas.app/companies/worldwide-clinical-trials/jobs/senior-security-operations-analyst?utm_source=api",
-    "source": "Himalayas",
-    "categories": [
-      "marketing",
-      "content",
-      "social",
-      "operations",
-      "design"
-    ],
-    "posted_at": "2026-11-19T16:39:36+00:00",
     "salary": "",
     "stipend": "",
     "employment_type": "Full Time",
@@ -2657,12 +2846,76 @@
   },
   {
     "type": "job",
-    "title": "Project Manager II",
-    "company": "Tines",
-    "location": "Ireland",
+    "title": "VP, Strategy and Operations",
+    "company": "Attentive",
+    "location": "USA",
     "location_key": "other",
     "mode": "See listing",
-    "url": "https://jobicy.com/jobs/156728-project-manager-ii",
+    "url": "https://jobicy.com/jobs/164158-vp-strategy-and-operations",
+    "source": "Jobicy",
+    "categories": [
+      "marketing",
+      "content",
+      "social",
+      "sales",
+      "operations",
+      "design"
+    ],
+    "posted_at": "2026-11-24T15:19:43+00:00",
+    "salary": "290000–325000 USD / yearly",
+    "stipend": "",
+    "employment_type": [
+      "Full-Time"
+    ],
+    "applicants": null,
+    "industry": "",
+    "function": "",
+    "experience": "mid",
+    "score": 60,
+    "reasons": [
+      "Marketing match"
+    ]
+  },
+  {
+    "type": "job",
+    "title": "Lead Data Engineer",
+    "company": "Walker Sands",
+    "location": "USA",
+    "location_key": "other",
+    "mode": "See listing",
+    "url": "https://jobicy.com/jobs/164157-lead-data-engineer-2",
+    "source": "Jobicy",
+    "categories": [
+      "marketing",
+      "social",
+      "sales",
+      "operations",
+      "design"
+    ],
+    "posted_at": "2026-11-24T15:19:20+00:00",
+    "salary": "155000–175000 USD / yearly",
+    "stipend": "",
+    "employment_type": [
+      "Full-Time"
+    ],
+    "applicants": null,
+    "industry": "",
+    "function": "",
+    "experience": "fresher",
+    "score": 60,
+    "reasons": [
+      "Marketing match",
+      "Fresher-friendly signal"
+    ]
+  },
+  {
+    "type": "job",
+    "title": "Manager, Training and Enablement",
+    "company": "Cloudbeds",
+    "location": "LATAM,  Canada,  Europe,  USA",
+    "location_key": "other",
+    "mode": "See listing",
+    "url": "https://jobicy.com/jobs/164138-manager-training-and-enablement-2",
     "source": "Jobicy",
     "categories": [
       "marketing",
@@ -2671,7 +2924,103 @@
       "operations",
       "design"
     ],
-    "posted_at": "2026-11-24T04:30:21+00:00",
+    "posted_at": "2026-11-24T14:44:03+00:00",
+    "salary": "110000–135000 USD / yearly",
+    "stipend": "",
+    "employment_type": [
+      "Full-Time"
+    ],
+    "applicants": null,
+    "industry": "",
+    "function": "",
+    "experience": "fresher",
+    "score": 60,
+    "reasons": [
+      "Marketing match",
+      "Fresher-friendly signal"
+    ]
+  },
+  {
+    "type": "job",
+    "title": "Consultant, Stars Consulting Center of Excellence",
+    "company": "Qualtrics",
+    "location": "USA",
+    "location_key": "other",
+    "mode": "See listing",
+    "url": "https://jobicy.com/jobs/164132-consultant-stars-consulting-center-of-excellence",
+    "source": "Jobicy",
+    "categories": [
+      "marketing",
+      "content",
+      "creator",
+      "operations",
+      "design"
+    ],
+    "posted_at": "2026-11-24T14:39:53+00:00",
+    "salary": "108500–132000 USD / yearly",
+    "stipend": "",
+    "employment_type": [
+      "Full-Time"
+    ],
+    "applicants": null,
+    "industry": "",
+    "function": "",
+    "experience": "fresher",
+    "score": 60,
+    "reasons": [
+      "Marketing match",
+      "Fresher-friendly signal"
+    ]
+  },
+  {
+    "type": "job",
+    "title": "Consultant, Patient Experience",
+    "company": "Qualtrics",
+    "location": "USA",
+    "location_key": "other",
+    "mode": "See listing",
+    "url": "https://jobicy.com/jobs/164124-consultant-patient-experience-2",
+    "source": "Jobicy",
+    "categories": [
+      "marketing",
+      "content",
+      "creator",
+      "sales",
+      "design"
+    ],
+    "posted_at": "2026-11-24T14:39:17+00:00",
+    "salary": "105000–127500 USD / yearly",
+    "stipend": "",
+    "employment_type": [
+      "Full-Time"
+    ],
+    "applicants": null,
+    "industry": "",
+    "function": "",
+    "experience": "fresher",
+    "score": 60,
+    "reasons": [
+      "Marketing match",
+      "Fresher-friendly signal"
+    ]
+  },
+  {
+    "type": "job",
+    "title": "Sales Development Representative (Graduate/Junior) - 4 Day Week + Remote",
+    "company": "Laminar Projects",
+    "location": "UK",
+    "location_key": "other",
+    "mode": "See listing",
+    "url": "https://jobicy.com/jobs/164090-sales-development-representative-graduate-junior-4-day-week-remote",
+    "source": "Jobicy",
+    "categories": [
+      "marketing",
+      "social",
+      "sales",
+      "operations",
+      "design"
+    ],
+    "posted_at": "2026-11-24T11:49:36+00:00",
     "salary": "",
     "stipend": "",
     "employment_type": [
@@ -2689,22 +3038,54 @@
   },
   {
     "type": "job",
-    "title": "Developer Advocate",
-    "company": "Roboflow",
+    "title": "Product Marketing Manager",
+    "company": "LastPass",
     "location": "USA",
     "location_key": "other",
     "mode": "See listing",
-    "url": "https://jobicy.com/jobs/151412-developer-advocate",
+    "url": "https://jobicy.com/jobs/164086-product-marketing-manager-8",
     "source": "Jobicy",
     "categories": [
       "marketing",
       "content",
       "social",
+      "sales",
       "operations",
       "design"
     ],
-    "posted_at": "2026-11-24T04:25:24+00:00",
-    "salary": "",
+    "posted_at": "2026-11-24T11:46:52+00:00",
+    "salary": "131200–150000 USD / yearly",
+    "stipend": "",
+    "employment_type": [
+      "Full-Time"
+    ],
+    "applicants": null,
+    "industry": "",
+    "function": "",
+    "experience": "mid",
+    "score": 60,
+    "reasons": [
+      "Marketing match"
+    ]
+  },
+  {
+    "type": "job",
+    "title": "Product Manager",
+    "company": "Tillster",
+    "location": "USA",
+    "location_key": "other",
+    "mode": "See listing",
+    "url": "https://jobicy.com/jobs/164069-product-manager-13",
+    "source": "Jobicy",
+    "categories": [
+      "marketing",
+      "social",
+      "sales",
+      "operations",
+      "design"
+    ],
+    "posted_at": "2026-11-24T11:25:31+00:00",
+    "salary": "115000–130000 USD / yearly",
     "stipend": "",
     "employment_type": [
       "Full-Time"
@@ -2738,36 +3119,6 @@
     "salary": "",
     "stipend": "",
     "employment_type": "Full Time",
-    "applicants": null,
-    "industry": "",
-    "function": "",
-    "experience": "junior",
-    "score": 58,
-    "reasons": [
-      "Marketing match",
-      "Early-career signal",
-      "India signal"
-    ]
-  },
-  {
-    "type": "job",
-    "title": "Senior Engineer – Data Engineering (Databricks) - Contractor - India",
-    "company": "Object Edge",
-    "location": "India",
-    "location_key": "india",
-    "mode": "Remote",
-    "url": "https://himalayas.app/companies/object-edge/jobs/senior-engineer-data-engineering-databricks-contractor-india?utm_source=api",
-    "source": "Himalayas",
-    "categories": [
-      "marketing",
-      "social",
-      "operations",
-      "design"
-    ],
-    "posted_at": "2026-11-18T15:23:07+00:00",
-    "salary": "",
-    "stipend": "",
-    "employment_type": "Contractor",
     "applicants": null,
     "industry": "",
     "function": "",
@@ -2837,6 +3188,35 @@
       "Marketing match",
       "Fresher-friendly signal",
       "Remote"
+    ]
+  },
+  {
+    "type": "job",
+    "title": "Senior Clinical Payments Specialist",
+    "company": "Worldwide Clinical Trials",
+    "location": "India",
+    "location_key": "india",
+    "mode": "Remote",
+    "url": "https://himalayas.app/companies/worldwide-clinical-trials/jobs/senior-clinical-payments-specialist?utm_source=api",
+    "source": "Himalayas",
+    "categories": [
+      "marketing",
+      "social",
+      "design"
+    ],
+    "posted_at": "2026-11-24T11:33:19+00:00",
+    "salary": "",
+    "stipend": "",
+    "employment_type": "Full Time",
+    "applicants": null,
+    "industry": "",
+    "function": "",
+    "experience": "fresher",
+    "score": 56,
+    "reasons": [
+      "Marketing match",
+      "Fresher-friendly signal",
+      "India signal"
     ]
   },
   {
@@ -3102,122 +3482,6 @@
   },
   {
     "type": "job",
-    "title": "Senior Marketing Operations Specialist",
-    "company": "Sprinto",
-    "location": "India",
-    "location_key": "india",
-    "mode": "Remote",
-    "url": "https://himalayas.app/companies/sprinto/jobs/senior-marketing-operations-specialist?utm_source=api",
-    "source": "Himalayas",
-    "categories": [
-      "marketing",
-      "content",
-      "sales",
-      "operations"
-    ],
-    "posted_at": "2026-11-19T16:40:25+00:00",
-    "salary": "",
-    "stipend": "",
-    "employment_type": "Full Time",
-    "applicants": null,
-    "industry": "",
-    "function": "",
-    "experience": "mid",
-    "score": 56,
-    "reasons": [
-      "Marketing match",
-      "India signal"
-    ]
-  },
-  {
-    "type": "job",
-    "title": "Digital & CRM Executive",
-    "company": "99brightminds",
-    "location": "India",
-    "location_key": "india",
-    "mode": "Remote",
-    "url": "https://himalayas.app/companies/99brightminds/jobs/digital-crm-executive?utm_source=api",
-    "source": "Himalayas",
-    "categories": [
-      "marketing",
-      "sales",
-      "operations",
-      "design"
-    ],
-    "posted_at": "2026-11-19T16:40:17+00:00",
-    "salary": "",
-    "stipend": "",
-    "employment_type": "Full Time",
-    "applicants": null,
-    "industry": "",
-    "function": "",
-    "experience": "mid",
-    "score": 56,
-    "reasons": [
-      "Marketing match",
-      "India signal"
-    ]
-  },
-  {
-    "type": "job",
-    "title": "Senior Salesforce Marketing Cloud Specialist",
-    "company": "99brightminds",
-    "location": "India",
-    "location_key": "india",
-    "mode": "Remote",
-    "url": "https://himalayas.app/companies/99brightminds/jobs/senior-salesforce-marketing-cloud-specialist?utm_source=api",
-    "source": "Himalayas",
-    "categories": [
-      "marketing",
-      "content",
-      "sales",
-      "design"
-    ],
-    "posted_at": "2026-11-19T16:40:17+00:00",
-    "salary": "",
-    "stipend": "",
-    "employment_type": "Full Time",
-    "applicants": null,
-    "industry": "",
-    "function": "",
-    "experience": "mid",
-    "score": 56,
-    "reasons": [
-      "Marketing match",
-      "India signal"
-    ]
-  },
-  {
-    "type": "job",
-    "title": "Retail Operations Coordinator / Shop Care Assistant | Remote",
-    "company": "Gusti Leder GmbH",
-    "location": "India",
-    "location_key": "india",
-    "mode": "Remote",
-    "url": "https://himalayas.app/companies/gusti-leder-gmbh/jobs/retail-operations-coordinator-shop-care-assistant-remote?utm_source=api",
-    "source": "Himalayas",
-    "categories": [
-      "marketing",
-      "operations",
-      "design"
-    ],
-    "posted_at": "2026-11-19T16:39:42+00:00",
-    "salary": "",
-    "stipend": "",
-    "employment_type": "Full Time",
-    "applicants": null,
-    "industry": "",
-    "function": "",
-    "experience": "fresher",
-    "score": 56,
-    "reasons": [
-      "Marketing match",
-      "Fresher-friendly signal",
-      "India signal"
-    ]
-  },
-  {
-    "type": "job",
     "title": "Reservation and Sales Coordinator",
     "company": "Relais & Châteaux",
     "location": "India",
@@ -3247,20 +3511,21 @@
   },
   {
     "type": "job",
-    "title": "Principal AI Security Specialist, UK&I",
-    "company": "Zscaler",
-    "location": "Ireland,  UK",
+    "title": "Paid Media Specialist",
+    "company": "Kinsta",
+    "location": "UK",
     "location_key": "other",
     "mode": "See listing",
-    "url": "https://jobicy.com/jobs/156716-principal-ai-security-specialist-uki",
+    "url": "https://jobicy.com/jobs/164160-paid-media-specialist",
     "source": "Jobicy",
     "categories": [
       "marketing",
       "content",
+      "social",
       "sales",
       "design"
     ],
-    "posted_at": "2026-11-24T04:30:52+00:00",
+    "posted_at": "2026-11-24T15:23:24+00:00",
     "salary": "",
     "stipend": "",
     "employment_type": [
@@ -3269,30 +3534,29 @@
     "applicants": null,
     "industry": "",
     "function": "",
-    "experience": "fresher",
+    "experience": "mid",
     "score": 54,
     "reasons": [
-      "Marketing match",
-      "Fresher-friendly signal"
+      "Marketing match"
     ]
   },
   {
     "type": "job",
-    "title": "Principal AI Security Specialist, BeNeLux & Nordics",
-    "company": "Zscaler",
-    "location": "Belgium,  Netherlands",
+    "title": "Senior Threat Intelligence Specialist II (Protective Security)",
+    "company": "CoreWeave",
+    "location": "USA",
     "location_key": "other",
     "mode": "See listing",
-    "url": "https://jobicy.com/jobs/156714-principal-ai-security-specialist-benelux-nordics",
+    "url": "https://jobicy.com/jobs/164159-senior-threat-intelligence-specialist-ii-protective-security",
     "source": "Jobicy",
     "categories": [
-      "marketing",
-      "content",
+      "social",
       "sales",
+      "operations",
       "design"
     ],
-    "posted_at": "2026-11-24T04:30:50+00:00",
-    "salary": "112875–161250 EUR / yearly",
+    "posted_at": "2026-11-24T15:19:45+00:00",
+    "salary": "182000–242000 USD / yearly",
     "stipend": "",
     "employment_type": [
       "Full-Time"
@@ -3303,18 +3567,18 @@
     "experience": "fresher",
     "score": 54,
     "reasons": [
-      "Marketing match",
+      "Social match",
       "Fresher-friendly signal"
     ]
   },
   {
     "type": "job",
-    "title": "Account Executive, Mid Market",
-    "company": "Help Scout",
-    "location": "USA",
+    "title": "Technical Onboarding Specialist (Night Shift)",
+    "company": "Nextiva",
+    "location": "Ukraine",
     "location_key": "other",
     "mode": "See listing",
-    "url": "https://jobicy.com/jobs/153853-account-executive-mid-market-4",
+    "url": "https://jobicy.com/jobs/164089-technical-onboarding-specialist-night-shift-2",
     "source": "Jobicy",
     "categories": [
       "marketing",
@@ -3322,8 +3586,8 @@
       "sales",
       "design"
     ],
-    "posted_at": "2026-11-24T04:20:12+00:00",
-    "salary": "100000–100000 USD / yearly",
+    "posted_at": "2026-11-24T11:49:35+00:00",
+    "salary": "",
     "stipend": "",
     "employment_type": [
       "Full-Time"
@@ -4056,6 +4320,35 @@
       "Marketing match",
       "Fresher-friendly signal",
       "Remote"
+    ]
+  },
+  {
+    "type": "job",
+    "title": "GMP Account Manager",
+    "company": "DysrupIT",
+    "location": "India",
+    "location_key": "india",
+    "mode": "Remote",
+    "url": "https://himalayas.app/companies/dysrupit/jobs/gmp-account-manager?utm_source=api",
+    "source": "Himalayas",
+    "categories": [
+      "marketing",
+      "content",
+      "sales",
+      "operations"
+    ],
+    "posted_at": "2026-11-24T12:44:35+00:00",
+    "salary": "",
+    "stipend": "",
+    "employment_type": "Full Time",
+    "applicants": null,
+    "industry": "",
+    "function": "",
+    "experience": "mid",
+    "score": 52,
+    "reasons": [
+      "Marketing match",
+      "India signal"
     ]
   },
   {
@@ -5191,93 +5484,6 @@
   },
   {
     "type": "job",
-    "title": "Computational Designer (Remote, Full-Time) [AS354]",
-    "company": "Smart Working",
-    "location": "India",
-    "location_key": "india",
-    "mode": "Remote",
-    "url": "https://himalayas.app/companies/smart-working/jobs/computational-designer-remote-full-time-as354?utm_source=api",
-    "source": "Himalayas",
-    "categories": [
-      "marketing",
-      "social",
-      "design"
-    ],
-    "posted_at": "2026-11-19T16:40:25+00:00",
-    "salary": "",
-    "stipend": "",
-    "employment_type": "Full Time",
-    "applicants": null,
-    "industry": "",
-    "function": "",
-    "experience": "fresher",
-    "score": 52,
-    "reasons": [
-      "Marketing match",
-      "Fresher-friendly signal",
-      "India signal"
-    ]
-  },
-  {
-    "type": "job",
-    "title": "Storyteller",
-    "company": "StoryProcess",
-    "location": "India",
-    "location_key": "india",
-    "mode": "Remote",
-    "url": "https://himalayas.app/companies/storyprocess/jobs/storyteller?utm_source=api",
-    "source": "Himalayas",
-    "categories": [
-      "marketing",
-      "content",
-      "creator"
-    ],
-    "posted_at": "2026-11-19T16:40:17+00:00",
-    "salary": "",
-    "stipend": "",
-    "employment_type": "Contractor",
-    "applicants": null,
-    "industry": "",
-    "function": "",
-    "experience": "fresher",
-    "score": 52,
-    "reasons": [
-      "Marketing match",
-      "Fresher-friendly signal",
-      "India signal"
-    ]
-  },
-  {
-    "type": "job",
-    "title": "Lead Salesforce Testing",
-    "company": "Valtech",
-    "location": "India",
-    "location_key": "india",
-    "mode": "Remote",
-    "url": "https://himalayas.app/companies/valtech-us/jobs/lead-salesforce-testing?utm_source=api",
-    "source": "Himalayas",
-    "categories": [
-      "marketing",
-      "sales",
-      "design"
-    ],
-    "posted_at": "2026-11-19T16:40:17+00:00",
-    "salary": "",
-    "stipend": "",
-    "employment_type": "Full Time",
-    "applicants": null,
-    "industry": "",
-    "function": "",
-    "experience": "fresher",
-    "score": 52,
-    "reasons": [
-      "Marketing match",
-      "Fresher-friendly signal",
-      "India signal"
-    ]
-  },
-  {
-    "type": "job",
     "title": "Application Developer – Dynamics 365 & Power Platform",
     "company": "Centrilogic",
     "location": "India",
@@ -5365,122 +5571,6 @@
   },
   {
     "type": "job",
-    "title": "Lead Accountant, Global Housing Reinsurance (4+ Years inReinsurance | GAAP/STAT",
-    "company": "Assurant",
-    "location": "India",
-    "location_key": "india",
-    "mode": "Remote",
-    "url": "https://himalayas.app/companies/assurant/jobs/lead-accountant-global-housing-reinsurance-4-years-inreinsurance-gaap-stat?utm_source=api",
-    "source": "Himalayas",
-    "categories": [
-      "marketing",
-      "operations",
-      "design"
-    ],
-    "posted_at": "2026-11-19T16:39:52+00:00",
-    "salary": "",
-    "stipend": "",
-    "employment_type": "Full Time",
-    "applicants": null,
-    "industry": "",
-    "function": "",
-    "experience": "fresher",
-    "score": 52,
-    "reasons": [
-      "Marketing match",
-      "Fresher-friendly signal",
-      "India signal"
-    ]
-  },
-  {
-    "type": "job",
-    "title": "Salesforce Developer (US Shift) - Remote",
-    "company": "ClanX",
-    "location": "India",
-    "location_key": "india",
-    "mode": "Remote",
-    "url": "https://himalayas.app/companies/clanx/jobs/salesforce-developer-us-shift-remote-6384036196?utm_source=api",
-    "source": "Himalayas",
-    "categories": [
-      "marketing",
-      "sales",
-      "operations",
-      "design"
-    ],
-    "posted_at": "2026-11-19T16:39:42+00:00",
-    "salary": "",
-    "stipend": "",
-    "employment_type": "Full Time",
-    "applicants": null,
-    "industry": "",
-    "function": "",
-    "experience": "mid",
-    "score": 52,
-    "reasons": [
-      "Marketing match",
-      "India signal"
-    ]
-  },
-  {
-    "type": "job",
-    "title": "Senior Data & Analytics Analyst (PowerBI)",
-    "company": "Perceptive",
-    "location": "India",
-    "location_key": "india",
-    "mode": "Remote",
-    "url": "https://himalayas.app/companies/perceptive/jobs/senior-data-analytics-analyst-powerbi?utm_source=api",
-    "source": "Himalayas",
-    "categories": [
-      "marketing",
-      "operations",
-      "design"
-    ],
-    "posted_at": "2026-11-19T16:39:42+00:00",
-    "salary": "",
-    "stipend": "",
-    "employment_type": "Full Time",
-    "applicants": null,
-    "industry": "",
-    "function": "",
-    "experience": "fresher",
-    "score": 52,
-    "reasons": [
-      "Marketing match",
-      "Fresher-friendly signal",
-      "India signal"
-    ]
-  },
-  {
-    "type": "job",
-    "title": "Senior Backend Engineer 3",
-    "company": "HeyMarvin",
-    "location": "India",
-    "location_key": "india",
-    "mode": "Remote",
-    "url": "https://himalayas.app/companies/heymarvin/jobs/senior-backend-engineer-3?utm_source=api",
-    "source": "Himalayas",
-    "categories": [
-      "marketing",
-      "social",
-      "design"
-    ],
-    "posted_at": "2026-11-19T16:39:28+00:00",
-    "salary": "4500000–5000000 INR / annual",
-    "stipend": "",
-    "employment_type": "Full Time",
-    "applicants": null,
-    "industry": "",
-    "function": "",
-    "experience": "fresher",
-    "score": 52,
-    "reasons": [
-      "Marketing match",
-      "Fresher-friendly signal",
-      "India signal"
-    ]
-  },
-  {
-    "type": "job",
     "title": "Director, Cloud Infrastructure",
     "company": "HighLevel",
     "location": "India",
@@ -5498,35 +5588,6 @@
     "salary": "",
     "stipend": "",
     "employment_type": "Full Time",
-    "applicants": null,
-    "industry": "",
-    "function": "",
-    "experience": "mid",
-    "score": 52,
-    "reasons": [
-      "Marketing match",
-      "India signal"
-    ]
-  },
-  {
-    "type": "job",
-    "title": "Senior Architect – Data Engineering (Databricks) - Contractor - India",
-    "company": "Object Edge",
-    "location": "India",
-    "location_key": "india",
-    "mode": "Remote",
-    "url": "https://himalayas.app/companies/object-edge/jobs/senior-architect-data-engineering-databricks-contractor-india?utm_source=api",
-    "source": "Himalayas",
-    "categories": [
-      "marketing",
-      "sales",
-      "operations",
-      "design"
-    ],
-    "posted_at": "2026-11-19T16:38:41+00:00",
-    "salary": "",
-    "stipend": "",
-    "employment_type": "Contractor",
     "applicants": null,
     "industry": "",
     "function": "",
@@ -5771,50 +5832,21 @@
   },
   {
     "type": "job",
-    "title": "IT Manager",
-    "company": "Verto",
-    "location": "India",
-    "location_key": "india",
-    "mode": "Remote",
-    "url": "https://himalayas.app/companies/verto/jobs/it-manager-6659316623?utm_source=api",
-    "source": "Himalayas",
-    "categories": [
-      "marketing",
-      "operations",
-      "design"
-    ],
-    "posted_at": "2026-11-18T01:47:28+00:00",
-    "salary": "",
-    "stipend": "",
-    "employment_type": "Full Time",
-    "applicants": null,
-    "industry": "",
-    "function": "",
-    "experience": "fresher",
-    "score": 52,
-    "reasons": [
-      "Marketing match",
-      "Fresher-friendly signal",
-      "India signal"
-    ]
-  },
-  {
-    "type": "job",
-    "title": "Director, Financial & Corporate Communications",
-    "company": "Motive",
+    "title": "Counsel, Commercial & Product",
+    "company": "SeatGeek",
     "location": "USA",
     "location_key": "other",
     "mode": "See listing",
-    "url": "https://jobicy.com/jobs/156864-director-financial-corporate-communications",
+    "url": "https://jobicy.com/jobs/164191-counsel-commercial-product",
     "source": "Jobicy",
     "categories": [
       "marketing",
-      "content",
       "sales",
-      "operations"
+      "operations",
+      "design"
     ],
-    "posted_at": "2026-11-24T04:45:38+00:00",
-    "salary": "207000–285000 USD / yearly",
+    "posted_at": "2026-11-24T18:53:28+00:00",
+    "salary": "151000–218000 USD / yearly",
     "stipend": "",
     "employment_type": [
       "Full-Time"
@@ -5827,130 +5859,6 @@
     "reasons": [
       "Marketing match",
       "Fresher-friendly signal"
-    ]
-  },
-  {
-    "type": "job",
-    "title": "Technical Sales Engineer/ Lead",
-    "company": "Mattermost",
-    "location": "Japan",
-    "location_key": "other",
-    "mode": "See listing",
-    "url": "https://jobicy.com/jobs/156838-technical-sales-engineer-lead",
-    "source": "Jobicy",
-    "categories": [
-      "marketing",
-      "social",
-      "sales",
-      "operations",
-      "design"
-    ],
-    "posted_at": "2026-11-24T04:45:31+00:00",
-    "salary": "",
-    "stipend": "",
-    "employment_type": [
-      "Full-Time"
-    ],
-    "applicants": null,
-    "industry": "",
-    "function": "",
-    "experience": "mid",
-    "score": 50,
-    "reasons": [
-      "Marketing match"
-    ]
-  },
-  {
-    "type": "job",
-    "title": "Director, Travel Services",
-    "company": "TripActions",
-    "location": "USA",
-    "location_key": "other",
-    "mode": "See listing",
-    "url": "https://jobicy.com/jobs/156859-director-travel-services",
-    "source": "Jobicy",
-    "categories": [
-      "marketing",
-      "sales",
-      "operations",
-      "design"
-    ],
-    "posted_at": "2026-11-24T04:45:19+00:00",
-    "salary": "",
-    "stipend": "",
-    "employment_type": [
-      "Full-Time"
-    ],
-    "applicants": null,
-    "industry": "",
-    "function": "",
-    "experience": "fresher",
-    "score": 50,
-    "reasons": [
-      "Marketing match",
-      "Fresher-friendly signal"
-    ]
-  },
-  {
-    "type": "job",
-    "title": "Bilingual (Spanish) Mid-Market Account Manager, LATAM",
-    "company": "MaintainX",
-    "location": "USA",
-    "location_key": "other",
-    "mode": "See listing",
-    "url": "https://jobicy.com/jobs/156833-bilingual-spanish-mid-market-account-manager-latam",
-    "source": "Jobicy",
-    "categories": [
-      "marketing",
-      "sales",
-      "operations",
-      "design"
-    ],
-    "posted_at": "2026-11-24T04:45:10+00:00",
-    "salary": "126000–210000 USD / yearly",
-    "stipend": "",
-    "employment_type": [
-      "Full-Time"
-    ],
-    "applicants": null,
-    "industry": "",
-    "function": "",
-    "experience": "fresher",
-    "score": 50,
-    "reasons": [
-      "Marketing match",
-      "Fresher-friendly signal"
-    ]
-  },
-  {
-    "type": "job",
-    "title": "General Manager Canada",
-    "company": "Bird",
-    "location": "Canada",
-    "location_key": "other",
-    "mode": "See listing",
-    "url": "https://jobicy.com/jobs/156818-general-manager-canada",
-    "source": "Jobicy",
-    "categories": [
-      "marketing",
-      "social",
-      "sales",
-      "operations",
-      "design"
-    ],
-    "posted_at": "2026-11-24T04:40:36+00:00",
-    "salary": "",
-    "stipend": "",
-    "employment_type": [
-      "Full-Time"
-    ],
-    "applicants": null,
-    "industry": "",
-    "function": "",
-    "experience": "mid",
-    "score": 50,
-    "reasons": [
-      "Marketing match"
     ]
   },
   {
@@ -5960,7 +5868,7 @@
     "location": "Netherlands,  Norway",
     "location_key": "other",
     "mode": "See listing",
-    "url": "https://jobicy.com/jobs/156789-director-sales-nordics-eastern-europe",
+    "url": "https://jobicy.com/jobs/164187-director-sales-nordics-eastern-europe-2",
     "source": "Jobicy",
     "categories": [
       "marketing",
@@ -5968,7 +5876,7 @@
       "sales",
       "design"
     ],
-    "posted_at": "2026-11-24T04:40:24+00:00",
+    "posted_at": "2026-11-24T18:53:08+00:00",
     "salary": "",
     "stipend": "",
     "employment_type": [
@@ -5986,43 +5894,43 @@
   },
   {
     "type": "job",
-    "title": "Business Development Representative, Singapore",
-    "company": "Chainguard",
-    "location": "Singapore",
-    "location_key": "other",
-    "mode": "See listing",
-    "url": "https://jobicy.com/jobs/156736-business-development-representative-singapore",
-    "source": "Jobicy",
-    "categories": [
-      "marketing",
-      "social",
-      "sales",
-      "design"
-    ],
-    "posted_at": "2026-11-24T04:30:28+00:00",
-    "salary": "",
-    "stipend": "",
-    "employment_type": [
-      "Full-Time"
-    ],
-    "applicants": null,
-    "industry": "",
-    "function": "",
-    "experience": "fresher",
-    "score": 50,
-    "reasons": [
-      "Marketing match",
-      "Fresher-friendly signal"
-    ]
-  },
-  {
-    "type": "job",
-    "title": "CEO, AI Services - US-Based",
-    "company": "Toptal",
+    "title": "Client Account Manager",
+    "company": "BlackCloak",
     "location": "USA",
     "location_key": "other",
     "mode": "See listing",
-    "url": "https://jobicy.com/jobs/153884-ceo-ai-services-us-based",
+    "url": "https://jobicy.com/jobs/164181-client-account-manager",
+    "source": "Jobicy",
+    "categories": [
+      "marketing",
+      "social",
+      "creator",
+      "sales"
+    ],
+    "posted_at": "2026-11-24T18:52:58+00:00",
+    "salary": "70000–80000 USD / yearly",
+    "stipend": "",
+    "employment_type": [
+      "Full-Time"
+    ],
+    "applicants": null,
+    "industry": "",
+    "function": "",
+    "experience": "fresher",
+    "score": 50,
+    "reasons": [
+      "Marketing match",
+      "Fresher-friendly signal"
+    ]
+  },
+  {
+    "type": "job",
+    "title": "Benefits Consultant - East Region",
+    "company": "Bennie",
+    "location": "USA",
+    "location_key": "other",
+    "mode": "See listing",
+    "url": "https://jobicy.com/jobs/164155-benefits-consultant-east-region",
     "source": "Jobicy",
     "categories": [
       "marketing",
@@ -6030,8 +5938,8 @@
       "operations",
       "design"
     ],
-    "posted_at": "2026-11-24T04:25:35+00:00",
-    "salary": "",
+    "posted_at": "2026-11-24T15:19:17+00:00",
+    "salary": "90000–125000 USD / yearly",
     "stipend": "",
     "employment_type": [
       "Full-Time"
@@ -6048,84 +5956,394 @@
   },
   {
     "type": "job",
-    "title": "Full Stack Engineer",
-    "company": "Roboflow",
+    "title": "Senior Software Engineer, Data Platform",
+    "company": "Attentive",
     "location": "USA",
     "location_key": "other",
     "mode": "See listing",
-    "url": "https://jobicy.com/jobs/151415-full-stack-engineer",
-    "source": "Jobicy",
-    "categories": [
-      "marketing",
-      "social",
-      "sales",
-      "operations"
-    ],
-    "posted_at": "2026-11-24T04:25:29+00:00",
-    "salary": "165000–195000 USD / yearly",
-    "stipend": "",
-    "employment_type": [
-      "Full-Time"
-    ],
-    "applicants": null,
-    "industry": "",
-    "function": "",
-    "experience": "fresher",
-    "score": 50,
-    "reasons": [
-      "Marketing match",
-      "Fresher-friendly signal"
-    ]
-  },
-  {
-    "type": "job",
-    "title": "Senior Backend Engineer",
-    "company": "Monzo",
-    "location": "UK",
-    "location_key": "other",
-    "mode": "See listing",
-    "url": "https://jobicy.com/jobs/156699-senior-backend-engineer-12",
-    "source": "Jobicy",
-    "categories": [
-      "marketing",
-      "social",
-      "operations",
-      "design"
-    ],
-    "posted_at": "2026-11-24T04:25:20+00:00",
-    "salary": "105000–135000 GBP / yearly",
-    "stipend": "",
-    "employment_type": [
-      "Part-Time"
-    ],
-    "applicants": null,
-    "industry": "",
-    "function": "",
-    "experience": "fresher",
-    "score": 50,
-    "reasons": [
-      "Marketing match",
-      "Fresher-friendly signal"
-    ]
-  },
-  {
-    "type": "job",
-    "title": "Marketing Manager, Brazil",
-    "company": "Ahrefs",
-    "location": "Brazil",
-    "location_key": "other",
-    "mode": "See listing",
-    "url": "https://jobicy.com/jobs/153873-marketing-manager-brazil",
+    "url": "https://jobicy.com/jobs/164153-senior-software-engineer-data-platform-3",
     "source": "Jobicy",
     "categories": [
       "marketing",
       "content",
       "social",
-      "creator",
-      "sales"
+      "operations",
+      "design"
     ],
-    "posted_at": "2026-11-24T04:20:26+00:00",
+    "posted_at": "2026-11-24T15:19:13+00:00",
+    "salary": "193461–220000 USD / yearly",
+    "stipend": "",
+    "employment_type": [
+      "Full-Time"
+    ],
+    "applicants": null,
+    "industry": "",
+    "function": "",
+    "experience": "mid",
+    "score": 50,
+    "reasons": [
+      "Marketing match"
+    ]
+  },
+  {
+    "type": "job",
+    "title": "Director, Strategic AI Partnerships",
+    "company": "Dropbox",
+    "location": "USA",
+    "location_key": "other",
+    "mode": "See listing",
+    "url": "https://jobicy.com/jobs/164149-director-strategic-ai-partnerships",
+    "source": "Jobicy",
+    "categories": [
+      "marketing",
+      "content",
+      "sales",
+      "design"
+    ],
+    "posted_at": "2026-11-24T15:19:10+00:00",
+    "salary": "202600–342700 USD / yearly",
+    "stipend": "",
+    "employment_type": [
+      "Full-Time"
+    ],
+    "applicants": null,
+    "industry": "",
+    "function": "",
+    "experience": "fresher",
+    "score": 50,
+    "reasons": [
+      "Marketing match",
+      "Fresher-friendly signal"
+    ]
+  },
+  {
+    "type": "job",
+    "title": "Senior Sales Development Representative - 4 Day Week + Remote",
+    "company": "Laminar Projects",
+    "location": "UK",
+    "location_key": "other",
+    "mode": "See listing",
+    "url": "https://jobicy.com/jobs/164137-senior-sales-development-representative-4-day-week-remote",
+    "source": "Jobicy",
+    "categories": [
+      "marketing",
+      "social",
+      "sales",
+      "operations",
+      "design"
+    ],
+    "posted_at": "2026-11-24T14:44:01+00:00",
     "salary": "",
+    "stipend": "",
+    "employment_type": [
+      "Full-Time"
+    ],
+    "applicants": null,
+    "industry": "",
+    "function": "",
+    "experience": "mid",
+    "score": 50,
+    "reasons": [
+      "Marketing match"
+    ]
+  },
+  {
+    "type": "job",
+    "title": "Revenue Enablement Manager",
+    "company": "Legion",
+    "location": "USA",
+    "location_key": "other",
+    "mode": "See listing",
+    "url": "https://jobicy.com/jobs/164131-revenue-enablement-manager",
+    "source": "Jobicy",
+    "categories": [
+      "marketing",
+      "content",
+      "sales",
+      "design"
+    ],
+    "posted_at": "2026-11-24T14:39:51+00:00",
+    "salary": "130000–150000 USD / yearly",
+    "stipend": "",
+    "employment_type": [
+      "Full-Time"
+    ],
+    "applicants": null,
+    "industry": "",
+    "function": "",
+    "experience": "fresher",
+    "score": 50,
+    "reasons": [
+      "Marketing match",
+      "Fresher-friendly signal"
+    ]
+  },
+  {
+    "type": "job",
+    "title": "Enterprise Sales Development Representative",
+    "company": "Toptal",
+    "location": "Canada",
+    "location_key": "other",
+    "mode": "See listing",
+    "url": "https://jobicy.com/jobs/164112-enterprise-sales-development-representative-2",
+    "source": "Jobicy",
+    "categories": [
+      "marketing",
+      "social",
+      "sales",
+      "design"
+    ],
+    "posted_at": "2026-11-24T13:00:15+00:00",
+    "salary": "",
+    "stipend": "",
+    "employment_type": [
+      "Full-Time"
+    ],
+    "applicants": null,
+    "industry": "",
+    "function": "",
+    "experience": "fresher",
+    "score": 50,
+    "reasons": [
+      "Marketing match",
+      "Fresher-friendly signal"
+    ]
+  },
+  {
+    "type": "job",
+    "title": "Solutions Consultant, Post Sales, Commercial",
+    "company": "Ramp",
+    "location": "Canada,  USA",
+    "location_key": "other",
+    "mode": "See listing",
+    "url": "https://jobicy.com/jobs/164106-solutions-consultant-post-sales-commercial",
+    "source": "Jobicy",
+    "categories": [
+      "marketing",
+      "sales",
+      "operations",
+      "design"
+    ],
+    "posted_at": "2026-11-24T12:58:28+00:00",
+    "salary": "132000–181000 USD / yearly",
+    "stipend": "",
+    "employment_type": [
+      "Full-Time"
+    ],
+    "applicants": null,
+    "industry": "",
+    "function": "",
+    "experience": "fresher",
+    "score": 50,
+    "reasons": [
+      "Marketing match",
+      "Fresher-friendly signal"
+    ]
+  },
+  {
+    "type": "job",
+    "title": "Lead Recruiter (Commercial & Corporate Hiring)",
+    "company": "BJAK",
+    "location": "China",
+    "location_key": "other",
+    "mode": "See listing",
+    "url": "https://jobicy.com/jobs/164096-lead-recruiter-commercial-corporate-hiring",
+    "source": "Jobicy",
+    "categories": [
+      "marketing",
+      "social",
+      "operations",
+      "design"
+    ],
+    "posted_at": "2026-11-24T11:50:02+00:00",
+    "salary": "",
+    "stipend": "",
+    "employment_type": [
+      "Full-Time"
+    ],
+    "applicants": null,
+    "industry": "",
+    "function": "",
+    "experience": "fresher",
+    "score": 50,
+    "reasons": [
+      "Marketing match",
+      "Fresher-friendly signal"
+    ]
+  },
+  {
+    "type": "job",
+    "title": "Senior Recruiter (Corporate Functions)",
+    "company": "BJAK",
+    "location": "China",
+    "location_key": "other",
+    "mode": "See listing",
+    "url": "https://jobicy.com/jobs/164095-senior-recruiter-corporate-functions",
+    "source": "Jobicy",
+    "categories": [
+      "marketing",
+      "social",
+      "operations",
+      "design"
+    ],
+    "posted_at": "2026-11-24T11:50:00+00:00",
+    "salary": "",
+    "stipend": "",
+    "employment_type": [
+      "Full-Time"
+    ],
+    "applicants": null,
+    "industry": "",
+    "function": "",
+    "experience": "fresher",
+    "score": 50,
+    "reasons": [
+      "Marketing match",
+      "Fresher-friendly signal"
+    ]
+  },
+  {
+    "type": "job",
+    "title": "Recruiter (Global Hiring)",
+    "company": "BJAK",
+    "location": "China",
+    "location_key": "other",
+    "mode": "See listing",
+    "url": "https://jobicy.com/jobs/164094-recruiter-global-hiring",
+    "source": "Jobicy",
+    "categories": [
+      "marketing",
+      "social",
+      "operations",
+      "design"
+    ],
+    "posted_at": "2026-11-24T11:49:44+00:00",
+    "salary": "",
+    "stipend": "",
+    "employment_type": [
+      "Full-Time"
+    ],
+    "applicants": null,
+    "industry": "",
+    "function": "",
+    "experience": "fresher",
+    "score": 50,
+    "reasons": [
+      "Marketing match",
+      "Fresher-friendly signal"
+    ]
+  },
+  {
+    "type": "job",
+    "title": "Talent Acquisition Partner",
+    "company": "BJAK",
+    "location": "China",
+    "location_key": "other",
+    "mode": "See listing",
+    "url": "https://jobicy.com/jobs/164093-talent-acquisition-partner-2",
+    "source": "Jobicy",
+    "categories": [
+      "marketing",
+      "social",
+      "operations",
+      "design"
+    ],
+    "posted_at": "2026-11-24T11:49:42+00:00",
+    "salary": "",
+    "stipend": "",
+    "employment_type": [
+      "Full-Time"
+    ],
+    "applicants": null,
+    "industry": "",
+    "function": "",
+    "experience": "fresher",
+    "score": 50,
+    "reasons": [
+      "Marketing match",
+      "Fresher-friendly signal"
+    ]
+  },
+  {
+    "type": "job",
+    "title": "Global Recruiter",
+    "company": "BJAK",
+    "location": "China",
+    "location_key": "other",
+    "mode": "See listing",
+    "url": "https://jobicy.com/jobs/164091-global-recruiter",
+    "source": "Jobicy",
+    "categories": [
+      "marketing",
+      "social",
+      "operations",
+      "design"
+    ],
+    "posted_at": "2026-11-24T11:49:38+00:00",
+    "salary": "",
+    "stipend": "",
+    "employment_type": [
+      "Full-Time"
+    ],
+    "applicants": null,
+    "industry": "",
+    "function": "",
+    "experience": "fresher",
+    "score": 50,
+    "reasons": [
+      "Marketing match",
+      "Fresher-friendly signal"
+    ]
+  },
+  {
+    "type": "job",
+    "title": "Director, Digital Marketing",
+    "company": "MagicSchool AI",
+    "location": "USA",
+    "location_key": "other",
+    "mode": "See listing",
+    "url": "https://jobicy.com/jobs/164083-director-digital-marketing",
+    "source": "Jobicy",
+    "categories": [
+      "marketing",
+      "social",
+      "sales",
+      "operations",
+      "design"
+    ],
+    "posted_at": "2026-11-24T11:46:21+00:00",
+    "salary": "172000–258000 USD / yearly",
+    "stipend": "",
+    "employment_type": [
+      "Full-Time"
+    ],
+    "applicants": null,
+    "industry": "",
+    "function": "",
+    "experience": "mid",
+    "score": 50,
+    "reasons": [
+      "Marketing match"
+    ]
+  },
+  {
+    "type": "job",
+    "title": "Customer Experience Operations Manager",
+    "company": "MagicSchool AI",
+    "location": "USA",
+    "location_key": "other",
+    "mode": "See listing",
+    "url": "https://jobicy.com/jobs/164076-customer-experience-operations-manager",
+    "source": "Jobicy",
+    "categories": [
+      "marketing",
+      "social",
+      "sales",
+      "operations",
+      "design"
+    ],
+    "posted_at": "2026-11-24T11:46:12+00:00",
+    "salary": "90000–120000 USD / yearly",
     "stipend": "",
     "employment_type": [
       "Full-Time"
@@ -6271,64 +6489,6 @@
       "design"
     ],
     "posted_at": "2026-11-20T10:25:06+00:00",
-    "salary": "",
-    "stipend": "",
-    "employment_type": "Full Time",
-    "applicants": null,
-    "industry": "",
-    "function": "",
-    "experience": "junior",
-    "score": 48,
-    "reasons": [
-      "Marketing match",
-      "Early-career signal",
-      "India signal"
-    ]
-  },
-  {
-    "type": "job",
-    "title": "Technical Program Manager",
-    "company": "Ensemble Health Partners",
-    "location": "India",
-    "location_key": "india",
-    "mode": "Remote",
-    "url": "https://himalayas.app/companies/ensemble-health-partners/jobs/technical-program-manager?utm_source=api",
-    "source": "Himalayas",
-    "categories": [
-      "marketing",
-      "operations",
-      "design"
-    ],
-    "posted_at": "2026-11-19T16:40:33+00:00",
-    "salary": "",
-    "stipend": "",
-    "employment_type": "Full Time",
-    "applicants": null,
-    "industry": "",
-    "function": "",
-    "experience": "junior",
-    "score": 48,
-    "reasons": [
-      "Marketing match",
-      "Early-career signal",
-      "India signal"
-    ]
-  },
-  {
-    "type": "job",
-    "title": "AMS Verification Engineer (Senior/Staff/Senior Staff/Principal)",
-    "company": "Analogue Insight",
-    "location": "India",
-    "location_key": "india",
-    "mode": "Remote",
-    "url": "https://himalayas.app/companies/analogue-insight/jobs/ams-verification-engineer-senior-staff-senior-staff-principal?utm_source=api",
-    "source": "Himalayas",
-    "categories": [
-      "marketing",
-      "social",
-      "design"
-    ],
-    "posted_at": "2026-11-19T16:40:17+00:00",
     "salary": "",
     "stipend": "",
     "employment_type": "Full Time",
@@ -6685,34 +6845,6 @@
   },
   {
     "type": "job",
-    "title": "Oracle Payroll Delivery Specialist",
-    "company": "Strada",
-    "location": "India",
-    "location_key": "india",
-    "mode": "Remote",
-    "url": "https://himalayas.app/companies/strada/jobs/oracle-payroll-delivery-specialist?utm_source=api",
-    "source": "Himalayas",
-    "categories": [
-      "marketing",
-      "design"
-    ],
-    "posted_at": "2026-11-19T16:39:42+00:00",
-    "salary": "",
-    "stipend": "",
-    "employment_type": "Full Time",
-    "applicants": null,
-    "industry": "",
-    "function": "",
-    "experience": "fresher",
-    "score": 46,
-    "reasons": [
-      "Marketing match",
-      "Fresher-friendly signal",
-      "India signal"
-    ]
-  },
-  {
-    "type": "job",
     "title": "Fast Track Operations Specialist 2",
     "company": "Twilio",
     "location": "India",
@@ -6769,170 +6901,19 @@
   },
   {
     "type": "job",
-    "title": "Scout Junior Quality Coordinator - Portuguese (Brazil)",
-    "company": "Welo Global",
-    "location": "Brazil",
+    "title": "Regulatory and Start Up Specialist",
+    "company": "Precision Medicine Group",
+    "location": "UK",
     "location_key": "other",
     "mode": "See listing",
-    "url": "https://jobicy.com/jobs/151333-scout-junior-quality-coordinator-portuguese-brazil",
-    "source": "Jobicy",
-    "categories": [
-      "content",
-      "social",
-      "design"
-    ],
-    "posted_at": "2026-11-24T04:50:12+00:00",
-    "salary": "",
-    "stipend": "",
-    "employment_type": [
-      "Full-Time"
-    ],
-    "applicants": null,
-    "industry": "",
-    "function": "",
-    "experience": "fresher",
-    "score": 44,
-    "reasons": [
-      "Content match",
-      "Fresher-friendly signal"
-    ]
-  },
-  {
-    "type": "job",
-    "title": "Enterprise Account Executive",
-    "company": "Axiom",
-    "location": "USA",
-    "location_key": "other",
-    "mode": "See listing",
-    "url": "https://jobicy.com/jobs/156826-enterprise-account-executive-25",
+    "url": "https://jobicy.com/jobs/164164-regulatory-and-start-up-specialist-3",
     "source": "Jobicy",
     "categories": [
       "marketing",
-      "sales",
-      "design"
-    ],
-    "posted_at": "2026-11-24T04:45:25+00:00",
-    "salary": "13000–80000 USD / yearly",
-    "stipend": "",
-    "employment_type": [
-      "Full-Time"
-    ],
-    "applicants": null,
-    "industry": "",
-    "function": "",
-    "experience": "fresher",
-    "score": 44,
-    "reasons": [
-      "Marketing match",
-      "Fresher-friendly signal"
-    ]
-  },
-  {
-    "type": "job",
-    "title": "Senior Account Executive",
-    "company": "Emburse",
-    "location": "Italy",
-    "location_key": "other",
-    "mode": "See listing",
-    "url": "https://jobicy.com/jobs/156703-senior-account-executive-8",
-    "source": "Jobicy",
-    "categories": [
-      "marketing",
-      "sales",
-      "operations"
-    ],
-    "posted_at": "2026-11-24T04:30:46+00:00",
-    "salary": "",
-    "stipend": "",
-    "employment_type": [
-      "Full-Time"
-    ],
-    "applicants": null,
-    "industry": "",
-    "function": "",
-    "experience": "fresher",
-    "score": 44,
-    "reasons": [
-      "Marketing match",
-      "Fresher-friendly signal"
-    ]
-  },
-  {
-    "type": "job",
-    "title": "Enterprise Account Executive - South Korea",
-    "company": "GitLab",
-    "location": "South Korea",
-    "location_key": "other",
-    "mode": "See listing",
-    "url": "https://jobicy.com/jobs/156751-enterprise-account-executive-south-korea",
-    "source": "Jobicy",
-    "categories": [
-      "marketing",
-      "sales",
-      "design"
-    ],
-    "posted_at": "2026-11-24T04:30:38+00:00",
-    "salary": "",
-    "stipend": "",
-    "employment_type": [
-      "Full-Time"
-    ],
-    "applicants": null,
-    "industry": "",
-    "function": "",
-    "experience": "fresher",
-    "score": 44,
-    "reasons": [
-      "Marketing match",
-      "Fresher-friendly signal"
-    ]
-  },
-  {
-    "type": "job",
-    "title": "Field Account Executive - München (w/m/d)",
-    "company": "Lightspeed Commerce",
-    "location": "Germany",
-    "location_key": "other",
-    "mode": "See listing",
-    "url": "https://jobicy.com/jobs/153892-field-account-executive-munchen-w-m-d",
-    "source": "Jobicy",
-    "categories": [
-      "marketing",
-      "social",
-      "sales",
-      "operations"
-    ],
-    "posted_at": "2026-11-24T04:25:31+00:00",
-    "salary": "",
-    "stipend": "",
-    "employment_type": [
-      "Full-Time"
-    ],
-    "applicants": null,
-    "industry": "",
-    "function": "",
-    "experience": "mid",
-    "score": 44,
-    "reasons": [
-      "Marketing match"
-    ]
-  },
-  {
-    "type": "job",
-    "title": "Account Executive EMEA",
-    "company": "Litmus",
-    "location": "Italy,  Portugal,  Spain",
-    "location_key": "other",
-    "mode": "See listing",
-    "url": "https://jobicy.com/jobs/156693-account-executive-emea-4",
-    "source": "Jobicy",
-    "categories": [
-      "marketing",
-      "sales",
       "operations",
       "design"
     ],
-    "posted_at": "2026-11-24T04:25:16+00:00",
+    "posted_at": "2026-11-24T15:23:30+00:00",
     "salary": "",
     "stipend": "",
     "employment_type": [
@@ -6941,29 +6922,30 @@
     "applicants": null,
     "industry": "",
     "function": "",
-    "experience": "mid",
+    "experience": "fresher",
     "score": 44,
     "reasons": [
-      "Marketing match"
+      "Marketing match",
+      "Fresher-friendly signal"
     ]
   },
   {
     "type": "job",
-    "title": "Account Executive",
-    "company": "NetBox Labs",
-    "location": "France",
+    "title": "Sr. Growth Account Executive",
+    "company": "Skillsoft",
+    "location": "USA",
     "location_key": "other",
     "mode": "See listing",
-    "url": "https://jobicy.com/jobs/153915-account-executive-23",
+    "url": "https://jobicy.com/jobs/164114-sr-growth-account-executive",
     "source": "Jobicy",
     "categories": [
       "marketing",
+      "content",
       "social",
-      "sales",
-      "design"
+      "sales"
     ],
-    "posted_at": "2026-11-24T04:25:10+00:00",
-    "salary": "70000–85000 EUR / yearly",
+    "posted_at": "2026-11-24T13:00:18+00:00",
+    "salary": "125000–145000 USD / yearly",
     "stipend": "",
     "employment_type": [
       "Full-Time"
@@ -6979,20 +6961,20 @@
   },
   {
     "type": "job",
-    "title": "Seasonal Customer Love Associate - (Remote - TX based)",
-    "company": "Reformation",
-    "location": "USA",
+    "title": "Account Executive - Japan",
+    "company": "Nebius",
+    "location": "Japan",
     "location_key": "other",
     "mode": "See listing",
-    "url": "https://jobicy.com/jobs/143990-seasonal-customer-love-associate-remote-tx-based-2",
+    "url": "https://jobicy.com/jobs/164064-account-executive-japan-4",
     "source": "Jobicy",
     "categories": [
       "marketing",
-      "social",
+      "sales",
       "operations"
     ],
-    "posted_at": "2026-11-24T04:20:30+00:00",
-    "salary": "34000–36000 USD / yearly",
+    "posted_at": "2026-11-24T11:25:21+00:00",
+    "salary": "",
     "stipend": "",
     "employment_type": [
       "Full-Time"
@@ -7792,31 +7774,170 @@
   },
   {
     "type": "job",
-    "title": "IT Manager",
-    "company": "1mind",
-    "location": "United States",
-    "location_key": "remote",
+    "title": "Senior Software Engineer",
+    "company": "thinkbridge",
+    "location": "India",
+    "location_key": "india",
     "mode": "Remote",
-    "url": "https://remoteOK.com/remote-jobs/remote-it-manager-1mind-1137864",
-    "source": "Remote OK",
+    "url": "https://himalayas.app/companies/thinkbridge/jobs/senior-software-engineer?utm_source=api",
+    "source": "Himalayas",
     "categories": [
-      "marketing",
       "operations",
       "design"
     ],
-    "posted_at": "2026-11-20T00:00:41+00:00",
+    "posted_at": "2026-11-24T21:50:05+00:00",
     "salary": "",
     "stipend": "",
-    "employment_type": "",
+    "employment_type": "Full Time",
     "applicants": null,
     "industry": "",
     "function": "",
     "experience": "fresher",
-    "score": 43,
+    "score": 42,
+    "reasons": [
+      "Operations match",
+      "Fresher-friendly signal",
+      "India signal"
+    ]
+  },
+  {
+    "type": "job",
+    "title": "Senior Mobile Product Designer",
+    "company": "ART2HIRE",
+    "location": "India",
+    "location_key": "india",
+    "mode": "Remote",
+    "url": "https://himalayas.app/companies/art2hire/jobs/senior-mobile-product-designer?utm_source=api",
+    "source": "Himalayas",
+    "categories": [
+      "marketing",
+      "design"
+    ],
+    "posted_at": "2026-11-24T20:03:26+00:00",
+    "salary": "",
+    "stipend": "",
+    "employment_type": "Full Time",
+    "applicants": null,
+    "industry": "",
+    "function": "",
+    "experience": "fresher",
+    "score": 42,
     "reasons": [
       "Marketing match",
       "Fresher-friendly signal",
-      "Remote"
+      "India signal"
+    ]
+  },
+  {
+    "type": "job",
+    "title": "Systems Engr II",
+    "company": "Honeywell International Inc.",
+    "location": "India",
+    "location_key": "india",
+    "mode": "Remote",
+    "url": "https://himalayas.app/companies/honeywell-international-inc/jobs/systems-engr-ii-2057803332?utm_source=api",
+    "source": "Himalayas",
+    "categories": [
+      "marketing",
+      "operations"
+    ],
+    "posted_at": "2026-11-24T19:58:42+00:00",
+    "salary": "",
+    "stipend": "",
+    "employment_type": "Full Time",
+    "applicants": null,
+    "industry": "",
+    "function": "",
+    "experience": "fresher",
+    "score": 42,
+    "reasons": [
+      "Marketing match",
+      "Fresher-friendly signal",
+      "India signal"
+    ]
+  },
+  {
+    "type": "job",
+    "title": "Central Report Reviewer",
+    "company": "Syneos Health India Private Limited",
+    "location": "India",
+    "location_key": "india",
+    "mode": "Remote",
+    "url": "https://himalayas.app/companies/syneos-health-india-private-limited/jobs/central-report-reviewer-3154591744?utm_source=api",
+    "source": "Himalayas",
+    "categories": [
+      "content",
+      "operations"
+    ],
+    "posted_at": "2026-11-24T18:45:28+00:00",
+    "salary": "",
+    "stipend": "",
+    "employment_type": "Full Time",
+    "applicants": null,
+    "industry": "",
+    "function": "",
+    "experience": "fresher",
+    "score": 42,
+    "reasons": [
+      "Content match",
+      "Fresher-friendly signal",
+      "India signal"
+    ]
+  },
+  {
+    "type": "job",
+    "title": "Intern",
+    "company": "Daniel J Edelman Holdings",
+    "location": "India",
+    "location_key": "india",
+    "mode": "Remote",
+    "url": "https://himalayas.app/companies/daniel-j-edelman-holdings/jobs/intern?utm_source=api",
+    "source": "Himalayas",
+    "categories": [
+      "marketing",
+      "operations"
+    ],
+    "posted_at": "2026-11-24T18:24:40+00:00",
+    "salary": "",
+    "stipend": "",
+    "employment_type": "Intern",
+    "applicants": null,
+    "industry": "",
+    "function": "",
+    "experience": "fresher",
+    "score": 42,
+    "reasons": [
+      "Marketing match",
+      "Fresher-friendly signal",
+      "India signal"
+    ]
+  },
+  {
+    "type": "job",
+    "title": "Senior Cybersecurity Auditor",
+    "company": "Unisys",
+    "location": "India",
+    "location_key": "india",
+    "mode": "Remote",
+    "url": "https://himalayas.app/companies/unisys/jobs/senior-cybersecurity-auditor?utm_source=api",
+    "source": "Himalayas",
+    "categories": [
+      "operations",
+      "design"
+    ],
+    "posted_at": "2026-11-24T15:19:10+00:00",
+    "salary": "",
+    "stipend": "",
+    "employment_type": "Full Time",
+    "applicants": null,
+    "industry": "",
+    "function": "",
+    "experience": "fresher",
+    "score": 42,
+    "reasons": [
+      "Operations match",
+      "Fresher-friendly signal",
+      "India signal"
     ]
   },
   {
@@ -9473,62 +9594,6 @@
   },
   {
     "type": "job",
-    "title": "Salesforce Support Engineer (BAU)",
-    "company": "99brightminds",
-    "location": "India",
-    "location_key": "india",
-    "mode": "Remote",
-    "url": "https://himalayas.app/companies/99brightminds/jobs/salesforce-support-engineer-bau?utm_source=api",
-    "source": "Himalayas",
-    "categories": [
-      "marketing",
-      "sales",
-      "operations"
-    ],
-    "posted_at": "2026-11-19T16:40:33+00:00",
-    "salary": "",
-    "stipend": "",
-    "employment_type": "Full Time",
-    "applicants": null,
-    "industry": "",
-    "function": "",
-    "experience": "mid",
-    "score": 42,
-    "reasons": [
-      "Marketing match",
-      "India signal"
-    ]
-  },
-  {
-    "type": "job",
-    "title": "Senior Salesforce Developer",
-    "company": "99brightminds",
-    "location": "India",
-    "location_key": "india",
-    "mode": "Remote",
-    "url": "https://himalayas.app/companies/99brightminds/jobs/senior-salesforce-developer?utm_source=api",
-    "source": "Himalayas",
-    "categories": [
-      "marketing",
-      "sales",
-      "design"
-    ],
-    "posted_at": "2026-11-19T16:40:17+00:00",
-    "salary": "",
-    "stipend": "",
-    "employment_type": "Full Time",
-    "applicants": null,
-    "industry": "",
-    "function": "",
-    "experience": "mid",
-    "score": 42,
-    "reasons": [
-      "Marketing match",
-      "India signal"
-    ]
-  },
-  {
-    "type": "job",
     "title": "Audio Description Script Writer - Hindi",
     "company": "Keywords Studios Plc",
     "location": "India",
@@ -9607,34 +9672,6 @@
     "score": 42,
     "reasons": [
       "Content match",
-      "Fresher-friendly signal",
-      "India signal"
-    ]
-  },
-  {
-    "type": "job",
-    "title": "Site Reliability Engineer (SRE)",
-    "company": "group.one",
-    "location": "India",
-    "location_key": "india",
-    "mode": "Remote",
-    "url": "https://himalayas.app/companies/group-one/jobs/site-reliability-engineer-sre?utm_source=api",
-    "source": "Himalayas",
-    "categories": [
-      "marketing",
-      "operations"
-    ],
-    "posted_at": "2026-11-19T16:39:52+00:00",
-    "salary": "",
-    "stipend": "",
-    "employment_type": "Full Time",
-    "applicants": null,
-    "industry": "",
-    "function": "",
-    "experience": "fresher",
-    "score": 42,
-    "reasons": [
-      "Marketing match",
       "Fresher-friendly signal",
       "India signal"
     ]
@@ -9748,34 +9785,6 @@
     "reasons": [
       "Sales match",
       "Fresher-friendly signal",
-      "India signal"
-    ]
-  },
-  {
-    "type": "job",
-    "title": "Salesforce Product Owner",
-    "company": "SoftClouds, LLC.",
-    "location": "India",
-    "location_key": "india",
-    "mode": "Remote",
-    "url": "https://himalayas.app/companies/softclouds-llc/jobs/salesforce-product-owner?utm_source=api",
-    "source": "Himalayas",
-    "categories": [
-      "marketing",
-      "sales",
-      "design"
-    ],
-    "posted_at": "2026-11-19T16:39:28+00:00",
-    "salary": "",
-    "stipend": "",
-    "employment_type": "Full Time",
-    "applicants": null,
-    "industry": "",
-    "function": "",
-    "experience": "mid",
-    "score": 42,
-    "reasons": [
-      "Marketing match",
       "India signal"
     ]
   },
@@ -10005,40 +10014,12 @@
   },
   {
     "type": "job",
-    "title": "Full Stack Software Engineer - AI Finance Agent",
-    "company": "Bjak",
-    "location": "India",
-    "location_key": "india",
-    "mode": "Remote",
-    "url": "https://himalayas.app/companies/bjak/jobs/full-stack-software-engineer-ai-finance-agent-1668704504?utm_source=api",
-    "source": "Himalayas",
-    "categories": [
-      "operations",
-      "design"
-    ],
-    "posted_at": "2026-11-18T04:38:03+00:00",
-    "salary": "",
-    "stipend": "",
-    "employment_type": "Full Time",
-    "applicants": null,
-    "industry": "",
-    "function": "",
-    "experience": "fresher",
-    "score": 42,
-    "reasons": [
-      "Operations match",
-      "Fresher-friendly signal",
-      "India signal"
-    ]
-  },
-  {
-    "type": "job",
-    "title": "Revenue Operations Manager",
-    "company": "PolicyMe",
-    "location": "Canada",
+    "title": "Senior Architect, Platform Security",
+    "company": "AppOmni",
+    "location": "USA",
     "location_key": "other",
     "mode": "See listing",
-    "url": "https://jobicy.com/jobs/156828-revenue-operations-manager",
+    "url": "https://jobicy.com/jobs/164189-senior-architect-platform-security",
     "source": "Jobicy",
     "categories": [
       "marketing",
@@ -10046,8 +10027,8 @@
       "operations",
       "design"
     ],
-    "posted_at": "2026-11-24T04:45:40+00:00",
-    "salary": "",
+    "posted_at": "2026-11-24T18:53:11+00:00",
+    "salary": "200000–300000 USD / yearly",
     "stipend": "",
     "employment_type": [
       "Full-Time"
@@ -10063,49 +10044,79 @@
   },
   {
     "type": "job",
-    "title": "Senior Software Engineer (Fundraising) — Remote",
-    "company": "GiveDirectly",
-    "location": "Canada,  UK,  USA",
+    "title": "Client Success Manager",
+    "company": "SeatGeek",
+    "location": "USA",
     "location_key": "other",
     "mode": "See listing",
-    "url": "https://jobicy.com/jobs/156858-senior-software-engineer-fundraising-remote",
-    "source": "Jobicy",
-    "categories": [
-      "marketing",
-      "sales",
-      "design"
-    ],
-    "posted_at": "2026-11-24T04:45:36+00:00",
-    "salary": "181130–181130 USD / yearly",
-    "stipend": "",
-    "employment_type": [
-      "Full-Time"
-    ],
-    "applicants": null,
-    "industry": "",
-    "function": "",
-    "experience": "fresher",
-    "score": 40,
-    "reasons": [
-      "Marketing match",
-      "Fresher-friendly signal"
-    ]
-  },
-  {
-    "type": "job",
-    "title": "Director, Supplier Relations APAC",
-    "company": "Twilio",
-    "location": "Australia,  Japan",
-    "location_key": "other",
-    "mode": "See listing",
-    "url": "https://jobicy.com/jobs/156837-director-supplier-relations-apac",
+    "url": "https://jobicy.com/jobs/164186-client-success-manager-6",
     "source": "Jobicy",
     "categories": [
       "marketing",
       "sales",
       "operations"
     ],
-    "posted_at": "2026-11-24T04:45:29+00:00",
+    "posted_at": "2026-11-24T18:53:06+00:00",
+    "salary": "110000–130000 USD / yearly",
+    "stipend": "",
+    "employment_type": [
+      "Full-Time"
+    ],
+    "applicants": null,
+    "industry": "",
+    "function": "",
+    "experience": "fresher",
+    "score": 40,
+    "reasons": [
+      "Marketing match",
+      "Fresher-friendly signal"
+    ]
+  },
+  {
+    "type": "job",
+    "title": "Billing Engineer",
+    "company": "Tailscale",
+    "location": "USA",
+    "location_key": "other",
+    "mode": "See listing",
+    "url": "https://jobicy.com/jobs/164183-billing-engineer-2",
+    "source": "Jobicy",
+    "categories": [
+      "marketing",
+      "sales",
+      "design"
+    ],
+    "posted_at": "2026-11-24T18:53:02+00:00",
+    "salary": "143000–179000 USD / yearly",
+    "stipend": "",
+    "employment_type": [
+      "Full-Time"
+    ],
+    "applicants": null,
+    "industry": "",
+    "function": "",
+    "experience": "fresher",
+    "score": 40,
+    "reasons": [
+      "Marketing match",
+      "Fresher-friendly signal"
+    ]
+  },
+  {
+    "type": "job",
+    "title": "OEM Alliance Director",
+    "company": "Canonical",
+    "location": "LATAM,  Canada,  USA",
+    "location_key": "other",
+    "mode": "See listing",
+    "url": "https://jobicy.com/jobs/164166-oem-alliance-director",
+    "source": "Jobicy",
+    "categories": [
+      "marketing",
+      "sales",
+      "design"
+    ],
+    "posted_at": "2026-11-24T15:24:59+00:00",
     "salary": "",
     "stipend": "",
     "employment_type": [
@@ -10123,559 +10134,19 @@
   },
   {
     "type": "job",
-    "title": "Director, Workforce Management",
-    "company": "Clover Health",
-    "location": "USA",
-    "location_key": "other",
-    "mode": "See listing",
-    "url": "https://jobicy.com/jobs/156805-director-workforce-management",
-    "source": "Jobicy",
-    "categories": [
-      "marketing",
-      "content",
-      "operations"
-    ],
-    "posted_at": "2026-11-24T04:45:22+00:00",
-    "salary": "161500–210000 USD / yearly",
-    "stipend": "",
-    "employment_type": [
-      "Full-Time"
-    ],
-    "applicants": null,
-    "industry": "",
-    "function": "",
-    "experience": "fresher",
-    "score": 40,
-    "reasons": [
-      "Marketing match",
-      "Fresher-friendly signal"
-    ]
-  },
-  {
-    "type": "job",
-    "title": "Design Engineer - Canada",
-    "company": "Ashby",
-    "location": "Canada",
-    "location_key": "other",
-    "mode": "See listing",
-    "url": "https://jobicy.com/jobs/156861-design-engineer-canada",
-    "source": "Jobicy",
-    "categories": [
-      "marketing",
-      "social",
-      "design"
-    ],
-    "posted_at": "2026-11-24T04:45:14+00:00",
-    "salary": "210000–248000 CAD / yearly",
-    "stipend": "",
-    "employment_type": [
-      "Full-Time"
-    ],
-    "applicants": null,
-    "industry": "",
-    "function": "",
-    "experience": "fresher",
-    "score": 40,
-    "reasons": [
-      "Marketing match",
-      "Fresher-friendly signal"
-    ]
-  },
-  {
-    "type": "job",
-    "title": "Design Engineer - Americas",
-    "company": "Ashby",
-    "location": "USA",
-    "location_key": "other",
-    "mode": "See listing",
-    "url": "https://jobicy.com/jobs/156857-design-engineer-americas",
-    "source": "Jobicy",
-    "categories": [
-      "marketing",
-      "social",
-      "design"
-    ],
-    "posted_at": "2026-11-24T04:45:12+00:00",
-    "salary": "210000–250000 USD / yearly",
-    "stipend": "",
-    "employment_type": [
-      "Full-Time"
-    ],
-    "applicants": null,
-    "industry": "",
-    "function": "",
-    "experience": "fresher",
-    "score": 40,
-    "reasons": [
-      "Marketing match",
-      "Fresher-friendly signal"
-    ]
-  },
-  {
-    "type": "job",
-    "title": "Product Marketing Manager",
-    "company": "MaintainX",
-    "location": "USA",
-    "location_key": "other",
-    "mode": "See listing",
-    "url": "https://jobicy.com/jobs/156824-product-marketing-manager-4",
-    "source": "Jobicy",
-    "categories": [
-      "marketing",
-      "sales",
-      "operations",
-      "design"
-    ],
-    "posted_at": "2026-11-24T04:45:08+00:00",
-    "salary": "101000–148500 USD / yearly",
-    "stipend": "",
-    "employment_type": [
-      "Full-Time"
-    ],
-    "applicants": null,
-    "industry": "",
-    "function": "",
-    "experience": "mid",
-    "score": 40,
-    "reasons": [
-      "Marketing match"
-    ]
-  },
-  {
-    "type": "job",
-    "title": "Senior Corporate Counsel – Legal Transactions",
-    "company": "Five9",
-    "location": "USA",
-    "location_key": "other",
-    "mode": "See listing",
-    "url": "https://jobicy.com/jobs/156764-senior-corporate-counsel-legal-transactions",
-    "source": "Jobicy",
-    "categories": [
-      "marketing",
-      "sales",
-      "operations"
-    ],
-    "posted_at": "2026-11-24T04:40:41+00:00",
-    "salary": "119000–221000 USD / yearly",
-    "stipend": "",
-    "employment_type": [
-      "Full-Time"
-    ],
-    "applicants": null,
-    "industry": "",
-    "function": "",
-    "experience": "fresher",
-    "score": 40,
-    "reasons": [
-      "Marketing match",
-      "Fresher-friendly signal"
-    ]
-  },
-  {
-    "type": "job",
-    "title": "Senior Product Manager - GenAI",
-    "company": "Envato",
-    "location": "Australia,  New Zealand",
-    "location_key": "other",
-    "mode": "See listing",
-    "url": "https://jobicy.com/jobs/156821-senior-product-manager-genai",
-    "source": "Jobicy",
-    "categories": [
-      "content",
-      "creator",
-      "operations",
-      "design"
-    ],
-    "posted_at": "2026-11-24T04:40:37+00:00",
-    "salary": "",
-    "stipend": "",
-    "employment_type": [
-      "Full-Time"
-    ],
-    "applicants": null,
-    "industry": "",
-    "function": "",
-    "experience": "mid",
-    "score": 40,
-    "reasons": [
-      "Content match"
-    ]
-  },
-  {
-    "type": "job",
-    "title": "Principal Software Engineer, SIEM (Ruby/Rails)",
-    "company": "Huntress",
-    "location": "USA",
-    "location_key": "other",
-    "mode": "See listing",
-    "url": "https://jobicy.com/jobs/156769-principal-software-engineer-siem-ruby-rails",
-    "source": "Jobicy",
-    "categories": [
-      "marketing",
-      "operations",
-      "design"
-    ],
-    "posted_at": "2026-11-24T04:40:12+00:00",
-    "salary": "215000–240000 USD / yearly",
-    "stipend": "",
-    "employment_type": [
-      "Full-Time"
-    ],
-    "applicants": null,
-    "industry": "",
-    "function": "",
-    "experience": "fresher",
-    "score": 40,
-    "reasons": [
-      "Marketing match",
-      "Fresher-friendly signal"
-    ]
-  },
-  {
-    "type": "job",
-    "title": "HR & Payroll Consultant",
-    "company": "livingHR",
-    "location": "USA",
-    "location_key": "other",
-    "mode": "See listing",
-    "url": "https://jobicy.com/jobs/156756-hr-payroll-consultant",
-    "source": "Jobicy",
-    "categories": [
-      "social",
-      "operations",
-      "design"
-    ],
-    "posted_at": "2026-11-24T04:40:07+00:00",
-    "salary": "30–50 USD / hourly",
-    "stipend": "",
-    "employment_type": [
-      "Contract"
-    ],
-    "applicants": null,
-    "industry": "",
-    "function": "",
-    "experience": "fresher",
-    "score": 40,
-    "reasons": [
-      "Social match",
-      "Fresher-friendly signal"
-    ]
-  },
-  {
-    "type": "job",
-    "title": "Manager, Client Experience (HR Technology, HRIS/HCM)",
-    "company": "livingHR",
-    "location": "USA",
-    "location_key": "other",
-    "mode": "See listing",
-    "url": "https://jobicy.com/jobs/156753-manager-client-experience-hr-technology-hris-hcm",
-    "source": "Jobicy",
-    "categories": [
-      "social",
-      "operations",
-      "design"
-    ],
-    "posted_at": "2026-11-24T04:40:05+00:00",
-    "salary": "71000–115000 USD / yearly",
-    "stipend": "",
-    "employment_type": [
-      "Contract"
-    ],
-    "applicants": null,
-    "industry": "",
-    "function": "",
-    "experience": "fresher",
-    "score": 40,
-    "reasons": [
-      "Social match",
-      "Fresher-friendly signal"
-    ]
-  },
-  {
-    "type": "job",
-    "title": "Licensing Operations Manager (Pooling Only)",
-    "company": "Fresh Prints",
-    "location": "Philippines",
-    "location_key": "other",
-    "mode": "See listing",
-    "url": "https://jobicy.com/jobs/156761-licensing-operations-manager-pooling-only",
-    "source": "Jobicy",
-    "categories": [
-      "marketing",
-      "sales",
-      "operations",
-      "design"
-    ],
-    "posted_at": "2026-11-24T04:30:54+00:00",
-    "salary": "",
-    "stipend": "",
-    "employment_type": [
-      "Full-Time"
-    ],
-    "applicants": null,
-    "industry": "",
-    "function": "",
-    "experience": "mid",
-    "score": 40,
-    "reasons": [
-      "Marketing match"
-    ]
-  },
-  {
-    "type": "job",
-    "title": "Threat Researcher",
-    "company": "Socket",
-    "location": "USA",
-    "location_key": "other",
-    "mode": "See listing",
-    "url": "https://jobicy.com/jobs/156770-threat-researcher",
-    "source": "Jobicy",
-    "categories": [
-      "social",
-      "operations",
-      "design"
-    ],
-    "posted_at": "2026-11-24T04:30:45+00:00",
-    "salary": "126000–170000 USD / yearly",
-    "stipend": "",
-    "employment_type": [
-      "Full-Time"
-    ],
-    "applicants": null,
-    "industry": "",
-    "function": "",
-    "experience": "fresher",
-    "score": 40,
-    "reasons": [
-      "Social match",
-      "Fresher-friendly signal"
-    ]
-  },
-  {
-    "type": "job",
-    "title": "Staff Data Engineer - US Remote",
-    "company": "PerfectServe",
-    "location": "USA",
-    "location_key": "other",
-    "mode": "See listing",
-    "url": "https://jobicy.com/jobs/156760-staff-data-engineer-us-remote",
-    "source": "Jobicy",
-    "categories": [
-      "marketing",
-      "operations",
-      "design"
-    ],
-    "posted_at": "2026-11-24T04:30:43+00:00",
-    "salary": "170000–200000 USD / yearly",
-    "stipend": "",
-    "employment_type": [
-      "Full-Time"
-    ],
-    "applicants": null,
-    "industry": "",
-    "function": "",
-    "experience": "fresher",
-    "score": 40,
-    "reasons": [
-      "Marketing match",
-      "Fresher-friendly signal"
-    ]
-  },
-  {
-    "type": "job",
-    "title": "Customer Success Advisor - US Remote",
-    "company": "PerfectServe",
-    "location": "USA",
-    "location_key": "other",
-    "mode": "See listing",
-    "url": "https://jobicy.com/jobs/156754-customer-success-advisor-us-remote-2",
-    "source": "Jobicy",
-    "categories": [
-      "marketing",
-      "sales",
-      "operations"
-    ],
-    "posted_at": "2026-11-24T04:30:39+00:00",
-    "salary": "70000–70000 USD / yearly",
-    "stipend": "",
-    "employment_type": [
-      "Full-Time"
-    ],
-    "applicants": null,
-    "industry": "",
-    "function": "",
-    "experience": "fresher",
-    "score": 40,
-    "reasons": [
-      "Marketing match",
-      "Fresher-friendly signal"
-    ]
-  },
-  {
-    "type": "job",
-    "title": "Contract Talent Acquisition Sourcer, Sales (APJ)",
-    "company": "GitLab",
-    "location": "Australia,  Singapore",
-    "location_key": "other",
-    "mode": "See listing",
-    "url": "https://jobicy.com/jobs/156747-contract-talent-acquisition-sourcer-sales-apj",
-    "source": "Jobicy",
-    "categories": [
-      "marketing",
-      "social",
-      "sales",
-      "design"
-    ],
-    "posted_at": "2026-11-24T04:30:34+00:00",
-    "salary": "",
-    "stipend": "",
-    "employment_type": [
-      "Contract"
-    ],
-    "applicants": null,
-    "industry": "",
-    "function": "",
-    "experience": "mid",
-    "score": 40,
-    "reasons": [
-      "Marketing match"
-    ]
-  },
-  {
-    "type": "job",
-    "title": "Senior Product Manager, Ad Monetization",
-    "company": "RevenueCat",
-    "location": "APAC,  EMEA,  LATAM,  Canada,  USA",
-    "location_key": "other",
-    "mode": "See listing",
-    "url": "https://jobicy.com/jobs/156738-senior-product-manager-ad-monetization",
-    "source": "Jobicy",
-    "categories": [
-      "marketing",
-      "operations",
-      "design"
-    ],
-    "posted_at": "2026-11-24T04:30:30+00:00",
-    "salary": "230000–230000 USD / yearly",
-    "stipend": "",
-    "employment_type": [
-      "Full-Time"
-    ],
-    "applicants": null,
-    "industry": "",
-    "function": "",
-    "experience": "fresher",
-    "score": 40,
-    "reasons": [
-      "Marketing match",
-      "Fresher-friendly signal"
-    ]
-  },
-  {
-    "type": "job",
-    "title": "Senior Manager, Pricing",
-    "company": "Tines",
-    "location": "Ireland",
-    "location_key": "other",
-    "mode": "See listing",
-    "url": "https://jobicy.com/jobs/156730-senior-manager-pricing",
-    "source": "Jobicy",
-    "categories": [
-      "marketing",
-      "sales",
-      "design"
-    ],
-    "posted_at": "2026-11-24T04:30:25+00:00",
-    "salary": "",
-    "stipend": "",
-    "employment_type": [
-      "Full-Time"
-    ],
-    "applicants": null,
-    "industry": "",
-    "function": "",
-    "experience": "fresher",
-    "score": 40,
-    "reasons": [
-      "Marketing match",
-      "Fresher-friendly signal"
-    ]
-  },
-  {
-    "type": "job",
-    "title": "Manager, Sales Compensation",
-    "company": "Tines",
-    "location": "Ireland",
-    "location_key": "other",
-    "mode": "See listing",
-    "url": "https://jobicy.com/jobs/156723-manager-sales-compensation",
-    "source": "Jobicy",
-    "categories": [
-      "marketing",
-      "sales",
-      "operations",
-      "design"
-    ],
-    "posted_at": "2026-11-24T04:30:18+00:00",
-    "salary": "",
-    "stipend": "",
-    "employment_type": [
-      "Full-Time"
-    ],
-    "applicants": null,
-    "industry": "",
-    "function": "",
-    "experience": "mid",
-    "score": 40,
-    "reasons": [
-      "Marketing match"
-    ]
-  },
-  {
-    "type": "job",
-    "title": "Senior Partner Solutions Architect (Pan-EMEA GSI)",
-    "company": "Datadog",
-    "location": "Germany,  Netherlands",
-    "location_key": "other",
-    "mode": "See listing",
-    "url": "https://jobicy.com/jobs/156719-senior-partner-solutions-architect-pan-emea-gsi",
-    "source": "Jobicy",
-    "categories": [
-      "marketing",
-      "social",
-      "operations"
-    ],
-    "posted_at": "2026-11-24T04:30:14+00:00",
-    "salary": "",
-    "stipend": "",
-    "employment_type": [
-      "Full-Time"
-    ],
-    "applicants": null,
-    "industry": "",
-    "function": "",
-    "experience": "fresher",
-    "score": 40,
-    "reasons": [
-      "Marketing match",
-      "Fresher-friendly signal"
-    ]
-  },
-  {
-    "type": "job",
-    "title": "Principal, Regional Partner Programs",
-    "company": "Zscaler",
+    "title": "Regulatory Manager / Senior Regulatory Manager",
+    "company": "Precision Medicine Group",
     "location": "UK",
     "location_key": "other",
     "mode": "See listing",
-    "url": "https://jobicy.com/jobs/156720-principal-regional-partner-programs",
+    "url": "https://jobicy.com/jobs/164165-regulatory-manager-senior-regulatory-manager-2",
     "source": "Jobicy",
     "categories": [
       "marketing",
       "sales",
       "design"
     ],
-    "posted_at": "2026-11-24T04:25:40+00:00",
+    "posted_at": "2026-11-24T15:23:32+00:00",
     "salary": "",
     "stipend": "",
     "employment_type": [
@@ -10693,110 +10164,20 @@
   },
   {
     "type": "job",
-    "title": "Chief Technology Officer - US-Based",
-    "company": "Toptal",
-    "location": "USA",
+    "title": "Sales Development Representative (SDR)",
+    "company": "saas.group",
+    "location": "EMEA",
     "location_key": "other",
     "mode": "See listing",
-    "url": "https://jobicy.com/jobs/153888-chief-technology-officer-us-based",
+    "url": "https://jobicy.com/jobs/164161-sales-development-representative-sdr-3",
     "source": "Jobicy",
     "categories": [
       "marketing",
-      "operations",
-      "design"
-    ],
-    "posted_at": "2026-11-24T04:25:37+00:00",
-    "salary": "",
-    "stipend": "",
-    "employment_type": [
-      "Full-Time"
-    ],
-    "applicants": null,
-    "industry": "",
-    "function": "",
-    "experience": "fresher",
-    "score": 40,
-    "reasons": [
-      "Marketing match",
-      "Fresher-friendly signal"
-    ]
-  },
-  {
-    "type": "job",
-    "title": "Research Engineer - Data Infrastructure",
-    "company": "Elevenlabs",
-    "location": "Bulgaria,  Poland,  UK,  USA",
-    "location_key": "other",
-    "mode": "See listing",
-    "url": "https://jobicy.com/jobs/156701-research-engineer-data-infrastructure",
-    "source": "Jobicy",
-    "categories": [
-      "marketing",
-      "creator",
-      "operations",
-      "design"
-    ],
-    "posted_at": "2026-11-24T04:25:26+00:00",
-    "salary": "",
-    "stipend": "",
-    "employment_type": [
-      "Full-Time"
-    ],
-    "applicants": null,
-    "industry": "",
-    "function": "",
-    "experience": "mid",
-    "score": 40,
-    "reasons": [
-      "Marketing match"
-    ]
-  },
-  {
-    "type": "job",
-    "title": "Product Manager, New Content Initiatives and Analysis",
-    "company": "AlphaSense",
-    "location": "UK",
-    "location_key": "other",
-    "mode": "See listing",
-    "url": "https://jobicy.com/jobs/156120-product-manager-new-content-initiatives-and-analysis",
-    "source": "Jobicy",
-    "categories": [
-      "marketing",
-      "content",
-      "operations"
-    ],
-    "posted_at": "2026-11-24T04:25:07+00:00",
-    "salary": "",
-    "stipend": "",
-    "employment_type": [
-      "Full-Time"
-    ],
-    "applicants": null,
-    "industry": "",
-    "function": "",
-    "experience": "fresher",
-    "score": 40,
-    "reasons": [
-      "Marketing match",
-      "Fresher-friendly signal"
-    ]
-  },
-  {
-    "type": "job",
-    "title": "Senior Developer Success Engineer - West",
-    "company": "Temporal Technologies",
-    "location": "USA",
-    "location_key": "other",
-    "mode": "See listing",
-    "url": "https://jobicy.com/jobs/151357-senior-developer-success-engineer-west",
-    "source": "Jobicy",
-    "categories": [
       "social",
-      "operations",
-      "design"
+      "sales"
     ],
-    "posted_at": "2026-11-24T04:20:34+00:00",
-    "salary": "140000–180000 USD / yearly",
+    "posted_at": "2026-11-24T15:23:26+00:00",
+    "salary": "",
     "stipend": "",
     "employment_type": [
       "Full-Time"
@@ -10807,26 +10188,56 @@
     "experience": "fresher",
     "score": 40,
     "reasons": [
-      "Social match",
+      "Marketing match",
       "Fresher-friendly signal"
     ]
   },
   {
     "type": "job",
-    "title": "Chief Architect",
+    "title": "Sr. Contracts Manager - Renewable Energy",
+    "company": "SB Energy",
+    "location": "USA",
+    "location_key": "other",
+    "mode": "See listing",
+    "url": "https://jobicy.com/jobs/164128-sr-contracts-manager-renewable-energy",
+    "source": "Jobicy",
+    "categories": [
+      "marketing",
+      "operations",
+      "design"
+    ],
+    "posted_at": "2026-11-24T14:39:22+00:00",
+    "salary": "150000–200000 USD / yearly",
+    "stipend": "",
+    "employment_type": [
+      "Full-Time"
+    ],
+    "applicants": null,
+    "industry": "",
+    "function": "",
+    "experience": "fresher",
+    "score": 40,
+    "reasons": [
+      "Marketing match",
+      "Fresher-friendly signal"
+    ]
+  },
+  {
+    "type": "job",
+    "title": "Principal Software Engineer, DevOps",
     "company": "Legion",
     "location": "USA",
     "location_key": "other",
     "mode": "See listing",
-    "url": "https://jobicy.com/jobs/151374-chief-architect",
+    "url": "https://jobicy.com/jobs/164123-principal-software-engineer-devops-2",
     "source": "Jobicy",
     "categories": [
       "marketing",
       "operations",
       "design"
     ],
-    "posted_at": "2026-11-24T04:20:22+00:00",
-    "salary": "300000–385000 USD / yearly",
+    "posted_at": "2026-11-24T14:39:15+00:00",
+    "salary": "220000–255000 USD / yearly",
     "stipend": "",
     "employment_type": [
       "Full-Time"
@@ -10843,20 +10254,20 @@
   },
   {
     "type": "job",
-    "title": "Technical Consultant, Workday Financials",
-    "company": "Ramp",
-    "location": "Canada,  USA",
+    "title": "General Counsel",
+    "company": "Teamshares",
+    "location": "USA",
     "location_key": "other",
     "mode": "See listing",
-    "url": "https://jobicy.com/jobs/153858-technical-consultant-workday-financials",
+    "url": "https://jobicy.com/jobs/164122-general-counsel-3",
     "source": "Jobicy",
     "categories": [
-      "sales",
+      "marketing",
       "operations",
       "design"
     ],
-    "posted_at": "2026-11-24T04:20:14+00:00",
-    "salary": "212000–291000 USD / yearly",
+    "posted_at": "2026-11-24T14:39:13+00:00",
+    "salary": "",
     "stipend": "",
     "employment_type": [
       "Full-Time"
@@ -10867,7 +10278,157 @@
     "experience": "fresher",
     "score": 40,
     "reasons": [
-      "Sales match",
+      "Marketing match",
+      "Fresher-friendly signal"
+    ]
+  },
+  {
+    "type": "job",
+    "title": "Tech Lead Manager, Consumer Facing Web Products",
+    "company": "NerdWallet",
+    "location": "USA",
+    "location_key": "other",
+    "mode": "See listing",
+    "url": "https://jobicy.com/jobs/164110-tech-lead-manager-consumer-facing-web-products",
+    "source": "Jobicy",
+    "categories": [
+      "marketing",
+      "content",
+      "sales",
+      "design"
+    ],
+    "posted_at": "2026-11-24T13:00:09+00:00",
+    "salary": "160000–294000 USD / yearly",
+    "stipend": "",
+    "employment_type": [
+      "Full-Time"
+    ],
+    "applicants": null,
+    "industry": "",
+    "function": "",
+    "experience": "mid",
+    "score": 40,
+    "reasons": [
+      "Marketing match"
+    ]
+  },
+  {
+    "type": "job",
+    "title": "Technical Trainer - Legal AI",
+    "company": "NetDocuments",
+    "location": "USA",
+    "location_key": "other",
+    "mode": "See listing",
+    "url": "https://jobicy.com/jobs/164100-technical-trainer-legal-ai",
+    "source": "Jobicy",
+    "categories": [
+      "social",
+      "operations",
+      "design"
+    ],
+    "posted_at": "2026-11-24T12:58:17+00:00",
+    "salary": "90000–100000 USD / yearly",
+    "stipend": "",
+    "employment_type": [
+      "Full-Time"
+    ],
+    "applicants": null,
+    "industry": "",
+    "function": "",
+    "experience": "fresher",
+    "score": 40,
+    "reasons": [
+      "Social match",
+      "Fresher-friendly signal"
+    ]
+  },
+  {
+    "type": "job",
+    "title": "Director of Enterprise Sales",
+    "company": "Hello Alice",
+    "location": "USA",
+    "location_key": "other",
+    "mode": "See listing",
+    "url": "https://jobicy.com/jobs/164098-director-of-enterprise-sales-3",
+    "source": "Jobicy",
+    "categories": [
+      "marketing",
+      "social",
+      "sales"
+    ],
+    "posted_at": "2026-11-24T12:58:13+00:00",
+    "salary": "",
+    "stipend": "",
+    "employment_type": [
+      "Full-Time"
+    ],
+    "applicants": null,
+    "industry": "",
+    "function": "",
+    "experience": "fresher",
+    "score": 40,
+    "reasons": [
+      "Marketing match",
+      "Fresher-friendly signal"
+    ]
+  },
+  {
+    "type": "job",
+    "title": "IT Risks & Control Manager",
+    "company": "Nebius",
+    "location": "USA",
+    "location_key": "other",
+    "mode": "See listing",
+    "url": "https://jobicy.com/jobs/164072-it-risks-control-manager",
+    "source": "Jobicy",
+    "categories": [
+      "marketing",
+      "operations",
+      "design"
+    ],
+    "posted_at": "2026-11-24T11:25:37+00:00",
+    "salary": "120000–180000 USD / yearly",
+    "stipend": "",
+    "employment_type": [
+      "Full-Time"
+    ],
+    "applicants": null,
+    "industry": "",
+    "function": "",
+    "experience": "fresher",
+    "score": 40,
+    "reasons": [
+      "Marketing match",
+      "Fresher-friendly signal"
+    ]
+  },
+  {
+    "type": "job",
+    "title": "Senior Technical Program Manager - Data Center Infrastructure Delivery",
+    "company": "Lambda",
+    "location": "USA",
+    "location_key": "other",
+    "mode": "See listing",
+    "url": "https://jobicy.com/jobs/164071-senior-technical-program-manager-data-center-infrastructure-delivery",
+    "source": "Jobicy",
+    "categories": [
+      "marketing",
+      "operations",
+      "design"
+    ],
+    "posted_at": "2026-11-24T11:25:35+00:00",
+    "salary": "214000–284000 USD / yearly",
+    "stipend": "",
+    "employment_type": [
+      "Full-Time"
+    ],
+    "applicants": null,
+    "industry": "",
+    "function": "",
+    "experience": "fresher",
+    "score": 40,
+    "reasons": [
+      "Marketing match",
       "Fresher-friendly signal"
     ]
   },
@@ -11181,6 +10742,66 @@
   },
   {
     "type": "job",
+    "title": "Benefits Analyst - East Region",
+    "company": "Bennie",
+    "location": "USA",
+    "location_key": "other",
+    "mode": "See listing",
+    "url": "https://jobicy.com/jobs/164148-benefits-analyst-east-region",
+    "source": "Jobicy",
+    "categories": [
+      "marketing",
+      "operations",
+      "design"
+    ],
+    "posted_at": "2026-11-24T15:19:08+00:00",
+    "salary": "60000–85000 USD / yearly",
+    "stipend": "",
+    "employment_type": [
+      "Full-Time"
+    ],
+    "applicants": null,
+    "industry": "",
+    "function": "",
+    "experience": "junior",
+    "score": 36,
+    "reasons": [
+      "Marketing match",
+      "Early-career signal"
+    ]
+  },
+  {
+    "type": "job",
+    "title": "Product Designer",
+    "company": "Binance",
+    "location": "Singapore",
+    "location_key": "other",
+    "mode": "See listing",
+    "url": "https://jobicy.com/jobs/164147-product-designer-7",
+    "source": "Jobicy",
+    "categories": [
+      "marketing",
+      "operations",
+      "design"
+    ],
+    "posted_at": "2026-11-24T14:45:57+00:00",
+    "salary": "",
+    "stipend": "",
+    "employment_type": [
+      "Full-Time"
+    ],
+    "applicants": null,
+    "industry": "",
+    "function": "",
+    "experience": "junior",
+    "score": 36,
+    "reasons": [
+      "Marketing match",
+      "Early-career signal"
+    ]
+  },
+  {
+    "type": "job",
     "title": "GRC Security Specialist (Remote, KA, IN)",
     "company": "NTT DATA",
     "location": "India",
@@ -11289,33 +10910,6 @@
   },
   {
     "type": "job",
-    "title": "#50946 3D Data Annotation Specialist",
-    "company": "Mindy Support",
-    "location": "India",
-    "location_key": "india",
-    "mode": "Remote",
-    "url": "https://himalayas.app/companies/mindy-support/jobs/50946-3d-data-annotation-specialist?utm_source=api",
-    "source": "Himalayas",
-    "categories": [
-      "other"
-    ],
-    "posted_at": "2026-11-19T16:40:25+00:00",
-    "salary": "",
-    "stipend": "",
-    "employment_type": "Full Time",
-    "applicants": null,
-    "industry": "",
-    "function": "",
-    "experience": "fresher",
-    "score": 36,
-    "reasons": [
-      "Other match",
-      "Fresher-friendly signal",
-      "India signal"
-    ]
-  },
-  {
-    "type": "job",
     "title": "PPC Marketing Specialist",
     "company": "Sweat Pants Agency",
     "location": "India",
@@ -11338,33 +10932,6 @@
     "score": 36,
     "reasons": [
       "Marketing match",
-      "India signal"
-    ]
-  },
-  {
-    "type": "job",
-    "title": "Publishing Specialist II - Regulatory Document Specialist",
-    "company": "Syneos Health India Private Limited",
-    "location": "India",
-    "location_key": "india",
-    "mode": "Remote",
-    "url": "https://himalayas.app/companies/syneos-health-india-private-limited/jobs/publishing-specialist-ii-regulatory-document-specialist?utm_source=api",
-    "source": "Himalayas",
-    "categories": [
-      "other"
-    ],
-    "posted_at": "2026-11-19T16:40:02+00:00",
-    "salary": "",
-    "stipend": "",
-    "employment_type": "Full Time",
-    "applicants": null,
-    "industry": "",
-    "function": "",
-    "experience": "fresher",
-    "score": 36,
-    "reasons": [
-      "Other match",
-      "Fresher-friendly signal",
       "India signal"
     ]
   },
@@ -11478,18 +11045,18 @@
   },
   {
     "type": "job",
-    "title": "New Business Account Executive",
-    "company": "Twilio",
-    "location": "Japan",
+    "title": "Drug Safety Specialist (LATAM)",
+    "company": "Precision Medicine Group",
+    "location": "Mexico",
     "location_key": "other",
     "mode": "See listing",
-    "url": "https://jobicy.com/jobs/156841-new-business-account-executive",
+    "url": "https://jobicy.com/jobs/164162-drug-safety-specialist-latam",
     "source": "Jobicy",
     "categories": [
       "marketing",
-      "sales"
+      "operations"
     ],
-    "posted_at": "2026-11-24T04:45:33+00:00",
+    "posted_at": "2026-11-24T15:23:28+00:00",
     "salary": "",
     "stipend": "",
     "employment_type": [
@@ -11507,19 +11074,19 @@
   },
   {
     "type": "job",
-    "title": "Principal Presales Engineer, Product Specialist",
-    "company": "Twilio",
-    "location": "Brazil",
+    "title": "Clinical Informatics Specialist — Federal Health IT",
+    "company": "Rackner",
+    "location": "USA",
     "location_key": "other",
     "mode": "See listing",
-    "url": "https://jobicy.com/jobs/156802-principal-presales-engineer-product-specialist",
+    "url": "https://jobicy.com/jobs/164118-clinical-informatics-specialist-federal-health-it",
     "source": "Jobicy",
     "categories": [
-      "marketing",
-      "sales",
+      "content",
+      "operations",
       "design"
     ],
-    "posted_at": "2026-11-24T04:40:39+00:00",
+    "posted_at": "2026-11-24T13:00:28+00:00",
     "salary": "",
     "stipend": "",
     "employment_type": [
@@ -11528,28 +11095,27 @@
     "applicants": null,
     "industry": "",
     "function": "",
-    "experience": "mid",
+    "experience": "unknown",
     "score": 34,
     "reasons": [
-      "Marketing match"
+      "Content match"
     ]
   },
   {
     "type": "job",
-    "title": "EMEA Account Executive",
-    "company": "Deepgram",
-    "location": "EMEA",
+    "title": "Director / Associate Director, International Regulatory Affairs #4809",
+    "company": "GRAIL, LLC",
+    "location": "USA",
     "location_key": "other",
     "mode": "See listing",
-    "url": "https://jobicy.com/jobs/156697-emea-account-executive",
+    "url": "https://jobicy.com/jobs/164074-director-associate-director-international-regulatory-affairs-4809",
     "source": "Jobicy",
     "categories": [
-      "marketing",
-      "sales",
+      "operations",
       "design"
     ],
-    "posted_at": "2026-11-24T04:25:21+00:00",
-    "salary": "",
+    "posted_at": "2026-11-24T11:46:08+00:00",
+    "salary": "169000–242000 USD / yearly",
     "stipend": "",
     "employment_type": [
       "Full-Time"
@@ -11557,10 +11123,11 @@
     "applicants": null,
     "industry": "",
     "function": "",
-    "experience": "mid",
+    "experience": "fresher",
     "score": 34,
     "reasons": [
-      "Marketing match"
+      "Operations match",
+      "Fresher-friendly signal"
     ]
   },
   {
@@ -12037,6 +11604,249 @@
       "Marketing match",
       "Fresher-friendly signal",
       "Remote"
+    ]
+  },
+  {
+    "type": "job",
+    "title": "Fund Accountant",
+    "company": "FinStrat Management",
+    "location": "India",
+    "location_key": "india",
+    "mode": "Remote",
+    "url": "https://himalayas.app/companies/finstrat-management/jobs/fund-accountant?utm_source=api",
+    "source": "Himalayas",
+    "categories": [
+      "operations"
+    ],
+    "posted_at": "2026-11-24T19:26:44+00:00",
+    "salary": "",
+    "stipend": "",
+    "employment_type": "Full Time",
+    "applicants": null,
+    "industry": "",
+    "function": "",
+    "experience": "fresher",
+    "score": 32,
+    "reasons": [
+      "Operations match",
+      "Fresher-friendly signal",
+      "India signal"
+    ]
+  },
+  {
+    "type": "job",
+    "title": "Quality Assurance Analyst",
+    "company": "Helm Operations",
+    "location": "India",
+    "location_key": "india",
+    "mode": "Remote",
+    "url": "https://himalayas.app/companies/helm-operations/jobs/quality-assurance-analyst?utm_source=api",
+    "source": "Himalayas",
+    "categories": [
+      "marketing",
+      "design"
+    ],
+    "posted_at": "2026-11-24T16:11:23+00:00",
+    "salary": "",
+    "stipend": "",
+    "employment_type": "Full Time",
+    "applicants": null,
+    "industry": "",
+    "function": "",
+    "experience": "mid",
+    "score": 32,
+    "reasons": [
+      "Marketing match",
+      "India signal"
+    ]
+  },
+  {
+    "type": "job",
+    "title": "Channel Partner – School Education Programs (Pan-India, Commission-Based)",
+    "company": "IMAV Learning Academy",
+    "location": "India",
+    "location_key": "india",
+    "mode": "Remote",
+    "url": "https://himalayas.app/companies/imav-learning-academy/jobs/channel-partner-school-education-programs-pan-india-commission-based?utm_source=api",
+    "source": "Himalayas",
+    "categories": [
+      "marketing",
+      "sales"
+    ],
+    "posted_at": "2026-11-24T13:54:19+00:00",
+    "salary": "",
+    "stipend": "",
+    "employment_type": "Contractor",
+    "applicants": null,
+    "industry": "",
+    "function": "",
+    "experience": "mid",
+    "score": 32,
+    "reasons": [
+      "Marketing match",
+      "India signal"
+    ]
+  },
+  {
+    "type": "job",
+    "title": "Business Intelligence Analyst I",
+    "company": "Yum! Brands",
+    "location": "India",
+    "location_key": "india",
+    "mode": "Remote",
+    "url": "https://himalayas.app/companies/yum-brands/jobs/business-intelligence-analyst-i?utm_source=api",
+    "source": "Himalayas",
+    "categories": [
+      "operations",
+      "design"
+    ],
+    "posted_at": "2026-11-24T13:35:25+00:00",
+    "salary": "",
+    "stipend": "",
+    "employment_type": "Full Time",
+    "applicants": null,
+    "industry": "",
+    "function": "",
+    "experience": "mid",
+    "score": 32,
+    "reasons": [
+      "Operations match",
+      "India signal"
+    ]
+  },
+  {
+    "type": "job",
+    "title": "Manager, Software Quality Assurance Automation",
+    "company": "Labcorp",
+    "location": "India",
+    "location_key": "india",
+    "mode": "Remote",
+    "url": "https://himalayas.app/companies/labcorp/jobs/manager-software-quality-assurance-automation?utm_source=api",
+    "source": "Himalayas",
+    "categories": [
+      "operations",
+      "design"
+    ],
+    "posted_at": "2026-11-24T12:18:32+00:00",
+    "salary": "",
+    "stipend": "",
+    "employment_type": "Full Time",
+    "applicants": null,
+    "industry": "",
+    "function": "",
+    "experience": "mid",
+    "score": 32,
+    "reasons": [
+      "Operations match",
+      "India signal"
+    ]
+  },
+  {
+    "type": "job",
+    "title": "Senior Associate 1 - Risk - Offshore PI",
+    "company": "KPMG Australia",
+    "location": "India",
+    "location_key": "india",
+    "mode": "Remote",
+    "url": "https://himalayas.app/companies/kpmg-australia/jobs/senior-associate-1-risk-offshore-pi-8858914417?utm_source=api",
+    "source": "Himalayas",
+    "categories": [
+      "other"
+    ],
+    "posted_at": "2026-11-24T11:29:41+00:00",
+    "salary": "",
+    "stipend": "",
+    "employment_type": "Full Time",
+    "applicants": null,
+    "industry": "",
+    "function": "",
+    "experience": "junior",
+    "score": 32,
+    "reasons": [
+      "Other match",
+      "Early-career signal",
+      "India signal"
+    ]
+  },
+  {
+    "type": "job",
+    "title": "Senior Associate 1 - Risk - Offshore PI",
+    "company": "B S R & Co. LLP",
+    "location": "India",
+    "location_key": "india",
+    "mode": "Remote",
+    "url": "https://himalayas.app/companies/b-s-r-co-llp/jobs/senior-associate-1-risk-offshore-pi-3967617231?utm_source=api",
+    "source": "Himalayas",
+    "categories": [
+      "other"
+    ],
+    "posted_at": "2026-11-24T11:03:13+00:00",
+    "salary": "",
+    "stipend": "",
+    "employment_type": "Full Time",
+    "applicants": null,
+    "industry": "",
+    "function": "",
+    "experience": "junior",
+    "score": 32,
+    "reasons": [
+      "Other match",
+      "Early-career signal",
+      "India signal"
+    ]
+  },
+  {
+    "type": "job",
+    "title": "Software Development Manager",
+    "company": "Motive",
+    "location": "India",
+    "location_key": "india",
+    "mode": "Remote",
+    "url": "https://himalayas.app/companies/motive-com/jobs/software-development-manager?utm_source=api",
+    "source": "Himalayas",
+    "categories": [
+      "operations",
+      "design"
+    ],
+    "posted_at": "2026-11-24T10:54:47+00:00",
+    "salary": "",
+    "stipend": "",
+    "employment_type": "Full Time",
+    "applicants": null,
+    "industry": "",
+    "function": "",
+    "experience": "mid",
+    "score": 32,
+    "reasons": [
+      "Operations match",
+      "India signal"
+    ]
+  },
+  {
+    "type": "job",
+    "title": "Solutions Engineer (AI, Identity & Data Security)",
+    "company": "Quilr Inc.",
+    "location": "India",
+    "location_key": "india",
+    "mode": "Remote",
+    "url": "https://himalayas.app/companies/quilr-inc/jobs/solutions-engineer-ai-identity-data-security?utm_source=api",
+    "source": "Himalayas",
+    "categories": [
+      "sales",
+      "design"
+    ],
+    "posted_at": "2026-11-24T10:20:05+00:00",
+    "salary": "",
+    "stipend": "",
+    "employment_type": "Full Time",
+    "applicants": null,
+    "industry": "",
+    "function": "",
+    "experience": "mid",
+    "score": 32,
+    "reasons": [
+      "Sales match",
+      "India signal"
     ]
   },
   {
@@ -12575,33 +12385,6 @@
     "score": 32,
     "reasons": [
       "Other match",
-      "Fresher-friendly signal",
-      "India signal"
-    ]
-  },
-  {
-    "type": "job",
-    "title": "Administrative Assistant",
-    "company": "Porch Group",
-    "location": "India",
-    "location_key": "india",
-    "mode": "Remote",
-    "url": "https://himalayas.app/companies/porch-group/jobs/administrative-assistant?utm_source=api",
-    "source": "Himalayas",
-    "categories": [
-      "operations"
-    ],
-    "posted_at": "2026-11-22T08:04:47+00:00",
-    "salary": "693800–971300 INR / annual",
-    "stipend": "",
-    "employment_type": "Full Time",
-    "applicants": null,
-    "industry": "",
-    "function": "",
-    "experience": "fresher",
-    "score": 32,
-    "reasons": [
-      "Operations match",
       "Fresher-friendly signal",
       "India signal"
     ]
@@ -13769,60 +13552,6 @@
   },
   {
     "type": "job",
-    "title": "Staff Engineer (SAP Warranty Management)",
-    "company": "Nagarro",
-    "location": "India",
-    "location_key": "india",
-    "mode": "Remote",
-    "url": "https://himalayas.app/companies/nagarro/jobs/staff-engineer-sap-warranty-management?utm_source=api",
-    "source": "Himalayas",
-    "categories": [
-      "operations",
-      "design"
-    ],
-    "posted_at": "2026-11-19T16:40:33+00:00",
-    "salary": "",
-    "stipend": "",
-    "employment_type": "Full Time",
-    "applicants": null,
-    "industry": "",
-    "function": "",
-    "experience": "mid",
-    "score": 32,
-    "reasons": [
-      "Operations match",
-      "India signal"
-    ]
-  },
-  {
-    "type": "job",
-    "title": "Product Manager",
-    "company": "Avam",
-    "location": "India",
-    "location_key": "india",
-    "mode": "Remote",
-    "url": "https://himalayas.app/companies/avam/jobs/product-manager-9768580370?utm_source=api",
-    "source": "Himalayas",
-    "categories": [
-      "other"
-    ],
-    "posted_at": "2026-11-19T16:40:25+00:00",
-    "salary": "",
-    "stipend": "",
-    "employment_type": "Full Time",
-    "applicants": null,
-    "industry": "",
-    "function": "",
-    "experience": "fresher",
-    "score": 32,
-    "reasons": [
-      "Other match",
-      "Fresher-friendly signal",
-      "India signal"
-    ]
-  },
-  {
-    "type": "job",
     "title": "English Language Expert, Remote- Contract",
     "company": "Xperteez Technology",
     "location": "India",
@@ -13877,87 +13606,6 @@
   },
   {
     "type": "job",
-    "title": "Product Manager",
-    "company": "Workspend",
-    "location": "India",
-    "location_key": "india",
-    "mode": "Remote",
-    "url": "https://himalayas.app/companies/workspend/jobs/product-manager?utm_source=api",
-    "source": "Himalayas",
-    "categories": [
-      "marketing",
-      "design"
-    ],
-    "posted_at": "2026-11-19T16:40:17+00:00",
-    "salary": "",
-    "stipend": "",
-    "employment_type": "Full Time",
-    "applicants": null,
-    "industry": "",
-    "function": "",
-    "experience": "mid",
-    "score": 32,
-    "reasons": [
-      "Marketing match",
-      "India signal"
-    ]
-  },
-  {
-    "type": "job",
-    "title": "WordPress Engineer - Senior",
-    "company": "NewVariable Inc",
-    "location": "India",
-    "location_key": "india",
-    "mode": "Remote",
-    "url": "https://himalayas.app/companies/newvariable-inc/jobs/wordpress-engineer-senior?utm_source=api",
-    "source": "Himalayas",
-    "categories": [
-      "operations",
-      "design"
-    ],
-    "posted_at": "2026-11-19T16:40:17+00:00",
-    "salary": "",
-    "stipend": "",
-    "employment_type": "Full Time",
-    "applicants": null,
-    "industry": "",
-    "function": "",
-    "experience": "mid",
-    "score": 32,
-    "reasons": [
-      "Operations match",
-      "India signal"
-    ]
-  },
-  {
-    "type": "job",
-    "title": "Staff, Technical Account Manager",
-    "company": "Twilio",
-    "location": "India",
-    "location_key": "india",
-    "mode": "Remote",
-    "url": "https://himalayas.app/companies/twilio/jobs/staff-technical-account-manager-8463473862?utm_source=api",
-    "source": "Himalayas",
-    "categories": [
-      "sales",
-      "design"
-    ],
-    "posted_at": "2026-11-19T16:40:02+00:00",
-    "salary": "",
-    "stipend": "",
-    "employment_type": "Full Time",
-    "applicants": null,
-    "industry": "",
-    "function": "",
-    "experience": "mid",
-    "score": 32,
-    "reasons": [
-      "Sales match",
-      "India signal"
-    ]
-  },
-  {
-    "type": "job",
     "title": "Golang Software Engineer II",
     "company": "Astreya",
     "location": "India",
@@ -13980,33 +13628,6 @@
     "score": 32,
     "reasons": [
       "Operations match",
-      "India signal"
-    ]
-  },
-  {
-    "type": "job",
-    "title": "Resource Manager - US Shift",
-    "company": "BARE International",
-    "location": "India",
-    "location_key": "india",
-    "mode": "Remote",
-    "url": "https://himalayas.app/companies/bare-international/jobs/resource-manager-us-shift?utm_source=api",
-    "source": "Himalayas",
-    "categories": [
-      "operations"
-    ],
-    "posted_at": "2026-11-19T16:39:52+00:00",
-    "salary": "",
-    "stipend": "",
-    "employment_type": "Full Time",
-    "applicants": null,
-    "industry": "",
-    "function": "",
-    "experience": "fresher",
-    "score": 32,
-    "reasons": [
-      "Operations match",
-      "Fresher-friendly signal",
       "India signal"
     ]
   },
@@ -14066,33 +13687,6 @@
   },
   {
     "type": "job",
-    "title": "GenAI Platform Engineer – LLM Gateway",
-    "company": "Pfizer",
-    "location": "India",
-    "location_key": "india",
-    "mode": "Remote",
-    "url": "https://himalayas.app/companies/pfizer/jobs/genai-platform-engineer-llm-gateway?utm_source=api",
-    "source": "Himalayas",
-    "categories": [
-      "design"
-    ],
-    "posted_at": "2026-11-19T16:39:42+00:00",
-    "salary": "",
-    "stipend": "",
-    "employment_type": "Full Time",
-    "applicants": null,
-    "industry": "",
-    "function": "",
-    "experience": "fresher",
-    "score": 32,
-    "reasons": [
-      "Design match",
-      "Fresher-friendly signal",
-      "India signal"
-    ]
-  },
-  {
-    "type": "job",
     "title": "AI Product Manager - Customer Experience & Retention",
     "company": "MaxFate Private Limited",
     "location": "India",
@@ -14126,33 +13720,6 @@
     "location_key": "india",
     "mode": "Remote",
     "url": "https://himalayas.app/companies/riviera-partners/jobs/senior-principal-india?utm_source=api",
-    "source": "Himalayas",
-    "categories": [
-      "design"
-    ],
-    "posted_at": "2026-11-19T16:39:28+00:00",
-    "salary": "",
-    "stipend": "",
-    "employment_type": "Full Time",
-    "applicants": null,
-    "industry": "",
-    "function": "",
-    "experience": "fresher",
-    "score": 32,
-    "reasons": [
-      "Design match",
-      "Fresher-friendly signal",
-      "India signal"
-    ]
-  },
-  {
-    "type": "job",
-    "title": "Technical Support Architect (AI)",
-    "company": "Harris",
-    "location": "India",
-    "location_key": "india",
-    "mode": "Remote",
-    "url": "https://himalayas.app/companies/harris/jobs/technical-support-architect-ai?utm_source=api",
     "source": "Himalayas",
     "categories": [
       "design"
@@ -14525,188 +14092,18 @@
   },
   {
     "type": "job",
-    "title": "Doctor, NP or PA in India: Paid 2-Hour AI Evaluation Task (Remote, USD 21-22/hr)",
-    "company": "RustLabs",
-    "location": "India",
-    "location_key": "india",
-    "mode": "Remote",
-    "url": "https://himalayas.app/companies/rustlabs/jobs/doctor-np-or-pa-in-india-paid-2-hour-ai-evaluation-task-remote-usd-21-22-hr?utm_source=api",
-    "source": "Himalayas",
-    "categories": [
-      "other"
-    ],
-    "posted_at": "2026-11-18T04:54:04+00:00",
-    "salary": "22–22 USD / hourly",
-    "stipend": "",
-    "employment_type": "Contractor",
-    "applicants": null,
-    "industry": "",
-    "function": "",
-    "experience": "fresher",
-    "score": 32,
-    "reasons": [
-      "Other match",
-      "Fresher-friendly signal",
-      "India signal"
-    ]
-  },
-  {
-    "type": "job",
-    "title": "AI Security Engineer, LLM Red Teaming (Remote Contract, USD 22/hr)",
-    "company": "RustLabs",
-    "location": "India",
-    "location_key": "india",
-    "mode": "Remote",
-    "url": "https://himalayas.app/companies/rustlabs/jobs/ai-security-engineer-llm-red-teaming-remote-contract-usd-22-hr?utm_source=api",
-    "source": "Himalayas",
-    "categories": [
-      "social",
-      "design"
-    ],
-    "posted_at": "2026-11-18T04:54:03+00:00",
-    "salary": "22–22 USD / hourly",
-    "stipend": "",
-    "employment_type": "Contractor",
-    "applicants": null,
-    "industry": "",
-    "function": "",
-    "experience": "mid",
-    "score": 32,
-    "reasons": [
-      "Social match",
-      "India signal"
-    ]
-  },
-  {
-    "type": "job",
-    "title": "Senior Engineering Manager",
-    "company": "Monzo",
-    "location": "UK",
+    "title": "Senior Data Engineer",
+    "company": "Nebius",
+    "location": "Europe,  Israel",
     "location_key": "other",
     "mode": "See listing",
-    "url": "https://jobicy.com/jobs/156848-senior-engineering-manager-2",
+    "url": "https://jobicy.com/jobs/164169-senior-data-engineer-10",
     "source": "Jobicy",
     "categories": [
       "marketing",
-      "social",
       "design"
     ],
-    "posted_at": "2026-11-24T04:45:34+00:00",
-    "salary": "138000–175000 GBP / yearly",
-    "stipend": "",
-    "employment_type": [
-      "Full-Time"
-    ],
-    "applicants": null,
-    "industry": "",
-    "function": "",
-    "experience": "mid",
-    "score": 30,
-    "reasons": [
-      "Marketing match"
-    ]
-  },
-  {
-    "type": "job",
-    "title": "Billing Operations Analyst 1",
-    "company": "Twilio",
-    "location": "Mexico",
-    "location_key": "other",
-    "mode": "See listing",
-    "url": "https://jobicy.com/jobs/156798-billing-operations-analyst-1",
-    "source": "Jobicy",
-    "categories": [
-      "sales",
-      "operations"
-    ],
-    "posted_at": "2026-11-24T04:40:29+00:00",
-    "salary": "",
-    "stipend": "",
-    "employment_type": [
-      "Full-Time"
-    ],
-    "applicants": null,
-    "industry": "",
-    "function": "",
-    "experience": "fresher",
-    "score": 30,
-    "reasons": [
-      "Sales match",
-      "Fresher-friendly signal"
-    ]
-  },
-  {
-    "type": "job",
-    "title": "Presales Engineer",
-    "company": "Twilio",
-    "location": "Ireland,  UK",
-    "location_key": "other",
-    "mode": "See listing",
-    "url": "https://jobicy.com/jobs/156788-presales-engineer",
-    "source": "Jobicy",
-    "categories": [
-      "social",
-      "sales",
-      "design"
-    ],
-    "posted_at": "2026-11-24T04:40:22+00:00",
-    "salary": "",
-    "stipend": "",
-    "employment_type": [
-      "Full-Time"
-    ],
-    "applicants": null,
-    "industry": "",
-    "function": "",
-    "experience": "mid",
-    "score": 30,
-    "reasons": [
-      "Social match"
-    ]
-  },
-  {
-    "type": "job",
-    "title": "Principal Software Engineer - Agentic SOC",
-    "company": "Huntress",
-    "location": "USA",
-    "location_key": "other",
-    "mode": "See listing",
-    "url": "https://jobicy.com/jobs/156767-principal-software-engineer-agentic-soc",
-    "source": "Jobicy",
-    "categories": [
-      "marketing",
-      "operations",
-      "design"
-    ],
-    "posted_at": "2026-11-24T04:40:10+00:00",
-    "salary": "",
-    "stipend": "",
-    "employment_type": [
-      "Full-Time"
-    ],
-    "applicants": null,
-    "industry": "",
-    "function": "",
-    "experience": "mid",
-    "score": 30,
-    "reasons": [
-      "Marketing match"
-    ]
-  },
-  {
-    "type": "job",
-    "title": "National Business Development Manager - Fire & Life Safety products (Sydney or Melbourne)",
-    "company": "Ajax Systems",
-    "location": "Australia",
-    "location_key": "other",
-    "mode": "See listing",
-    "url": "https://jobicy.com/jobs/156750-national-business-development-manager-fire-life-safety-products-sydney-or-melbourne",
-    "source": "Jobicy",
-    "categories": [
-      "marketing",
-      "sales"
-    ],
-    "posted_at": "2026-11-24T04:30:36+00:00",
+    "posted_at": "2026-11-24T15:25:36+00:00",
     "salary": "",
     "stipend": "",
     "employment_type": [
@@ -14724,134 +14121,18 @@
   },
   {
     "type": "job",
-    "title": "Account Manager",
-    "company": "Kinsta",
-    "location": "Philippines",
-    "location_key": "other",
-    "mode": "See listing",
-    "url": "https://jobicy.com/jobs/156732-account-manager-15",
-    "source": "Jobicy",
-    "categories": [
-      "marketing",
-      "sales"
-    ],
-    "posted_at": "2026-11-24T04:30:26+00:00",
-    "salary": "",
-    "stipend": "",
-    "employment_type": [
-      "Full-Time"
-    ],
-    "applicants": null,
-    "industry": "",
-    "function": "",
-    "experience": "fresher",
-    "score": 30,
-    "reasons": [
-      "Marketing match",
-      "Fresher-friendly signal"
-    ]
-  },
-  {
-    "type": "job",
-    "title": "Regional Director, Enterprise",
-    "company": "Zscaler",
-    "location": "Germany",
-    "location_key": "other",
-    "mode": "See listing",
-    "url": "https://jobicy.com/jobs/156727-regional-director-enterprise-2",
-    "source": "Jobicy",
-    "categories": [
-      "marketing",
-      "sales",
-      "design"
-    ],
-    "posted_at": "2026-11-24T04:30:20+00:00",
-    "salary": "103250–147500 EUR / yearly",
-    "stipend": "",
-    "employment_type": [
-      "Full-Time"
-    ],
-    "applicants": null,
-    "industry": "",
-    "function": "",
-    "experience": "mid",
-    "score": 30,
-    "reasons": [
-      "Marketing match"
-    ]
-  },
-  {
-    "type": "job",
-    "title": "DevOps Engineer, Edge and Developer Experience (Remote Eligible in Bulgaria)",
-    "company": "Smartsheet",
-    "location": "Bulgaria",
-    "location_key": "other",
-    "mode": "See listing",
-    "url": "https://jobicy.com/jobs/156722-devops-engineer-edge-and-developer-experience-remote-eligible-in-bulgaria",
-    "source": "Jobicy",
-    "categories": [
-      "operations",
-      "design"
-    ],
-    "posted_at": "2026-11-24T04:30:16+00:00",
-    "salary": "",
-    "stipend": "",
-    "employment_type": [
-      "Full-Time"
-    ],
-    "applicants": null,
-    "industry": "",
-    "function": "",
-    "experience": "fresher",
-    "score": 30,
-    "reasons": [
-      "Operations match",
-      "Fresher-friendly signal"
-    ]
-  },
-  {
-    "type": "job",
-    "title": "Senior Technical Account Manager - Strategic Services (EMEA)",
-    "company": "ClickUp",
-    "location": "Ireland,  UK",
-    "location_key": "other",
-    "mode": "See listing",
-    "url": "https://jobicy.com/jobs/153902-senior-technical-account-manager-strategic-services-emea",
-    "source": "Jobicy",
-    "categories": [
-      "sales",
-      "design"
-    ],
-    "posted_at": "2026-11-24T04:25:43+00:00",
-    "salary": "",
-    "stipend": "",
-    "employment_type": [
-      "Full-Time"
-    ],
-    "applicants": null,
-    "industry": "",
-    "function": "",
-    "experience": "fresher",
-    "score": 30,
-    "reasons": [
-      "Sales match",
-      "Fresher-friendly signal"
-    ]
-  },
-  {
-    "type": "job",
-    "title": "Technical Program Manager",
-    "company": "Playson",
+    "title": "Security Solutions Engineer",
+    "company": "Nebius",
     "location": "Europe",
     "location_key": "other",
     "mode": "See listing",
-    "url": "https://jobicy.com/jobs/153901-technical-program-manager-5",
+    "url": "https://jobicy.com/jobs/164168-security-solutions-engineer-2",
     "source": "Jobicy",
     "categories": [
-      "operations",
+      "marketing",
       "design"
     ],
-    "posted_at": "2026-11-24T04:25:38+00:00",
+    "posted_at": "2026-11-24T15:25:18+00:00",
     "salary": "",
     "stipend": "",
     "employment_type": [
@@ -14863,25 +14144,170 @@
     "experience": "fresher",
     "score": 30,
     "reasons": [
-      "Operations match",
+      "Marketing match",
       "Fresher-friendly signal"
     ]
   },
   {
     "type": "job",
-    "title": "Client Finance Analyst I",
-    "company": "Precision Medicine Group",
+    "title": "Network Engineer",
+    "company": "Nebius",
+    "location": "APAC",
+    "location_key": "other",
+    "mode": "See listing",
+    "url": "https://jobicy.com/jobs/164167-network-engineer-3",
+    "source": "Jobicy",
+    "categories": [
+      "marketing",
+      "operations"
+    ],
+    "posted_at": "2026-11-24T15:25:01+00:00",
+    "salary": "",
+    "stipend": "",
+    "employment_type": [
+      "Full-Time"
+    ],
+    "applicants": null,
+    "industry": "",
+    "function": "",
+    "experience": "fresher",
+    "score": 30,
+    "reasons": [
+      "Marketing match",
+      "Fresher-friendly signal"
+    ]
+  },
+  {
+    "type": "job",
+    "title": "Senior State Government Affairs Manager, Texas & Southeast",
+    "company": "CoreWeave",
     "location": "USA",
     "location_key": "other",
     "mode": "See listing",
-    "url": "https://jobicy.com/jobs/153872-client-finance-analyst-i",
+    "url": "https://jobicy.com/jobs/164154-senior-state-government-affairs-manager-texas-southeast",
+    "source": "Jobicy",
+    "categories": [
+      "marketing",
+      "operations"
+    ],
+    "posted_at": "2026-11-24T15:19:15+00:00",
+    "salary": "143000–191000 USD / yearly",
+    "stipend": "",
+    "employment_type": [
+      "Full-Time"
+    ],
+    "applicants": null,
+    "industry": "",
+    "function": "",
+    "experience": "fresher",
+    "score": 30,
+    "reasons": [
+      "Marketing match",
+      "Fresher-friendly signal"
+    ]
+  },
+  {
+    "type": "job",
+    "title": "IT Auditor (APAC Remote)",
+    "company": "Binance",
+    "location": "APAC",
+    "location_key": "other",
+    "mode": "See listing",
+    "url": "https://jobicy.com/jobs/164144-it-auditor-apac-remote",
+    "source": "Jobicy",
+    "categories": [
+      "marketing",
+      "design"
+    ],
+    "posted_at": "2026-11-24T14:45:40+00:00",
+    "salary": "",
+    "stipend": "",
+    "employment_type": [
+      "Full-Time"
+    ],
+    "applicants": null,
+    "industry": "",
+    "function": "",
+    "experience": "fresher",
+    "score": 30,
+    "reasons": [
+      "Marketing match",
+      "Fresher-friendly signal"
+    ]
+  },
+  {
+    "type": "job",
+    "title": "Strategic Account Manager - UK",
+    "company": "SeatGeek",
+    "location": "UK",
+    "location_key": "other",
+    "mode": "See listing",
+    "url": "https://jobicy.com/jobs/164139-strategic-account-manager-uk",
+    "source": "Jobicy",
+    "categories": [
+      "marketing",
+      "sales"
+    ],
+    "posted_at": "2026-11-24T14:44:04+00:00",
+    "salary": "",
+    "stipend": "",
+    "employment_type": [
+      "Full-Time"
+    ],
+    "applicants": null,
+    "industry": "",
+    "function": "",
+    "experience": "fresher",
+    "score": 30,
+    "reasons": [
+      "Marketing match",
+      "Fresher-friendly signal"
+    ]
+  },
+  {
+    "type": "job",
+    "title": "Account Manager - UK",
+    "company": "SeatGeek",
+    "location": "UK",
+    "location_key": "other",
+    "mode": "See listing",
+    "url": "https://jobicy.com/jobs/164134-account-manager-uk",
+    "source": "Jobicy",
+    "categories": [
+      "marketing",
+      "sales"
+    ],
+    "posted_at": "2026-11-24T14:43:55+00:00",
+    "salary": "",
+    "stipend": "",
+    "employment_type": [
+      "Full-Time"
+    ],
+    "applicants": null,
+    "industry": "",
+    "function": "",
+    "experience": "fresher",
+    "score": 30,
+    "reasons": [
+      "Marketing match",
+      "Fresher-friendly signal"
+    ]
+  },
+  {
+    "type": "job",
+    "title": "Senior Project Manager, Clinical Trials",
+    "company": "Cogstate",
+    "location": "USA",
+    "location_key": "other",
+    "mode": "See listing",
+    "url": "https://jobicy.com/jobs/164117-senior-project-manager-clinical-trials",
     "source": "Jobicy",
     "categories": [
       "sales",
       "operations"
     ],
-    "posted_at": "2026-11-24T04:20:24+00:00",
-    "salary": "50000–62000 USD / yearly",
+    "posted_at": "2026-11-24T13:00:26+00:00",
+    "salary": "125000–135000 USD / yearly",
     "stipend": "",
     "employment_type": [
       "Full-Time"
@@ -14898,18 +14324,76 @@
   },
   {
     "type": "job",
-    "title": "Senior AI Engineer",
-    "company": "eMerchantPay",
-    "location": "Bulgaria",
+    "title": "Member Advocate (Employee Benefits)",
+    "company": "IMA Financial Group",
+    "location": "USA",
     "location_key": "other",
     "mode": "See listing",
-    "url": "https://jobicy.com/jobs/144139-senior-ai-engineer-3",
+    "url": "https://jobicy.com/jobs/164116-member-advocate-employee-benefits",
     "source": "Jobicy",
     "categories": [
-      "content",
+      "social",
       "design"
     ],
-    "posted_at": "2026-11-24T04:20:19+00:00",
+    "posted_at": "2026-11-24T13:00:23+00:00",
+    "salary": "70000–85000 USD / yearly",
+    "stipend": "",
+    "employment_type": [
+      "Full-Time"
+    ],
+    "applicants": null,
+    "industry": "",
+    "function": "",
+    "experience": "fresher",
+    "score": 30,
+    "reasons": [
+      "Social match",
+      "Fresher-friendly signal"
+    ]
+  },
+  {
+    "type": "job",
+    "title": "IT Systems Administrator",
+    "company": "Kairos Power",
+    "location": "USA",
+    "location_key": "other",
+    "mode": "See listing",
+    "url": "https://jobicy.com/jobs/164115-it-systems-administrator",
+    "source": "Jobicy",
+    "categories": [
+      "marketing",
+      "operations"
+    ],
+    "posted_at": "2026-11-24T13:00:20+00:00",
+    "salary": "108700–127900 USD / yearly",
+    "stipend": "",
+    "employment_type": [
+      "Full-Time"
+    ],
+    "applicants": null,
+    "industry": "",
+    "function": "",
+    "experience": "fresher",
+    "score": 30,
+    "reasons": [
+      "Marketing match",
+      "Fresher-friendly signal"
+    ]
+  },
+  {
+    "type": "job",
+    "title": "Software Engineer- Agentic AI & Integrations",
+    "company": "WIN Home Inspection",
+    "location": "APAC",
+    "location_key": "other",
+    "mode": "See listing",
+    "url": "https://jobicy.com/jobs/164107-software-engineer-agentic-ai-integrations",
+    "source": "Jobicy",
+    "categories": [
+      "marketing",
+      "design"
+    ],
+    "posted_at": "2026-11-24T12:58:56+00:00",
     "salary": "",
     "stipend": "",
     "employment_type": [
@@ -14921,26 +14405,55 @@
     "experience": "fresher",
     "score": 30,
     "reasons": [
-      "Content match",
+      "Marketing match",
       "Fresher-friendly signal"
     ]
   },
   {
     "type": "job",
-    "title": "Senior Data Engineer",
-    "company": "Socure",
+    "title": "Account Manager, Mid-Market",
+    "company": "Apollo.io",
     "location": "USA",
     "location_key": "other",
     "mode": "See listing",
-    "url": "https://jobicy.com/jobs/153886-senior-data-engineer-4",
+    "url": "https://jobicy.com/jobs/164103-account-manager-mid-market-3",
     "source": "Jobicy",
     "categories": [
-      "social",
+      "marketing",
+      "sales"
+    ],
+    "posted_at": "2026-11-24T12:58:21+00:00",
+    "salary": "200000–210000 USD / yearly",
+    "stipend": "",
+    "employment_type": [
+      "Full-Time"
+    ],
+    "applicants": null,
+    "industry": "",
+    "function": "",
+    "experience": "fresher",
+    "score": 30,
+    "reasons": [
+      "Marketing match",
+      "Fresher-friendly signal"
+    ]
+  },
+  {
+    "type": "job",
+    "title": "Tech Lead - Video Templates",
+    "company": "Envato",
+    "location": "Mexico",
+    "location_key": "other",
+    "mode": "See listing",
+    "url": "https://jobicy.com/jobs/164092-tech-lead-video-templates-2",
+    "source": "Jobicy",
+    "categories": [
+      "content",
       "operations",
       "design"
     ],
-    "posted_at": "2026-11-24T04:20:17+00:00",
-    "salary": "160000–195000 USD / yearly",
+    "posted_at": "2026-11-24T11:49:40+00:00",
+    "salary": "",
     "stipend": "",
     "employment_type": [
       "Full-Time"
@@ -14951,23 +14464,140 @@
     "experience": "mid",
     "score": 30,
     "reasons": [
-      "Social match"
+      "Content match"
     ]
   },
   {
     "type": "job",
-    "title": "Staff Product Security Engineer (Security)",
-    "company": "Phantom",
-    "location": "Canada,  UK,  USA",
+    "title": "Staff Security Engineer",
+    "company": "OpenSea",
+    "location": "Europe,  USA",
     "location_key": "other",
     "mode": "See listing",
-    "url": "https://jobicy.com/jobs/153861-staff-product-security-engineer-security",
+    "url": "https://jobicy.com/jobs/164087-staff-security-engineer-2",
     "source": "Jobicy",
     "categories": [
-      "social",
+      "operations",
       "design"
     ],
-    "posted_at": "2026-11-24T04:20:15+00:00",
+    "posted_at": "2026-11-24T11:49:31+00:00",
+    "salary": "200000–295000 USD / yearly",
+    "stipend": "",
+    "employment_type": [
+      "Full-Time"
+    ],
+    "applicants": null,
+    "industry": "",
+    "function": "",
+    "experience": "fresher",
+    "score": 30,
+    "reasons": [
+      "Operations match",
+      "Fresher-friendly signal"
+    ]
+  },
+  {
+    "type": "job",
+    "title": "Staff Performance & Reliability Engineer",
+    "company": "Domino Data Lab",
+    "location": "USA",
+    "location_key": "other",
+    "mode": "See listing",
+    "url": "https://jobicy.com/jobs/164085-staff-performance-reliability-engineer",
+    "source": "Jobicy",
+    "categories": [
+      "marketing",
+      "sales",
+      "design"
+    ],
+    "posted_at": "2026-11-24T11:46:39+00:00",
+    "salary": "185000–210000 USD / yearly",
+    "stipend": "",
+    "employment_type": [
+      "Full-Time"
+    ],
+    "applicants": null,
+    "industry": "",
+    "function": "",
+    "experience": "mid",
+    "score": 30,
+    "reasons": [
+      "Marketing match"
+    ]
+  },
+  {
+    "type": "job",
+    "title": "Manager Security Engineer, Operations",
+    "company": "Fivetran",
+    "location": "USA",
+    "location_key": "other",
+    "mode": "See listing",
+    "url": "https://jobicy.com/jobs/164082-manager-security-engineer-operations",
+    "source": "Jobicy",
+    "categories": [
+      "sales",
+      "operations",
+      "design"
+    ],
+    "posted_at": "2026-11-24T11:46:20+00:00",
+    "salary": "186701–233376 USD / yearly",
+    "stipend": "",
+    "employment_type": [
+      "Full-Time"
+    ],
+    "applicants": null,
+    "industry": "",
+    "function": "",
+    "experience": "mid",
+    "score": 30,
+    "reasons": [
+      "Sales match"
+    ]
+  },
+  {
+    "type": "job",
+    "title": "Portfolio Customer Success Manager",
+    "company": "LastPass",
+    "location": "Canada",
+    "location_key": "other",
+    "mode": "See listing",
+    "url": "https://jobicy.com/jobs/164079-portfolio-customer-success-manager",
+    "source": "Jobicy",
+    "categories": [
+      "marketing",
+      "social",
+      "sales"
+    ],
+    "posted_at": "2026-11-24T11:46:16+00:00",
+    "salary": "",
+    "stipend": "",
+    "employment_type": [
+      "Full-Time"
+    ],
+    "applicants": null,
+    "industry": "",
+    "function": "",
+    "experience": "mid",
+    "score": 30,
+    "reasons": [
+      "Marketing match"
+    ]
+  },
+  {
+    "type": "job",
+    "title": "Solution Architect",
+    "company": "Domino Data Lab",
+    "location": "USA",
+    "location_key": "other",
+    "mode": "See listing",
+    "url": "https://jobicy.com/jobs/164078-solution-architect-5",
+    "source": "Jobicy",
+    "categories": [
+      "marketing",
+      "sales",
+      "design"
+    ],
+    "posted_at": "2026-11-24T11:46:14+00:00",
     "salary": "200000–250000 USD / yearly",
     "stipend": "",
     "employment_type": [
@@ -14976,10 +14606,154 @@
     "applicants": null,
     "industry": "",
     "function": "",
+    "experience": "mid",
+    "score": 30,
+    "reasons": [
+      "Marketing match"
+    ]
+  },
+  {
+    "type": "job",
+    "title": "Lead Technical Instructor",
+    "company": "Fivetran",
+    "location": "USA",
+    "location_key": "other",
+    "mode": "See listing",
+    "url": "https://jobicy.com/jobs/164075-lead-technical-instructor",
+    "source": "Jobicy",
+    "categories": [
+      "sales",
+      "design"
+    ],
+    "posted_at": "2026-11-24T11:46:10+00:00",
+    "salary": "125100–151200 USD / yearly",
+    "stipend": "",
+    "employment_type": [
+      "Full-Time"
+    ],
+    "applicants": null,
+    "industry": "",
+    "function": "",
     "experience": "fresher",
     "score": 30,
     "reasons": [
-      "Social match",
+      "Sales match",
+      "Fresher-friendly signal"
+    ]
+  },
+  {
+    "type": "job",
+    "title": "Senior IT Manager",
+    "company": "PolicyMe",
+    "location": "Canada",
+    "location_key": "other",
+    "mode": "See listing",
+    "url": "https://jobicy.com/jobs/164070-senior-it-manager-2",
+    "source": "Jobicy",
+    "categories": [
+      "marketing",
+      "operations",
+      "design"
+    ],
+    "posted_at": "2026-11-24T11:25:33+00:00",
+    "salary": "",
+    "stipend": "",
+    "employment_type": [
+      "Full-Time"
+    ],
+    "applicants": null,
+    "industry": "",
+    "function": "",
+    "experience": "mid",
+    "score": 30,
+    "reasons": [
+      "Marketing match"
+    ]
+  },
+  {
+    "type": "job",
+    "title": "Senior Consultant, Sales Effectiveness",
+    "company": "Forma.ai",
+    "location": "Canada,  USA",
+    "location_key": "other",
+    "mode": "See listing",
+    "url": "https://jobicy.com/jobs/164068-senior-consultant-sales-effectiveness",
+    "source": "Jobicy",
+    "categories": [
+      "marketing",
+      "sales",
+      "design"
+    ],
+    "posted_at": "2026-11-24T11:25:29+00:00",
+    "salary": "120000–150000  / yearly",
+    "stipend": "",
+    "employment_type": [
+      "Full-Time"
+    ],
+    "applicants": null,
+    "industry": "",
+    "function": "",
+    "experience": "mid",
+    "score": 30,
+    "reasons": [
+      "Marketing match"
+    ]
+  },
+  {
+    "type": "job",
+    "title": "Contract Life Sciences Recruiter",
+    "company": "CAI",
+    "location": "USA",
+    "location_key": "other",
+    "mode": "See listing",
+    "url": "https://jobicy.com/jobs/164066-contract-life-sciences-recruiter",
+    "source": "Jobicy",
+    "categories": [
+      "social",
+      "operations",
+      "design"
+    ],
+    "posted_at": "2026-11-24T11:25:26+00:00",
+    "salary": "65000–85000 USD / yearly",
+    "stipend": "",
+    "employment_type": [
+      "Contract"
+    ],
+    "applicants": null,
+    "industry": "",
+    "function": "",
+    "experience": "mid",
+    "score": 30,
+    "reasons": [
+      "Social match"
+    ]
+  },
+  {
+    "type": "job",
+    "title": "(787) HR Analyst",
+    "company": "Arlo Solutions",
+    "location": "USA",
+    "location_key": "other",
+    "mode": "See listing",
+    "url": "https://jobicy.com/jobs/164065-787-hr-analyst",
+    "source": "Jobicy",
+    "categories": [
+      "operations",
+      "design"
+    ],
+    "posted_at": "2026-11-24T11:25:24+00:00",
+    "salary": "",
+    "stipend": "",
+    "employment_type": [
+      "Full-Time"
+    ],
+    "applicants": null,
+    "industry": "",
+    "function": "",
+    "experience": "fresher",
+    "score": 30,
+    "reasons": [
+      "Operations match",
       "Fresher-friendly signal"
     ]
   },
@@ -15066,60 +14840,6 @@
   },
   {
     "type": "job",
-    "title": "Buyer I",
-    "company": "Jabil",
-    "location": "India",
-    "location_key": "india",
-    "mode": "Remote",
-    "url": "https://himalayas.app/companies/jabil/jobs/buyer-i-8090946422?utm_source=api",
-    "source": "Himalayas",
-    "categories": [
-      "marketing"
-    ],
-    "posted_at": "2026-11-19T16:40:17+00:00",
-    "salary": "",
-    "stipend": "",
-    "employment_type": "Full Time",
-    "applicants": null,
-    "industry": "",
-    "function": "",
-    "experience": "junior",
-    "score": 28,
-    "reasons": [
-      "Marketing match",
-      "Early-career signal",
-      "India signal"
-    ]
-  },
-  {
-    "type": "job",
-    "title": "Sr Developer - NodeJS",
-    "company": "CocoTechoes",
-    "location": "India",
-    "location_key": "india",
-    "mode": "Remote",
-    "url": "https://himalayas.app/companies/cocotechoes/jobs/sr-developer-nodejs?utm_source=api",
-    "source": "Himalayas",
-    "categories": [
-      "design"
-    ],
-    "posted_at": "2026-11-19T16:39:00+00:00",
-    "salary": "",
-    "stipend": "",
-    "employment_type": "Full Time",
-    "applicants": null,
-    "industry": "",
-    "function": "",
-    "experience": "junior",
-    "score": 28,
-    "reasons": [
-      "Design match",
-      "Early-career signal",
-      "India signal"
-    ]
-  },
-  {
-    "type": "job",
     "title": "Mainframe Developer (India)",
     "company": "Komforce",
     "location": "India",
@@ -15170,35 +14890,6 @@
       "Operations match",
       "Fresher-friendly signal",
       "Remote"
-    ]
-  },
-  {
-    "type": "job",
-    "title": "Staff Backend Engineer",
-    "company": "Socure",
-    "location": "USA",
-    "location_key": "other",
-    "mode": "See listing",
-    "url": "https://jobicy.com/jobs/153889-staff-backend-engineer-3",
-    "source": "Jobicy",
-    "categories": [
-      "social",
-      "design"
-    ],
-    "posted_at": "2026-11-24T04:25:45+00:00",
-    "salary": "225000–265000 USD / yearly",
-    "stipend": "",
-    "employment_type": [
-      "Full-Time"
-    ],
-    "applicants": null,
-    "industry": "",
-    "function": "",
-    "experience": "junior",
-    "score": 26,
-    "reasons": [
-      "Social match",
-      "Early-career signal"
     ]
   },
   {
@@ -15281,18 +14972,18 @@
   },
   {
     "type": "job",
-    "title": "Jr. HR Associate (Talent Acquisition)",
-    "company": "Fresh Prints",
-    "location": "Philippines",
+    "title": "Member Support Specialist",
+    "company": "Fruitful Ventures",
+    "location": "USA",
     "location_key": "other",
     "mode": "See listing",
-    "url": "https://jobicy.com/jobs/156758-jr-hr-associate-talent-acquisition",
+    "url": "https://jobicy.com/jobs/164151-member-support-specialist",
     "source": "Jobicy",
     "categories": [
-      "other"
+      "design"
     ],
-    "posted_at": "2026-11-24T04:30:41+00:00",
-    "salary": "400–400 USD / monthly",
+    "posted_at": "2026-11-24T15:19:11+00:00",
+    "salary": "",
     "stipend": "",
     "employment_type": [
       "Full-Time"
@@ -15303,24 +14994,24 @@
     "experience": "fresher",
     "score": 24,
     "reasons": [
-      "Other match",
+      "Design match",
       "Fresher-friendly signal"
     ]
   },
   {
     "type": "job",
-    "title": "Sales Account Executive 2 - Enterprise",
-    "company": "Zscaler",
-    "location": "Netherlands",
+    "title": "Strategic Account Executive",
+    "company": "Twilio",
+    "location": "Ireland,  Spain,  UK",
     "location_key": "other",
     "mode": "See listing",
-    "url": "https://jobicy.com/jobs/156729-sales-account-executive-2-enterprise",
+    "url": "https://jobicy.com/jobs/164143-strategic-account-executive-19",
     "source": "Jobicy",
     "categories": [
       "marketing",
       "sales"
     ],
-    "posted_at": "2026-11-24T04:30:23+00:00",
+    "posted_at": "2026-11-24T14:44:34+00:00",
     "salary": "",
     "stipend": "",
     "employment_type": [
@@ -15337,58 +15028,29 @@
   },
   {
     "type": "job",
-    "title": "New Business Account Executive (Hebrew speaker)",
-    "company": "Twilio",
-    "location": "Ireland,  Spain,  UK",
-    "location_key": "other",
-    "mode": "See listing",
-    "url": "https://jobicy.com/jobs/164029-new-business-account-executive-hebrew-speaker",
-    "source": "Jobicy",
+    "title": "Strategic Technical Advisor",
+    "company": "Thrive",
+    "location": "Remote",
+    "location_key": "remote",
+    "mode": "Remote",
+    "url": "https://remoteOK.com/remote-jobs/remote-strategic-technical-advisor-thrive-1138074",
+    "source": "Remote OK",
     "categories": [
-      "sales"
+      "other"
     ],
-    "posted_at": "2026-11-23T18:35:14+00:00",
+    "posted_at": "2026-11-23T16:00:27+00:00",
     "salary": "",
     "stipend": "",
-    "employment_type": [
-      "Full-Time"
-    ],
+    "employment_type": "",
     "applicants": null,
     "industry": "",
     "function": "",
     "experience": "fresher",
-    "score": 24,
+    "score": 23,
     "reasons": [
-      "Sales match",
-      "Fresher-friendly signal"
-    ]
-  },
-  {
-    "type": "job",
-    "title": "New Business Account Executive (French speaker)",
-    "company": "Twilio",
-    "location": "Ireland,  Spain,  UK",
-    "location_key": "other",
-    "mode": "See listing",
-    "url": "https://jobicy.com/jobs/164027-new-business-account-executive-french-speaker",
-    "source": "Jobicy",
-    "categories": [
-      "sales"
-    ],
-    "posted_at": "2026-11-23T18:34:42+00:00",
-    "salary": "",
-    "stipend": "",
-    "employment_type": [
-      "Full-Time"
-    ],
-    "applicants": null,
-    "industry": "",
-    "function": "",
-    "experience": "fresher",
-    "score": 24,
-    "reasons": [
-      "Sales match",
-      "Fresher-friendly signal"
+      "Other match",
+      "Fresher-friendly signal",
+      "Remote"
     ]
   },
   {
@@ -15632,6 +15294,58 @@
       "Content match",
       "Fresher-friendly signal",
       "Remote"
+    ]
+  },
+  {
+    "type": "job",
+    "title": "Team Member - Offsite Audit, Concurrent Audit & QA| Mumbai",
+    "company": "CSB Bank Limited",
+    "location": "India",
+    "location_key": "india",
+    "mode": "Remote",
+    "url": "https://himalayas.app/companies/csb-bank/jobs/team-member-offsite-audit-concurrent-audit-qa-mumbai?utm_source=api",
+    "source": "Himalayas",
+    "categories": [
+      "other"
+    ],
+    "posted_at": "2026-11-24T21:35:36+00:00",
+    "salary": "",
+    "stipend": "",
+    "employment_type": "Full Time",
+    "applicants": null,
+    "industry": "",
+    "function": "",
+    "experience": "unknown",
+    "score": 22,
+    "reasons": [
+      "Other match",
+      "India signal"
+    ]
+  },
+  {
+    "type": "job",
+    "title": "Technical Support Engineer (financial consolidation & FPA)",
+    "company": "insightsoftware",
+    "location": "India",
+    "location_key": "india",
+    "mode": "Remote",
+    "url": "https://himalayas.app/companies/insightsoftware/jobs/technical-support-engineer-financial-consolidation-fpa?utm_source=api",
+    "source": "Himalayas",
+    "categories": [
+      "other"
+    ],
+    "posted_at": "2026-11-24T20:10:35+00:00",
+    "salary": "",
+    "stipend": "",
+    "employment_type": "Full Time",
+    "applicants": null,
+    "industry": "",
+    "function": "",
+    "experience": "mid",
+    "score": 22,
+    "reasons": [
+      "Other match",
+      "India signal"
     ]
   },
   {
@@ -16442,58 +16156,6 @@
   },
   {
     "type": "job",
-    "title": "Oracle EBS Functional Consultant",
-    "company": "Ness USA, Inc.",
-    "location": "India",
-    "location_key": "india",
-    "mode": "Remote",
-    "url": "https://himalayas.app/companies/ness-usa-inc/jobs/oracle-ebs-functional-consultant?utm_source=api",
-    "source": "Himalayas",
-    "categories": [
-      "design"
-    ],
-    "posted_at": "2026-11-19T16:40:25+00:00",
-    "salary": "",
-    "stipend": "",
-    "employment_type": "Full Time",
-    "applicants": null,
-    "industry": "",
-    "function": "",
-    "experience": "unknown",
-    "score": 22,
-    "reasons": [
-      "Design match",
-      "India signal"
-    ]
-  },
-  {
-    "type": "job",
-    "title": "Manufacturing Engineer 2",
-    "company": "Jabil",
-    "location": "India",
-    "location_key": "india",
-    "mode": "Remote",
-    "url": "https://himalayas.app/companies/jabil/jobs/manufacturing-engineer-2?utm_source=api",
-    "source": "Himalayas",
-    "categories": [
-      "marketing"
-    ],
-    "posted_at": "2026-11-19T16:40:17+00:00",
-    "salary": "",
-    "stipend": "",
-    "employment_type": "Full Time",
-    "applicants": null,
-    "industry": "",
-    "function": "",
-    "experience": "mid",
-    "score": 22,
-    "reasons": [
-      "Marketing match",
-      "India signal"
-    ]
-  },
-  {
-    "type": "job",
     "title": "Quality control tech",
     "company": "Syneos Health India Private Limited",
     "location": "India",
@@ -16541,32 +16203,6 @@
     "score": 22,
     "reasons": [
       "Other match",
-      "India signal"
-    ]
-  },
-  {
-    "type": "job",
-    "title": "Cloud and Observability Engineer (Remote Role, 6pm - 3am)",
-    "company": "Coralogix",
-    "location": "India",
-    "location_key": "india",
-    "mode": "Remote",
-    "url": "https://himalayas.app/companies/coralogix/jobs/cloud-and-observability-engineer-remote-role-6pm-3am?utm_source=api",
-    "source": "Himalayas",
-    "categories": [
-      "design"
-    ],
-    "posted_at": "2026-11-19T16:39:06+00:00",
-    "salary": "",
-    "stipend": "",
-    "employment_type": "Full Time",
-    "applicants": null,
-    "industry": "",
-    "function": "",
-    "experience": "unknown",
-    "score": 22,
-    "reasons": [
-      "Design match",
       "India signal"
     ]
   },
@@ -16884,45 +16520,47 @@
   },
   {
     "type": "job",
-    "title": "Thermal / CFD Simulation Engineer, AI Training (Remote, USD 22/hr)",
-    "company": "RustLabs",
-    "location": "India",
-    "location_key": "india",
-    "mode": "Remote",
-    "url": "https://himalayas.app/companies/rustlabs/jobs/thermal-cfd-simulation-engineer-ai-training-remote-usd-22-hr?utm_source=api",
-    "source": "Himalayas",
+    "title": "Client Success Manager",
+    "company": "BlackCloak",
+    "location": "USA",
+    "location_key": "other",
+    "mode": "See listing",
+    "url": "https://jobicy.com/jobs/164188-client-success-manager-7",
+    "source": "Jobicy",
     "categories": [
-      "other"
+      "social"
     ],
-    "posted_at": "2026-11-18T04:54:03+00:00",
-    "salary": "22–22 USD / hourly",
+    "posted_at": "2026-11-24T18:53:09+00:00",
+    "salary": "55000–70000 USD / yearly",
     "stipend": "",
-    "employment_type": "Contractor",
+    "employment_type": [
+      "Full-Time"
+    ],
     "applicants": null,
     "industry": "",
     "function": "",
-    "experience": "mid",
-    "score": 22,
+    "experience": "fresher",
+    "score": 20,
     "reasons": [
-      "Other match",
-      "India signal"
+      "Social match",
+      "Fresher-friendly signal"
     ]
   },
   {
     "type": "job",
-    "title": "AI Agent Engineer",
-    "company": "Binance",
-    "location": "Hong Kong,  Singapore",
+    "title": "Cloud Security Lead",
+    "company": "AppOmni",
+    "location": "USA",
     "location_key": "other",
     "mode": "See listing",
-    "url": "https://jobicy.com/jobs/156835-ai-agent-engineer",
+    "url": "https://jobicy.com/jobs/164182-cloud-security-lead",
     "source": "Jobicy",
     "categories": [
       "marketing",
-      "design"
+      "operations"
     ],
-    "posted_at": "2026-11-24T04:45:27+00:00",
-    "salary": "",
+    "posted_at": "2026-11-24T18:53:00+00:00",
+    "salary": "196000–264500 USD / yearly",
     "stipend": "",
     "employment_type": [
       "Full-Time"
@@ -16938,73 +16576,17 @@
   },
   {
     "type": "job",
-    "title": "Software Engineer",
-    "company": "PolicyMe",
-    "location": "Canada",
+    "title": "Senior HPC Cluster Engineer",
+    "company": "Nebius",
+    "location": "Europe",
     "location_key": "other",
     "mode": "See listing",
-    "url": "https://jobicy.com/jobs/156829-software-engineer-13",
-    "source": "Jobicy",
-    "categories": [
-      "marketing",
-      "design"
-    ],
-    "posted_at": "2026-11-24T04:45:15+00:00",
-    "salary": "",
-    "stipend": "",
-    "employment_type": [
-      "Full-Time"
-    ],
-    "applicants": null,
-    "industry": "",
-    "function": "",
-    "experience": "mid",
-    "score": 20,
-    "reasons": [
-      "Marketing match"
-    ]
-  },
-  {
-    "type": "job",
-    "title": "Operations & Strategy Manager (Mexico)",
-    "company": "Dandy",
-    "location": "Mexico",
-    "location_key": "other",
-    "mode": "See listing",
-    "url": "https://jobicy.com/jobs/156794-operations-strategy-manager-mexico",
-    "source": "Jobicy",
-    "categories": [
-      "operations",
-      "design"
-    ],
-    "posted_at": "2026-11-24T04:40:27+00:00",
-    "salary": "",
-    "stipend": "",
-    "employment_type": [
-      "Full-Time"
-    ],
-    "applicants": null,
-    "industry": "",
-    "function": "",
-    "experience": "mid",
-    "score": 20,
-    "reasons": [
-      "Operations match"
-    ]
-  },
-  {
-    "type": "job",
-    "title": "Payroll Tax and Compliance Analyst",
-    "company": "Twilio",
-    "location": "Ireland",
-    "location_key": "other",
-    "mode": "See listing",
-    "url": "https://jobicy.com/jobs/156786-payroll-tax-and-compliance-analyst",
+    "url": "https://jobicy.com/jobs/164170-senior-hpc-cluster-engineer-2",
     "source": "Jobicy",
     "categories": [
       "marketing"
     ],
-    "posted_at": "2026-11-24T04:40:20+00:00",
+    "posted_at": "2026-11-24T15:26:02+00:00",
     "salary": "",
     "stipend": "",
     "employment_type": [
@@ -17022,157 +16604,17 @@
   },
   {
     "type": "job",
-    "title": "Sales Engineer - France",
-    "company": "Zscaler",
-    "location": "France",
+    "title": "Software Engineer (L2) Supernetwork",
+    "company": "Twilio",
+    "location": "Ireland",
     "location_key": "other",
     "mode": "See listing",
-    "url": "https://jobicy.com/jobs/156782-sales-engineer-france",
-    "source": "Jobicy",
-    "categories": [
-      "marketing",
-      "sales"
-    ],
-    "posted_at": "2026-11-24T04:40:18+00:00",
-    "salary": "",
-    "stipend": "",
-    "employment_type": [
-      "Full-Time"
-    ],
-    "applicants": null,
-    "industry": "",
-    "function": "",
-    "experience": "mid",
-    "score": 20,
-    "reasons": [
-      "Marketing match"
-    ]
-  },
-  {
-    "type": "job",
-    "title": "Regional Director, Data Security - EMEA & APJ",
-    "company": "Zscaler",
-    "location": "Netherlands,  UK",
-    "location_key": "other",
-    "mode": "See listing",
-    "url": "https://jobicy.com/jobs/156775-regional-director-data-security-emea-apj",
-    "source": "Jobicy",
-    "categories": [
-      "marketing",
-      "sales"
-    ],
-    "posted_at": "2026-11-24T04:40:14+00:00",
-    "salary": "",
-    "stipend": "",
-    "employment_type": [
-      "Full-Time"
-    ],
-    "applicants": null,
-    "industry": "",
-    "function": "",
-    "experience": "mid",
-    "score": 20,
-    "reasons": [
-      "Marketing match"
-    ]
-  },
-  {
-    "type": "job",
-    "title": "Senior Sales Engineer",
-    "company": "Veeam Software",
-    "location": "Germany",
-    "location_key": "other",
-    "mode": "See listing",
-    "url": "https://jobicy.com/jobs/156706-senior-sales-engineer-8",
-    "source": "Jobicy",
-    "categories": [
-      "marketing",
-      "sales"
-    ],
-    "posted_at": "2026-11-24T04:30:48+00:00",
-    "salary": "",
-    "stipend": "",
-    "employment_type": [
-      "Full-Time"
-    ],
-    "applicants": null,
-    "industry": "",
-    "function": "",
-    "experience": "mid",
-    "score": 20,
-    "reasons": [
-      "Marketing match"
-    ]
-  },
-  {
-    "type": "job",
-    "title": "Psychotherapist",
-    "company": "Athena",
-    "location": "USA",
-    "location_key": "other",
-    "mode": "See listing",
-    "url": "https://jobicy.com/jobs/153857-psychotherapist",
-    "source": "Jobicy",
-    "categories": [
-      "social",
-      "design"
-    ],
-    "posted_at": "2026-11-24T04:25:50+00:00",
-    "salary": "50000–100000 USD / yearly",
-    "stipend": "",
-    "employment_type": [
-      "Full-Time"
-    ],
-    "applicants": null,
-    "industry": "",
-    "function": "",
-    "experience": "unknown",
-    "score": 20,
-    "reasons": [
-      "Social match"
-    ]
-  },
-  {
-    "type": "job",
-    "title": "International Audio/Video Remote Hakha Chin Interpreter",
-    "company": "Language Services Associates",
-    "location": "Anywhere",
-    "location_key": "other",
-    "mode": "See listing",
-    "url": "https://jobicy.com/jobs/153916-international-audio-video-remote-hakha-chin-interpreter",
-    "source": "Jobicy",
-    "categories": [
-      "social"
-    ],
-    "posted_at": "2026-11-24T04:25:48+00:00",
-    "salary": "",
-    "stipend": "",
-    "employment_type": [
-      "Contract"
-    ],
-    "applicants": null,
-    "industry": "",
-    "function": "",
-    "experience": "fresher",
-    "score": 20,
-    "reasons": [
-      "Social match",
-      "Fresher-friendly signal"
-    ]
-  },
-  {
-    "type": "job",
-    "title": "Controls Engineer II",
-    "company": "ICON plc",
-    "location": "USA",
-    "location_key": "other",
-    "mode": "See listing",
-    "url": "https://jobicy.com/jobs/151368-controls-engineer-ii",
+    "url": "https://jobicy.com/jobs/164140-software-engineer-l2-supernetwork",
     "source": "Jobicy",
     "categories": [
       "design"
     ],
-    "posted_at": "2026-11-24T04:25:47+00:00",
+    "posted_at": "2026-11-24T14:44:06+00:00",
     "salary": "",
     "stipend": "",
     "employment_type": [
@@ -17190,130 +16632,18 @@
   },
   {
     "type": "job",
-    "title": "Audio Engineering (Freelance)",
-    "company": "Elevenlabs",
-    "location": "Poland,  UK,  USA",
+    "title": "Presales Architect",
+    "company": "Twilio",
+    "location": "Singapore",
     "location_key": "other",
     "mode": "See listing",
-    "url": "https://jobicy.com/jobs/156709-audio-engineering-freelance",
+    "url": "https://jobicy.com/jobs/164136-presales-architect-2",
     "source": "Jobicy",
     "categories": [
-      "creator",
+      "sales",
       "design"
     ],
-    "posted_at": "2026-11-24T04:25:32+00:00",
-    "salary": "",
-    "stipend": "",
-    "employment_type": [
-      "Contract"
-    ],
-    "applicants": null,
-    "industry": "",
-    "function": "",
-    "experience": "mid",
-    "score": 20,
-    "reasons": [
-      "Creator match"
-    ]
-  },
-  {
-    "type": "job",
-    "title": "Part-Time Psychotherapist (Saturday & Sunday)",
-    "company": "Athena",
-    "location": "USA",
-    "location_key": "other",
-    "mode": "See listing",
-    "url": "https://jobicy.com/jobs/153850-part-time-psychotherapist-saturday-sunday",
-    "source": "Jobicy",
-    "categories": [
-      "social",
-      "design"
-    ],
-    "posted_at": "2026-11-24T04:25:27+00:00",
-    "salary": "50000–100000 USD / yearly",
-    "stipend": "",
-    "employment_type": [
-      "Part-Time"
-    ],
-    "applicants": null,
-    "industry": "",
-    "function": "",
-    "experience": "unknown",
-    "score": 20,
-    "reasons": [
-      "Social match"
-    ]
-  },
-  {
-    "type": "job",
-    "title": "Psychosociaal Medewerker",
-    "company": "BetterHelp",
-    "location": "Netherlands",
-    "location_key": "other",
-    "mode": "See listing",
-    "url": "https://jobicy.com/jobs/153908-psychosociaal-medewerker",
-    "source": "Jobicy",
-    "categories": [
-      "other"
-    ],
-    "posted_at": "2026-11-24T04:25:18+00:00",
-    "salary": "",
-    "stipend": "",
-    "employment_type": [
-      "Contract"
-    ],
-    "applicants": null,
-    "industry": "",
-    "function": "",
-    "experience": "fresher",
-    "score": 20,
-    "reasons": [
-      "Other match",
-      "Fresher-friendly signal"
-    ]
-  },
-  {
-    "type": "job",
-    "title": "Psychosociaal Therapeut",
-    "company": "BetterHelp",
-    "location": "Netherlands",
-    "location_key": "other",
-    "mode": "See listing",
-    "url": "https://jobicy.com/jobs/153910-psychosociaal-therapeut",
-    "source": "Jobicy",
-    "categories": [
-      "other"
-    ],
-    "posted_at": "2026-11-24T04:25:15+00:00",
-    "salary": "",
-    "stipend": "",
-    "employment_type": [
-      "Contract"
-    ],
-    "applicants": null,
-    "industry": "",
-    "function": "",
-    "experience": "fresher",
-    "score": 20,
-    "reasons": [
-      "Other match",
-      "Fresher-friendly signal"
-    ]
-  },
-  {
-    "type": "job",
-    "title": "Senior Systems Engineer",
-    "company": "Veeam Software",
-    "location": "Germany",
-    "location_key": "other",
-    "mode": "See listing",
-    "url": "https://jobicy.com/jobs/156708-senior-systems-engineer-3",
-    "source": "Jobicy",
-    "categories": [
-      "marketing",
-      "sales"
-    ],
-    "posted_at": "2026-11-24T04:25:13+00:00",
+    "posted_at": "2026-11-24T14:43:59+00:00",
     "salary": "",
     "stipend": "",
     "employment_type": [
@@ -17325,135 +16655,23 @@
     "experience": "mid",
     "score": 20,
     "reasons": [
-      "Marketing match"
+      "Sales match"
     ]
   },
   {
     "type": "job",
-    "title": "International Audio/Video Remote Karen and Thai Interpreter",
-    "company": "Language Services Associates",
-    "location": "Anywhere",
+    "title": "Forward Deployed Engineer",
+    "company": "Enode",
+    "location": "Europe",
     "location_key": "other",
     "mode": "See listing",
-    "url": "https://jobicy.com/jobs/153919-international-audio-video-remote-karen-and-thai-interpreter",
-    "source": "Jobicy",
-    "categories": [
-      "social"
-    ],
-    "posted_at": "2026-11-24T04:25:11+00:00",
-    "salary": "",
-    "stipend": "",
-    "employment_type": [
-      "Contract"
-    ],
-    "applicants": null,
-    "industry": "",
-    "function": "",
-    "experience": "fresher",
-    "score": 20,
-    "reasons": [
-      "Social match",
-      "Fresher-friendly signal"
-    ]
-  },
-  {
-    "type": "job",
-    "title": "Psycholoog",
-    "company": "BetterHelp",
-    "location": "Netherlands",
-    "location_key": "other",
-    "mode": "See listing",
-    "url": "https://jobicy.com/jobs/153903-psycholoog",
-    "source": "Jobicy",
-    "categories": [
-      "other"
-    ],
-    "posted_at": "2026-11-24T04:25:08+00:00",
-    "salary": "",
-    "stipend": "",
-    "employment_type": [
-      "Contract"
-    ],
-    "applicants": null,
-    "industry": "",
-    "function": "",
-    "experience": "fresher",
-    "score": 20,
-    "reasons": [
-      "Other match",
-      "Fresher-friendly signal"
-    ]
-  },
-  {
-    "type": "job",
-    "title": "Psychosociaal Counselor",
-    "company": "BetterHelp",
-    "location": "Netherlands",
-    "location_key": "other",
-    "mode": "See listing",
-    "url": "https://jobicy.com/jobs/153906-psychosociaal-counselor",
-    "source": "Jobicy",
-    "categories": [
-      "other"
-    ],
-    "posted_at": "2026-11-24T04:25:05+00:00",
-    "salary": "",
-    "stipend": "",
-    "employment_type": [
-      "Contract"
-    ],
-    "applicants": null,
-    "industry": "",
-    "function": "",
-    "experience": "fresher",
-    "score": 20,
-    "reasons": [
-      "Other match",
-      "Fresher-friendly signal"
-    ]
-  },
-  {
-    "type": "job",
-    "title": "Clinical Data Team Lead",
-    "company": "Thermo Fisher Scientific",
-    "location": "Mexico",
-    "location_key": "other",
-    "mode": "See listing",
-    "url": "https://jobicy.com/jobs/149471-clinical-data-team-lead",
-    "source": "Jobicy",
-    "categories": [
-      "sales"
-    ],
-    "posted_at": "2026-11-24T04:20:31+00:00",
-    "salary": "",
-    "stipend": "",
-    "employment_type": [
-      "Full-Time"
-    ],
-    "applicants": null,
-    "industry": "",
-    "function": "",
-    "experience": "fresher",
-    "score": 20,
-    "reasons": [
-      "Sales match",
-      "Fresher-friendly signal"
-    ]
-  },
-  {
-    "type": "job",
-    "title": "Customer Service Rep Up to 19/hour - No Degree Needed",
-    "company": "NoGigiddy",
-    "location": "USA",
-    "location_key": "other",
-    "mode": "See listing",
-    "url": "https://jobicy.com/jobs/149437-customer-service-rep-up-to-19-hour-no-degree-needed",
+    "url": "https://jobicy.com/jobs/164135-forward-deployed-engineer-15",
     "source": "Jobicy",
     "categories": [
       "marketing"
     ],
-    "posted_at": "2026-11-24T04:20:20+00:00",
-    "salary": "38000–38000 USD / yearly",
+    "posted_at": "2026-11-24T14:43:57+00:00",
+    "salary": "",
     "stipend": "",
     "employment_type": [
       "Full-Time"
@@ -17470,18 +16688,19 @@
   },
   {
     "type": "job",
-    "title": "Financial Analyst",
-    "company": "CertiK",
+    "title": "GL Accountant",
+    "company": "Teamshares",
     "location": "USA",
     "location_key": "other",
     "mode": "See listing",
-    "url": "https://jobicy.com/jobs/156856-financial-analyst-3",
+    "url": "https://jobicy.com/jobs/164130-gl-accountant",
     "source": "Jobicy",
     "categories": [
-      "sales"
+      "sales",
+      "design"
     ],
-    "posted_at": "2026-11-24T04:45:17+00:00",
-    "salary": "70000–90000 USD / yearly",
+    "posted_at": "2026-11-24T14:39:49+00:00",
+    "salary": "70000–75000 USD / yearly",
     "stipend": "",
     "employment_type": [
       "Full-Time"
@@ -17489,11 +16708,150 @@
     "applicants": null,
     "industry": "",
     "function": "",
-    "experience": "junior",
-    "score": 16,
+    "experience": "mid",
+    "score": 20,
     "reasons": [
-      "Sales match",
-      "Early-career signal"
+      "Sales match"
+    ]
+  },
+  {
+    "type": "job",
+    "title": "Senior Software Engineer, Consumer Facing Web Products",
+    "company": "NerdWallet",
+    "location": "USA",
+    "location_key": "other",
+    "mode": "See listing",
+    "url": "https://jobicy.com/jobs/164119-senior-software-engineer-consumer-facing-web-products",
+    "source": "Jobicy",
+    "categories": [
+      "content",
+      "design"
+    ],
+    "posted_at": "2026-11-24T13:00:58+00:00",
+    "salary": "136000–252000 USD / yearly",
+    "stipend": "",
+    "employment_type": [
+      "Full-Time"
+    ],
+    "applicants": null,
+    "industry": "",
+    "function": "",
+    "experience": "mid",
+    "score": 20,
+    "reasons": [
+      "Content match"
+    ]
+  },
+  {
+    "type": "job",
+    "title": "Backend Software Engineer — Secure Mission Systems",
+    "company": "Rackner",
+    "location": "USA",
+    "location_key": "other",
+    "mode": "See listing",
+    "url": "https://jobicy.com/jobs/164109-backend-software-engineer-secure-mission-systems",
+    "source": "Jobicy",
+    "categories": [
+      "marketing",
+      "design"
+    ],
+    "posted_at": "2026-11-24T13:00:06+00:00",
+    "salary": "",
+    "stipend": "",
+    "employment_type": [
+      "Full-Time"
+    ],
+    "applicants": null,
+    "industry": "",
+    "function": "",
+    "experience": "unknown",
+    "score": 20,
+    "reasons": [
+      "Marketing match"
+    ]
+  },
+  {
+    "type": "job",
+    "title": "Broker Account Manager",
+    "company": "Wayflyer",
+    "location": "USA",
+    "location_key": "other",
+    "mode": "See listing",
+    "url": "https://jobicy.com/jobs/164099-broker-account-manager",
+    "source": "Jobicy",
+    "categories": [
+      "marketing",
+      "sales"
+    ],
+    "posted_at": "2026-11-24T12:58:15+00:00",
+    "salary": "",
+    "stipend": "",
+    "employment_type": [
+      "Full-Time"
+    ],
+    "applicants": null,
+    "industry": "",
+    "function": "",
+    "experience": "mid",
+    "score": 20,
+    "reasons": [
+      "Marketing match"
+    ]
+  },
+  {
+    "type": "job",
+    "title": "Software Tester (Freelance) | Test AT&T U-verse & Cox",
+    "company": "Testlio",
+    "location": "USA",
+    "location_key": "other",
+    "mode": "See listing",
+    "url": "https://jobicy.com/jobs/164073-software-tester-freelance-test-att-u-verse-cox",
+    "source": "Jobicy",
+    "categories": [
+      "marketing",
+      "social"
+    ],
+    "posted_at": "2026-11-24T11:25:51+00:00",
+    "salary": "18–18 USD / hourly",
+    "stipend": "",
+    "employment_type": [
+      "Contract"
+    ],
+    "applicants": null,
+    "industry": "",
+    "function": "",
+    "experience": "mid",
+    "score": 20,
+    "reasons": [
+      "Marketing match"
+    ]
+  },
+  {
+    "type": "job",
+    "title": "Freelance Product Tester (Remote) | Test AT&T U-verse & Cox",
+    "company": "Testlio",
+    "location": "USA",
+    "location_key": "other",
+    "mode": "See listing",
+    "url": "https://jobicy.com/jobs/164067-freelance-product-tester-remote-test-att-u-verse-cox",
+    "source": "Jobicy",
+    "categories": [
+      "marketing",
+      "social"
+    ],
+    "posted_at": "2026-11-24T11:25:27+00:00",
+    "salary": "18–18 USD / hourly",
+    "stipend": "",
+    "employment_type": [
+      "Contract"
+    ],
+    "applicants": null,
+    "industry": "",
+    "function": "",
+    "experience": "mid",
+    "score": 20,
+    "reasons": [
+      "Marketing match"
     ]
   },
   {
@@ -17550,18 +16908,72 @@
   },
   {
     "type": "job",
-    "title": "Manager, Legal Lateral Recruiting",
-    "company": "livingHR",
+    "title": "Tax Lead, Nino",
+    "company": "CoinTracker",
     "location": "USA",
     "location_key": "other",
     "mode": "See listing",
-    "url": "https://jobicy.com/jobs/156759-manager-legal-lateral-recruiting",
+    "url": "https://jobicy.com/jobs/164184-tax-lead-nino",
+    "source": "Jobicy",
+    "categories": [
+      "sales"
+    ],
+    "posted_at": "2026-11-24T18:53:04+00:00",
+    "salary": "137000–162000 USD / yearly",
+    "stipend": "",
+    "employment_type": [
+      "Full-Time"
+    ],
+    "applicants": null,
+    "industry": "",
+    "function": "",
+    "experience": "mid",
+    "score": 10,
+    "reasons": [
+      "Sales match"
+    ]
+  },
+  {
+    "type": "job",
+    "title": "Financial Reporting & Technical Accounting Sr Analyst",
+    "company": "Dropbox",
+    "location": "Canada",
+    "location_key": "other",
+    "mode": "See listing",
+    "url": "https://jobicy.com/jobs/164156-financial-reporting-technical-accounting-sr-analyst",
+    "source": "Jobicy",
+    "categories": [
+      "other"
+    ],
+    "posted_at": "2026-11-24T15:19:19+00:00",
+    "salary": "100700–136300 CAD / yearly",
+    "stipend": "",
+    "employment_type": [
+      "Full-Time"
+    ],
+    "applicants": null,
+    "industry": "",
+    "function": "",
+    "experience": "mid",
+    "score": 10,
+    "reasons": [
+      "Other match"
+    ]
+  },
+  {
+    "type": "job",
+    "title": "Senior Recruiter",
+    "company": "Tremendous",
+    "location": "LATAM,  Canada,  USA",
+    "location_key": "other",
+    "mode": "See listing",
+    "url": "https://jobicy.com/jobs/164126-senior-recruiter-2",
     "source": "Jobicy",
     "categories": [
       "social"
     ],
-    "posted_at": "2026-11-24T04:40:08+00:00",
-    "salary": "71000–115000 USD / yearly",
+    "posted_at": "2026-11-24T14:39:19+00:00",
+    "salary": "120000–160000 USD / yearly",
     "stipend": "",
     "employment_type": [
       "Full-Time"
@@ -17577,18 +16989,45 @@
   },
   {
     "type": "job",
-    "title": "Senior Manager, Solution Engineering - DocV",
-    "company": "Socure",
+    "title": "DevOps Engineer",
+    "company": "Oddball",
     "location": "USA",
     "location_key": "other",
     "mode": "See listing",
-    "url": "https://jobicy.com/jobs/153882-senior-manager-solution-engineering-docv",
+    "url": "https://jobicy.com/jobs/164108-devops-engineer-8",
     "source": "Jobicy",
     "categories": [
-      "social"
+      "marketing"
     ],
-    "posted_at": "2026-11-24T04:25:34+00:00",
-    "salary": "220000–250000 USD / yearly",
+    "posted_at": "2026-11-24T12:58:50+00:00",
+    "salary": "110000–145000 USD / yearly",
+    "stipend": "",
+    "employment_type": [
+      "Full-Time"
+    ],
+    "applicants": null,
+    "industry": "",
+    "function": "",
+    "experience": "unknown",
+    "score": 10,
+    "reasons": [
+      "Marketing match"
+    ]
+  },
+  {
+    "type": "job",
+    "title": "VIP Account Manager, Michigan (Casino)",
+    "company": "FanDuel",
+    "location": "USA",
+    "location_key": "other",
+    "mode": "See listing",
+    "url": "https://jobicy.com/jobs/164104-vip-account-manager-michigan-casino",
+    "source": "Jobicy",
+    "categories": [
+      "marketing"
+    ],
+    "posted_at": "2026-11-24T12:58:23+00:00",
+    "salary": "79000–99000 USD / yearly",
     "stipend": "",
     "employment_type": [
       "Full-Time"
@@ -17599,23 +17038,77 @@
     "experience": "mid",
     "score": 10,
     "reasons": [
-      "Social match"
+      "Marketing match"
     ]
   },
   {
     "type": "job",
-    "title": "Fullstack Engineer",
-    "company": "Dispatch",
+    "title": "Data Engineer",
+    "company": "Oddball",
     "location": "USA",
     "location_key": "other",
     "mode": "See listing",
-    "url": "https://jobicy.com/jobs/151365-fullstack-engineer-2",
+    "url": "https://jobicy.com/jobs/164102-data-engineer-7",
+    "source": "Jobicy",
+    "categories": [
+      "marketing"
+    ],
+    "posted_at": "2026-11-24T12:58:19+00:00",
+    "salary": "100000–130000 USD / yearly",
+    "stipend": "",
+    "employment_type": [
+      "Full-Time"
+    ],
+    "applicants": null,
+    "industry": "",
+    "function": "",
+    "experience": "unknown",
+    "score": 10,
+    "reasons": [
+      "Marketing match"
+    ]
+  },
+  {
+    "type": "job",
+    "title": "Inside Sales",
+    "company": "HomeLight",
+    "location": "Mexico",
+    "location_key": "other",
+    "mode": "See listing",
+    "url": "https://jobicy.com/jobs/164088-inside-sales",
+    "source": "Jobicy",
+    "categories": [
+      "sales"
+    ],
+    "posted_at": "2026-11-24T11:49:33+00:00",
+    "salary": "",
+    "stipend": "",
+    "employment_type": [
+      "Full-Time"
+    ],
+    "applicants": null,
+    "industry": "",
+    "function": "",
+    "experience": "mid",
+    "score": 10,
+    "reasons": [
+      "Sales match"
+    ]
+  },
+  {
+    "type": "job",
+    "title": "Product Engineer",
+    "company": "GovSignals",
+    "location": "USA",
+    "location_key": "other",
+    "mode": "See listing",
+    "url": "https://jobicy.com/jobs/164080-product-engineer-3",
     "source": "Jobicy",
     "categories": [
       "design"
     ],
-    "posted_at": "2026-11-24T04:20:10+00:00",
-    "salary": "",
+    "posted_at": "2026-11-24T11:46:17+00:00",
+    "salary": "160000–230000 USD / yearly",
     "stipend": "",
     "employment_type": [
       "Full-Time"
